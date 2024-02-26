@@ -53,4 +53,12 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 ⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. It uses only the accelerometer sensor to achieve the goal.
 
 
+## List of apps supporting Stilly service
+
+(as of 2024-02-26)
+
+- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens while the tracking is off; While the tracking is on, the app has it's own steady implementation.
+
+
+
 More soon...
