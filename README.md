@@ -1,4 +1,4 @@
-# ⛵ Stilly screen stabilizer service for Android and Wear 🏝️
+# ⛵ [Stilly](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) screen stabilizer service for Android and Wear 🏝️
 
 ### Make on-screen reading easier by softening small movements of mobile screens.
 
