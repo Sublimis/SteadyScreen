@@ -57,7 +57,7 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 
 (as of 2024-02-26)
 
-- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens while the tracking is off; While the tracking is on, the app has it's own steady implementation.
+- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens while the tracking is off; While the tracking is on, the app uses its own screen stabilization implementation.
 
 
 
