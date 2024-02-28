@@ -55,10 +55,8 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 
 ## List of apps supporting Stilly service
 
-(as of 2024-02-26)
+(as of 2024-02-28)
 
-- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens while the tracking is off; While the tracking is on, the app uses its own screen stabilization implementation.
+- [Our developer build of Wikipedia](https://github.com/Sublimis/apps-android-wikipedia): Compile your own APK, or use our [precompiled APKs](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android) (compiled from source on 2024-02-28).
 
-
-
-More soon...
+- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
