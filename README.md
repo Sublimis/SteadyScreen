@@ -14,6 +14,7 @@ Ever been in a moving vehicle trying to read?
 
 - The easiest way is to use the [SteadyViews](https://github.com/Sublimis/SteadyViews) library, which contains ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
 - Use the [SteadyView](https://github.com/Sublimis/SteadyView) library if you have a custom View or ViewGroup that you want to make compatible.
+- Use the [SteadyService](https://github.com/Sublimis/SteadyService) library if you want to implement your own screen stabilizer service that won't need [Stilly](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) to be installed.
 
 
 ## What happens if the service is not installed
@@ -53,10 +54,23 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 ⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. It uses only the accelerometer sensor to achieve the goal.
 
 
+## History
+
+The technology behind the Stilly first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to realize it was cool enough to release it as a separate semi-open source project.
+
+
+## Project components
+
+- [Stilly app](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen): The engine behind the scenes.
+- [SteadyService library](https://github.com/Sublimis/SteadyService): If you want to implement your own screen stabilizer service that won't need Stilly.
+- [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
+- [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
+
+
 ## List of apps supporting Stilly service
 
-(as of 2024-02-28)
+(as of 2024-03)
 
-- [Our developer build of Wikipedia](https://github.com/Sublimis/apps-android-wikipedia): Compile your own APK, or use our [precompiled APKs](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android) (compiled from source on 2024-02-28).
+- [Our developer build of Wikipedia](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): Compiled from [the source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-02-28. You are welcome to compile your own APK.
 
-- [UrbanBiker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
+- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
