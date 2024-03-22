@@ -71,6 +71,6 @@ The technology behind the Stilly first appeared in our [Urban Biker](https://urb
 
 (as of 2024-03)
 
-- [Our developer build of Wikipedia](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): Compiled from [the source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-02-28. You are welcome to compile your own APK.
+- [Our developer build of Wikipedia](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): Compiled from [the source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
 
 - [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
