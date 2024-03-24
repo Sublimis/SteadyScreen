@@ -18,6 +18,7 @@ Ever been in a moving vehicle trying to read?
 
 - [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
 
+*Let us know if you've made an app that should be included in the list!*
 
 ## How to make your application compatible
 
