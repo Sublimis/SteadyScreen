@@ -10,6 +10,15 @@ Ever been in a moving vehicle trying to read?
 - It can improve screen readability and possibly alleviate motion sickness while on the go, e.g. while reading in a moving vehicle or walking.
 
 
+## List of apps supporting Stilly service
+
+(as of 2024-03)
+
+- [Wikipedia (developer build)](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): We compiled this from [the original source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
+
+- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
+
+
 ## How to make your application compatible
 
 - The easiest way is to use the [SteadyViews](https://github.com/Sublimis/SteadyViews) library, which contains ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
@@ -65,12 +74,3 @@ The technology behind the Stilly first appeared in our [Urban Biker](https://urb
 - [SteadyService library](https://github.com/Sublimis/SteadyService): If you want to implement your own screen stabilizer service that won't need Stilly.
 - [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
 - [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
-
-
-## List of apps supporting Stilly service
-
-(as of 2024-03)
-
-- [Our developer build of Wikipedia](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): Compiled from [the source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
-
-- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
