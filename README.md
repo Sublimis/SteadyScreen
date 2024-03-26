@@ -75,3 +75,16 @@ The technology behind the Stilly first appeared in our [Urban Biker](https://urb
 - [SteadyService library](https://github.com/Sublimis/SteadyService): If you want to implement your own screen stabilizer service that won't need Stilly.
 - [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
 - [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
+
+
+##  :mortar_board: Translations
+
+ - #### Contribute
+
+[https://translate.urban-bike-computer.com/engage/stilly/](https://translate.urban-bike-computer.com/engage/stilly/)
+
+
+ - #### More info
+
+[https://urban-bike-computer.com/translate/](https://urban-bike-computer.com/translate/)
+
