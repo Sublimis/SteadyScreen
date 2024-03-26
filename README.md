@@ -79,12 +79,19 @@ The technology behind the Stilly first appeared in our [Urban Biker](https://urb
 
 ##  :mortar_board: Translations
 
- - #### Contribute
+#### Contribute
 
 [https://translate.urban-bike-computer.com/engage/stilly/](https://translate.urban-bike-computer.com/engage/stilly/)
 
 
- - #### More info
+#### Why translate?
+
+To see the app in your native language, and to support the project!
+
+Also, translators are rewarded with free app licenses. Please contact us via email to obtain your license!
+
+
+#### More info
 
 [https://urban-bike-computer.com/translate/](https://urban-bike-computer.com/translate/)
 
