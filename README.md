@@ -64,19 +64,6 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 ⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. It uses only the accelerometer sensor to achieve the goal.
 
 
-## History
-
-The technology behind the Stilly first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to realize it was cool enough to release it as a separate semi-open source project.
-
-
-## Project components
-
-- [Stilly app](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen): The engine behind the scenes.
-- [SteadyService library](https://github.com/Sublimis/SteadyService): If you want to implement your own screen stabilizer service that won't need Stilly.
-- [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
-- [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
-
-
 ##  :mortar_board: Translations
 
 #### Contribute
@@ -88,10 +75,23 @@ The technology behind the Stilly first appeared in our [Urban Biker](https://urb
 
 To see the app in your native language, and to support the project!
 
-Also, translators are rewarded with free app licenses. Please contact us via email to obtain your license!
+Also, translators are rewarded with free app licenses. Please [contact us via email](mailto:contact@urban-bike-computer.com?subject=Stilly_translation_license_request) to obtain your license!
 
 
 #### More info
 
 [https://urban-bike-computer.com/translate/](https://urban-bike-computer.com/translate/)
 
+
+
+## History
+
+The technology behind the Stilly first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to realize it was cool enough to release it as a separate semi-open source project.
+
+
+## Project components
+
+- [Stilly app](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen): The engine behind the scenes.
+- [SteadyService library](https://github.com/Sublimis/SteadyService): If you want to implement your own screen stabilizer service that won't need Stilly.
+- [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
+- [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
