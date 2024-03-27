@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ця послуга дозволяє сумісним програмам легко протидіяти невеликим рухам пристрою в інтерфейсі користувача.
+\n
+\n🏝️ Це може покращити читабельність екрана та, можливо, полегшити заколисування під час руху, напр. під час читання в транспортному засобі, що рухається.
+\n
+\n⚡ Додаток було розроблено дуже ретельно, щоб мінімізувати використання ресурсів і максимально підвищити продуктивність.
+\n
+\nСподіваюся, вам сподобається 😊</string>
+    <string name="dialogReviewNudgeMessage">Вам подобається цей додаток\?</string>
+    <string name="dialogReviewNudgeMessage2">Дякуємо! Будь ласка, напишіть хороший відгук та поставте нам 5 зірочок у Play Store.</string>
+    <string name="paramLinearScalingInfo">Це лінійно масштабує рухи, збільшуючи або зменшуючи їх, не впливаючи на обчислення.</string>
+    <string name="licenseItemAlreadyOwned">Придбані ліцензії</string>
+    <string name="dialogInfoMessage">Трохи струсіть пристрій. Зверніть увагу, як фоновий вміст пом’якшує ці рухи, полегшуючи читання на екрані. (Щоб це сталося, послугу потрібно ввімкнути в налаштуваннях доступності.)
+\n
+\nЦю функцію можна легко реалізувати в будь-якій програмі. Дотримуйтесь інструкцій на GitHub.</string>
+    <string name="paramForceScaling">Силове масштабування</string>
+    <string name="paramLinearScaling">Лінійне масштабування</string>
+    <string name="dialogConsentButton">прийняти</string>
+    <string name="no">Немає</string>
+    <string name="licenseSuccessDialogMessage">Ліцензію успішно активовано. Дякуємо за підтримку!</string>
+    <string name="menuSettings">Налаштування доступності</string>
+    <string name="menuAbout">про</string>
+    <string name="paramForceScalingInfo">Це масштабує сили перед обчисленнями, що, у свою чергу, впливає на загальну величину рухів.</string>
+    <string name="menuLicense">Оновлення ліцензії</string>
+    <string name="openSourceLicensesTitle">Вільні ліцензії</string>
+    <string name="dialogConsentMessage">Цій програмі потрібен AccessibilityService API для отримання інтерактивних вікон на екрані та пошуку сумісних.
+\n
+\nПотім служба надсилає кілька дій доступності «переміщення вікна» до таких вікон, якщо це необхідно, для виконання призначеної функції.</string>
+    <string name="menuDecreaseTextSize">Зменшити розмір тексту</string>
+    <string name="aboutScreenTranslationsTitle">Переклади</string>
+    <string name="menuRateAndComment">Оцініть нас</string>
+    <string name="yes">Так</string>
+    <string name="paramRecoil">Віддача</string>
+    <string name="paramSensorRate">Швидкість датчика</string>
+    <string name="paramDampingInfo">Збільшення цього сповільнить і послабить рухи, зробивши їх менш чутливими до більших сил.</string>
+    <string name="ok">в порядку</string>
+    <string name="menuSendDebugFeedback">Повідомити про проблему</string>
+    <string name="ratePerSecond">%1$s Гц</string>
+    <string name="ultimateLicenseLabel">Найкраща</string>
+    <string name="dialogRestoreDefaultsMessage">Відновити налаштування до значень за замовчуванням\?</string>
+    <string name="paramDamping">Демпфування</string>
+    <string name="serviceInactiveText">Службу вимкнено, натисніть тут, щоб увімкнути.</string>
+    <string name="aboutScreenTranslationsText">Допоможіть із перекладом та отримайте ліцензію безкоштовно! Більше інформації:</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ultimateLicenseTitle">Ліцензія Найкраща</string>
+    <string name="measuredSensorRate">Виміряна швидкість датчика</string>
+    <string name="menuTheme">Тема</string>
+    <string name="measuredSensorRateInfo">Поточна швидкість датчика, виміряна програмою. Це може відрізнятися від бажаної швидкості датчика, оскільки система остаточно вирішує, яку швидкість надати.</string>
+    <string name="aboutScreenGithubLink">Все ще на GitHub</string>
+    <string name="aboutScreenLicenseTitle">Ліцензія програми</string>
+    <string name="aboutScreenLicenseText">Ця програма безкоштовна і працює без обмежень. Однак через 1 годину без ліцензії параметри повернуться до значень за замовчуванням.</string>
+    <string name="dialogInfoButton">Перейдіть на GitHub</string>
+    <string name="generalError">Сталася невідома помилка. Спробуйте ще раз.</string>
+    <string name="paramRecoilInfo">Збільшення цього зменшить чутливість до малих коливань і зробить рухи менш чутливими до більших сил.</string>
+    <string name="dialogConsentTitle">Згода</string>
+    <string name="menuRestoreDefaults">Відновити значення за замовчуванням</string>
+    <string name="dialogButtonRateOnPlayStore">Оцінити на Play Store</string>
+    <string name="paramSensorRateInfo">Це встановлює бажану швидкість датчика. Вищі значення можуть споживати більше заряду батареї. Це може відрізнятися від виміряної швидкості датчика, оскільки система остаточно вирішує, яку швидкість надати.</string>
+    <string name="menuIncreaseTextSize">Збільшити розмір тексту</string>
+    <string name="menuInfo">Інформація</string>
+    <string name="accServiceDesc">⛵ Ця послуга дозволяє сумісним програмам легко протидіяти невеликим рухам пристрою в інтерфейсі користувача.
+\n
+\n🏝️ Це може покращити читабельність екрана та, можливо, полегшити заколисування під час руху, напр. під час читання в транспортному засобі, що рухається.
+\n
+\n🛡️ Додатку потрібен ваш дозвіл, щоб знати, яке вікно видно на екрані. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
+\n
+\nℹ️ Знайдіть більше інформації, деталі реалізації та приклади на:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
