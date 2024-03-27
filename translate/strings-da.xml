@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Denne service giver kompatible applikationer mulighed for nemt at modvirke små enhedsbevægelser i deres brugergrænseflade.
+\n
+\n🏝️ Dette kan forbedre skærmlæsbarheden og muligvis lindre køresyge, mens du er på farten, f.eks. mens du læser i et køretøj i bevægelse.
+\n
+\n⚡ Applikationen er lavet meget omhyggeligt for at minimere ressourceforbrug og maksimere ydeevnen.
+\n
+\nHåber du nyder det 😊</string>
+    <string name="dialogReviewNudgeMessage">Nyder du denne app\?</string>
+    <string name="dialogReviewNudgeMessage2">Tak! Skriv en god anmeldelse, eller bedøm os med 5 stjerner i Play Butik.</string>
+    <string name="paramLinearScalingInfo">Dette skalerer bevægelserne lineært, hvilket gør dem større eller mindre uden at påvirke beregningerne.</string>
+    <string name="licenseItemAlreadyOwned">Licens emne allerede ejet</string>
+    <string name="dialogInfoMessage">Ryst enheden lidt. Læg mærke til, hvordan baggrundsindholdet blødgør disse bevægelser, hvilket gør det nemmere at læse på skærmen. (Stilly-tjenesten skal være aktiveret i tilgængelighedsindstillingerne, for at dette kan ske.)
+\n
+\nDenne funktionalitet kan nemt implementeres i enhver applikation. Følg venligst instruktionerne på GitHub.</string>
+    <string name="paramForceScaling">Tving skalering</string>
+    <string name="paramLinearScaling">Lineær skalering</string>
+    <string name="dialogConsentButton">Acceptere</string>
+    <string name="no">Ingen</string>
+    <string name="licenseSuccessDialogMessage">Licensen blev aktiveret med succes. Tak for din støtte!</string>
+    <string name="menuSettings">Indstillinger for tilgængelighed</string>
+    <string name="menuAbout">Om</string>
+    <string name="paramForceScalingInfo">Dette skalerer kræfterne før beregninger, hvilket igen påvirker den samlede størrelse af bevægelser.</string>
+    <string name="menuLicense">Opgrader din licens</string>
+    <string name="openSourceLicensesTitle">Open source-licenser</string>
+    <string name="dialogConsentMessage">Denne applikation har brug for AccessibilityService API for at hente interaktive vinduer på skærmen for at finde kompatible.
+\n
+\nTjenesten sender derefter flere \"flytt vindue\"-tilgængelighedshandlinger til sådanne vinduer efter behov for at udføre den tilsigtede funktion.</string>
+    <string name="menuDecreaseTextSize">Formindsk tekststørrelsen</string>
+    <string name="aboutScreenTranslationsTitle">Oversættelser</string>
+    <string name="menuRateAndComment">Giv os karaktérer</string>
+    <string name="yes">Ja</string>
+    <string name="paramRecoil">Rekyl</string>
+    <string name="paramSensorRate">Sensorhastighed</string>
+    <string name="paramDampingInfo">At øge dette vil bremse og dæmpe bevægelser, hvilket gør dem mindre følsomme over for større kræfter.</string>
+    <string name="ok">Okay</string>
+    <string name="menuSendDebugFeedback">Rapporter et problem</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultimativ</string>
+    <string name="dialogRestoreDefaultsMessage">Vil du gendanne indstillinger til standardværdier\?</string>
+    <string name="paramDamping">Dæmpning</string>
+    <string name="serviceInactiveText">Tjenesten er deaktiveret, klik her for at aktivere.</string>
+    <string name="aboutScreenTranslationsText">Hjælp med at oversætte denne app og få en gratis licens! Mere info:</string>
+    <string name="cancel">Annullér</string>
+    <string name="ultimateLicenseTitle">Ultimate Licens</string>
+    <string name="measuredSensorRate">Målt sensorhastighed</string>
+    <string name="menuTheme">Tema</string>
+    <string name="measuredSensorRateInfo">Aktuel sensorhastighed målt af appen. Dette kan afvige fra den ønskede sensorhastighed, da systemet i sidste ende beslutter, hvilken rate der skal leveres.</string>
+    <string name="aboutScreenGithubLink">Stilly på GitHub</string>
+    <string name="aboutScreenLicenseTitle">App-licens</string>
+    <string name="aboutScreenLicenseText">Denne applikation er gratis og fungerer uden begrænsninger. Parametrene vil dog vende tilbage til deres standardværdier efter 1 time uden licens.</string>
+    <string name="dialogInfoButton">Gå til GitHub</string>
+    <string name="generalError">Der opstod en fejl. Prøv igen.</string>
+    <string name="paramRecoilInfo">At øge dette vil reducere følsomheden over for små svingninger og gøre bevægelser mindre følsomme over for større kræfter.</string>
+    <string name="dialogConsentTitle">Samtykke</string>
+    <string name="menuRestoreDefaults">Gendanne standardindstillingerne</string>
+    <string name="dialogButtonRateOnPlayStore">Bedøm i Play Butik</string>
+    <string name="paramSensorRateInfo">Dette indstiller den ønskede sensorhastighed. Højere værdier kan bruge mere batteri. Dette kan afvige fra den målte sensorhastighed, da systemet i sidste ende beslutter, hvilken hastighed der skal leveres.</string>
+    <string name="menuIncreaseTextSize">Forøg tekststørrelsen</string>
+    <string name="menuInfo">Information</string>
+    <string name="accServiceDesc">⛵ Denne service giver kompatible applikationer mulighed for nemt at modvirke små enhedsbevægelser i deres brugergrænseflade.
+\n
+\n🏝️ Dette kan forbedre skærmlæsbarheden og muligvis lindre køresyge, mens du er på farten, f.eks. mens du læser i et køretøj i bevægelse.
+\n
+\n🛡️ Appen skal have din tilladelse for at vide, hvilket vindue der er synligt på skærmen. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝗝.
+\n
+\nℹ️ Find mere info, implementeringsdetaljer og eksempler på:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚝</string>
+</resources>
