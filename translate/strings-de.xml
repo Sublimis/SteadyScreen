@@ -1,4 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="aboutScreenTranslationsTitle">Übersetzungen</string>
+    <string name="appDesc">⛵ Dieser Dienst ermöglicht es kompatiblen Anwendungen, kleinen Gerätebewegungen innerhalb ihrer Benutzeroberfläche problemlos entgegenzuwirken.
+\n
+\n🏝️ Dies kann die Lesbarkeit des Bildschirms verbessern und möglicherweise die Reisekrankheit unterwegs lindern, z. B. beim Lesen in einem fahrenden Fahrzeug.
+\n
+\n⚡ Die Anwendung wurde sehr sorgfältig entwickelt, um den Ressourcenverbrauch zu minimieren und die Leistung zu maximieren.
+\n
+\nIch hoffe es gefällt euch 😊</string>
+    <string name="dialogReviewNudgeMessage">Gefällt Ihnen diese App\?</string>
+    <string name="dialogReviewNudgeMessage2">Danke! Schreibe doch noch eine Rezension oder bewerte uns im Play Store.</string>
+    <string name="paramLinearScalingInfo">Dadurch werden die Bewegungen linear skaliert, sodass sie größer oder kleiner werden, ohne die Berechnungen zu beeinflussen.</string>
+    <string name="licenseItemAlreadyOwned">Lizenz bereits erworben</string>
+    <string name="dialogInfoMessage">Schütteln Sie das Gerät ein wenig. Beachten Sie, wie der Hintergrundinhalt diese Bewegungen abschwächt und so das Lesen auf dem Bildschirm erleichtert. (Dazu muss der Stillly-Dienst in den Eingabehilfeneinstellungen aktiviert sein.)
+\n
+\nDiese Funktionalität kann problemlos in jede Anwendung implementiert werden. Bitte folgen Sie den Anweisungen auf GitHub.</string>
+    <string name="paramForceScaling">Skalierung erzwingen</string>
+    <string name="paramLinearScaling">Lineare Skalierung</string>
+    <string name="dialogConsentButton">Akzeptieren</string>
+    <string name="no">NEIN</string>
+    <string name="licenseSuccessDialogMessage">Die App wurde erfolgreich lizenziert. Danke für deine Unterstützung!</string>
+    <string name="menuSettings">Barrierefreiheitseinstellungen</string>
+    <string name="menuAbout">Um</string>
+    <string name="paramForceScalingInfo">Dadurch werden die Kräfte vor den Berechnungen skaliert, was wiederum Auswirkungen auf die Gesamtgröße der Bewegungen hat.</string>
+    <string name="menuLicense">Lizenz aufwerten</string>
+    <string name="openSourceLicensesTitle">Open Source-Lizenzen</string>
+    <string name="dialogConsentMessage">Diese Anwendung benötigt die AccessibilityService-API, um interaktive Fenster auf dem Bildschirm abzurufen und kompatible Fenster zu finden.
+\n
+\nDer Dienst sendet dann nach Bedarf mehrere Zugänglichkeitsaktionen „Fenster verschieben“ an solche Fenster, um die beabsichtigte Funktion auszuführen.</string>
+    <string name="menuDecreaseTextSize">Textgröße verringern</string>
+    <string name="menuRateAndComment">Bewerte uns</string>
+    <string name="yes">Ja</string>
+    <string name="paramRecoil">Rückstoß</string>
+    <string name="paramSensorRate">Sensorrate</string>
+    <string name="paramDampingInfo">Durch Erhöhen dieses Werts werden Bewegungen verlangsamt und abgeschwächt, sodass sie weniger empfindlich auf größere Kräfte reagieren.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Problem melden</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultimate</string>
+    <string name="dialogRestoreDefaultsMessage">Einstellungen auf Standardwerte zurücksetzen\?</string>
+    <string name="paramDamping">Dämpfung</string>
+    <string name="serviceInactiveText">Der Dienst ist deaktiviert. Klicken Sie hier, um ihn zu aktivieren.</string>
+    <string name="aboutScreenTranslationsText">Hilf mit, diese App zu über setzen und erhalte dafür eine kostenlose Lizenz! Weitere Informationen:</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ultimateLicenseTitle">Ultimate License</string>
+    <string name="measuredSensorRate">Gemessene Sensorrate</string>
+    <string name="menuTheme">Thema</string>
+    <string name="measuredSensorRateInfo">Aktuelle Sensorrate, wie von der App gemessen. Diese kann von der gewünschten Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt werden soll.</string>
+    <string name="aboutScreenGithubLink">Immer noch auf GitHub</string>
+    <string name="aboutScreenLicenseTitle">App-Lizenz</string>
+    <string name="aboutScreenLicenseText">Diese Anwendung ist kostenlos und funktioniert ohne Einschränkungen. Allerdings kehren die Parameter nach einer Stunde ohne Lizenz auf ihre Standardwerte zurück.</string>
+    <string name="dialogInfoButton">Gehen Sie zu GitHub</string>
+    <string name="generalError">Ein Fehler ist aufgetreten. Bitte noch einmal versuchen.</string>
+    <string name="paramRecoilInfo">Durch Erhöhen wird die Empfindlichkeit gegenüber kleinen Schwingungen verringert und Bewegungen werden weniger empfindlich gegenüber größeren Kräften.</string>
+    <string name="dialogConsentTitle">Zustimmung</string>
+    <string name="menuRestoreDefaults">Standardeinstellungen wiederherstellen</string>
+    <string name="dialogButtonRateOnPlayStore">Bewertung im Play Store</string>
+    <string name="paramSensorRateInfo">Dadurch wird die gewünschte Sensorrate eingestellt. Höhere Werte verbrauchen möglicherweise mehr Batterie. Diese kann von der gemessenen Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt werden soll.</string>
+    <string name="menuIncreaseTextSize">Textgröße erhöhen</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Dieser Dienst ermöglicht es kompatiblen Anwendungen, kleinen Gerätebewegungen innerhalb ihrer Benutzeroberfläche problemlos entgegenzuwirken.
+\n
+\n🏝️ Dies kann die Lesbarkeit des Bildschirms verbessern und möglicherweise die Reisekrankheit unterwegs lindern, z. B. beim Lesen in einem fahrenden Fahrzeug.
+\n
+\n🛡️ Die App benötigt Ihre Erlaubnis, um zu wissen, welches Fenster auf dem Bildschirm sichtbar ist. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
+\n
+\nℹ️ Weitere Informationen, Implementierungsdetails und Beispiele finden Sie unter:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
 </resources>
