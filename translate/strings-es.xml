@@ -8,7 +8,7 @@
 \n
 \nEspero que lo disfrutes 😊</string>
     <string name="dialogReviewNudgeMessage">¿Estás disfrutando de esta aplicación\?</string>
-    <string name="dialogReviewNudgeMessage2">"¡Gracias!  Por favor escriba una buena reseña o califíquenos con 5 estrellas en Play Store."</string>
+    <string name="dialogReviewNudgeMessage2">¡Gracias! Por favor escriba una buena reseña o califíquenos con 5 estrellas en Play Store.</string>
     <string name="paramLinearScalingInfo">Esto escala los movimientos linealmente, haciéndolos más grandes o más pequeños sin afectar los cálculos.</string>
     <string name="licenseItemAlreadyOwned">En posesión de una licencia</string>
     <string name="dialogInfoMessage">Agite un poco el dispositivo. Observe cómo el contenido de fondo suaviza estos movimientos, facilitando la lectura en pantalla. (El servicio Stilly debe estar habilitado en la configuración de Accesibilidad para que esto suceda).
