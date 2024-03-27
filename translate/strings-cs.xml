@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Tato služba umožňuje kompatibilním aplikacím snadno čelit malým pohybům zařízení v rámci jejich uživatelského rozhraní.
+\n
+\n🏝️ To může zlepšit čitelnost obrazovky a případně zmírnit kinetózu na cestách, např. při čtení v jedoucím vozidle.
+\n
+\n⚡ Aplikace byla vytvořena velmi pečlivě, aby se minimalizovalo využití zdrojů a maximalizoval výkon.
+\n
+\nSnad si to užijete 😊</string>
+    <string name="dialogReviewNudgeMessage">Baví vás tato aplikace\?</string>
+    <string name="dialogReviewNudgeMessage2">Děkujeme! Napište pochvalnou recenzi nebo nás ohodnoťte pěti hvězdami na Obchodu Play.</string>
+    <string name="paramLinearScalingInfo">Tím se pohyby lineárně upravují, takže jsou větší nebo menší, aniž by to ovlivnilo výpočty.</string>
+    <string name="licenseItemAlreadyOwned">Položku licence již vlastníte</string>
+    <string name="dialogInfoMessage">Zařízením trochu zatřeste. Všimněte si, jak obsah na pozadí tyto pohyby změkčuje, což usnadňuje čtení na obrazovce. (Aby se tak stalo, musí být služba povolena v nastavení usnadnění.)
+\n
+\nTuto funkcionalitu lze snadno implementovat v jakékoli aplikaci. Postupujte podle pokynů na GitHubu.</string>
+    <string name="paramForceScaling">Vynucené škálování</string>
+    <string name="paramLinearScaling">Lineární škálování</string>
+    <string name="dialogConsentButton">Akceptovat</string>
+    <string name="no">Ne</string>
+    <string name="licenseSuccessDialogMessage">Aplikace zakoupena. Děkujeme Vám za podporu!</string>
+    <string name="menuSettings">Nastavení usnadnění</string>
+    <string name="menuAbout">O</string>
+    <string name="paramForceScalingInfo">Toto měří síly před výpočty, což zase ovlivňuje celkovou velikost pohybů.</string>
+    <string name="menuLicense">Upgradujte svou licenci</string>
+    <string name="openSourceLicensesTitle">Licence Open source</string>
+    <string name="dialogConsentMessage">Tato aplikace potřebuje API AccessibilityService k načítání interaktivních oken na obrazovce, aby mohla najít kompatibilní.
+\n
+\nSlužba pak takovým oknům podle potřeby odešle několik akcí přístupnosti „přesunout okno“, aby mohla provést zamýšlenou funkci.</string>
+    <string name="menuDecreaseTextSize">Zmenšit velikost textu</string>
+    <string name="aboutScreenTranslationsTitle">Překlady</string>
+    <string name="menuRateAndComment">Hodnocení</string>
+    <string name="yes">Ano</string>
+    <string name="paramRecoil">Zpětný ráz</string>
+    <string name="paramSensorRate">Rychlost senzoru</string>
+    <string name="paramDampingInfo">Zvýšení této hodnoty zpomalí a utlumí pohyby, takže budou méně citlivé na větší síly.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Nahlásit problém</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultimate</string>
+    <string name="dialogRestoreDefaultsMessage">Obnovit nastavení na výchozí hodnoty\?</string>
+    <string name="paramDamping">Tlumení</string>
+    <string name="serviceInactiveText">Služba je zakázána, kliknutím sem ji povolte.</string>
+    <string name="aboutScreenTranslationsText">Pomozte s překladem této aplikace a získejte licenci zdarma! Více informací:</string>
+    <string name="cancel">Zrušit</string>
+    <string name="ultimateLicenseTitle">Licence Ultimate</string>
+    <string name="measuredSensorRate">Naměřená rychlost senzoru</string>
+    <string name="menuTheme">Téma</string>
+    <string name="measuredSensorRateInfo">Aktuální rychlost senzoru měřená aplikací. Ta se může lišit od požadované rychlosti senzoru, protože systém nakonec rozhodne, kterou rychlost poskytne.</string>
+    <string name="aboutScreenGithubLink">Stilly na GitHubu</string>
+    <string name="aboutScreenLicenseTitle">Licence aplikace</string>
+    <string name="aboutScreenLicenseText">Tato aplikace je zdarma a funguje bez omezení. Po 1 hodině bez licence se však parametry vrátí na výchozí hodnoty.</string>
+    <string name="dialogInfoButton">Přejděte na GitHub</string>
+    <string name="generalError">Došlo k chybě. Zkuste prosím akci opakovat.</string>
+    <string name="paramRecoilInfo">Zvýšením se sníží citlivost na malé oscilace a pohyby budou méně citlivé na větší síly.</string>
+    <string name="dialogConsentTitle">Souhlas</string>
+    <string name="menuRestoreDefaults">Obnovit výchozí nastavení</string>
+    <string name="dialogButtonRateOnPlayStore">Ohodnotit na Obchodu Play</string>
+    <string name="paramSensorRateInfo">Tím se nastaví požadovaná frekvence snímače. Vyšší hodnoty mohou spotřebovat více baterie. Ta se může lišit od naměřené rychlosti senzoru, protože systém nakonec rozhodne, kterou rychlost poskytne.</string>
+    <string name="menuIncreaseTextSize">Zvětšit velikost textu</string>
+    <string name="menuInfo">Informace</string>
+    <string name="accServiceDesc">⛵ Tato služba umožňuje kompatibilním aplikacím snadno čelit malým pohybům zařízení v rámci jejich uživatelského rozhraní.
+\n
+\n🏝️ To může zlepšit čitelnost obrazovky a případně zmírnit kinetózu na cestách, např. při čtení v jedoucím vozidle.
+\n
+\n🛡️ Aplikace potřebuje vaše povolení, aby věděla, které okno je na obrazovce viditelné. ❤
+\n
+\nℹ️ Více informací, podrobnosti o implementaci a příklady najdete na:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚝𝚢</string>
+</resources>
