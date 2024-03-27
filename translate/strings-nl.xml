@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
+\n
+\n🏝️Dit kan de leesbaarheid van het scherm verbeteren en mogelijk bewegingsziekte verlichten terwijl u onderweg bent, bijvoorbeeld als u onderweg bent. tijdens het lezen in een rijdend voertuig.
+\n
+\n⚡ De applicatie is zeer zorgvuldig ontworpen om het gebruik van bronnen te minimaliseren en de prestaties te maximaliseren.
+\n
+\nIk hoop dat je ervan geniet 😊</string>
+    <string name="dialogReviewNudgeMessage">Geniet je van deze app\?</string>
+    <string name="dialogReviewNudgeMessage2">Bedankt! Schrijf een mooie recensie of beoordeel ons met 5 sterren in de Play Store.</string>
+    <string name="paramLinearScalingInfo">Hierdoor worden de bewegingen lineair geschaald, waardoor ze groter of kleiner worden zonder de berekeningen te beïnvloeden.</string>
+    <string name="licenseItemAlreadyOwned">Licentie-item al in bezit</string>
+    <string name="dialogInfoMessage">Schud het apparaat een beetje. Merk op hoe de achtergrondinhoud deze bewegingen verzacht, waardoor lezen op het scherm gemakkelijker wordt. (Hiervoor moet de Stilly-service zijn ingeschakeld in de Toegankelijkheidsinstellingen.)
+\n
+\nDeze functionaliteit kan eenvoudig in elke applicatie worden geïmplementeerd. Volg de instructies op GitHub.</string>
+    <string name="paramForceScaling">Forceer schaalvergroting</string>
+    <string name="paramLinearScaling">Lineaire schaling</string>
+    <string name="dialogConsentButton">Aanvaarden</string>
+    <string name="no">Nee</string>
+    <string name="licenseSuccessDialogMessage">De app is succesvol geactiveerd, Bedankt voor het ondersteunen van de app!</string>
+    <string name="menuSettings">Toegankelijkheidsinstellingen</string>
+    <string name="menuAbout">Over</string>
+    <string name="paramForceScalingInfo">Hierdoor worden de krachten vóór de berekeningen geschaald, wat op zijn beurt de totale omvang van de bewegingen beïnvloedt.</string>
+    <string name="menuLicense">Upgrade uw licentie</string>
+    <string name="openSourceLicensesTitle">Open source-licenties</string>
+    <string name="dialogConsentMessage">Deze applicatie heeft de AccessibilityService API nodig om interactieve vensters op het scherm op te halen, om compatibele vensters te vinden.
+\n
+\nDe service verzendt vervolgens, indien nodig, meerdere toegankelijkheidsacties voor het verplaatsen van vensters naar dergelijke vensters om de beoogde functie uit te voeren.</string>
+    <string name="menuDecreaseTextSize">Verklein de tekstgrootte</string>
+    <string name="aboutScreenTranslationsTitle">Vertalingen</string>
+    <string name="menuRateAndComment">Beoordeel ons</string>
+    <string name="yes">Ja</string>
+    <string name="paramRecoil">Terugslag</string>
+    <string name="paramSensorRate">Sensorsnelheid</string>
+    <string name="paramDampingInfo">Als u dit vergroot, worden bewegingen vertraagd en verzwakt, waardoor ze minder gevoelig worden voor grotere krachten.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Een probleem melden</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultiem</string>
+    <string name="dialogRestoreDefaultsMessage">Instellingen terugzetten naar standaardwaarden\?</string>
+    <string name="paramDamping">Demping</string>
+    <string name="serviceInactiveText">Service is uitgeschakeld, klik hier om in te schakelen.</string>
+    <string name="aboutScreenTranslationsText">Help deze app te vertalen en ontvang een gratis licentie! Meer informatie:</string>
+    <string name="cancel">Annuleer</string>
+    <string name="ultimateLicenseTitle">Ultimate Licentie</string>
+    <string name="measuredSensorRate">Gemeten sensorsnelheid</string>
+    <string name="menuTheme">Thema</string>
+    <string name="measuredSensorRateInfo">Huidige sensorsnelheid zoals gemeten door de app. Dit kan afwijken van de gewenste sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
+    <string name="aboutScreenGithubLink">Stilly op GitHub</string>
+    <string name="aboutScreenLicenseTitle">App-licentie</string>
+    <string name="aboutScreenLicenseText">Deze applicatie is gratis en werkt zonder beperkingen. De parameters keren echter na 1 uur zonder licentie terug naar hun standaardwaarden.</string>
+    <string name="dialogInfoButton">Ga naar GitHub</string>
+    <string name="generalError">Onbekende foutmelding. Probeer opnieuw.</string>
+    <string name="paramRecoilInfo">Als u dit vergroot, wordt de gevoeligheid voor kleine trillingen verminderd en worden bewegingen minder gevoelig voor grotere krachten.</string>
+    <string name="dialogConsentTitle">Toestemming</string>
+    <string name="menuRestoreDefaults">Standaardwaarden herstellen</string>
+    <string name="dialogButtonRateOnPlayStore">Beoordeel in Play Store</string>
+    <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
+    <string name="menuIncreaseTextSize">Vergroot de tekstgrootte</string>
+    <string name="menuInfo">Informatie</string>
+    <string name="accServiceDesc">⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
+\n
+\n🏝️Dit kan de leesbaarheid van het scherm verbeteren en mogelijk bewegingsziekte verlichten terwijl u onderweg bent, bijvoorbeeld als u onderweg bent. tijdens het lezen in een rijdend voertuig.
+\n
+\n🛡️ De app heeft jouw toestemming nodig om te weten welk venster zichtbaar is op het scherm. .
+\n
+\nℹ️ Vind meer informatie, implementatiedetails en voorbeelden op:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
