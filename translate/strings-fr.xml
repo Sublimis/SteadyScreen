@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ce service permet aux applications compatibles de contrecarrer facilement les petits mouvements d\'appareils au sein de leur interface utilisateur.
+\n
+\n🏝️ Cela peut améliorer la lisibilité de l\'écran et éventuellement atténuer le mal des transports lors de vos déplacements, par ex. en lisant dans un véhicule en mouvement.
+\n
+\n⚡ L\'application a été conçue très méticuleusement, afin de minimiser l\'utilisation des ressources et de maximiser les performances.
+\n
+\nJ\'espère que vous l\'apprécierez 😊</string>
+    <string name="dialogReviewNudgeMessage">Est-ce que vous appréciez cette application \?</string>
+    <string name="dialogReviewNudgeMessage2">Merci ! Veuillez publier votre expérience positive ou nous donner 5 étoiles sur le Play Store.</string>
+    <string name="paramLinearScalingInfo">Cela redimensionne les mouvements de manière linéaire, les rendant plus grands ou plus petits sans affecter les calculs.</string>
+    <string name="licenseItemAlreadyOwned">Licence déjà possédée</string>
+    <string name="dialogInfoMessage">Secouez un peu l\'appareil. Remarquez comment le contenu d\'arrière-plan adoucit ces mouvements, facilitant ainsi la lecture à l\'écran. (Le service Stilly doit être activé dans les paramètres d\'accessibilité pour que cela se produise.)
+\n
+\nCette fonctionnalité peut être facilement implémentée dans n’importe quelle application. Veuillez suivre les instructions sur GitHub.</string>
+    <string name="paramForceScaling">Mise à l\'échelle des forces</string>
+    <string name="paramLinearScaling">Mise à l\'échelle linéaire</string>
+    <string name="dialogConsentButton">Accepter</string>
+    <string name="no">Non</string>
+    <string name="licenseSuccessDialogMessage">Cette application a été enregistrée avec succès. Merci de votre soutien!</string>
+    <string name="menuSettings">Paramètres d\'accessibilité</string>
+    <string name="menuAbout">À propos</string>
+    <string name="paramForceScalingInfo">Cela met à l\'échelle les forces avant les calculs, ce qui affecte à son tour l\'ampleur globale des mouvements.</string>
+    <string name="menuLicense">Mettre à niveau votre licence</string>
+    <string name="openSourceLicensesTitle">Licences Open source</string>
+    <string name="dialogConsentMessage">Cette application a besoin de l\'API AccessibilityService pour récupérer les fenêtres interactives à l\'écran, afin d\'en trouver celles compatibles.
+\n
+\nLe service envoie ensuite plusieurs actions d\'accessibilité de « déplacement de fenêtre » à ces fenêtres, selon les besoins, pour exécuter la fonction prévue.</string>
+    <string name="menuDecreaseTextSize">Diminuer la taille du texte</string>
+    <string name="aboutScreenTranslationsTitle">Traductions</string>
+    <string name="menuRateAndComment">Évaluez nous</string>
+    <string name="yes">Oui</string>
+    <string name="paramRecoil">Recul</string>
+    <string name="paramSensorRate">Fréquence du capteur</string>
+    <string name="paramDampingInfo">L\'augmenter ralentira et atténuera les mouvements, les rendant moins sensibles à des forces plus importantes.</string>
+    <string name="ok">D\'ACCORD</string>
+    <string name="menuSendDebugFeedback">Signaler un problème</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultime</string>
+    <string name="dialogRestoreDefaultsMessage">Restaurer les paramètres aux valeurs par défaut \?</string>
+    <string name="paramDamping">Amortissement</string>
+    <string name="serviceInactiveText">Le service est désactivé, cliquez ici pour l\'activer.</string>
+    <string name="aboutScreenTranslationsText">Aidez à traduire cette application et obtenez une license gratuite ! Plus d\'info :</string>
+    <string name="cancel">Annuler</string>
+    <string name="ultimateLicenseTitle">Licence Ultimate</string>
+    <string name="measuredSensorRate">Taux de capteur mesuré</string>
+    <string name="menuTheme">Thème</string>
+    <string name="measuredSensorRateInfo">Taux actuel du capteur tel que mesuré par l\'application. Cela peut différer du débit souhaité par le capteur, car le système décide en fin de compte quel débit fournir.</string>
+    <string name="aboutScreenGithubLink">Stilly sur GitHub</string>
+    <string name="aboutScreenLicenseTitle">Licence d\'application</string>
+    <string name="aboutScreenLicenseText">Cette application est gratuite et fonctionne sans limitations. Cependant, les paramètres reviendront à leurs valeurs par défaut après 1 heure sans licence.</string>
+    <string name="dialogInfoButton">Allez sur GitHub</string>
+    <string name="generalError">Une erreur s\'est produite. Veuillez réessayer.</string>
+    <string name="paramRecoilInfo">L\'augmenter réduira la sensibilité aux petites oscillations et rendra les mouvements moins sensibles aux forces plus importantes.</string>
+    <string name="dialogConsentTitle">Consentement</string>
+    <string name="menuRestoreDefaults">Réinitialiser</string>
+    <string name="dialogButtonRateOnPlayStore">Laisser une évaluation sur le Play Store</string>
+    <string name="paramSensorRateInfo">Ceci définit le taux de capteur souhaité. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer du débit mesuré par le capteur, car le système décide finalement quel débit fournir.</string>
+    <string name="menuIncreaseTextSize">Augmenter la taille du texte</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Ce service permet aux applications compatibles de contrecarrer facilement les petits mouvements d\'appareils au sein de leur interface utilisateur.
+\n
+\n🏝️ Cela peut améliorer la lisibilité de l\'écran et éventuellement atténuer le mal des transports lors de vos déplacements, par ex. en lisant dans un véhicule en mouvement.
+\n
+\n🛡️ L\'application a besoin de votre autorisation pour savoir quelle fenêtre est visible à l\'écran. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
+\n
+\nℹ️ Retrouvez plus d\'informations, de détails de mise en œuvre et d\'exemples sur :
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
