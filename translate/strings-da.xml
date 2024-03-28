@@ -59,5 +59,14 @@
     <string name="paramSensorRateInfo">Dette indstiller den ønskede sensorhastighed. Højere værdier kan bruge mere batteri. Dette kan afvige fra den målte sensorhastighed, da systemet i sidste ende beslutter, hvilken hastighed der skal leveres.</string>
     <string name="menuIncreaseTextSize">Forøg tekststørrelsen</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc"></string>
+    <string name="accServiceDesc"/>
+    <string name="accServiceDescrr">⛵ Denne service giver kompatible applikationer mulighed for nemt at modvirke små enhedsbevægelser inden for deres brugergrænseflade.
+\n
+\n🏝️ Dette kan forbedre skærmlæsbarheden og muligvis lindre køresyge, mens du er på farten, f.eks. mens du læser i et køretøj i bevægelse.
+\n
+\n🛡️ Appen skal have din tilladelse for at vide, hvilket vindue der er synligt på skærmen. Den læser ikke vinduets indhold.
+\n
+\nℹ️ Find mere info, implementeringsdetaljer og eksempler på:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
