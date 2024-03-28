@@ -68,4 +68,13 @@
 \nℹ️ Katso lisätietoja, toteutustietoja ja esimerkkejä:
 \n
 \n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝❚</string>
+    <string name="accServiceDescrr">⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
+\n
+\n🏝️ Tämä voi parantaa näytön luettavuutta ja mahdollisesti lievittää matkapahoinvointia liikkeellä ollessa, esim. lukiessaan liikkuvassa ajoneuvossa.
+\n
+\n🛡️ Sovellus tarvitsee luvan tietääkseen, mikä ikkuna näkyy näytöllä. Se ei lue ikkunan sisältöä.
+\n
+\nℹ️ Katso lisätietoja, toteutustietoja ja esimerkkejä:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
