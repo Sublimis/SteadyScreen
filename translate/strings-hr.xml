@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ova usluga omogućuje kompatibilnim aplikacijama da se lako suprotstave malim pomacima uređaja unutar svog korisničkog sučelja.
+\n
+\n🏝️ Ovo može poboljšati čitljivost zaslona i eventualno ublažiti mučninu dok ste u pokretu, npr. tijekom čitanja u vozilu u pokretu.
+\n
+\n⚡ Aplikacija je izrađena vrlo pažljivo, kako bi se smanjila upotreba resursa i maksimizirale performanse.
+\n
+\nNadamo se da ćete uživati 😊</string>
+    <string name="dialogReviewNudgeMessage">Uživate li u ovoj aplikaciji\?</string>
+    <string name="dialogReviewNudgeMessage2">Hvala! Napišite lijepu recenziju ili nas ocijenite s 5 zvjezdica u Trgovini Play.</string>
+    <string name="paramLinearScalingInfo">Ovo skalira pokrete linearno, čineći ih većim ili manjim bez utjecaja na izračune.</string>
+    <string name="licenseItemAlreadyOwned">Stavka licence već je u vlasništvu</string>
+    <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj omekšava ove pokrete, čineći čitanje na zaslonu lakšim. (Usluga ipak mora biti omogućena u postavkama pristupačnosti da bi se to dogodilo.)
+\n
+\nOva se funkcionalnost može jednostavno implementirati u bilo koju aplikaciju. Slijedite upute na GitHubu.</string>
+    <string name="paramForceScaling">Skaliranje sile</string>
+    <string name="paramLinearScaling">Linearno skaliranje</string>
+    <string name="dialogConsentButton">Prihvatiti</string>
+    <string name="no">Ne</string>
+    <string name="licenseSuccessDialogMessage">Aplikacija je uspješno licencirana. Hvala na podršci!</string>
+    <string name="menuSettings">Postavke pristupačnosti</string>
+    <string name="menuAbout">Oko</string>
+    <string name="paramForceScalingInfo">Ovo skalira sile prije izračuna, što zauzvrat utječe na ukupnu veličinu kretanja.</string>
+    <string name="menuLicense">Nadogradite svoju licencu</string>
+    <string name="openSourceLicensesTitle">Licence otvorenog koda</string>
+    <string name="dialogConsentMessage">Ova aplikacija treba AccessibilityService API za dohvaćanje interaktivnih prozora na zaslonu, kako bi pronašla one kompatibilne.
+\n
+\nUsluga zatim šalje višestruke radnje pristupačnosti \"pomicanja prozora\" takvim prozorima, prema potrebi, za izvođenje predviđene funkcije.</string>
+    <string name="menuDecreaseTextSize">Smanji veličinu teksta</string>
+    <string name="aboutScreenTranslationsTitle">Prijevodi</string>
+    <string name="menuRateAndComment">Ocijeni nas</string>
+    <string name="yes">Da</string>
+    <string name="paramRecoil">trzaj</string>
+    <string name="paramSensorRate">Stopa senzora</string>
+    <string name="paramDampingInfo">Povećanje toga će usporiti i ublažiti pokrete, čineći ih manje osjetljivima na veće sile.</string>
+    <string name="ok">u redu</string>
+    <string name="menuSendDebugFeedback">Prijaviti problem</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultimativno</string>
+    <string name="dialogRestoreDefaultsMessage">Vratiti postavke na zadane vrijednosti\?</string>
+    <string name="paramDamping">Prigušivanje</string>
+    <string name="serviceInactiveText">Usluga je onemogućena, kliknite ovdje da biste je omogućili.</string>
+    <string name="aboutScreenTranslationsText">Pomozite prevesti ovu aplikaciju i dobijte besplatnu licencu! Više informacija:</string>
+    <string name="cancel">Otkazati</string>
+    <string name="ultimateLicenseTitle">Konačna licenca</string>
+    <string name="measuredSensorRate">Izmjerena brzina senzora</string>
+    <string name="menuTheme">Tema</string>
+    <string name="measuredSensorRateInfo">Trenutačna brzina senzora prema mjerenju aplikacije. To se može razlikovati od željene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
+    <string name="aboutScreenGithubLink">Još uvijek na GitHubu</string>
+    <string name="aboutScreenLicenseTitle">Licenca aplikacije</string>
+    <string name="aboutScreenLicenseText">Ova aplikacija je besplatna i radi bez ograničenja. Međutim, parametri će se vratiti na zadane vrijednosti nakon 1 sata bez licence.</string>
+    <string name="dialogInfoButton">Idite na GitHub</string>
+    <string name="generalError">Došlo je do neke pogreške. Molim te pokušaj ponovno.</string>
+    <string name="paramRecoilInfo">Povećanjem toga smanjit će se osjetljivost na male oscilacije i učiniti pokrete manje osjetljivima na veće sile.</string>
+    <string name="dialogConsentTitle">Pristanak</string>
+    <string name="menuRestoreDefaults">Vratiti zadane</string>
+    <string name="dialogButtonRateOnPlayStore">Ocijenite u Trgovini Play</string>
+    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene brzine senzora jer sustav na kraju odlučuje koju će stopu dati.</string>
+    <string name="menuIncreaseTextSize">Povećaj veličinu teksta</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Ova usluga omogućuje kompatibilnim aplikacijama da se lako suprotstave malim pomacima uređaja unutar svog korisničkog sučelja.
+\n
+\n🏝️ Ovo može poboljšati čitljivost zaslona i eventualno ublažiti mučninu dok ste u pokretu, npr. tijekom čitanja u vozilu u pokretu.
+\n
+\n🛡️ Aplikacija treba vaše dopuštenje da zna koji je prozor vidljiv na ekranu. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
+\n
+\nℹ️ Pronađite više informacija, pojedinosti o implementaciji i primjere na:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
