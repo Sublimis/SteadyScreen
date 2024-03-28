@@ -68,4 +68,13 @@
 \nℹ️ Viac informácií, podrobnosti o implementácii a príklady nájdete na:
 \n
 \n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚅𝚢</string>
+    <string name="accServiceDescrr">⛵ Táto služba umožňuje kompatibilným aplikáciám jednoducho čeliť malým pohybom zariadenia v rámci ich používateľského rozhrania.
+\n
+\n🏝️ Môže to zlepšiť čitateľnosť obrazovky a možno aj zmierniť kinetózu na cestách, napr. pri čítaní v idúcom vozidle.
+\n
+\n🛡️ Aplikácia potrebuje vaše povolenie, aby vedela, ktoré okno je viditeľné na obrazovke. Nečíta obsah okna.
+\n
+\nℹ️ Viac informácií, podrobnosti o implementácii a príklady nájdete na:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
