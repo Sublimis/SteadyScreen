@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ 该服务允许兼容的应用程序轻松抵消其用户界面内的小型设备移动。
+\n
+\n🏝️ 这可以提高屏幕可读性，并可能减轻旅途中的晕动病，例如在旅途中。在行驶的车辆中阅读时。
+\n
+\n⚡ 该应用程序经过精心设计，以最大限度地减少资源使用并最大限度地提高性能。
+\n
+\n希望你喜欢😊</string>
+    <string name="dialogReviewNudgeMessage">您喜欢这个应用程序吗？</string>
+    <string name="dialogReviewNudgeMessage2">谢谢！请在 Play 商店上写一篇好评或给我们评分 5 星。</string>
+    <string name="paramLinearScalingInfo">这会线性缩放运动，使它们变大或变小，而不影响计算。</string>
+    <string name="licenseItemAlreadyOwned">已拥有的许可项目</string>
+    <string name="dialogInfoMessage">稍微摇晃设备。注意背景内容如何柔化这些动作，使屏幕阅读更容易。（必须在辅助功能设置中启用 Stilly 服务才能实现此功能。）
+\n
+\n此功能可轻松在任何应用程序中实现。请按照 GitHub 上的说明进行操作。</string>
+    <string name="paramForceScaling">强制缩放</string>
+    <string name="paramLinearScaling">线性缩放</string>
+    <string name="dialogConsentButton">接受</string>
+    <string name="no">不</string>
+    <string name="licenseSuccessDialogMessage">该应用程序已成功获得许可。感谢您的支持！</string>
+    <string name="menuSettings">辅助功能设置</string>
+    <string name="menuAbout">关于</string>
+    <string name="paramForceScalingInfo">这会在计算之前缩放力，进而影响运动的整体幅度。</string>
+    <string name="menuLicense">升级您的许可证</string>
+    <string name="openSourceLicensesTitle">开源许可证</string>
+    <string name="dialogConsentMessage">此应用程序需要 AccessibilityService API 来检索屏幕上的交互式窗口，以便找到兼容的窗口。
+\n
+\n然后，该服务根据需要向此类窗口发送多个“移动窗口”可访问性操作，以执行预期功能。</string>
+    <string name="menuDecreaseTextSize">减小文字大小</string>
+    <string name="aboutScreenTranslationsTitle">翻译</string>
+    <string name="menuRateAndComment">评价我们</string>
+    <string name="yes">是的</string>
+    <string name="paramRecoil">畏缩</string>
+    <string name="paramSensorRate">传感器速率</string>
+    <string name="paramDampingInfo">增加这个值会减慢并减弱运动，使它们对更大的力不那么敏感。</string>
+    <string name="ok">好的</string>
+    <string name="menuSendDebugFeedback">报告问题</string>
+    <string name="ratePerSecond">%1$s 赫兹</string>
+    <string name="ultimateLicenseLabel">最终的</string>
+    <string name="dialogRestoreDefaultsMessage">将设置恢复为默认值？</string>
+    <string name="paramDamping">减震</string>
+    <string name="serviceInactiveText">服务已禁用，请单击此处启用。</string>
+    <string name="aboutScreenTranslationsText">帮助翻译这个应用程序并获得免费许可证！更多信息：</string>
+    <string name="cancel">取消</string>
+    <string name="ultimateLicenseTitle">最终许可</string>
+    <string name="measuredSensorRate">测量传感器速率</string>
+    <string name="menuTheme">主题</string>
+    <string name="measuredSensorRateInfo">应用程序测量的当前传感器速率。这可能与所需的传感器速率不同，因为系统最终决定提供哪个速率。</string>
+    <string name="aboutScreenGithubLink">GitHub 上的斯蒂利</string>
+    <string name="aboutScreenLicenseTitle">应用程序许可证</string>
+    <string name="aboutScreenLicenseText">此应用程序免费且无任何限制。但是，如果没有许可证，参数将在 1 小时后恢复为默认值。</string>
+    <string name="dialogInfoButton">前往 GitHub</string>
+    <string name="generalError">发生一些错误。请再试一次。</string>
+    <string name="paramRecoilInfo">增加此值将降低对小振动的敏感度，并使运动对较大力的敏感度降低。</string>
+    <string name="dialogConsentTitle">同意</string>
+    <string name="menuRestoreDefaults">恢复默认值</string>
+    <string name="dialogButtonRateOnPlayStore">在 Play 商店中评分</string>
+    <string name="paramSensorRateInfo">这设置了所需的传感器速率。较高的值可能会消耗更多的电池。这可能与测量的传感器速率不同，因为系统最终决定提供哪个速率。</string>
+    <string name="menuIncreaseTextSize">增加文字大小</string>
+    <string name="menuInfo">信息</string>
+    <string name="accServiceDesc">⛵ 该服务允许兼容的应用程序轻松抵消其用户界面内的小型设备移动。
+\n
+\n🏝️ 这可以提高屏幕可读性，并可能减轻旅途中的晕动病，例如在旅途中。在行驶的车辆中阅读时。
+\n
+\n🛡️ 该应用程序需要您的许可才能知道屏幕上哪个窗口可见。 𝗜𝘁𝗱𝗼𝗲𝘀𝗻𝗼𝘁𝗿𝗲𝗮𝗱𝘄𝗶𝗻𝗱𝗼𝘄𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀。
+\n
+\nℹ️ 查找更多信息、实施细节和示例：
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
