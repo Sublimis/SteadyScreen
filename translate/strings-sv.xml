@@ -68,4 +68,13 @@
 \nℹ️ Hitta mer information, implementeringsdetaljer och exempel på:
 \n
 \n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚝</string>
+    <string name="accServiceDescrr">⛵ Denna tjänst gör det möjligt för kompatibla applikationer att enkelt motverka små enhetsrörelser i deras användargränssnitt.
+\n
+\n🏝️ Detta kan förbättra skärmläsbarheten och eventuellt lindra åksjuka när du är på språng, t.ex. medan du läser i ett fordon i rörelse.
+\n
+\n🛡️ Appen behöver ditt tillstånd för att veta vilket fönster som är synligt på skärmen. Den läser inte fönstrets innehåll.
+\n
+\nℹ️ Hitta mer information, implementeringsdetaljer och exempel på:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
