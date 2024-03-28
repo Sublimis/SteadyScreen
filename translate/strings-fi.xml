@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
+\n
+\n🏝️ Tämä voi parantaa näytön luettavuutta ja mahdollisesti lievittää matkapahoinvointia liikkeellä ollessa, esim. lukiessaan liikkuvassa ajoneuvossa.
+\n
+\n⚡ Sovellus on suunniteltu erittäin huolellisesti resurssien käytön minimoimiseksi ja suorituskyvyn maksimoimiseksi.
+\n
+\nToivottavasti pidät siitä 😊</string>
+    <string name="dialogReviewNudgeMessage">Pidätkö tästä sovelluksesta\?</string>
+    <string name="dialogReviewNudgeMessage2">Kiitos! Kirjoita hyvä arvostelu tai anna meille 5 tähteä Play Kaupassa.</string>
+    <string name="paramLinearScalingInfo">Tämä skaalaa liikkeet lineaarisesti ja tekee niistä suurempia tai pienempiä vaikuttamatta laskelmiin.</string>
+    <string name="licenseItemAlreadyOwned">Lisenssikohde on jo omistettu</string>
+    <string name="dialogInfoMessage">Ravista laitetta hieman. Huomaa, kuinka taustasisältö pehmentää näitä liikkeitä tehden näytöllä lukemisesta helpompaa. (Silly-palvelun on oltava käytössä esteettömyysasetuksissa, jotta tämä tapahtuu.)
+\n
+\nTämä toiminto voidaan helposti toteuttaa missä tahansa sovelluksessa. Noudata GitHubin ohjeita.</string>
+    <string name="paramForceScaling">Voiman skaalaus</string>
+    <string name="paramLinearScaling">Lineaarinen skaalaus</string>
+    <string name="dialogConsentButton">Hyväksyä</string>
+    <string name="no">Ei</string>
+    <string name="licenseSuccessDialogMessage">Sovelluksen lisensointi onnistui. Kiitos tuestasi!</string>
+    <string name="menuSettings">Esteettömyysasetukset</string>
+    <string name="menuAbout">Noin</string>
+    <string name="paramForceScalingInfo">Tämä skaalaa voimat ennen laskelmia, mikä puolestaan vaikuttaa liikkeiden kokonaissuuruuteen.</string>
+    <string name="menuLicense">Päivitä lisenssisi</string>
+    <string name="openSourceLicensesTitle">Avoimen lähdekoodin lisenssit</string>
+    <string name="dialogConsentMessage">Tämä sovellus tarvitsee AccessibilityService API:n hakeakseen interaktiivisia ikkunoita näytöltä löytääkseen yhteensopivia.
+\n
+\nPalvelu lähettää sitten useita \"siirrä ikkunaa\" -käyttötoimintoja tällaisiin ikkunoihin tarpeen mukaan suorittaakseen aiotun toiminnon.</string>
+    <string name="menuDecreaseTextSize">Pienennä tekstin kokoa</string>
+    <string name="aboutScreenTranslationsTitle">Käännökset</string>
+    <string name="menuRateAndComment">Anna meille arvosana</string>
+    <string name="yes">Joo</string>
+    <string name="paramRecoil">Rekyyli</string>
+    <string name="paramSensorRate">Anturin nopeus</string>
+    <string name="paramDampingInfo">Tämän lisääminen hidastaa ja vaimentaa liikkeitä, mikä tekee niistä vähemmän herkkiä suuremmille voimille.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Ilmoita ongelma</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Perimmäinen</string>
+    <string name="dialogRestoreDefaultsMessage">Palautetaanko asetukset oletusarvoihin\?</string>
+    <string name="paramDamping">Vaimennus</string>
+    <string name="serviceInactiveText">Palvelu on poistettu käytöstä, ota käyttöön napsauttamalla tätä.</string>
+    <string name="aboutScreenTranslationsText">Auta kääntämään tämä sovellus ja hanki ilmainen lisenssi! Lisätietoja:</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="ultimateLicenseTitle">Ultimate Lisenssi</string>
+    <string name="measuredSensorRate">Mitattu anturin nopeus</string>
+    <string name="menuTheme">Teema</string>
+    <string name="measuredSensorRateInfo">Senhetkinen anturin nopeus sovelluksen mittaamana. Tämä voi poiketa halutusta anturin nopeudesta, koska järjestelmä päättää lopulta, minkä nopeuden se antaa.</string>
+    <string name="aboutScreenGithubLink">Stilly GitHubissa</string>
+    <string name="aboutScreenLicenseTitle">Sovelluksen lisenssi</string>
+    <string name="aboutScreenLicenseText">Tämä sovellus on ilmainen ja toimii ilman rajoituksia. Parametrit palaavat kuitenkin oletusarvoihinsa tunnin kuluttua ilman lisenssiä.</string>
+    <string name="dialogInfoButton">Siirry GitHubiin</string>
+    <string name="generalError">Tapahtui virhe. Yritä uudelleen.</string>
+    <string name="paramRecoilInfo">Tämän lisääminen vähentää herkkyyttä pienille värähtelyille ja tekee liikkeistä vähemmän herkkiä suuremmille voimille.</string>
+    <string name="dialogConsentTitle">Suostumus</string>
+    <string name="menuRestoreDefaults">Palauttaa oletukset</string>
+    <string name="dialogButtonRateOnPlayStore">Arvioi Play Kaupassa</string>
+    <string name="paramSensorRateInfo">Tämä asettaa halutun anturin nopeuden. Suuremmat arvot voivat kuluttaa enemmän akkua. Tämä voi poiketa mitatusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden se antaa.</string>
+    <string name="menuIncreaseTextSize">Suurenna tekstin kokoa</string>
+    <string name="menuInfo">Tiedot</string>
+    <string name="accServiceDesc">⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
+\n
+\n🏝️ Tämä voi parantaa näytön luettavuutta ja mahdollisesti lievittää matkapahoinvointia liikkeellä ollessa, esim. lukiessaan liikkuvassa ajoneuvossa.
+\n
+\n🛡️ Sovellus tarvitsee luvan tietääkseen, mikä ikkuna näkyy näytöllä. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱🝗
+\n
+\nℹ️ Katso lisätietoja, toteutustietoja ja esimerkkejä:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝❚</string>
+</resources>
