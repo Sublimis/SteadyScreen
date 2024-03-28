@@ -68,4 +68,13 @@
 \nℹ️ Encuentre más información, detalles de implementación y ejemplos en:
 \n
 \n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+    <string name="accServiceDescrr">⛵ Este servicio permite que las aplicaciones compatibles contrarresten fácilmente pequeños movimientos de dispositivos dentro de su interfaz de usuario.
+\n
+\n🏝️ Esto puede mejorar la legibilidad de la pantalla y posiblemente aliviar el mareo mientras estás en movimiento, p. mientras lee en un vehículo en movimiento.
+\n
+\n🛡️ La aplicación necesita tu permiso para saber qué ventana está visible en la pantalla. No lee el contenido de la ventana.
+\n
+\nℹ️ Encuentre más información, detalles de implementación y ejemplos en:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
