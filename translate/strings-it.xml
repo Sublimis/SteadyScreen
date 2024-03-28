@@ -68,4 +68,13 @@
 \nℹ️ Trova maggiori informazioni, dettagli di implementazione ed esempi su:
 \n
 \n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+    <string name="accServiceDescrr">⛵ Questo servizio consente alle applicazioni compatibili di contrastare facilmente i piccoli movimenti del dispositivo all\'interno della loro interfaccia utente.
+\n
+\n🏝️ Ciò può migliorare la leggibilità dello schermo e possibilmente alleviare la chinetosi mentre sei in movimento, ad es. durante la lettura in un veicolo in movimento.
+\n
+\n🛡️ L\'app necessita della tua autorizzazione per sapere quale finestra è visibile sullo schermo. Non legge il contenuto della finestra.
+\n
+\nℹ️ Trova maggiori informazioni, dettagli di implementazione ed esempi su:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
