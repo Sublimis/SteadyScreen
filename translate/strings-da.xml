@@ -59,13 +59,5 @@
     <string name="paramSensorRateInfo">Dette indstiller den ønskede sensorhastighed. Højere værdier kan bruge mere batteri. Dette kan afvige fra den målte sensorhastighed, da systemet i sidste ende beslutter, hvilken hastighed der skal leveres.</string>
     <string name="menuIncreaseTextSize">Forøg tekststørrelsen</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Denne service gør det muligt for kompatible applikationer nemt at modvirke små enhedsbevægelser i deres brugergrænseflade.
-\n
-\n🏝️ Dette kan forbedre skærmlæsbarheden og muligvis lindre køresyge, mens du er på farten, f.eks. mens du læser i et køretøj i bevægelse.
-\n
-\n🛡️ Appen skal have din tilladelse for at vide, hvilket vindue der er synligt på skærmen. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝗝.
-\n
-\nℹ️ Find mere info, implementeringsdetaljer og eksempler på:
-\n
-\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚝</string>
+    <string name="accServiceDesc"></string>
 </resources>
