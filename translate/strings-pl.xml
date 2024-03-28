@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ta usługa umożliwia kompatybilnym aplikacjom łatwe przeciwdziałanie ruchom małych urządzeń w interfejsie użytkownika.
+\n
+\n🏝️ Może to poprawić czytelność ekranu i ewentualnie złagodzić chorobę lokomocyjną podczas podróży, np. podczas spaceru. podczas czytania w jadącym pojeździe.
+\n
+\n⚡ Aplikacja została wykonana bardzo starannie, aby zminimalizować zużycie zasobów i zmaksymalizować wydajność.
+\n
+\nMamy nadzieję, że wam się spodoba 😊</string>
+    <string name="dialogReviewNudgeMessage">Czy podoba Ci się ta aplikacja\?</string>
+    <string name="dialogReviewNudgeMessage2">Dzięki! Napisz miłą recenzję lub oceń nas 5 gwiazdkami w Sklepie Play.</string>
+    <string name="paramLinearScalingInfo">Skaluje to ruchy liniowo, zwiększając lub zmniejszając je bez wpływu na obliczenia.</string>
+    <string name="licenseItemAlreadyOwned">Przedmiot licencji już posiadany</string>
+    <string name="dialogInfoMessage">Wstrząśnij trochę urządzeniem. Zwróć uwagę, jak zawartość tła łagodzi te ruchy, ułatwiając czytanie na ekranie. (Aby tak się stało, usługa Stillly musi być włączona w ustawieniach dostępności.)
+\n
+\nFunkcjonalność tę można łatwo zaimplementować w dowolnej aplikacji. Postępuj zgodnie z instrukcjami na GitHubie.</string>
+    <string name="paramForceScaling">Skalowanie siły</string>
+    <string name="paramLinearScaling">Skalowanie liniowe</string>
+    <string name="dialogConsentButton">Zaakceptować</string>
+    <string name="no">NIE</string>
+    <string name="licenseSuccessDialogMessage">Aplikacja została pomyślnie licencjonowana. Dziękuję za Twoje wsparcie!</string>
+    <string name="menuSettings">Ustawienia dostępności</string>
+    <string name="menuAbout">O</string>
+    <string name="paramForceScalingInfo">To skaluje siły przed obliczeniami, co z kolei wpływa na ogólną wielkość ruchów.</string>
+    <string name="menuLicense">Uaktualnij swoją licencję</string>
+    <string name="openSourceLicensesTitle">Licencje open source</string>
+    <string name="dialogConsentMessage">Ta aplikacja potrzebuje interfejsu API AccessibilityService do pobierania interaktywnych okien na ekranie i znajdowania kompatybilnych.
+\n
+\nNastępnie usługa wysyła do takich okien wiele akcji ułatwień dostępu „przenieś okno”, jeśli jest to konieczne, aby wykonać zamierzoną funkcję.</string>
+    <string name="menuDecreaseTextSize">Zmniejsz rozmiar tekstu</string>
+    <string name="aboutScreenTranslationsTitle">Tłumaczenia</string>
+    <string name="menuRateAndComment">Oceń nas</string>
+    <string name="yes">Tak</string>
+    <string name="paramRecoil">Odrzut</string>
+    <string name="paramSensorRate">Szybkość czujnika</string>
+    <string name="paramDampingInfo">Zwiększenie tej wartości spowolni i osłabi ruchy, czyniąc je mniej wrażliwymi na większe siły.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Zgłoś problem</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ostateczny</string>
+    <string name="dialogRestoreDefaultsMessage">Przywrócić ustawienia do wartości domyślnych\?</string>
+    <string name="paramDamping">Tłumienie</string>
+    <string name="serviceInactiveText">Usługa jest wyłączona. Kliknij tutaj, aby ją włączyć.</string>
+    <string name="aboutScreenTranslationsText">Pomóż przetłumaczyć tę aplikację i uzyskaj bezpłatną licencję! Więcej informacji:</string>
+    <string name="cancel">Anulować</string>
+    <string name="ultimateLicenseTitle">Licencja Ostateczna</string>
+    <string name="measuredSensorRate">Zmierzona częstotliwość czujnika</string>
+    <string name="menuTheme">Temat</string>
+    <string name="measuredSensorRateInfo">Aktualna częstotliwość czujnika zmierzona przez aplikację. Może się ona różnić od żądanej szybkości czujnika, ponieważ system ostatecznie decyduje, jaką szybkość zapewnić.</string>
+    <string name="aboutScreenGithubLink">Stilly na GitHubie</string>
+    <string name="aboutScreenLicenseTitle">Licencja na aplikację</string>
+    <string name="aboutScreenLicenseText">Ta aplikacja jest bezpłatna i działa bez ograniczeń. Jednak parametry powrócą do wartości domyślnych po 1 godzinie bez licencji.</string>
+    <string name="dialogInfoButton">Przejdź do GitHuba</string>
+    <string name="generalError">Wystąpił jakiś błąd. Proszę spróbuj ponownie.</string>
+    <string name="paramRecoilInfo">Zwiększenie tej wartości zmniejszy wrażliwość na małe oscylacje i sprawi, że ruchy będą mniej wrażliwe na większe siły.</string>
+    <string name="dialogConsentTitle">Zgoda</string>
+    <string name="menuRestoreDefaults">Przywróć domyślne</string>
+    <string name="dialogButtonRateOnPlayStore">Oceń w Sklepie Play</string>
+    <string name="paramSensorRateInfo">Spowoduje to ustawienie żądanej szybkości czujnika. Wyższe wartości mogą zużywać więcej baterii. Może się ona różnić od zmierzonej szybkości czujnika, ponieważ system ostatecznie decyduje, jaką szybkość zapewnić.</string>
+    <string name="menuIncreaseTextSize">Zwiększ rozmiar tekstu</string>
+    <string name="menuInfo">Informacje</string>
+    <string name="accServiceDesc">⛵ Ta usługa umożliwia kompatybilnym aplikacjom łatwe przeciwdziałanie ruchom małych urządzeń w interfejsie użytkownika.
+\n
+\n🏝️ Może to poprawić czytelność ekranu i ewentualnie złagodzić chorobę lokomocyjną podczas podróży, np. podczas spaceru. podczas czytania w jadącym pojeździe.
+\n
+\n🛡️ Aplikacja potrzebuje Twojej zgody, aby wiedzieć, które okno jest widoczne na ekranie. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
+\n
+\nℹ️ Więcej informacji, szczegółów realizacji i przykładów znajdziesz na:
+\n
+\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
+</resources>
