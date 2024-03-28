@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ 이 서비스를 사용하면 호환되는 애플리케이션이 사용자 인터페이스 내에서 작은 장치 움직임에 쉽게 대응할 수 있습니다.
+\n
+\n🏝️ 이렇게 하면 화면 가독성이 향상되고 이동 중에도 멀미가 완화될 수 있습니다. 움직이는 차량에서 책을 읽는 동안.
+\n
+\n⚡ 애플리케이션은 리소스 사용량을 최소화하고 성능을 최대화하기 위해 매우 세심하게 제작되었습니다.
+\n
+\n재미있게 즐기시기 바랍니다 😊</string>
+    <string name="dialogReviewNudgeMessage">이 앱을 즐기고 계시나요\?</string>
+    <string name="dialogReviewNudgeMessage2">감사해요! 좋은 리뷰를 작성하거나 Play 스토어에서 별 5개를 평가해 주세요.</string>
+    <string name="paramLinearScalingInfo">이렇게 하면 움직임의 크기가 선형적으로 조정되어 계산에 영향을 주지 않고 더 크거나 작아집니다.</string>
+    <string name="licenseItemAlreadyOwned">이미 소유한 라이선스 항목</string>
+    <string name="dialogInfoMessage">기기를 살짝 흔들어 보세요. 배경 콘텐츠가 어떻게 이러한 움직임을 부드럽게 만들어 화면 읽기를 더 쉽게 만드는지 확인하세요. (이런 일이 발생하려면 접근성 설정에서 Stilly 서비스를 활성화해야 합니다.)
+\n
+\n이 기능은 모든 애플리케이션에서 쉽게 구현할 수 있습니다. GitHub의 지침을 따르세요.</string>
+    <string name="paramForceScaling">강제 스케일링</string>
+    <string name="paramLinearScaling">선형 스케일링</string>
+    <string name="dialogConsentButton">수용하다</string>
+    <string name="no">아니요</string>
+    <string name="licenseSuccessDialogMessage">앱 라이선스가 성공적으로 부여되었습니다. 귀하의 지원에 감사드립니다!</string>
+    <string name="menuSettings">접근성 설정</string>
+    <string name="menuAbout">에 대한</string>
+    <string name="paramForceScalingInfo">이는 계산 전에 힘의 크기를 조정하여 전체 움직임의 크기에 영향을 줍니다.</string>
+    <string name="menuLicense">라이센스 업그레이드</string>
+    <string name="openSourceLicensesTitle">오픈소스 라이선스</string>
+    <string name="dialogConsentMessage">이 애플리케이션에는 호환되는 창을 찾기 위해 화면에서 대화형 창을 검색하는 AccessibilityService API가 필요합니다.
+\n
+\n그런 다음 서비스는 의도한 기능을 수행하기 위해 필요에 따라 해당 창에 여러 \"창 이동\" 접근성 작업을 보냅니다.</string>
+    <string name="menuDecreaseTextSize">텍스트 크기 줄이기</string>
+    <string name="aboutScreenTranslationsTitle">번역</string>
+    <string name="menuRateAndComment">우리를 평가해 주세요</string>
+    <string name="yes">예</string>
+    <string name="paramRecoil">움찔하다</string>
+    <string name="paramSensorRate">센서 속도</string>
+    <string name="paramDampingInfo">이 값을 늘리면 움직임이 느려지고 약화되어 더 큰 힘에 덜 민감해집니다.</string>
+    <string name="ok">좋아요</string>
+    <string name="menuSendDebugFeedback">문제 신고</string>
+    <string name="ratePerSecond">%1$sHz</string>
+    <string name="ultimateLicenseLabel">궁극적인</string>
+    <string name="dialogRestoreDefaultsMessage">설정을 기본값으로 복원하시겠습니까\?</string>
+    <string name="paramDamping">제동</string>
+    <string name="serviceInactiveText">서비스가 비활성화되었습니다. 활성화하려면 여기를 클릭하세요.</string>
+    <string name="aboutScreenTranslationsText">이 앱의 번역을 도와주고 무료 라이센스를 받으세요! 더 많은 정보:</string>
+    <string name="cancel">취소</string>
+    <string name="ultimateLicenseTitle">얼티밋 라이선스</string>
+    <string name="measuredSensorRate">측정된 센서 속도</string>
+    <string name="menuTheme">주제</string>
+    <string name="measuredSensorRateInfo">앱에서 측정한 현재 센서 속도입니다. 시스템이 궁극적으로 제공할 속도를 결정하므로 이는 원하는 센서 속도와 다를 수 있습니다.</string>
+    <string name="aboutScreenGithubLink">GitHub의 Stilly</string>
+    <string name="aboutScreenLicenseTitle">앱 라이선스</string>
+    <string name="aboutScreenLicenseText">이 응용 프로그램은 무료이며 제한 없이 작동합니다. 그러나 라이센스가 없으면 매개변수는 1시간 후에 기본값으로 돌아갑니다.</string>
+    <string name="dialogInfoButton">GitHub로 이동</string>
+    <string name="generalError">일부 오류가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="paramRecoilInfo">이 값을 늘리면 작은 진동에 대한 민감도가 감소하고 움직임이 더 큰 힘에 덜 민감해집니다.</string>
+    <string name="dialogConsentTitle">동의</string>
+    <string name="menuRestoreDefaults">기본값으로 복원</string>
+    <string name="dialogButtonRateOnPlayStore">Play 스토어에서 평가하기</string>
+    <string name="paramSensorRateInfo">원하는 센서 속도를 설정합니다. 값이 높을수록 배터리를 더 많이 소모할 수 있습니다. 시스템이 궁극적으로 제공할 속도를 결정하므로 이는 측정된 센서 속도와 다를 수 있습니다.</string>
+    <string name="menuIncreaseTextSize">텍스트 크기 늘리기</string>
+    <string name="menuInfo">정보</string>
+    <string name="accServiceDesc">⛵ 이 서비스를 사용하면 호환되는 애플리케이션이 사용자 인터페이스 내에서 작은 장치 움직임에 쉽게 대응할 수 있습니다.
+\n
+\n🏝️ 이렇게 하면 화면 가독성이 향상되고 이동 중에도 멀미가 완화될 수 있습니다. 움직이는 차량에서 책을 읽는 동안.
+\n
+\n🛡️ 화면에 어떤 창이 표시되는지 확인하려면 앱에 권한이 필요합니다. ㅋㅋㅋㅋㅋㅋ
+\n
+\nℹ️ 다음에서 자세한 정보, 구현 세부정보 및 예시를 찾아보세요.
+\n
+\nㅋㅋㅋㅋㅋㅋ</string>
+</resources>
