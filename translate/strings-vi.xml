@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Dịch vụ này cho phép các ứng dụng tương thích dễ dàng chống lại các chuyển động nhỏ của thiết bị trong giao diện người dùng của chúng.
+\n
+\n🏝️ Điều này có thể cải thiện khả năng đọc trên màn hình và có thể làm giảm chứng say tàu xe khi đang di chuyển, ví dụ: trong khi đọc trong một chiếc xe đang di chuyển.
+\n
+\n⚡ Ứng dụng được thiết kế rất tỉ mỉ, nhằm giảm thiểu việc sử dụng tài nguyên và tối đa hóa hiệu suất.
+\n
+\nHy vọng bạn thích nó 😊</string>
+    <string name="dialogReviewNudgeMessage">Bạn có thích ứng dụng này không\?</string>
+    <string name="dialogReviewNudgeMessage2">Cảm ơn! Vui lòng viết đánh giá hay hoặc đánh giá chúng tôi 5 sao trên Cửa hàng Play.</string>
+    <string name="paramLinearScalingInfo">Điều này chia tỷ lệ các chuyển động một cách tuyến tính, làm cho chúng lớn hơn hoặc nhỏ hơn mà không ảnh hưởng đến việc tính toán.</string>
+    <string name="licenseItemAlreadyOwned">Mục giấy phép đã được sở hữu</string>
+    <string name="dialogInfoMessage">Lắc thiết bị một chút. Hãy chú ý cách nội dung nền làm dịu đi những chuyển động này, giúp việc đọc trên màn hình trở nên dễ dàng hơn. (Dịch vụ tĩnh phải được bật trong cài đặt Trợ năng để điều này xảy ra.)
+\n
+\nChức năng này có thể dễ dàng thực hiện trong bất kỳ ứng dụng nào. Vui lòng làm theo hướng dẫn trên GitHub.</string>
+    <string name="paramForceScaling">Lực lượng chia tỷ lệ</string>
+    <string name="paramLinearScaling">Chia tỷ lệ tuyến tính</string>
+    <string name="dialogConsentButton">Chấp nhận</string>
+    <string name="no">KHÔNG</string>
+    <string name="licenseSuccessDialogMessage">Ứng dụng đã được cấp phép thành công. Cảm ơn sự hỗ trợ của bạn!</string>
+    <string name="menuSettings">Cài đặt trợ năng</string>
+    <string name="menuAbout">Về</string>
+    <string name="paramForceScalingInfo">Điều này chia tỷ lệ các lực trước khi tính toán, từ đó ảnh hưởng đến cường độ tổng thể của các chuyển động.</string>
+    <string name="menuLicense">Nâng cấp giấy phép của bạn</string>
+    <string name="openSourceLicensesTitle">Giấy phép nguồn mở</string>
+    <string name="dialogConsentMessage">Ứng dụng này cần API AccessibilityService để truy xuất các cửa sổ tương tác trên màn hình nhằm tìm những cửa sổ tương thích.
+\n
+\nSau đó, dịch vụ sẽ gửi nhiều hành động trợ năng \"di chuyển cửa sổ\" tới các cửa sổ đó, nếu cần, để thực hiện chức năng dự kiến.</string>
+    <string name="menuDecreaseTextSize">Giảm kích thước văn bản</string>
+    <string name="aboutScreenTranslationsTitle">Bản dịch</string>
+    <string name="menuRateAndComment">Đánh giá chúng tôi</string>
+    <string name="yes">Đúng</string>
+    <string name="paramRecoil">giật lại</string>
+    <string name="paramSensorRate">Tốc độ cảm biến</string>
+    <string name="paramDampingInfo">Việc tăng mức này sẽ làm chậm và giảm bớt các chuyển động, khiến chúng ít nhạy cảm hơn với các lực lớn hơn.</string>
+    <string name="ok">ĐƯỢC RỒI</string>
+    <string name="menuSendDebugFeedback">Báo cáo một vấn đề</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Tối thượng</string>
+    <string name="dialogRestoreDefaultsMessage">Khôi phục cài đặt về giá trị mặc định\?</string>
+    <string name="paramDamping">Giảm xóc</string>
+    <string name="serviceInactiveText">Dịch vụ bị vô hiệu hóa, bấm vào đây để kích hoạt.</string>
+    <string name="aboutScreenTranslationsText">Giúp dịch ứng dụng này và nhận được giấy phép miễn phí! Thêm thông tin:</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="ultimateLicenseTitle">Giấy phép cuối cùng</string>
+    <string name="measuredSensorRate">Tốc độ cảm biến đo được</string>
+    <string name="menuTheme">chủ đề</string>
+    <string name="measuredSensorRateInfo">Tốc độ cảm biến hiện tại được đo bằng ứng dụng. Điều này có thể khác với tốc độ cảm biến mong muốn vì cuối cùng hệ thống sẽ quyết định nên cung cấp tốc độ nào.</string>
+    <string name="aboutScreenGithubLink">Stilly trên GitHub</string>
+    <string name="aboutScreenLicenseTitle">Giấy phép ứng dụng</string>
+    <string name="aboutScreenLicenseText">Ứng dụng này miễn phí và hoạt động không giới hạn. Tuy nhiên, các thông số sẽ trở về giá trị mặc định sau 1 giờ nếu không có giấy phép.</string>
+    <string name="dialogInfoButton">Truy cập GitHub</string>
+    <string name="generalError">Đã xảy ra một số lỗi. Vui lòng thử lại.</string>
+    <string name="paramRecoilInfo">Việc tăng giá trị này sẽ làm giảm độ nhạy đối với các dao động nhỏ và làm cho chuyển động kém nhạy hơn với các lực lớn hơn.</string>
+    <string name="dialogConsentTitle">Bằng lòng</string>
+    <string name="menuRestoreDefaults">Khôi phục mặc định</string>
+    <string name="dialogButtonRateOnPlayStore">Đánh giá trên Cửa hàng Play</string>
+    <string name="paramSensorRateInfo">Điều này đặt tốc độ cảm biến mong muốn. Giá trị cao hơn có thể tiêu tốn nhiều pin hơn. Tốc độ này có thể khác với tốc độ cảm biến đo được vì cuối cùng hệ thống sẽ quyết định nên cung cấp tốc độ nào.</string>
+    <string name="menuIncreaseTextSize">Tăng kích thước văn bản</string>
+    <string name="menuInfo">Thông tin</string>
+    <string name="accServiceDesc">⛵ Dịch vụ này cho phép các ứng dụng tương thích dễ dàng chống lại các chuyển động nhỏ của thiết bị trong giao diện người dùng của chúng.
+\n
+\n🏝️ Điều này có thể cải thiện khả năng đọc trên màn hình và có thể làm giảm chứng say tàu xe khi đang di chuyển, ví dụ: trong khi đọc trong một chiếc xe đang di chuyển.
+\n
+\n🛡️ Ứng dụng cần có sự cho phép của bạn để biết cửa sổ nào hiển thị trên màn hình. Nó không đọc nội dung cửa sổ.
+\n
+\nℹ️ Tìm thêm thông tin, chi tiết triển khai và ví dụ trên:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
