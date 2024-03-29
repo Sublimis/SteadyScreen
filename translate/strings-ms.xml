@@ -59,13 +59,4 @@
     <string name="paramSensorRateInfo">Ini menetapkan kadar sensor yang diingini. Nilai yang lebih tinggi mungkin menggunakan lebih banyak bateri. Ini mungkin berbeza daripada kadar penderia yang diukur kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
     <string name="menuIncreaseTextSize">Tingkatkan saiz teks</string>
     <string name="menuInfo">info</string>
-    <string name="accServiceDescrr">⛵ Perkhidmatan ini membenarkan aplikasi yang serasi dengan mudah mengatasi pergerakan peranti kecil dalam antara muka pengguna mereka.
-\n
-\n🏝️ Ini boleh meningkatkan kebolehbacaan skrin dan mungkin mengurangkan mabuk semasa dalam perjalanan, mis. semasa membaca dalam kenderaan yang sedang bergerak.
-\n
-\n🛡️ Apl memerlukan kebenaran anda untuk mengetahui tetingkap yang boleh dilihat pada skrin. Ia tidak membaca kandungan tetingkap.
-\n
-\nℹ️ Dapatkan maklumat lanjut, butiran pelaksanaan dan contoh tentang:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>

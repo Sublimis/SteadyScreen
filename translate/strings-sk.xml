@@ -59,13 +59,4 @@
     <string name="paramSensorRateInfo">Tým sa nastaví požadovaná frekvencia snímača. Vyššie hodnoty môžu spotrebovať viac batérie. Tá sa môže líšiť od nameranej rýchlosti snímača, pretože systém nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
     <string name="menuIncreaseTextSize">Zväčšiť veľkosť textu</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDescrr">⛵ Táto služba umožňuje kompatibilným aplikáciám jednoducho čeliť malým pohybom zariadenia v rámci ich používateľského rozhrania.
-\n
-\n🏝️ Môže to zlepšiť čitateľnosť obrazovky a možno aj zmierniť kinetózu na cestách, napr. pri čítaní v idúcom vozidle.
-\n
-\n🛡️ Aplikácia potrebuje vaše povolenie, aby vedela, ktoré okno je viditeľné na obrazovke. Nečíta obsah okna.
-\n
-\nℹ️ Viac informácií, podrobnosti o implementácii a príklady nájdete na:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>

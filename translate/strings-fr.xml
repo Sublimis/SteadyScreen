@@ -59,13 +59,4 @@
     <string name="paramSensorRateInfo">Ceci définit le taux de capteur souhaité. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer du débit mesuré par le capteur, car le système décide finalement quel débit fournir.</string>
     <string name="menuIncreaseTextSize">Augmenter la taille du texte</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDescrr">⛵ Ce service permet aux applications compatibles de contrecarrer facilement les petits mouvements d\'appareils au sein de leur interface utilisateur.
-\n
-\n🏝️ Cela peut améliorer la lisibilité de l\'écran et éventuellement atténuer le mal des transports lors de vos déplacements, par ex. en lisant dans un véhicule en mouvement.
-\n
-\n🛡️ L\'application a besoin de votre autorisation pour savoir quelle fenêtre est visible à l\'écran. Il ne lit pas le contenu de la fenêtre.
-\n
-\nℹ️ Retrouvez plus d\'informations, de détails de mise en œuvre et d\'exemples sur :
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>

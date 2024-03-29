@@ -59,13 +59,4 @@
     <string name="paramSensorRateInfo">Spowoduje to ustawienie żądanej szybkości czujnika. Wyższe wartości mogą zużywać więcej baterii. Może się ona różnić od zmierzonej szybkości czujnika, ponieważ system ostatecznie decyduje, jaką szybkość zapewnić.</string>
     <string name="menuIncreaseTextSize">Zwiększ rozmiar tekstu</string>
     <string name="menuInfo">Informacje</string>
-    <string name="accServiceDescrr">⛵ Ta usługa umożliwia kompatybilnym aplikacjom łatwe przeciwdziałanie ruchom małych urządzeń w interfejsie użytkownika.
-\n
-\n🏝️ Może to poprawić czytelność ekranu i ewentualnie złagodzić chorobę lokomocyjną podczas podróży, np. podczas spaceru. podczas czytania w jadącym pojeździe.
-\n
-\n🛡️ Aplikacja potrzebuje Twojej zgody, aby wiedzieć, które okno jest widoczne na ekranie. Nie czyta zawartości okna.
-\n
-\nℹ️ Więcej informacji, szczegółów realizacji i przykładów znajdziesz na:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
