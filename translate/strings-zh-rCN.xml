@@ -59,7 +59,6 @@
     <string name="paramSensorRateInfo">这设置了所需的传感器速率。较高的值可能会消耗更多的电池。这可能与测量的传感器速率不同，因为系统最终决定提供哪个速率。</string>
     <string name="menuIncreaseTextSize">增加文字大小</string>
     <string name="menuInfo">信息</string>
-    <string name="accServiceDesc"/>
     <string name="accServiceDescrr">⛵ 该服务允许兼容的应用程序轻松抵消其用户界面内的小型设备移动。
 \n
 \n🏝️ 这可以提高屏幕可读性，并可能减轻旅途中的晕动病，例如在旅途中。在行驶的车辆中阅读时。

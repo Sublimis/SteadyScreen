@@ -59,7 +59,6 @@
     <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene brzine senzora jer sustav na kraju odlučuje koju će stopu dati.</string>
     <string name="menuIncreaseTextSize">Povećaj veličinu teksta</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc"/>
     <string name="accServiceDescrr">⛵ Ova usluga omogućuje kompatibilnim aplikacijama da se lako suprotstave malim pomacima uređaja unutar svog korisničkog sučelja.
 \n
 \n🏝️ Ovo može poboljšati čitljivost zaslona i eventualno ublažiti mučninu dok ste u pokretu, npr. tijekom čitanja u vozilu u pokretu.

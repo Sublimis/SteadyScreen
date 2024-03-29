@@ -59,7 +59,6 @@
     <string name="paramSensorRateInfo">Tím se nastaví požadovaná frekvence snímače. Vyšší hodnoty mohou spotřebovat více baterie. Ta se může lišit od naměřené rychlosti senzoru, protože systém nakonec rozhodne, kterou rychlost poskytne.</string>
     <string name="menuIncreaseTextSize">Zvětšit velikost textu</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc"/>
     <string name="accServiceDescrr">⛵ Tato služba umožňuje kompatibilním aplikacím snadno čelit malým pohybům zařízení v rámci jejich uživatelského rozhraní.
 \n
 \n🏝️ To může zlepšit čitelnost obrazovky a případně zmírnit kinetózu na cestách, např. při čtení v jedoucím vozidle.

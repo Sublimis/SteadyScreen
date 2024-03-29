@@ -59,7 +59,6 @@
     <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
     <string name="menuIncreaseTextSize">Vergroot de tekstgrootte</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc"/>
     <string name="accServiceDescrr">⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
 \n
 \n🏝️Dit kan de leesbaarheid van het scherm verbeteren en mogelijk bewegingsziekte verlichten terwijl u onderweg bent, bijvoorbeeld als u onderweg bent. tijdens het lezen in een rijdend voertuig.

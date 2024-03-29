@@ -59,15 +59,6 @@
     <string name="paramSensorRateInfo">Isso define a taxa de sensor desejada. Valores mais altos podem consumir mais bateria. Isto pode diferir da taxa medida do sensor, pois o sistema decide qual taxa fornecer.</string>
     <string name="menuIncreaseTextSize">Aumentar o tamanho do texto</string>
     <string name="menuInfo">Informações</string>
-    <string name="accServiceDesc">⛵ Este serviço permite que aplicativos compatíveis neutralizem facilmente pequenos movimentos de dispositivos em sua interface de usuário.
-\n
-\n🏝️ Isso pode melhorar a legibilidade da tela e possivelmente aliviar o enjôo em trânsito, por exemplo. enquanto lê em um veículo em movimento.
-\n
-\n🛡️ O aplicativo precisa da sua permissão para saber qual janela está visível na tela. 𝗜𝘁 𝗱𝗼𝗲𝘀 𝗻𝗼𝘁 𝗿𝗲𝗮𝗱 𝘄𝗶𝗻𝗱𝗼𝘄 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀.
-\n
-\nℹ️ Encontre mais informações, detalhes de implementação e exemplos em:
-\n
-\n𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚂𝚞𝚋𝚕𝚒𝚖𝚒𝚜/𝚂𝚝𝚎𝚊𝚍𝚢𝚅𝚒𝚎𝚠</string>
     <string name="accServiceDescrr">⛵ Este serviço permite que aplicativos compatíveis neutralizem facilmente pequenos movimentos de dispositivos em sua interface de usuário.
 \n
 \n🏝️ Isso pode melhorar a legibilidade da tela e possivelmente aliviar o enjôo em movimento, por exemplo. enquanto lê em um veículo em movimento.
