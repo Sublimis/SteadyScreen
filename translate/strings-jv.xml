@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Layanan iki ngidini aplikasi sing kompatibel bisa gampang nglawan obahe piranti cilik ing antarmuka pangguna.
+\n
+\n🏝️ Iki bisa nambah keterbacaan layar lan bisa uga nyuda mabuk nalika lelungan, contone. nalika maca ing kendaraan obah.
+\n
+\n⚡ Aplikasi wis digawe kanthi tliti, supaya bisa nyilikake panggunaan sumber daya lan ngoptimalake kinerja.
+\n
+\nSemoga terhibur 😊</string>
+    <string name="dialogReviewNudgeMessage">Apa sampeyan seneng karo aplikasi iki\?</string>
+    <string name="dialogReviewNudgeMessage2">Matur nuwun! Tulis review sing apik utawa menehi rating 5 bintang ing Play Store.</string>
+    <string name="paramLinearScalingInfo">Iki skala gerakan linear, nggawe luwih gedhe utawa cilik tanpa mengaruhi petungan.</string>
+    <string name="licenseItemAlreadyOwned">Item lisensi wis diduweni</string>
+    <string name="dialogInfoMessage">Goyangake piranti kasebut sethithik. Elinga carane isi latar mburi soften gerakan iki, nggawe maca ing layar luwih gampang. (Layanan tetep kudu diaktifake ing setelan Aksesibilitas supaya bisa kedadeyan.)
+\n
+\nFungsi iki bisa gampang dileksanakake ing aplikasi apa wae. Mangga tindakake pandhuan ing GitHub.</string>
+    <string name="paramForceScaling">Force scaling</string>
+    <string name="paramLinearScaling">Skala linear</string>
+    <string name="dialogConsentButton">Nampa</string>
+    <string name="no">Ora</string>
+    <string name="licenseSuccessDialogMessage">Aplikasi kasebut kasil dilisensi. Matur nuwun kanggo dhukungan!</string>
+    <string name="menuSettings">Setelan aksesibilitas</string>
+    <string name="menuAbout">Babagan</string>
+    <string name="paramForceScalingInfo">Iki timbangan pasukan sadurunge petungan, kang siji mengaruhi gedhene sakabèhé saka gerakan.</string>
+    <string name="menuLicense">Nganyarke lisensi sampeyan</string>
+    <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
+    <string name="dialogConsentMessage">Aplikasi iki mbutuhake API AccessibilityService kanggo njupuk jendhela interaktif ing layar, supaya bisa nemokake sing kompatibel.
+\n
+\nLayanan kasebut banjur ngirim sawetara tumindak aksesibilitas \"pindhah jendhela\" menyang jendhela kasebut, yen perlu, kanggo nindakake fungsi sing dimaksud.</string>
+    <string name="menuDecreaseTextSize">Ngurangi ukuran teks</string>
+    <string name="aboutScreenTranslationsTitle">Terjemahan</string>
+    <string name="menuRateAndComment">Rate kita</string>
+    <string name="yes">ya wis</string>
+    <string name="paramRecoil">mundur</string>
+    <string name="paramSensorRate">Tingkat sensor</string>
+    <string name="paramDampingInfo">Tambah iki bakal alon mudhun lan attenuate obahe, nggawe wong kurang sensitif pasukan luwih gedhe.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Laporan masalah</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Pamungkas</string>
+    <string name="dialogRestoreDefaultsMessage">Mulihake setelan menyang nilai gawan\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">Layanan dipateni, klik kene kanggo ngaktifake.</string>
+    <string name="aboutScreenTranslationsText">Tulung nerjemahake aplikasi iki lan entuk lisensi gratis! Info liyane:</string>
+    <string name="cancel">Batal</string>
+    <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
+    <string name="measuredSensorRate">Tingkat sensor sing diukur</string>
+    <string name="menuTheme">Tema</string>
+    <string name="measuredSensorRateInfo">Tingkat sensor saiki sing diukur dening app. Iki bisa uga beda-beda saka tingkat sensor sing dikarepake amarga sistem pungkasane nemtokake tarif sing bakal diwenehake.</string>
+    <string name="aboutScreenGithubLink">Stilly ing GitHub</string>
+    <string name="aboutScreenLicenseTitle">Lisensi aplikasi</string>
+    <string name="aboutScreenLicenseText">Aplikasi iki gratis lan bisa digunakake tanpa watesan. Nanging, paramèter bakal bali menyang nilai standar sawise 1 jam tanpa lisensi.</string>
+    <string name="dialogInfoButton">Pindhah menyang GitHub</string>
+    <string name="generalError">Ana sawetara kesalahan. Mangga nyoba maneh.</string>
+    <string name="paramRecoilInfo">Nambah iki bakal nyuda sensitivitas kanggo osilasi cilik lan nggawe gerakan kurang sensitif marang pasukan sing luwih gedhe.</string>
+    <string name="dialogConsentTitle">idin</string>
+    <string name="menuRestoreDefaults">Mulihake standar</string>
+    <string name="dialogButtonRateOnPlayStore">Rate ing Play Store</string>
+    <string name="paramSensorRateInfo">Iki nyetel tingkat sensor sing dikarepake. Nilai sing luwih dhuwur bisa uga nggunakake baterei luwih akeh. Iki bisa uga beda karo tingkat sensor sing diukur amarga sistem pungkasane mutusake tarif sing bakal diwenehake.</string>
+    <string name="menuIncreaseTextSize">Tambah ukuran teks</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Layanan iki ngidini aplikasi sing kompatibel bisa gampang nglawan obahe piranti cilik ing antarmuka pangguna.
+\n
+\n🏝️ Iki bisa nambah keterbacaan layar lan bisa uga nyuda mabuk nalika lelungan, contone. nalika maca ing kendaraan obah.
+\n
+\n🛡️ Aplikasi mbutuhake ijin sampeyan kanggo ngerti jendhela sing katon ing layar. Ora maca isi jendhela.
+\n
+\nℹ️ Temokake info liyane, rincian implementasi lan conto ing:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
