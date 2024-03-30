@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Iṣẹ yii ngbanilaaye awọn ohun elo ibaramu lati ni irọrun koju awọn agbeka ẹrọ kekere laarin wiwo olumulo wọn.
+\n
+\n🏝️ Eyi le ṣe ilọsiwaju kika iboju ati o ṣee ṣe dinku aisan išipopada lakoko ti o nlọ, fun apẹẹrẹ. nigba kika ni ọkọ gbigbe.
+\n
+\n⚡ Ohun elo naa ti ni itara pupọ, lati le dinku lilo awọn orisun ati mu iṣẹ pọ si.
+\n
+\nIreti o gbadun 😊</string>
+    <string name="dialogReviewNudgeMessage">Ṣe o n gbadun app yii\?</string>
+    <string name="dialogReviewNudgeMessage2">O ṣeun! Jọwọ kọ atunyẹwo to dara tabi ṣe oṣuwọn awọn irawọ 5 wa lori Play itaja.</string>
+    <string name="paramLinearScalingInfo">Eyi ṣe iwọn awọn iṣipopada laini, ṣiṣe wọn tobi tabi kere si laisi ni ipa awọn iṣiro naa.</string>
+    <string name="licenseItemAlreadyOwned">Ohun-ini iwe-aṣẹ tẹlẹ</string>
+    <string name="dialogInfoMessage">Gbọn ẹrọ naa diẹ. Ṣe akiyesi bi akoonu abẹlẹ ṣe jẹ ki awọn agbeka wọnyi rọ, ṣiṣe kika loju iboju rọrun. (Iṣẹ ni a gbọdọ mu ṣiṣẹ ni awọn eto Wiwọle fun eyi lati ṣẹlẹ.)
+\n
+\nIṣẹ ṣiṣe yii le ni irọrun ni imuse ni eyikeyi ohun elo. Jọwọ tẹle awọn ilana lori GitHub.</string>
+    <string name="paramForceScaling">Fi agbara mu iwọn</string>
+    <string name="paramLinearScaling">Irẹjẹ laini</string>
+    <string name="dialogConsentButton">Gba</string>
+    <string name="no">Rara</string>
+    <string name="licenseSuccessDialogMessage">Ohun elo naa ti ni iwe-aṣẹ ni aṣeyọri. O ṣeun fun atilẹyin rẹ!</string>
+    <string name="menuSettings">Eto wiwọle</string>
+    <string name="menuAbout">Nipa</string>
+    <string name="paramForceScalingInfo">Eyi ṣe iwọn awọn ipa ṣaaju ṣiṣe iṣiro, eyiti o ni ipa lori titobi gbogbo awọn agbeka.</string>
+    <string name="menuLicense">Ṣe imudojuiwọn iwe-aṣẹ rẹ</string>
+    <string name="openSourceLicensesTitle">Ṣii awọn iwe-aṣẹ orisun</string>
+    <string name="dialogConsentMessage">Ohun elo yii nilo API AccessibilityService lati gba awọn ferese ibaraenisepo pada loju iboju, lati wa awọn ti o baamu.
+\n
+\nIṣẹ naa lẹhinna firanṣẹ awọn iṣe iraye si “window gbigbe” lọpọlọpọ si iru awọn window, bi o ṣe nilo, lati ṣe iṣẹ ti a pinnu.</string>
+    <string name="menuDecreaseTextSize">Din iwọn ọrọ dinku</string>
+    <string name="aboutScreenTranslationsTitle">Awọn itumọ</string>
+    <string name="menuRateAndComment">Oṣuwọn wa</string>
+    <string name="yes">Bẹẹni</string>
+    <string name="paramRecoil">Yipada</string>
+    <string name="paramSensorRate">Oṣuwọn sensọ</string>
+    <string name="paramDampingInfo">Alekun eyi yoo fa fifalẹ ati ki o dinku awọn agbeka, ṣiṣe wọn kere si itara si awọn ipa nla.</string>
+    <string name="ok">O DARA</string>
+    <string name="menuSendDebugFeedback">Jabo oro kan</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Gbẹhin</string>
+    <string name="dialogRestoreDefaultsMessage">Mu awọn eto pada si awọn iye aiyipada bi\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">Iṣẹ jẹ alaabo, tẹ ibi lati mu ṣiṣẹ.</string>
+    <string name="aboutScreenTranslationsText">Ṣe iranlọwọ tumọ ohun elo yii ki o gba iwe-aṣẹ ọfẹ! Alaye diẹ sii:</string>
+    <string name="cancel">Fagilee</string>
+    <string name="ultimateLicenseTitle">Gbẹhin iwe-aṣẹ</string>
+    <string name="measuredSensorRate">Iwọn sensọ ti a ṣewọn</string>
+    <string name="menuTheme">Akori</string>
+    <string name="measuredSensorRateInfo">Oṣuwọn sensọ lọwọlọwọ bi iwọn nipasẹ ohun elo naa. Eyi le yatọ si oṣuwọn sensọ ti o fẹ bi eto ṣe pinnu nikẹhin iru oṣuwọn lati pese.</string>
+    <string name="aboutScreenGithubLink">Stilly lori GitHub</string>
+    <string name="aboutScreenLicenseTitle">App iwe-ašẹ</string>
+    <string name="aboutScreenLicenseText">Ohun elo yii jẹ ọfẹ ati ṣiṣẹ laisi awọn idiwọn. Sibẹsibẹ, awọn paramita yoo pada si awọn iye aiyipada wọn lẹhin wakati 1 laisi iwe-aṣẹ.</string>
+    <string name="dialogInfoButton">Lọ si GitHub</string>
+    <string name="generalError">Diẹ ninu awọn aṣiṣe waye. Jọwọ gbiyanju lẹẹkansi.</string>
+    <string name="paramRecoilInfo">Alekun eyi yoo dinku ifamọ si awọn oscillation kekere ati ki o jẹ ki awọn iṣipopada dinku ifarabalẹ si awọn ipa nla.</string>
+    <string name="dialogConsentTitle">Gbigbanilaaye</string>
+    <string name="menuRestoreDefaults">Mu awọn aiyipada pada</string>
+    <string name="dialogButtonRateOnPlayStore">Oṣuwọn lori Play itaja</string>
+    <string name="paramSensorRateInfo">Eyi ṣeto iwọn sensọ ti o fẹ. Awọn iye ti o ga julọ le jẹ batiri diẹ sii. Eyi le yato si iwọn sensọ ti a ṣewọn bi eto ṣe pinnu nikẹhin iru oṣuwọn lati pese.</string>
+    <string name="menuIncreaseTextSize">Mu iwọn ọrọ pọ si</string>
+    <string name="menuInfo">Alaye</string>
+    <string name="accServiceDesc">⛵ Iṣẹ yii ngbanilaaye awọn ohun elo ibaramu lati ni irọrun koju awọn agbeka ẹrọ kekere laarin wiwo olumulo wọn.
+\n
+\n🏝️ Eyi le ṣe ilọsiwaju kika iboju ati o ṣee ṣe dinku aisan išipopada lakoko ti o nlọ, fun apẹẹrẹ. nigba kika ni ọkọ gbigbe.
+\n
+\n🛡️ Ohun elo naa nilo igbanilaaye rẹ lati mọ iru window wo ni o han loju iboju. Ko ka awọn akoonu inu window.
+\n
+\nℹ️ Wa alaye diẹ sii, awọn alaye imuse ati awọn apẹẹrẹ lori:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
