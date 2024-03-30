@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Tajaajilli kun aplikeeshiniiwwan walsimsiisan sochii meeshaalee xixiqqoo interfeeysii fayyadamaa isaanii keessatti salphaatti akka qolatan taasisa.
+\n
+\n🏝️ Kunis dubbifama iskiriinii fooyyessuu fi tarii yeroo deemsa jirru dhukkuba sochii qaamaa salphisuu danda\'a, fkn. konkolaataa socho’aa jiru keessatti osoo dubbisuu.
+\n
+\n⚡ Appilikeeshinichi baayyee of eeggannoodhaan kan hojjetame yoo ta\'u, itti fayyadama qabeenya xiqqeessuu fi raawwii hojii guddisuuf jecha.
+\n
+\nAkka isinitti tole abdii qabna 😊</string>
+    <string name="dialogReviewNudgeMessage">Appii kanaan itti gammadaa jirtuu\?</string>
+    <string name="dialogReviewNudgeMessage2">Galatoomi! Mee gamaaggama gaarii barreessaa ykn Play Store irratti urjii 5 nuuf madaala.</string>
+    <string name="paramLinearScalingInfo">Kunis sochiiwwan sararaan safara, shallaggii irratti dhiibbaa osoo hin geessisin akka guddatan ykn xiqqaa taasisa.</string>
+    <string name="licenseItemAlreadyOwned">Meeshaa hayyamaa duraan qabame</string>
+    <string name="dialogInfoMessage">Meeshaa sana xiqqoo raasaa. Qabiyyeen duubaa sochiiwwan kana akkamitti akka lallaafatu, dubbisa iskiriinii irratti akka salphatu hubadhu. (Kun akka ta\'uuf Stilly service qindaa\'inoota Dhaqqabummaa keessatti dandeessisuun dirqama.)
+\n
+\nHojiin kun salphaatti application kamiyyuu keessatti hojiirra oolchuun ni danda\'ama. Mee qajeelfama GitHub irratti kenname hordofaa.</string>
+    <string name="paramForceScaling">Humna iskeelii gochuu</string>
+    <string name="paramLinearScaling">Iskeelii sararaawaa</string>
+    <string name="dialogConsentButton">Simachuu</string>
+    <string name="no">Lakki</string>
+    <string name="licenseSuccessDialogMessage">Appichi hayyama milkaa\'inaan argateera. Deeggarsa nuuf gootaniif galatoomaa!</string>
+    <string name="menuSettings">Sajoo dhaqqabummaa</string>
+    <string name="menuAbout">Waa\'ee</string>
+    <string name="paramForceScalingInfo">Kunis humnoota shallaggii dura safara, kunis dabaree isaatiin guddina waliigalaa sochiiwwanii irratti dhiibbaa qaba.</string>
+    <string name="menuLicense">Hayyama kee fooyyessaa</string>
+    <string name="openSourceLicensesTitle">Hayyama madda banaa</string>
+    <string name="dialogConsentMessage">Appilikeeshiniin kun foddaawwan walqunnamtii iskiriinii irratti argachuuf, kanneen walsimsiisan argachuuf, API AccessibilityService barbaada.
+\n
+\nSana booda tajaajilichi gochoota dhaqqabummaa \"foddaa sochoosuu\" hedduu gara foddaa akkasiitti erga, akka barbaachisummaa isaatti, dalagaa yaadame raawwachuuf.</string>
+    <string name="menuDecreaseTextSize">Hammangaa barruu hir\'isi</string>
+    <string name="aboutScreenTranslationsTitle">Hiikkaawwan</string>
+    <string name="menuRateAndComment">Sadarkaa nuuf kennaa</string>
+    <string name="yes">Eeyyee</string>
+    <string name="paramRecoil">Duubatti deebi\'uu</string>
+    <string name="paramSensorRate">Saffisa sensaraa</string>
+    <string name="paramDampingInfo">Kana dabaluunis sochiiwwan ni saffisiisa, ni laaffisa, kunis humnoota gurguddoof akka hin miiraan guutamne taasisa.</string>
+    <string name="ok">TOLE</string>
+    <string name="menuSendDebugFeedback">Dhimma tokko gabaasaa</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Dhuma</string>
+    <string name="dialogRestoreDefaultsMessage">Sajoo gara gatiiwwan durtiitti deebisuu\?</string>
+    <string name="paramDamping">Daampii gochuu</string>
+    <string name="serviceInactiveText">Tajaajilli hojiirraa ooleera, dandeessisuuf as tuqi.</string>
+    <string name="aboutScreenTranslationsText">Appii kana hiikuuf gargaaraa hayyama bilisaa argadhaa! Odeeffannoo dabalataa:</string>
+    <string name="cancel">Haquu</string>
+    <string name="ultimateLicenseTitle">Hayyama Dhumaa</string>
+    <string name="measuredSensorRate">Saffisa sensaraa safarame</string>
+    <string name="menuTheme">Dhimma haasaa</string>
+    <string name="measuredSensorRateInfo">Saffisa sensaraa ammaa akka appii kanaan safaramutti. Kun saffisa sensaraa barbaadamu irraa adda ta’uu danda’a sababiin isaas sirnichi dhuma irratti saffisa kam akka kennu murteessa.</string>
+    <string name="aboutScreenGithubLink">Ammallee GitHub irratti</string>
+    <string name="aboutScreenLicenseTitle">Hayyama appii</string>
+    <string name="aboutScreenLicenseText">Appilikeeshiniin kun bilisa waan ta\'eef daangaa malee hojjeta. Haa ta\'u malee, qajoojiiwwan hayyama malee sa\'aatii 1 booda gara gatiiwwan durtii isaaniitti ni deebi\'u.</string>
+    <string name="dialogInfoButton">Gara GitHub deemaa</string>
+    <string name="generalError">Dogoggorri tokko tokko uumameera. Mee irra deebi\'ii yaalaa.</string>
+    <string name="paramRecoilInfo">Kana dabaluunis miira sochii xixiqqoo hir’isuun sochiiwwan humnoota gurguddoof miira akka hin qabne taasisa.</string>
+    <string name="dialogConsentTitle">Eyyemamaa ta\'uu</string>
+    <string name="menuRestoreDefaults">Durtii deebisi</string>
+    <string name="dialogButtonRateOnPlayStore">Play Store irratti sadarkaa</string>
+    <string name="paramSensorRateInfo">Kunis saffisa sensaraa barbaadamu saaga. Gatiin ol\'aanaan baatirii baay\'ee fayyadamuu danda\'a. Kun saffisa sensaraa safarame irraa adda ta’uu danda’a sababiin isaas sirnichi dhuma irratti saffisa kam akka kennu murteessa.</string>
+    <string name="menuIncreaseTextSize">Hammangaa barruu guddisuu</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Tajaajilli kun aplikeeshiniiwwan walsimsiisan sochii meeshaalee xixiqqoo interfeeysii fayyadamaa isaanii keessatti salphaatti akka qolatan taasisa.
+\n
+\n🏝️ Kunis dubbifama iskiriinii fooyyessuu fi tarii yeroo deemsa jirru dhukkuba sochii qaamaa salphisuu danda\'a, fkn. konkolaataa socho’aa jiru keessatti osoo dubbisuu.
+\n
+\n🛡️ Appichi foddaa kamtu screen irratti akka mul\'atu beekuuf hayyama keessan barbaada. Qabiyyee foddaa hin dubbisu.
+\n
+\nℹ️ Odeeffannoo dabalataa, bal\'ina hojiirra oolmaa fi fakkeenyota kana irratti:
+\n
+\ngithub.com/Sublimis/Iskiriinii Dhaabbataa</string>
+</resources>
