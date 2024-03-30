@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Αυτή η υπηρεσία επιτρέπει σε συμβατές εφαρμογές να εξουδετερώνουν εύκολα τις μικρές κινήσεις της συσκευής στο περιβάλλον εργασίας χρήστη τους.
+\n
+\n🏝️ Αυτό μπορεί να βελτιώσει την αναγνωσιμότητα της οθόνης και πιθανώς να ανακουφίσει την ασθένεια κίνησης ενώ βρίσκεστε εν κινήσει, π.χ. ενώ διαβάζει σε κινούμενο όχημα.
+\n
+\n⚡ Η εφαρμογή έχει δημιουργηθεί πολύ σχολαστικά, προκειμένου να ελαχιστοποιηθεί η χρήση πόρων και να μεγιστοποιηθεί η απόδοση.
+\n
+\nΕλπίζω να το απολαύσετε 😊</string>
+    <string name="dialogReviewNudgeMessage">Σας αρέσει αυτή η εφαρμογή;</string>
+    <string name="dialogReviewNudgeMessage2">Ευχαριστώ! Γράψτε μια ωραία κριτική ή βαθμολογήστε μας με 5 αστέρια στο Play Store.</string>
+    <string name="paramLinearScalingInfo">Αυτό κλιμακώνει τις κινήσεις γραμμικά, καθιστώντας τις μεγαλύτερες ή μικρότερες χωρίς να επηρεάζονται οι υπολογισμοί.</string>
+    <string name="licenseItemAlreadyOwned">Το στοιχείο άδειας ανήκει ήδη</string>
+    <string name="dialogInfoMessage">Ανακινήστε λίγο τη συσκευή. Παρατηρήστε πώς το περιεχόμενο του φόντου αμβλύνει αυτές τις κινήσεις, διευκολύνοντας την ανάγνωση στην οθόνη. (Η υπηρεσία Stilly πρέπει να είναι ενεργοποιημένη στις ρυθμίσεις Προσβασιμότητας για να συμβεί αυτό.)
+\n
+\nΑυτή η λειτουργία μπορεί εύκολα να εφαρμοστεί σε οποιαδήποτε εφαρμογή. Ακολουθήστε τις οδηγίες στο GitHub.</string>
+    <string name="paramForceScaling">Δυναμική κλιμάκωση</string>
+    <string name="paramLinearScaling">Γραμμική κλιμάκωση</string>
+    <string name="dialogConsentButton">Αποδέχομαι</string>
+    <string name="no">Οχι</string>
+    <string name="licenseSuccessDialogMessage">Η εφαρμογή αδειοδοτήθηκε με επιτυχία. Σας ευχαριστούμε για την υποστήριξή σας!</string>
+    <string name="menuSettings">Ρυθμίσεις προσβασιμότητας</string>
+    <string name="menuAbout">Σχετικά με</string>
+    <string name="paramForceScalingInfo">Αυτό κλιμακώνει τις δυνάμεις πριν από τους υπολογισμούς, κάτι που με τη σειρά του επηρεάζει το συνολικό μέγεθος των κινήσεων.</string>
+    <string name="menuLicense">Αναβαθμίστε την άδειά σας</string>
+    <string name="openSourceLicensesTitle">Άδειες ανοιχτού κώδικα</string>
+    <string name="dialogConsentMessage">Αυτή η εφαρμογή χρειάζεται το AccessibilityService API για να ανακτήσει διαδραστικά παράθυρα στην οθόνη, προκειμένου να βρει συμβατά.
+\n
+\nΣτη συνέχεια, η υπηρεσία στέλνει πολλαπλές ενέργειες προσβασιμότητας \"παραθύρου μετακίνησης\" σε τέτοια παράθυρα, όπως απαιτείται, για να εκτελέσει την προβλεπόμενη λειτουργία.</string>
+    <string name="menuDecreaseTextSize">Μειώστε το μέγεθος του κειμένου</string>
+    <string name="aboutScreenTranslationsTitle">Μεταφράσεις</string>
+    <string name="menuRateAndComment">Βαθμολογήστε μας</string>
+    <string name="yes">Ναί</string>
+    <string name="paramRecoil">Ανάκρουση</string>
+    <string name="paramSensorRate">Ρυθμός αισθητήρα</string>
+    <string name="paramDampingInfo">Η αύξηση αυτή θα επιβραδύνει και θα μετριάσει τις κινήσεις, καθιστώντας τις λιγότερο ευαίσθητες σε μεγαλύτερες δυνάμεις.</string>
+    <string name="ok">Εντάξει</string>
+    <string name="menuSendDebugFeedback">Αναφέρετε ένα πρόβλημα</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Τελικός</string>
+    <string name="dialogRestoreDefaultsMessage">Επαναφορά ρυθμίσεων στις προεπιλεγμένες τιμές;</string>
+    <string name="paramDamping">Απόσβεση</string>
+    <string name="serviceInactiveText">Η υπηρεσία είναι απενεργοποιημένη, κάντε κλικ εδώ για να την ενεργοποιήσετε.</string>
+    <string name="aboutScreenTranslationsText">Βοηθήστε στη μετάφραση αυτής της εφαρμογής και αποκτήστε δωρεάν άδεια! Περισσότερες πληροφορίες:</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="ultimateLicenseTitle">Ultimate License</string>
+    <string name="measuredSensorRate">Μετρημένη ταχύτητα αισθητήρα</string>
+    <string name="menuTheme">Θέμα</string>
+    <string name="measuredSensorRateInfo">Τρέχουσα ταχύτητα αισθητήρα όπως μετράται από την εφαρμογή. Αυτό μπορεί να διαφέρει από τον επιθυμητό ρυθμό αισθητήρα, καθώς το σύστημα αποφασίζει τελικά ποιο ρυθμό θα παρέχει.</string>
+    <string name="aboutScreenGithubLink">Ακόμα στο GitHub</string>
+    <string name="aboutScreenLicenseTitle">Άδεια εφαρμογής</string>
+    <string name="aboutScreenLicenseText">Αυτή η εφαρμογή είναι δωρεάν και λειτουργεί χωρίς περιορισμούς. Ωστόσο, οι παράμετροι θα επιστρέψουν στις προεπιλεγμένες τιμές τους μετά από 1 ώρα χωρίς άδεια.</string>
+    <string name="dialogInfoButton">Μεταβείτε στο GitHub</string>
+    <string name="generalError">Παρουσιάστηκε κάποιο σφάλμα. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.</string>
+    <string name="paramRecoilInfo">Η αύξηση αυτού θα μειώσει την ευαισθησία σε μικρές ταλαντώσεις και θα κάνει τις κινήσεις λιγότερο ευαίσθητες σε μεγαλύτερες δυνάμεις.</string>
+    <string name="dialogConsentTitle">Συγκατάθεση</string>
+    <string name="menuRestoreDefaults">Επαναφέρετε τις προεπιλογές</string>
+    <string name="dialogButtonRateOnPlayStore">Βαθμολογήστε στο Play Store</string>
+    <string name="paramSensorRateInfo">Αυτό ρυθμίζει τον επιθυμητό ρυθμό αισθητήρα. Οι υψηλότερες τιμές ενδέχεται να καταναλώνουν περισσότερη μπαταρία. Αυτό μπορεί να διαφέρει από τον μετρούμενο ρυθμό αισθητήρα, καθώς το σύστημα αποφασίζει τελικά ποιο ποσοστό θα παρέχει.</string>
+    <string name="menuIncreaseTextSize">Αυξήστε το μέγεθος του κειμένου</string>
+    <string name="menuInfo">Πληροφορίες</string>
+    <string name="accServiceDesc">⛵ Αυτή η υπηρεσία επιτρέπει σε συμβατές εφαρμογές να εξουδετερώνουν εύκολα τις μικρές κινήσεις της συσκευής στο περιβάλλον εργασίας χρήστη τους.
+\n
+\n🏝️ Αυτό μπορεί να βελτιώσει την αναγνωσιμότητα της οθόνης και πιθανώς να ανακουφίσει την ασθένεια κίνησης ενώ βρίσκεστε εν κινήσει, π.χ. ενώ διαβάζει σε κινούμενο όχημα.
+\n
+\n🛡️ Η εφαρμογή χρειάζεται την άδειά σας για να γνωρίζει ποιο παράθυρο είναι ορατό στην οθόνη. Δεν διαβάζει τα περιεχόμενα του παραθύρου.
+\n
+\nℹ️ Βρείτε περισσότερες πληροφορίες, λεπτομέρειες εφαρμογής και παραδείγματα στο:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
