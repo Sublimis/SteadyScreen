@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ez a szolgáltatás lehetővé teszi a kompatibilis alkalmazások számára, hogy könnyen ellensúlyozzák a felhasználói felületükön belüli kis eszközmozgásokat.
+\n
+\n🏝️ Ez javíthatja a képernyő olvashatóságát, és esetleg enyhítheti a mozgási rosszullétet útközben, pl. olvasás közben egy mozgó járműben.
+\n
+\n⚡ Az alkalmazást nagyon aprólékosan készítették el az erőforrás-felhasználás minimalizálása és a teljesítmény maximalizálása érdekében.
+\n
+\nRemélem tetszeni fog 😊</string>
+    <string name="dialogReviewNudgeMessage">Élvezed ezt az alkalmazást\?</string>
+    <string name="dialogReviewNudgeMessage2">Kösz! Kérjük, írjon egy szép véleményt, vagy értékeljen minket 5 csillaggal a Play Áruházban.</string>
+    <string name="paramLinearScalingInfo">Ez lineárisan skálázza a mozgásokat, így nagyobb vagy kisebb lesz anélkül, hogy befolyásolná a számításokat.</string>
+    <string name="licenseItemAlreadyOwned">A licencelem már birtokában van</string>
+    <string name="dialogInfoMessage">Rázza meg kissé a készüléket. Figyelje meg, hogy a háttértartalom hogyan lágyítja ezeket a mozgásokat, megkönnyítve a képernyőn történő olvasást. (Ehhez a Stilly szolgáltatást engedélyezni kell a Kisegítő lehetőségek beállításaiban.)
+\n
+\nEz a funkció bármely alkalmazásban könnyen megvalósítható. Kérjük, kövesse a GitHubon található utasításokat.</string>
+    <string name="paramForceScaling">Erőméretezés</string>
+    <string name="paramLinearScaling">Lineáris skálázás</string>
+    <string name="dialogConsentButton">Elfogad</string>
+    <string name="no">Nem</string>
+    <string name="licenseSuccessDialogMessage">Az alkalmazás licence sikeresen megtörtént. Köszönöm a tamogatásod!</string>
+    <string name="menuSettings">Kisegítő lehetőségek beállításai</string>
+    <string name="menuAbout">Ról ről</string>
+    <string name="paramForceScalingInfo">Ez a számítások előtt skálázza az erőket, ami viszont befolyásolja a mozgások általános nagyságát.</string>
+    <string name="menuLicense">Frissítse licencét</string>
+    <string name="openSourceLicensesTitle">Nyílt forráskódú licencek</string>
+    <string name="dialogConsentMessage">Ennek az alkalmazásnak szüksége van az AccessibilityService API-ra, hogy lekérje az interaktív ablakokat a képernyőn, hogy megtalálhassa a kompatibiliseket.
+\n
+\nA szolgáltatás ezután szükség szerint több „ablak áthelyezése” akadálymentesítési műveletet küld az ilyen ablakoknak a kívánt funkció végrehajtása érdekében.</string>
+    <string name="menuDecreaseTextSize">Csökkentse a szöveg méretét</string>
+    <string name="aboutScreenTranslationsTitle">Fordítások</string>
+    <string name="menuRateAndComment">Értékelj minket</string>
+    <string name="yes">Igen</string>
+    <string name="paramRecoil">Visszarúg</string>
+    <string name="paramSensorRate">Érzékelő sebessége</string>
+    <string name="paramDampingInfo">Ennek növelése lelassítja és tompítja a mozgásokat, így kevésbé lesznek érzékenyek a nagyobb erőkre.</string>
+    <string name="ok">rendben</string>
+    <string name="menuSendDebugFeedback">Probléma bejelentése</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Végső</string>
+    <string name="dialogRestoreDefaultsMessage">Visszaállítja a beállításokat az alapértelmezett értékekre\?</string>
+    <string name="paramDamping">Csillapítás</string>
+    <string name="serviceInactiveText">A szolgáltatás le van tiltva, kattintson ide az engedélyezéshez.</string>
+    <string name="aboutScreenTranslationsText">Segítsen lefordítani ezt az alkalmazást, és szerezzen ingyenes licencet! Több információ:</string>
+    <string name="cancel">Megszünteti</string>
+    <string name="ultimateLicenseTitle">Végső licenc</string>
+    <string name="measuredSensorRate">Mért érzékelő sebesség</string>
+    <string name="menuTheme">Téma</string>
+    <string name="measuredSensorRateInfo">Az érzékelő aktuális sebessége az alkalmazás által mérve. Ez eltérhet a kívánt szenzorfrekvenciától, mivel a rendszer végül eldönti, hogy melyik frekvenciát adja meg.</string>
+    <string name="aboutScreenGithubLink">Stilly a GitHubon</string>
+    <string name="aboutScreenLicenseTitle">Alkalmazáslicenc</string>
+    <string name="aboutScreenLicenseText">Ez az alkalmazás ingyenes és korlátozások nélkül működik. Licenc nélkül azonban 1 óra elteltével a paraméterek visszaállnak az alapértelmezett értékekre.</string>
+    <string name="dialogInfoButton">Lépjen a GitHub oldalra</string>
+    <string name="generalError">Valami hiba történt. Kérlek próbáld újra.</string>
+    <string name="paramRecoilInfo">Ennek növelése csökkenti a kis oszcillációkra való érzékenységet, és a mozgások kevésbé lesznek érzékenyek a nagyobb erőkre.</string>
+    <string name="dialogConsentTitle">Beleegyezés</string>
+    <string name="menuRestoreDefaults">Alapértékek visszaállítása</string>
+    <string name="dialogButtonRateOnPlayStore">Értékelés a Play Áruházban</string>
+    <string name="paramSensorRateInfo">Ez beállítja a kívánt érzékelő frekvenciát. A magasabb értékek több akkumulátort fogyaszthatnak. Ez eltérhet a mért érzékelő frekvenciától, mivel a rendszer végső soron eldönti, hogy melyik frekvenciát adja meg.</string>
+    <string name="menuIncreaseTextSize">Növelje a szöveg méretét</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Ez a szolgáltatás lehetővé teszi a kompatibilis alkalmazások számára, hogy könnyen ellensúlyozzák a felhasználói felületükön belüli kis eszközmozgásokat.
+\n
+\n🏝️ Ez javíthatja a képernyő olvashatóságát, és esetleg enyhítheti a mozgási rosszullétet útközben, pl. olvasás közben egy mozgó járműben.
+\n
+\n🛡️ Az alkalmazásnak szüksége van az Ön engedélyére, hogy tudja, melyik ablak látható a képernyőn. Nem olvassa be az ablak tartalmát.
+\n
+\nℹ️ További információkat, megvalósítási részleteket és példákat találhat a következő oldalon:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
