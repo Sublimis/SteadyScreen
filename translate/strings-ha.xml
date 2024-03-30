@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Wannan sabis ɗin yana ba da damar aikace-aikacen da suka dace da sauƙi don magance ƙananan motsin na\'ura a cikin mahaɗin mai amfani da su.
+\n
+\n🏝️ Wannan na iya inganta karatun allo da yuwuwar rage ciwon motsi yayin tafiya, misali. yayin karatu a cikin abin hawa mai motsi.
+\n
+\n⚡ An tsara aikace-aikacen sosai, don rage yawan amfani da albarkatu da haɓaka aiki.
+\n
+\nDa fatan za ku ji daɗi 😊</string>
+    <string name="dialogReviewNudgeMessage">Kuna jin daɗin wannan app\?</string>
+    <string name="dialogReviewNudgeMessage2">Godiya! Da fatan za a rubuta kyakkyawan bita ko ƙididdige mu tauraro 5 akan Play Store.</string>
+    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
+    <string name="licenseItemAlreadyOwned">An riga an mallaki abun lasisi</string>
+    <string name="dialogInfoMessage">Girgiza na\'urar kadan kadan. Yi la\'akari da yadda abun ciki na bango ya sassauta waɗannan motsin, yana sauƙaƙa karatun kan allo. (Har yanzu dole ne a kunna sabis a cikin saitunan Samun damar yin hakan don faruwa.)
+\n
+\nAna iya aiwatar da wannan aikin cikin sauƙi a kowace aikace-aikace. Da fatan za a bi umarnin kan GitHub.</string>
+    <string name="paramForceScaling">Ƙaddamar da ƙima</string>
+    <string name="paramLinearScaling">Sikelin linzamin kwamfuta</string>
+    <string name="dialogConsentButton">Karba</string>
+    <string name="no">A\'a</string>
+    <string name="licenseSuccessDialogMessage">An ba da izinin ƙa\'idar cikin nasara. Na gode da goyon bayan ku!</string>
+    <string name="menuSettings">Saitunan samun dama</string>
+    <string name="menuAbout">Game da</string>
+    <string name="paramForceScalingInfo">Wannan yana daidaita ma\'aunin ƙarfi kafin ƙididdigewa, wanda hakan ke shafar girman ƙungiyoyin gabaɗaya.</string>
+    <string name="menuLicense">Haɓaka lasisin ku</string>
+    <string name="openSourceLicensesTitle">Bude lasisin tushe</string>
+    <string name="dialogConsentMessage">Wannan aikace-aikacen yana buƙatar API ɗin AccessibilityService don dawo da tagogi masu ma\'amala akan allo, don nemo waɗanda suka dace.
+\n
+\nSabis ɗin sannan yana aika ayyuka masu yawa na \"taga motsi\" zuwa irin waɗannan windows, kamar yadda ake buƙata, don aiwatar da aikin da aka nufa.</string>
+    <string name="menuDecreaseTextSize">Rage girman rubutu</string>
+    <string name="aboutScreenTranslationsTitle">Fassara</string>
+    <string name="menuRateAndComment">Rage mu</string>
+    <string name="yes">Ee</string>
+    <string name="paramRecoil">Maimaitawa</string>
+    <string name="paramSensorRate">Yawan firikwensin</string>
+    <string name="paramDampingInfo">Ƙara wannan zai rage gudu kuma ya rage motsi, yana sa su kasa kula da manyan runduna.</string>
+    <string name="ok">KO</string>
+    <string name="menuSendDebugFeedback">Bayar da rahoto</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ƙarshe</string>
+    <string name="dialogRestoreDefaultsMessage">Mayar da saituna zuwa tsoffin ƙima\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">An kashe sabis, danna nan don kunna.</string>
+    <string name="aboutScreenTranslationsText">Taimaka fassara wannan app kuma sami lasisi kyauta! Karin bayani:</string>
+    <string name="cancel">Soke</string>
+    <string name="ultimateLicenseTitle">Lasisi na ƙarshe</string>
+    <string name="measuredSensorRate">Ƙimar firikwensin da aka auna</string>
+    <string name="menuTheme">Jigo</string>
+    <string name="measuredSensorRateInfo">Adadin firikwensin na yanzu kamar yadda aka auna ta app. Wannan na iya bambanta da ƙimar firikwensin da ake so kamar yadda tsarin a ƙarshe ya yanke shawarar wane ƙimar da za a bayar.</string>
+    <string name="aboutScreenGithubLink">Stilly akan GitHub</string>
+    <string name="aboutScreenLicenseTitle">Lasin app</string>
+    <string name="aboutScreenLicenseText">Wannan aikace-aikacen kyauta ne kuma yana aiki ba tare da iyakancewa ba. Koyaya, sigogin za su koma ga tsoffin ƙimar su bayan awa 1 ba tare da lasisi ba.</string>
+    <string name="dialogInfoButton">Je zuwa GitHub</string>
+    <string name="generalError">An sami wasu kurakurai. Da fatan za a sake gwadawa.</string>
+    <string name="paramRecoilInfo">Ƙara wannan zai rage hankali ga ƙananan oscillations kuma ya sa ƙungiyoyi ba su da hankali ga manyan runduna.</string>
+    <string name="dialogConsentTitle">Yarda</string>
+    <string name="menuRestoreDefaults">Mayar da abubuwan da ba a so</string>
+    <string name="dialogButtonRateOnPlayStore">Rate akan Play Store</string>
+    <string name="paramSensorRateInfo">Wannan yana saita ƙimar firikwensin da ake so. Maɗaukakin ƙima na iya cinye ƙarin baturi. Wannan na iya bambanta da ƙimar firikwensin da aka auna yayin da tsarin ya yanke shawarar wane ƙimar da zai bayar.</string>
+    <string name="menuIncreaseTextSize">Ƙara girman rubutu</string>
+    <string name="menuInfo">Bayani</string>
+    <string name="accServiceDesc">⛵ Wannan sabis ɗin yana ba da damar aikace-aikacen da suka dace da sauƙi don magance ƙananan motsin na\'ura a cikin mahaɗin mai amfani da su.
+\n
+\n🏝️ Wannan na iya inganta karatun allo da yuwuwar rage ciwon motsi yayin tafiya, misali. yayin karatu a cikin abin hawa mai motsi.
+\n
+\n🛡️ App ɗin yana buƙatar izinin ku don sanin wane taga ne akan allo. Ba ya karanta abubuwan da ke cikin taga.
+\n
+\nℹ️ Nemo ƙarin bayani, cikakkun bayanan aiwatarwa da misalai akan:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
