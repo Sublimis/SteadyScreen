@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ọrụ a na-enye ohere ka ngwa dakọtara na-egbochi mmegharị ngwaọrụ dị mfe n\'ime interface onye ọrụ ha.
+\n
+\n🏝️ Nke a nwere ike melite ọgụgụ ihuenyo yana ikekwe ibelata ọrịa ngagharị mgbe ị na-aga, dịka. mgbe ị na-agụ n\'ụgbọ ala na-akpụ akpụ.
+\n
+\n⚡ Emebere ngwa a nke ọma, iji wedata ojiji akụrụngwa wee bulie arụmọrụ ya.
+\n
+\nAtụrụ m anya na ọ ga-atọ gị ụtọ 😊</string>
+    <string name="dialogReviewNudgeMessage">Ngwa a na-atọ gị ụtọ\?</string>
+    <string name="dialogReviewNudgeMessage2">Daalụ! Biko deere anyị nyocha mara mma ma ọ bụ tụọ anyị kpakpando ise na Play Store.</string>
+    <string name="paramLinearScalingInfo">Nke a na-eme ka mmegharị ahụ dị n\'ahịrị, na-eme ka ha buru ibu ma ọ bụ dị ntakịrị na-enweghị emetụta mgbako.</string>
+    <string name="licenseItemAlreadyOwned">Enweelarị ihe ikike</string>
+    <string name="dialogInfoMessage">Kwagharịa ngwaọrụ ahụ ntakịrị. Rịba ama ka ọdịnaya ndabere si eme ka mmegharị ndị a dị nro, na-eme ka ịgụ ihe na ihuenyo dị mfe. (A ga-agbanyerịrị ọrụ na ntọala nnweta ka nke a mee.)
+\n
+\nEnwere ike itinye ọrụ a n\'ụzọ dị mfe na ngwa ọ bụla. Biko soro ntuziaka na GitHub.</string>
+    <string name="paramForceScaling">Mmanye nha nha</string>
+    <string name="paramLinearScaling">Mpempe akwụkwọ ntanetị</string>
+    <string name="dialogConsentButton">Nabata</string>
+    <string name="no">Mba</string>
+    <string name="licenseSuccessDialogMessage">Enyere ngwa ahụ ikike nke ọma. Daalụ maka nkwado gị!</string>
+    <string name="menuSettings">Ntọala nnweta</string>
+    <string name="menuAbout">Ihe gbasara</string>
+    <string name="paramForceScalingInfo">Nke a na-atụba ndị agha tupu mgbako, nke n\'aka nke ya na-emetụta oke mmegharị ahụ.</string>
+    <string name="menuLicense">Kwalite akwụkwọ ikike gị</string>
+    <string name="openSourceLicensesTitle">Mepee ikikere isi mmalite</string>
+    <string name="dialogConsentMessage">Ngwa a chọrọ API AccessibilityService iji weghachite windo mmekọrịta na ihuenyo, ka ịchọta ndị dakọtara.
+\n
+\nỌrụ ahụ na-eziga ọtụtụ omume ịnweta \"window mbugharị\" na ụdị mpio ahụ, dịka ọ dị mkpa, iji rụọ ọrụ a chọrọ.</string>
+    <string name="menuDecreaseTextSize">Wedata nha ederede</string>
+    <string name="aboutScreenTranslationsTitle">Ntụgharị asụsụ</string>
+    <string name="menuRateAndComment">Nye anyị ọnụ</string>
+    <string name="yes">Ee</string>
+    <string name="paramRecoil">Weghachite</string>
+    <string name="paramSensorRate">Ọnụego sensọ</string>
+    <string name="paramDampingInfo">Ịbawanye nke a ga-ebelata ma mebie mmegharị ahụ, na-eme ka ha ghara inwe mmetụta nke ike ndị buru ibu.</string>
+    <string name="ok">Ọ DỊ MMA</string>
+    <string name="menuSendDebugFeedback">Kwuo okwu</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Nke kacha</string>
+    <string name="dialogRestoreDefaultsMessage">Weghachite ntọala na ụkpụrụ ndabara\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">Akwụsịla ọrụ, pịa ebe a ka ị nwee ike.</string>
+    <string name="aboutScreenTranslationsText">Nyere aka ịtụgharị asụsụ ngwa a wee nweta ikike efu! Ozi ndị ọzọ:</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="ultimateLicenseTitle">Akwụkwọ ikike kacha</string>
+    <string name="measuredSensorRate">Ọnụ ọgụgụ ihe mmetụta atụtara</string>
+    <string name="menuTheme">Isiokwu</string>
+    <string name="measuredSensorRateInfo">Ọnụego sensọ dị ugbu a dị ka ejiri ngwa tụọ ya. Nke a nwere ike ịdị iche na ọnụọgụ ihe mmetụta achọrọ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
+    <string name="aboutScreenGithubLink">Stilly na GitHub</string>
+    <string name="aboutScreenLicenseTitle">Ikikere ngwa</string>
+    <string name="aboutScreenLicenseText">Ngwa a bụ n\'efu ma na-arụ ọrụ na-enweghị oke. Agbanyeghị, parampat ga-alaghachi na ụkpụrụ ndabara ha ka elekere 1 gachara na-enweghị ikike.</string>
+    <string name="dialogInfoButton">Gaa na GitHub</string>
+    <string name="generalError">Ụfọdụ mperi mere. Biko nwaa ọzọ.</string>
+    <string name="paramRecoilInfo">Ịbawanye nke a ga-ebelata mmetụta nke obere oscillations ma mee ka mmegharị ahụ ghara inwe mmetụta nke ike ndị buru ibu.</string>
+    <string name="dialogConsentTitle">Nkwenye</string>
+    <string name="menuRestoreDefaults">Weghachite ndabara</string>
+    <string name="dialogButtonRateOnPlayStore">Ọnụ ego na Play Store</string>
+    <string name="paramSensorRateInfo">Nke a na-edobe ọnụọgụ ihe mmetụta achọrọ. Ọnụ ahịa dị elu nwere ike iri batrị karịa. Nke a nwere ike ịdị iche na ọnụego ihe mmetụta a tụrụ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
+    <string name="menuIncreaseTextSize">Welie nha ederede</string>
+    <string name="menuInfo">Ozi</string>
+    <string name="accServiceDesc">⛵ Ọrụ a na-enye ohere ka ngwa dakọtara na-egbochi mmegharị ngwaọrụ dị mfe n\'ime interface onye ọrụ ha.
+\n
+\n🏝️ Nke a nwere ike melite ọgụgụ ihuenyo yana ikekwe ibelata ọrịa ngagharị mgbe ị na-aga, dịka. mgbe ị na-agụ n\'ụgbọ ala na-akpụ akpụ.
+\n
+\n🛡️ Ngwa ahụ chọrọ ikike gị iji mara windo nke a na-ahụ anya na ihuenyo. Ọ naghị agụ ihe dị na windo.
+\n
+\nℹ️ Chọta ozi ndị ọzọ, nkọwa mmejuputa iwu na ọmụmaatụ na:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
