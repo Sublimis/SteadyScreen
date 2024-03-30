@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Huduma hii huruhusu programu zinazooana kukabiliana kwa urahisi na miondoko ya kifaa kidogo ndani ya kiolesura chao cha mtumiaji.
+\n
+\n🏝️ Hii inaweza kuboresha usomaji wa skrini na ikiwezekana kupunguza ugonjwa wa mwendo ukiwa safarini, k.m. wakati wa kusoma kwenye gari linalotembea.
+\n
+\n⚡ Programu imeundwa kwa uangalifu sana, ili kupunguza matumizi ya rasilimali na kuongeza utendaji.
+\n
+\nNatumai utaifurahia 😊</string>
+    <string name="dialogReviewNudgeMessage">Je, unafurahia programu hii\?</string>
+    <string name="dialogReviewNudgeMessage2">Asante! Tafadhali andika ukaguzi mzuri au ukadirie nyota 5 kwenye Play Store.</string>
+    <string name="paramLinearScalingInfo">Hii hupima mizani kwa mstari, na kuifanya kuwa kubwa au ndogo bila kuathiri mahesabu.</string>
+    <string name="licenseItemAlreadyOwned">Bidhaa ya leseni tayari inamilikiwa</string>
+    <string name="dialogInfoMessage">Tikisa kifaa kidogo. Angalia jinsi maudhui ya chinichini yanavyopunguza miondoko hii, na kurahisisha usomaji kwenye skrini. (Huduma tulivu lazima iwashwe katika mipangilio ya Ufikivu ili hili lifanyike.)
+\n
+\nUtendaji huu unaweza kutekelezwa kwa urahisi katika programu yoyote. Tafadhali fuata maagizo kwenye GitHub.</string>
+    <string name="paramForceScaling">Kuongeza nguvu</string>
+    <string name="paramLinearScaling">Kuongeza mstari</string>
+    <string name="dialogConsentButton">Kubali</string>
+    <string name="no">Hapana</string>
+    <string name="licenseSuccessDialogMessage">Programu ilipewa leseni. Ahsante kwa msaada wako!</string>
+    <string name="menuSettings">Mipangilio ya ufikivu</string>
+    <string name="menuAbout">Kuhusu</string>
+    <string name="paramForceScalingInfo">Hii inapima nguvu kabla ya mahesabu, ambayo kwa upande huathiri ukubwa wa jumla wa harakati.</string>
+    <string name="menuLicense">Boresha leseni yako</string>
+    <string name="openSourceLicensesTitle">Leseni za chanzo huria</string>
+    <string name="dialogConsentMessage">Programu hii inahitaji API yaHuduma ya Ufikivu ili kupata madirisha wasilianifu kwenye skrini, ili kupata yanayotumika.
+\n
+\nHuduma kisha hutuma vitendo vingi vya ufikiaji vya \"sogeza dirisha\" kwa madirisha kama hayo, kama inahitajika, kufanya kazi iliyokusudiwa.</string>
+    <string name="menuDecreaseTextSize">Punguza ukubwa wa maandishi</string>
+    <string name="aboutScreenTranslationsTitle">Tafsiri</string>
+    <string name="menuRateAndComment">Tukadirie</string>
+    <string name="yes">Ndiyo</string>
+    <string name="paramRecoil">Rejea</string>
+    <string name="paramSensorRate">Kiwango cha sensorer</string>
+    <string name="paramDampingInfo">Kuongeza hii kutapunguza kasi na kupunguza harakati, na kuzifanya kuwa nyeti kwa nguvu kubwa.</string>
+    <string name="ok">sawa</string>
+    <string name="menuSendDebugFeedback">Ripoti suala</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Mwisho</string>
+    <string name="dialogRestoreDefaultsMessage">Ungependa kurejesha mipangilio kwa thamani chaguomsingi\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">Huduma imezimwa, bofya hapa ili kuwezesha.</string>
+    <string name="aboutScreenTranslationsText">Saidia kutafsiri programu hii na kupata leseni bila malipo! Maelezo zaidi:</string>
+    <string name="cancel">Ghairi</string>
+    <string name="ultimateLicenseTitle">Leseni ya Mwisho</string>
+    <string name="measuredSensorRate">Kiwango cha kihisi kilichopimwa</string>
+    <string name="menuTheme">Mandhari</string>
+    <string name="measuredSensorRateInfo">Kasi ya sasa ya vitambuzi kama inavyopimwa na programu. Hii inaweza kutofautiana na kasi ya vitambuzi unavyotaka kwani mfumo hatimaye huamua ni kiwango kipi cha kutoa.</string>
+    <string name="aboutScreenGithubLink">Bado kwenye GitHub</string>
+    <string name="aboutScreenLicenseTitle">Leseni ya programu</string>
+    <string name="aboutScreenLicenseText">Programu hii ni bure na inafanya kazi bila vikwazo. Hata hivyo, vigezo vitarejea kwa thamani zao chaguomsingi baada ya saa 1 bila leseni.</string>
+    <string name="dialogInfoButton">Nenda kwa GitHub</string>
+    <string name="generalError">Hitilafu fulani ilitokea. Tafadhali jaribu tena.</string>
+    <string name="paramRecoilInfo">Kuongeza hii itapunguza usikivu kwa oscillations ndogo na kufanya harakati chini nyeti kwa nguvu kubwa.</string>
+    <string name="dialogConsentTitle">Idhini</string>
+    <string name="menuRestoreDefaults">Rejesha chaguomsingi</string>
+    <string name="dialogButtonRateOnPlayStore">Bei kwenye Play Store</string>
+    <string name="paramSensorRateInfo">Hii huweka kiwango cha kihisi kinachohitajika. Thamani za juu zaidi zinaweza kutumia betri zaidi. Hii inaweza kutofautiana na kiwango cha vitambuzi kilichopimwa kwani mfumo hatimaye huamua ni kiwango gani cha kutoa.</string>
+    <string name="menuIncreaseTextSize">Ongeza ukubwa wa maandishi</string>
+    <string name="menuInfo">Habari</string>
+    <string name="accServiceDesc">⛵ Huduma hii huruhusu programu zinazooana kukabiliana kwa urahisi na miondoko ya kifaa kidogo ndani ya kiolesura chao cha mtumiaji.
+\n
+\n🏝️ Hii inaweza kuboresha usomaji wa skrini na ikiwezekana kupunguza ugonjwa wa mwendo ukiwa safarini, k.m. wakati wa kusoma kwenye gari linalotembea.
+\n
+\n🛡️ Programu inahitaji ruhusa yako ili kujua ni dirisha gani linaloonekana kwenye skrini. Haisomi yaliyomo kwenye dirisha.
+\n
+\nℹ️ Pata maelezo zaidi, maelezo ya utekelezaji na mifano kwenye:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
