@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ši paslauga leidžia suderinamoms programoms lengvai atremti nedidelius įrenginio judesius savo vartotojo sąsajoje.
+\n
+\n🏝️ Tai gali pagerinti ekrano skaitomumą ir galbūt palengvinti judesio ligą keliaujant, pvz. skaitydamas važiuojančioje transporto priemonėje.
+\n
+\n⚡ Programa buvo sukurta labai kruopščiai, siekiant sumažinti išteklių naudojimą ir maksimaliai padidinti našumą.
+\n
+\nTikimės, kad jums patiks 😊</string>
+    <string name="dialogReviewNudgeMessage">Ar jums patinka ši programa\?</string>
+    <string name="dialogReviewNudgeMessage2">Dėkoju! Parašykite gražią apžvalgą arba įvertinkite mus 5 žvaigždutėmis „Play“ parduotuvėje.</string>
+    <string name="paramLinearScalingInfo">Taip judesiai keičiami tiesiškai, todėl jie tampa didesni arba mažesni, nedarant įtakos skaičiavimams.</string>
+    <string name="licenseItemAlreadyOwned">Licencijos elementas jau priklauso</string>
+    <string name="dialogInfoMessage">Šiek tiek pakratykite prietaisą. Atkreipkite dėmesį, kaip foninis turinys sušvelnina šiuos judesius ir palengvina skaitymą ekrane. (Kad tai įvyktų, „Stilly“ paslauga turi būti įjungta pritaikymo neįgaliesiems nustatymuose.)
+\n
+\nŠią funkciją galima lengvai įdiegti bet kurioje programoje. Vykdykite „GitHub“ instrukcijas.</string>
+    <string name="paramForceScaling">Jėgos mastelio keitimas</string>
+    <string name="paramLinearScaling">Linijinis mastelio keitimas</string>
+    <string name="dialogConsentButton">Priimti</string>
+    <string name="no">Nr</string>
+    <string name="licenseSuccessDialogMessage">Programa sėkmingai licencijuota. Dėkojame už palaikymą!</string>
+    <string name="menuSettings">Pritaikymo neįgaliesiems nustatymai</string>
+    <string name="menuAbout">Apie</string>
+    <string name="paramForceScalingInfo">Tai padidina jėgas prieš skaičiavimus, o tai savo ruožtu turi įtakos bendram judesių dydžiui.</string>
+    <string name="menuLicense">Atnaujinkite savo licenciją</string>
+    <string name="openSourceLicensesTitle">Atvirojo kodo licencijos</string>
+    <string name="dialogConsentMessage">Šiai programai reikalinga AccessibilityService API, kad būtų galima nuskaityti interaktyvius langus ekrane ir rasti suderinamus.
+\n
+\nTada paslauga siunčia kelis „lango perkėlimo“ pasiekiamumo veiksmus tokiems langams, jei reikia, kad būtų atlikta numatyta funkcija.</string>
+    <string name="menuDecreaseTextSize">Sumažinti teksto dydį</string>
+    <string name="aboutScreenTranslationsTitle">Vertimai</string>
+    <string name="menuRateAndComment">Įvertinkite mus</string>
+    <string name="yes">Taip</string>
+    <string name="paramRecoil">Atsitraukimas</string>
+    <string name="paramSensorRate">Jutiklio greitis</string>
+    <string name="paramDampingInfo">Tai padidinus sulėtinsite ir susilpninsite judesius, todėl jie bus mažiau jautrūs didesnėms jėgoms.</string>
+    <string name="ok">Gerai</string>
+    <string name="menuSendDebugFeedback">Pranešti apie problemą</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Galutinis</string>
+    <string name="dialogRestoreDefaultsMessage">Atkurti numatytąsias reikšmes\?</string>
+    <string name="paramDamping">Slopinimas</string>
+    <string name="serviceInactiveText">Paslauga išjungta, spustelėkite čia, kad įgalintumėte.</string>
+    <string name="aboutScreenTranslationsText">Padėkite išversti šią programą ir gaukite nemokamą licenciją! Daugiau informacijos:</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="ultimateLicenseTitle">Galutinė licencija</string>
+    <string name="measuredSensorRate">Išmatuotas jutiklio greitis</string>
+    <string name="menuTheme">tema</string>
+    <string name="measuredSensorRateInfo">Dabartinis jutiklio greitis, išmatuotas programoje. Tai gali skirtis nuo pageidaujamo jutiklio dažnio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
+    <string name="aboutScreenGithubLink">Visiškai „GitHub“.</string>
+    <string name="aboutScreenLicenseTitle">Programos licencija</string>
+    <string name="aboutScreenLicenseText">Ši programa yra nemokama ir veikia be apribojimų. Tačiau parametrai grįš į numatytąsias vertes po 1 valandos be licencijos.</string>
+    <string name="dialogInfoButton">Eikite į „GitHub“.</string>
+    <string name="generalError">Įvyko kažkokia klaida. Prašau, pabandykite dar kartą.</string>
+    <string name="paramRecoilInfo">Tai padidinus, sumažės jautrumas mažiems virpesiams ir judesiai bus mažiau jautrūs didesnėms jėgoms.</string>
+    <string name="dialogConsentTitle">Sutikimas</string>
+    <string name="menuRestoreDefaults">Atkurti numatytuosius nustatymus</string>
+    <string name="dialogButtonRateOnPlayStore">Įvertinkite „Play“ parduotuvėje</string>
+    <string name="paramSensorRateInfo">Taip nustatomas norimas jutiklio dažnis. Didesnės vertės gali sunaudoti daugiau akumuliatoriaus. Tai gali skirtis nuo išmatuoto jutiklio greičio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
+    <string name="menuIncreaseTextSize">Padidinti teksto dydį</string>
+    <string name="menuInfo">Informacija</string>
+    <string name="accServiceDesc">⛵ Ši paslauga leidžia suderinamoms programoms lengvai atremti nedidelius įrenginio judesius savo vartotojo sąsajoje.
+\n
+\n🏝️ Tai gali pagerinti ekrano skaitomumą ir galbūt palengvinti judesio ligą keliaujant, pvz. skaitydamas važiuojančioje transporto priemonėje.
+\n
+\n🛡️ Programai reikia jūsų leidimo, kad žinotų, kuris langas matomas ekrane. Jis neskaito lango turinio.
+\n
+\nℹ️ Daugiau informacijos, įgyvendinimo detalių ir pavyzdžių rasite:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
