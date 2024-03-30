@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Šis pakalpojums ļauj saderīgām lietojumprogrammām viegli novērst nelielas ierīces kustības savā lietotāja saskarnē.
+\n
+\n🏝️ Tas var uzlabot ekrāna lasāmību un, iespējams, mazināt kustību slimības, atrodoties ceļā, piemēram, lasot braucošā transportlīdzeklī.
+\n
+\n⚡ Lietojumprogramma ir izstrādāta ļoti rūpīgi, lai samazinātu resursu izmantošanu un palielinātu veiktspēju.
+\n
+\nCeru, ka jums patiks 😊</string>
+    <string name="dialogReviewNudgeMessage">Vai jums patīk šī lietotne\?</string>
+    <string name="dialogReviewNudgeMessage2">Paldies! Lūdzu, uzrakstiet jauku atsauksmi vai novērtējiet mūs ar 5 zvaigznēm Play veikalā.</string>
+    <string name="paramLinearScalingInfo">Tādējādi kustības tiek mērogotas lineāri, padarot tās lielākas vai mazākas, neietekmējot aprēķinus.</string>
+    <string name="licenseItemAlreadyOwned">Licences vienums jau pieder</string>
+    <string name="dialogInfoMessage">Nedaudz sakratiet ierīci. Ievērojiet, kā fona saturs mīkstina šīs kustības, atvieglojot lasīšanu ekrānā. (Lai tas notiktu, pieejamības iestatījumos ir jāiespējo pakalpojums joprojām.)
+\n
+\nŠo funkcionalitāti var viegli ieviest jebkurā lietojumprogrammā. Lūdzu, izpildiet GitHub sniegtos norādījumus.</string>
+    <string name="paramForceScaling">Spēka mērogošana</string>
+    <string name="paramLinearScaling">Lineārā mērogošana</string>
+    <string name="dialogConsentButton">Pieņemt</string>
+    <string name="no">Nē</string>
+    <string name="licenseSuccessDialogMessage">Lietotne tika veiksmīgi licencēta. Paldies Tev par atbalstu!</string>
+    <string name="menuSettings">Pieejamības iestatījumi</string>
+    <string name="menuAbout">Par</string>
+    <string name="paramForceScalingInfo">Tas mērogo spēkus pirms aprēķiniem, kas savukārt ietekmē kopējo kustību apjomu.</string>
+    <string name="menuLicense">Jauniniet savu licenci</string>
+    <string name="openSourceLicensesTitle">Atvērtā pirmkoda licences</string>
+    <string name="dialogConsentMessage">Šai lietojumprogrammai ir nepieciešama AccessibilityService API, lai ekrānā izgūtu interaktīvos logus un atrastu saderīgus logus.
+\n
+\nPēc tam pakalpojums šādiem logiem pēc vajadzības nosūta vairākas pieejamības darbības \"pārvietot logu\", lai veiktu paredzēto funkciju.</string>
+    <string name="menuDecreaseTextSize">Samaziniet teksta lielumu</string>
+    <string name="aboutScreenTranslationsTitle">Tulkojumi</string>
+    <string name="menuRateAndComment">Novērtē mūs</string>
+    <string name="yes">Jā</string>
+    <string name="paramRecoil">Atsitiens</string>
+    <string name="paramSensorRate">Sensora ātrums</string>
+    <string name="paramDampingInfo">Palielinot to, kustības palēnināsies un vājināsies, padarot tās mazāk jutīgas pret lielākiem spēkiem.</string>
+    <string name="ok">labi</string>
+    <string name="menuSendDebugFeedback">Ziņot par problēmu</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Galīgais</string>
+    <string name="dialogRestoreDefaultsMessage">Vai atjaunot iestatījumus uz noklusējuma vērtībām\?</string>
+    <string name="paramDamping">Amortizācija</string>
+    <string name="serviceInactiveText">Pakalpojums ir atspējots, noklikšķiniet šeit, lai iespējotu.</string>
+    <string name="aboutScreenTranslationsText">Palīdziet tulkot šo lietotni un iegūstiet bezmaksas licenci! Vairāk informācijas:</string>
+    <string name="cancel">Atcelt</string>
+    <string name="ultimateLicenseTitle">Ultimate License</string>
+    <string name="measuredSensorRate">Izmērītais sensora ātrums</string>
+    <string name="menuTheme">Tēma</string>
+    <string name="measuredSensorRateInfo">Pašreizējais sensora ātrums, ko mēra lietotne. Tas var atšķirties no vēlamā sensora ātruma, jo sistēma galu galā izlemj, kādu ātrumu nodrošināt.</string>
+    <string name="aboutScreenGithubLink">Stilly vietnē GitHub</string>
+    <string name="aboutScreenLicenseTitle">Lietojumprogrammas licence</string>
+    <string name="aboutScreenLicenseText">Šī lietojumprogramma ir bezmaksas un darbojas bez ierobežojumiem. Tomēr pēc 1 stundas bez licences parametri atgriezīsies pie noklusējuma vērtībām.</string>
+    <string name="dialogInfoButton">Dodieties uz GitHub</string>
+    <string name="generalError">Radās kāda kļūda. Lūdzu mēģiniet vēlreiz.</string>
+    <string name="paramRecoilInfo">Palielinot to, samazināsies jutība pret mazām svārstībām un kustības būs mazāk jutīgas pret lielākiem spēkiem.</string>
+    <string name="dialogConsentTitle">Piekrišana</string>
+    <string name="menuRestoreDefaults">Atjaunot noklusējumus</string>
+    <string name="dialogButtonRateOnPlayStore">Novērtējiet Play veikalā</string>
+    <string name="paramSensorRateInfo">Tas iestata vēlamo sensora ātrumu. Augstākas vērtības var patērēt vairāk akumulatora. Tas var atšķirties no izmērītā sensora ātruma, jo sistēma galu galā izlemj, kādu ātrumu nodrošināt.</string>
+    <string name="menuIncreaseTextSize">Palieliniet teksta izmēru</string>
+    <string name="menuInfo">Informācija</string>
+    <string name="accServiceDesc">⛵ Šis pakalpojums ļauj saderīgām lietojumprogrammām viegli novērst nelielas ierīces kustības savā lietotāja saskarnē.
+\n
+\n🏝️ Tas var uzlabot ekrāna lasāmību un, iespējams, mazināt kustību slimības, atrodoties ceļā, piemēram, lasot braucošā transportlīdzeklī.
+\n
+\n🛡️ Lietotnei ir nepieciešama jūsu atļauja, lai zinātu, kurš logs ir redzams ekrānā. Tas nelasa loga saturu.
+\n
+\nℹ️ Atrodiet vairāk informācijas, ieviešanas informāciju un piemērus:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
