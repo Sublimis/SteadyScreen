@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Bu hizmet, uyumlu uygulamaların kullanıcı arayüzlerindeki küçük cihaz hareketlerine kolayca karşı koymasına olanak tanır.
+\n
+\n🏝️ Bu, ekranın okunabilirliğini artırabilir ve muhtemelen hareket halindeyken hareket rahatsızlığını hafifletebilir; Hareket halindeki bir araçta kitap okurken.
+\n
+\n⚡ Uygulama, kaynak kullanımını en aza indirmek ve performansı en üst düzeye çıkarmak amacıyla çok titizlikle hazırlanmıştır.
+\n
+\nUmarım beğenirsiniz 😊</string>
+    <string name="dialogReviewNudgeMessage">Bu uygulamayı beğeniyor musunuz\?</string>
+    <string name="dialogReviewNudgeMessage2">Teşekkürler! Lütfen güzel bir inceleme yazın veya Play Store\'da bize 5 yıldız verin.</string>
+    <string name="paramLinearScalingInfo">Bu, hareketleri doğrusal olarak ölçeklendirerek hesaplamaları etkilemeden daha büyük veya daha küçük hale getirir.</string>
+    <string name="licenseItemAlreadyOwned">Lisans öğesi zaten sahip olunan</string>
+    <string name="dialogInfoMessage">Cihazı biraz sallayın. Arka plan içeriğinin bu hareketleri nasıl yumuşatarak ekrandaki okumayı nasıl kolaylaştırdığına dikkat edin. (Bunun gerçekleşmesi için Erişilebilirlik ayarlarında Stilly hizmetinin etkinleştirilmesi gerekir.)
+\n
+\nBu işlevsellik herhangi bir uygulamaya kolayca uygulanabilir. Lütfen GitHub\'daki talimatları izleyin.</string>
+    <string name="paramForceScaling">Ölçeklendirmeyi zorla</string>
+    <string name="paramLinearScaling">Doğrusal ölçeklendirme</string>
+    <string name="dialogConsentButton">Kabul etmek</string>
+    <string name="no">HAYIR</string>
+    <string name="licenseSuccessDialogMessage">Uygulama başarıyla lisanslandı. Desteğin için teşekkürler!</string>
+    <string name="menuSettings">Erişilebilirlik ayarları</string>
+    <string name="menuAbout">Hakkında</string>
+    <string name="paramForceScalingInfo">Bu, hesaplamalardan önce kuvvetleri ölçeklendirir ve bu da hareketlerin genel büyüklüğünü etkiler.</string>
+    <string name="menuLicense">Lisansınızı yükseltin</string>
+    <string name="openSourceLicensesTitle">Açık kaynak lisansları</string>
+    <string name="dialogConsentMessage">Bu uygulamanın, uyumlu olanları bulmak amacıyla ekrandaki etkileşimli pencereleri almak için AccessibilityService API\'sine ihtiyacı vardır.
+\n
+\nHizmet daha sonra amaçlanan işlevi gerçekleştirmek için gerektiğinde bu tür pencerelere birden fazla \"pencereyi taşıma\" erişilebilirlik eylemi gönderir.</string>
+    <string name="menuDecreaseTextSize">Metin boyutunu azalt</string>
+    <string name="aboutScreenTranslationsTitle">Çeviriler</string>
+    <string name="menuRateAndComment">Bizi değerlendirin</string>
+    <string name="yes">Evet</string>
+    <string name="paramRecoil">Geri tepme</string>
+    <string name="paramSensorRate">Sensör hızı</string>
+    <string name="paramDampingInfo">Bunu arttırmak hareketleri yavaşlatacak ve zayıflatacak, bu da onları daha büyük kuvvetlere karşı daha az duyarlı hale getirecektir.</string>
+    <string name="ok">TAMAM</string>
+    <string name="menuSendDebugFeedback">Bir sorunu bildirin</string>
+    <string name="ratePerSecond">%1$sHz</string>
+    <string name="ultimateLicenseLabel">Nihai</string>
+    <string name="dialogRestoreDefaultsMessage">Ayarlar varsayılan değerlere geri yüklensin mi\?</string>
+    <string name="paramDamping">Sönümleme</string>
+    <string name="serviceInactiveText">Hizmet devre dışı bırakıldı, etkinleştirmek için burayı tıklayın.</string>
+    <string name="aboutScreenTranslationsText">Bu uygulamanın çevrilmesine yardımcı olun ve ücretsiz bir lisans alın! Daha fazla bilgi:</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="ultimateLicenseTitle">Nihai Lisans</string>
+    <string name="measuredSensorRate">Ölçülen sensör hızı</string>
+    <string name="menuTheme">Tema</string>
+    <string name="measuredSensorRateInfo">Uygulama tarafından ölçülen mevcut sensör hızı. Sistem sonuçta hangi hızı sağlayacağına karar verdiği için bu, istenen sensör hızından farklı olabilir.</string>
+    <string name="aboutScreenGithubLink">Hala GitHub\'da</string>
+    <string name="aboutScreenLicenseTitle">Uygulama lisansı</string>
+    <string name="aboutScreenLicenseText">Bu uygulama ücretsizdir ve sınırlama olmaksızın çalışır. Ancak lisanssız kullanımdan 1 saat sonra parametreler varsayılan değerlerine dönecektir.</string>
+    <string name="dialogInfoButton">GitHub\'a git</string>
+    <string name="generalError">Bazı hatalar oluştu. Lütfen tekrar deneyin.</string>
+    <string name="paramRecoilInfo">Bunu artırmak, küçük salınımlara karşı duyarlılığı azaltacak ve hareketleri daha büyük kuvvetlere karşı daha az duyarlı hale getirecektir.</string>
+    <string name="dialogConsentTitle">Onay</string>
+    <string name="menuRestoreDefaults">Varsayılanları geri yükle</string>
+    <string name="dialogButtonRateOnPlayStore">Play Store\'da puan verin</string>
+    <string name="paramSensorRateInfo">Bu, istenen sensör hızını ayarlar. Daha yüksek değerler daha fazla pil tüketebilir. Sistem sonuçta hangi hızı sağlayacağına karar verdiği için bu, ölçülen sensör hızından farklı olabilir.</string>
+    <string name="menuIncreaseTextSize">Metin boyutunu artır</string>
+    <string name="menuInfo">Bilgi</string>
+    <string name="accServiceDesc">⛵ Bu hizmet, uyumlu uygulamaların kullanıcı arayüzlerindeki küçük cihaz hareketlerine kolayca karşı koymasına olanak tanır.
+\n
+\n🏝️ Bu, ekranın okunabilirliğini artırabilir ve muhtemelen hareket halindeyken hareket rahatsızlığını hafifletebilir; Hareket halindeki bir araçta kitap okurken.
+\n
+\n🛡️ Uygulamanın ekranda hangi pencerenin göründüğünü bilmesi için izninize ihtiyacı var. Pencere içeriğini okumaz.
+\n
+\nℹ️ Daha fazla bilgi, uygulama ayrıntıları ve örnekleri şu adreste bulabilirsiniz:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
