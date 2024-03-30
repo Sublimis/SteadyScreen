@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Ushbu xizmat mos keluvchi ilovalarga foydalanuvchi interfeysi doirasidagi kichik qurilma harakatlariga osongina qarshi turish imkonini beradi.
+\n
+\n🏝️ Bu ekranni oʻqish qobiliyatini yaxshilashi va yoʻl-yoʻlakay harakat kasalligini engillashtirishi mumkin, masalan. harakatlanayotgan transport vositasida o\'qish paytida.
+\n
+\n⚡ Ilova resurslardan foydalanishni minimallashtirish va unumdorlikni oshirish uchun juda puxta ishlab chiqilgan.
+\n
+\nSizga yoqadi degan umiddaman😊</string>
+    <string name="dialogReviewNudgeMessage">Bu ilova sizga yoqdimi\?</string>
+    <string name="dialogReviewNudgeMessage2">Rahmat! Iltimos, yaxshi sharh yozing yoki Play Store-da bizga 5 yulduz bilan baho bering.</string>
+    <string name="paramLinearScalingInfo">Bu harakatlarni chiziqli ravishda o\'lchaydi, hisob-kitoblarga ta\'sir qilmasdan ularni kattaroq yoki kichikroq qiladi.</string>
+    <string name="licenseItemAlreadyOwned">Litsenziya elementi allaqachon egalik qilgan</string>
+    <string name="dialogInfoMessage">Qurilmani biroz silkiting. Fon tarkibi bu harakatlarni qanday yumshatganiga e\'tibor bering, bu esa ekranda o\'qishni osonlashtiradi. (Buning uchun maxsus imkoniyatlar sozlamalarida Stillly xizmati yoqilgan boʻlishi kerak.)
+\n
+\nUshbu funktsiyani har qanday dasturda osongina amalga oshirish mumkin. Iltimos, GitHub-dagi ko\'rsatmalarga amal qiling.</string>
+    <string name="paramForceScaling">Majburiy masshtablash</string>
+    <string name="paramLinearScaling">Chiziqli masshtablash</string>
+    <string name="dialogConsentButton">Qabul qiling</string>
+    <string name="no">Yo\'q</string>
+    <string name="licenseSuccessDialogMessage">Ilova muvaffaqiyatli litsenziyalandi. Qo\'llab-quvvatlaganingiz uchun tashakkur!</string>
+    <string name="menuSettings">Maxsus imkoniyatlar sozlamalari</string>
+    <string name="menuAbout">Haqida</string>
+    <string name="paramForceScalingInfo">Bu hisob-kitoblardan oldin kuchlarni o\'lchaydi, bu esa o\'z navbatida harakatlarning umumiy kattaligiga ta\'sir qiladi.</string>
+    <string name="menuLicense">Litsenziyangizni yangilang</string>
+    <string name="openSourceLicensesTitle">Ochiq kodli litsenziyalar</string>
+    <string name="dialogConsentMessage">Ushbu ilovaga mos oynalarni topish uchun ekrandagi interaktiv oynalarni olish uchun AccessibilityService API kerak.
+\n
+\nKeyin xizmat mo\'ljallangan vazifani bajarish uchun kerak bo\'lganda bunday oynalarga bir nechta \"ko\'chirish oynasi\" mavjud amallarni yuboradi.</string>
+    <string name="menuDecreaseTextSize">Matn hajmini kamaytiring</string>
+    <string name="aboutScreenTranslationsTitle">Tarjimalar</string>
+    <string name="menuRateAndComment">Bizga baho bering</string>
+    <string name="yes">Ha</string>
+    <string name="paramRecoil">Orqaga qaytish</string>
+    <string name="paramSensorRate">Sensor tezligi</string>
+    <string name="paramDampingInfo">Buni oshirish harakatlarni sekinlashtiradi va susaytiradi, bu ularni katta kuchlarga nisbatan kamroq sezgir qiladi.</string>
+    <string name="ok">KELISHDIKMI</string>
+    <string name="menuSendDebugFeedback">Muammo haqida xabar bering</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Yakuniy</string>
+    <string name="dialogRestoreDefaultsMessage">Sozlamalar standart qiymatlarga tiklansinmi\?</string>
+    <string name="paramDamping">Damping</string>
+    <string name="serviceInactiveText">Xizmat o\'chirilgan, yoqish uchun shu yerni bosing.</string>
+    <string name="aboutScreenTranslationsText">Ushbu ilovani tarjima qilishga va bepul litsenziya olishga yordam bering! Batafsil ma\'lumot:</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ultimateLicenseTitle">Yakuniy litsenziya</string>
+    <string name="measuredSensorRate">O\'lchangan sensor tezligi</string>
+    <string name="menuTheme">Mavzu</string>
+    <string name="measuredSensorRateInfo">Ilova tomonidan o\'lchangan joriy sensor tezligi. Bu kerakli sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni taqdim etishni hal qiladi.</string>
+    <string name="aboutScreenGithubLink">Hali ham GitHub-da</string>
+    <string name="aboutScreenLicenseTitle">Ilova litsenziyasi</string>
+    <string name="aboutScreenLicenseText">Ushbu ilova bepul va cheklovlarsiz ishlaydi. Biroq, parametrlar litsenziyasiz 1 soatdan keyin standart qiymatlariga qaytadi.</string>
+    <string name="dialogInfoButton">GitHub-ga o\'ting</string>
+    <string name="generalError">Ba\'zi xatolik yuz berdi. Iltimos, yana bir bor urinib ko\'ring.</string>
+    <string name="paramRecoilInfo">Buni oshirish kichik tebranishlarga nisbatan sezgirlikni pasaytiradi va harakatlarni katta kuchlarga nisbatan kamroq sezgir qiladi.</string>
+    <string name="dialogConsentTitle">Rozilik</string>
+    <string name="menuRestoreDefaults">Standart sozlamalarni tiklash</string>
+    <string name="dialogButtonRateOnPlayStore">Play Marketda baho bering</string>
+    <string name="paramSensorRateInfo">Bu kerakli sensor tezligini o\'rnatadi. Yuqori qiymatlar ko\'proq batareya iste\'mol qilishi mumkin. Bu o\'lchangan sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni ta\'minlashni hal qiladi.</string>
+    <string name="menuIncreaseTextSize">Matn hajmini oshiring</string>
+    <string name="menuInfo">Ma\'lumot</string>
+    <string name="accServiceDesc">⛵ Ushbu xizmat mos keluvchi ilovalarga foydalanuvchi interfeysi doirasidagi kichik qurilma harakatlariga osongina qarshi turish imkonini beradi.
+\n
+\n🏝️ Bu ekranni oʻqish qobiliyatini yaxshilashi va yoʻl-yoʻlakay harakat kasalligini engillashtirishi mumkin, masalan. harakatlanayotgan transport vositasida o\'qish paytida.
+\n
+\n🛡️ Ekranda qaysi oyna ko‘rinishini bilish uchun ilovaga ruxsatingiz kerak. U oyna mazmunini o\'qimaydi.
+\n
+\nℹ️ Qo\'shimcha ma\'lumot, amalga oshirish tafsilotlari va misollarni quyidagi manzilda toping:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
