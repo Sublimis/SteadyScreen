@@ -36,7 +36,7 @@
     <string name="paramDampingInfo">हे वाढवल्याने हालचाली मंदावतील आणि कमी होतील, ज्यामुळे ते मोठ्या शक्तींना कमी संवेदनशील बनतील.</string>
     <string name="ok">ठीक आहे</string>
     <string name="menuSendDebugFeedback">समस्येची तक्रार करा</string>
-    <string name="ratePerSecond">[०] Hz</string>
+    <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">परम</string>
     <string name="dialogRestoreDefaultsMessage">सेटिंग्ज डीफॉल्ट मूल्यांवर पुनर्संचयित करायची\?</string>
     <string name="paramDamping">ओलसर</string>
