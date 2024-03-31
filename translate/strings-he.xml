@@ -1,2 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ שירות זה מאפשר ליישומים תואמים לסתור בקלות תנועות מכשיר קטנות בתוך ממשק המשתמש שלהם.
+\n
+\n🏝️ זה יכול לשפר את קריאות המסך ואולי להקל על מחלת תנועה תוך כדי תנועה, למשל. בזמן קריאה ברכב נע.
+\n
+\n⚡ האפליקציה נוצרה בקפידה רבה, על מנת למזער את השימוש במשאבים ולמקסם את הביצועים.
+\n
+\nמקווה שתהנו 😊</string>
+    <string name="dialogReviewNudgeMessage">האם אתה נהנה מהאפליקציה הזו\?</string>
+    <string name="dialogReviewNudgeMessage2">תודה! אנא כתוב ביקורת נחמדה או דרג אותנו ב-5 כוכבים בחנות Play.</string>
+    <string name="paramLinearScalingInfo">זה משנה את התנועות באופן ליניארי, מה שהופך אותן לגדולות או קטנות מבלי להשפיע על החישובים.</string>
+    <string name="licenseItemAlreadyOwned">פריט רישיון כבר בבעלות</string>
+    <string name="dialogInfoMessage">נער מעט את המכשיר. שימו לב כיצד תוכן הרקע מרכך את התנועות הללו, ומקל על הקריאה על המסך. (שירות Stilly חייב להיות מופעל בהגדרות הנגישות כדי שזה יקרה.)
+\n
+\nפונקציונליות זו ניתנת ליישום בקלות בכל יישום. אנא עקוב אחר ההוראות ב-GitHub.</string>
+    <string name="paramForceScaling">כוח קנה מידה</string>
+    <string name="paramLinearScaling">קנה מידה ליניארי</string>
+    <string name="dialogConsentButton">לְקַבֵּל</string>
+    <string name="no">לא</string>
+    <string name="licenseSuccessDialogMessage">האפליקציה קיבלה רישיון בהצלחה. תודה על תמיכתך!</string>
+    <string name="menuSettings">הגדרות נגישות</string>
+    <string name="menuAbout">על אודות</string>
+    <string name="paramForceScalingInfo">זה משנה את הכוחות לפני חישובים, אשר בתורו משפיע על גודל התנועות הכולל.</string>
+    <string name="menuLicense">שדרג את הרישיון שלך</string>
+    <string name="openSourceLicensesTitle">רישיונות קוד פתוח</string>
+    <string name="dialogConsentMessage">יישום זה זקוק ל-AccessibilityService API כדי לאחזר חלונות אינטראקטיביים על המסך, כדי למצוא תואמים.
+\n
+\nלאחר מכן, השירות שולח מספר פעולות נגישות \"הזז חלון\" לחלונות כאלה, לפי הצורך, כדי לבצע את הפונקציה המיועדת.</string>
+    <string name="menuDecreaseTextSize">הקטן את גודל הטקסט</string>
+    <string name="aboutScreenTranslationsTitle">תרגומים</string>
+    <string name="menuRateAndComment">דרג אותנו</string>
+    <string name="yes">כן</string>
+    <string name="paramRecoil">רתע</string>
+    <string name="paramSensorRate">קצב חיישן</string>
+    <string name="paramDampingInfo">הגדלת זה תאט ותחליש את התנועות, מה שהופך אותן לפחות רגישות לכוחות גדולים יותר.</string>
+    <string name="ok">בסדר</string>
+    <string name="menuSendDebugFeedback">דווח על בעיה</string>
+    <string name="ratePerSecond">%1$s הרץ</string>
+    <string name="ultimateLicenseLabel">סופי</string>
+    <string name="dialogRestoreDefaultsMessage">לשחזר את ההגדרות לערכי ברירת המחדל\?</string>
+    <string name="paramDamping">שיכוך</string>
+    <string name="serviceInactiveText">השירות מושבת, לחץ כאן כדי להפעיל.</string>
+    <string name="aboutScreenTranslationsText">עזור לתרגם את האפליקציה הזו וקבל רישיון חינם! עוד מידע:</string>
+    <string name="cancel">לְבַטֵל</string>
+    <string name="ultimateLicenseTitle">רישיון אולטימטיבי</string>
+    <string name="measuredSensorRate">קצב חיישן נמדד</string>
+    <string name="menuTheme">נושא</string>
+    <string name="measuredSensorRateInfo">קצב החיישן הנוכחי כפי שנמדד על ידי האפליקציה. זה עשוי להיות שונה מקצב החיישן הרצוי שכן המערכת מחליטה בסופו של דבר איזה קצב לספק.</string>
+    <string name="aboutScreenGithubLink">סטילי ב-GitHub</string>
+    <string name="aboutScreenLicenseTitle">רישיון אפליקציה</string>
+    <string name="aboutScreenLicenseText">אפליקציה זו היא חינמית ועובדת ללא הגבלה. עם זאת, הפרמטרים יחזרו לערכי ברירת המחדל שלהם לאחר שעה ללא רישיון.</string>
+    <string name="dialogInfoButton">עבור אל GitHub</string>
+    <string name="generalError">אירעה שגיאה כלשהי. בבקשה נסה שוב.</string>
+    <string name="paramRecoilInfo">הגדלת זה תפחית את הרגישות לתנודות קטנות ותהפוך את התנועות לפחות רגישות לכוחות גדולים יותר.</string>
+    <string name="dialogConsentTitle">הַסכָּמָה</string>
+    <string name="menuRestoreDefaults">לשחזר את ברירות מחדל</string>
+    <string name="dialogButtonRateOnPlayStore">דרג בחנות Play</string>
+    <string name="paramSensorRateInfo">זה קובע את קצב החיישן הרצוי. ערכים גבוהים יותר עשויים לצרוך יותר סוללה. זה עשוי להיות שונה מקצב החיישן הנמדד שכן המערכת מחליטה בסופו של דבר איזה קצב לספק.</string>
+    <string name="menuIncreaseTextSize">הגדל את גודל הטקסט</string>
+    <string name="menuInfo">מידע</string>
+    <string name="accServiceDesc">⛵ שירות זה מאפשר ליישומים תואמים לסתור בקלות תנועות מכשיר קטנות בתוך ממשק המשתמש שלהם.
+\n
+\n🏝️ זה יכול לשפר את קריאות המסך ואולי להקל על מחלת תנועה תוך כדי תנועה, למשל. בזמן קריאה ברכב נע.
+\n
+\n🛡️ האפליקציה זקוקה לאישור שלכם כדי לדעת איזה חלון גלוי על המסך. זה לא קורא את תוכן החלון.
+\n
+\nℹ️ מצא מידע נוסף, פרטי יישום ודוגמאות ב:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
