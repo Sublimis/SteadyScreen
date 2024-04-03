@@ -11,36 +11,36 @@
     <string name="dialogReviewNudgeMessage2">Grazie! Scrivi una bella recensione o valutaci con 5 stelle sul Play Store.</string>
     <string name="paramLinearScalingInfo">Ciò ridimensiona i movimenti in modo lineare, rendendoli più grandi o più piccoli senza influenzare i calcoli.</string>
     <string name="licenseItemAlreadyOwned">Articolo in licenza già posseduto</string>
-    <string name="dialogInfoMessage">Scuotere leggermente il dispositivo. Nota come il contenuto dello sfondo ammorbidisce questi movimenti, facilitando la lettura sullo schermo. (Affinché ciò accada, il servizio Stilly deve essere abilitato nelle impostazioni di Accessibilità.)
+    <string name="dialogInfoMessage">Scuoti leggermente il dispositivo. Nota come il contenuto dello sfondo ammorbidisce questi movimenti, facilitando la lettura sullo schermo (affinché questo accada, il servizio Stilly deve essere abilitato nelle impostazioni di Accessibilità).
 \n
 \nQuesta funzionalità può essere facilmente implementata in qualsiasi applicazione. Seguire le istruzioni su GitHub.</string>
     <string name="paramForceScaling">Ridimensionamento della forza</string>
-    <string name="paramLinearScaling">Scala lineare</string>
-    <string name="dialogConsentButton">Accettare</string>
-    <string name="no">NO</string>
-    <string name="licenseSuccessDialogMessage">La licenza dell\'app è stata concessa correttamente. Grazie per il vostro sostegno!</string>
+    <string name="paramLinearScaling">Ridimensionamento lineare</string>
+    <string name="dialogConsentButton">Accetta</string>
+    <string name="no">No</string>
+    <string name="licenseSuccessDialogMessage">La licenza dell\'app è stata concessa correttamente. Grazie per il tuo sostegno!</string>
     <string name="menuSettings">Impostazioni di accessibilità</string>
-    <string name="menuAbout">Di</string>
+    <string name="menuAbout">Informazioni su</string>
     <string name="paramForceScalingInfo">Ciò ridimensiona le forze prima dei calcoli, il che a sua volta influisce sull\'entità complessiva dei movimenti.</string>
-    <string name="menuLicense">Aggiorna la tua licenza</string>
+    <string name="menuLicense">Aggiorna la licenza</string>
     <string name="openSourceLicensesTitle">Licenze open source</string>
     <string name="dialogConsentMessage">Questa applicazione necessita dell\'API AccessibilityService per recuperare le finestre interattive sullo schermo, al fine di trovare quelle compatibili.
 \n
 \nIl servizio invia quindi più azioni di accessibilità \"sposta finestra\" a tali finestre, secondo necessità, per eseguire la funzione prevista.</string>
-    <string name="menuDecreaseTextSize">Diminuisci la dimensione del testo</string>
+    <string name="menuDecreaseTextSize">Riduci la dimensione del testo</string>
     <string name="aboutScreenTranslationsTitle">Traduzioni</string>
     <string name="menuRateAndComment">Valutaci</string>
-    <string name="yes">SÌ</string>
+    <string name="yes">Sì</string>
     <string name="paramRecoil">Rinculo</string>
     <string name="paramSensorRate">Frequenza del sensore</string>
-    <string name="paramDampingInfo">Aumentandolo si rallenteranno e attenueranno i movimenti, rendendoli meno sensibili a forze maggiori.</string>
+    <string name="paramDampingInfo">Aumentando questo fattore si rallenteranno e attenueranno i movimenti, rendendoli meno sensibili a forze maggiori.</string>
     <string name="ok">OK</string>
     <string name="menuSendDebugFeedback">Segnala un problema</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Definitivo</string>
     <string name="dialogRestoreDefaultsMessage">Ripristinare le impostazioni ai valori predefiniti\?</string>
     <string name="paramDamping">Smorzamento</string>
-    <string name="serviceInactiveText">Il servizio è disabilitato, clicca qui per abilitarlo.</string>
+    <string name="serviceInactiveText">Il servizio è disabilitato, fai clic qui per abilitarlo.</string>
     <string name="aboutScreenTranslationsText">Aiutaci a tradurre questa app e ottieni una licenza gratuita! Ulteriori informazioni:</string>
     <string name="cancel">Annulla</string>
     <string name="ultimateLicenseTitle">Licenza definitiva</string>
@@ -51,8 +51,8 @@
     <string name="aboutScreenLicenseTitle">Licenza dell\'app</string>
     <string name="aboutScreenLicenseText">Questa applicazione è gratuita e funziona senza limitazioni. Tuttavia, i parametri torneranno ai valori predefiniti dopo 1 ora senza licenza.</string>
     <string name="dialogInfoButton">Vai su GitHub</string>
-    <string name="generalError">Si è verificato un errore. Per favore riprova.</string>
-    <string name="paramRecoilInfo">Aumentandolo si ridurrà la sensibilità alle piccole oscillazioni e si renderanno i movimenti meno sensibili alle forze più grandi.</string>
+    <string name="generalError">Si è verificato un errore. Riprova.</string>
+    <string name="paramRecoilInfo">Aumentando questo fattore si ridurrà la sensibilità alle piccole oscillazioni e si renderanno i movimenti meno sensibili alle forze maggiori.</string>
     <string name="dialogConsentTitle">Consenso</string>
     <string name="menuRestoreDefaults">Ripristina i valori predefiniti</string>
     <string name="dialogButtonRateOnPlayStore">Valuta sul Play Store</string>
