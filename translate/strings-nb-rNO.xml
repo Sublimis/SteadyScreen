@@ -1,2 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Denne tjenesten lar kompatible applikasjoner enkelt motvirke små enhetsbevegelser i brukergrensesnittet.
+\n
+\n🏝️ Dette kan forbedre skjermlesbarheten og muligens lindre reisesyke mens du er på farten, f.eks. mens du leser i et kjøretøy i bevegelse.
+\n
+\n⚡ Applikasjonen er laget svært omhyggelig for å minimere ressursbruk og maksimere ytelsen.
+\n
+\nHåper du liker det 😊</string>
+    <string name="dialogReviewNudgeMessage">Liker du denne appen\?</string>
+    <string name="dialogReviewNudgeMessage2">Takk! Skriv en hyggelig anmeldelse eller gi oss 5 stjerner i Play Store.</string>
+    <string name="paramLinearScalingInfo">Dette skalerer bevegelsene lineært, og gjør dem større eller mindre uten å påvirke beregningene.</string>
+    <string name="licenseItemAlreadyOwned">Lisenselementet er allerede eid</string>
+    <string name="dialogInfoMessage">Rist enheten litt. Legg merke til hvordan bakgrunnsinnholdet myker disse bevegelsene, noe som gjør det lettere å lese på skjermen. (Stilly-tjenesten må være aktivert i tilgjengelighetsinnstillingene for at dette skal skje.)
+\n
+\nDenne funksjonaliteten kan enkelt implementeres i enhver applikasjon. Vennligst følg instruksjonene på GitHub.</string>
+    <string name="paramForceScaling">Tving skalering</string>
+    <string name="paramLinearScaling">Lineær skalering</string>
+    <string name="dialogConsentButton">Aksepterer</string>
+    <string name="no">Nei</string>
+    <string name="licenseSuccessDialogMessage">Appen ble lisensiert. Takk for støtten!</string>
+    <string name="menuSettings">Tilgjengelighetsinnstillinger</string>
+    <string name="menuAbout">Om</string>
+    <string name="paramForceScalingInfo">Dette skalerer kreftene før beregninger, som igjen påvirker den totale størrelsen på bevegelsene.</string>
+    <string name="menuLicense">Oppgrader lisensen din</string>
+    <string name="openSourceLicensesTitle">Åpen kildekode-lisenser</string>
+    <string name="dialogConsentMessage">Denne applikasjonen trenger AccessibilityService API for å hente interaktive vinduer på skjermen, for å finne kompatible vinduer.
+\n
+\nTjenesten sender deretter flere \"flytt vindu\" tilgjengelighetshandlinger til slike vinduer, etter behov, for å utføre den tiltenkte funksjonen.</string>
+    <string name="menuDecreaseTextSize">Reduser tekststørrelsen</string>
+    <string name="aboutScreenTranslationsTitle">Oversettelser</string>
+    <string name="menuRateAndComment">Rangere oss</string>
+    <string name="yes">Ja</string>
+    <string name="paramRecoil">Rekyl</string>
+    <string name="paramSensorRate">Sensorhastighet</string>
+    <string name="paramDampingInfo">Å øke dette vil bremse og dempe bevegelser, noe som gjør dem mindre følsomme for større krefter.</string>
+    <string name="ok">OK</string>
+    <string name="menuSendDebugFeedback">Rapporter et problem</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Ultimat</string>
+    <string name="loremIpsum">(Denne teksten er for demonstrasjonsformål)
+\n
+\nSoldaten med de grønne værhårene førte dem gjennom gatene i Smaragdbyen til de nådde rommet der Portens Guardian bodde. Denne offiseren låste opp brillene deres for å legge dem tilbake i den store boksen sin, og så åpnet han høflig porten for vennene våre.
+\n
+\n\"Hvilken vei fører til Vestens onde heks\?\" spurte Dorothy.
+\n
+\n\"Det er ingen vei,\" svarte Guardian of the Gates. \"Ingen ønsker noen gang å gå den veien.\"
+\n
+\n\"Hvordan skal vi finne henne\?\" spurte jenta.
+\n
+\n\"Det vil være lett,\" svarte mannen, \"for når hun vet at du er i Winkies-landet, vil hun finne deg og gjøre deg til alle hennes slaver.\"
+\n
+\n\"Kanskje ikke,\" sa fugleskremselet, \"for vi mener å ødelegge henne.\"
+\n
+\n\"Å, det er annerledes,\" sa Guardian of the Gates. \"Ingen har noen gang ødelagt henne før, så jeg trodde naturligvis at hun ville gjøre deg til slaver, slik hun har gjort av resten. Men ta vare på deg, for hun er ond og heftig, og lar deg kanskje ikke ødelegge henne. Hold deg til Vest, hvor solen går ned, og du kan ikke unngå å finne henne.\"
+\n
+\nDe takket ham og ba ham farvel, og vendte seg mot Vesten, og gikk over jorder med mykt gress som var oversådd her og der med tusenfryd og ranunkler. Dorothy hadde fortsatt på seg den vakre silkekjolen hun hadde tatt på seg i palasset, men nå, til hennes overraskelse, fant hun ut at den ikke lenger var grønn, men ren hvit. Båndet rundt halsen til Totos hadde også mistet grønnfargen og var like hvit som kjolen til Dorothy.
+\n
+\nSmaragdbyen ble snart etterlatt langt bak. Etter hvert som de gikk frem, ble bakken grovere og mer kupert, for det fantes ingen gårder eller hus i dette landet i Vesten, og bakken ble bearbeidet.
+\n
+\nOm ettermiddagen skinte solen varm i ansiktene deres, for det var ingen trær som kunne gi dem skygge; Så før natten var Dorothy og Toto og løven slitne, og la seg på gresset og sovnet, mens Woodman og fugleskremselen holdt vakt.
+\n
+\nNå hadde den onde heksen fra Vesten bare ett øye, men det var like kraftig som et teleskop og kunne se overalt. Så da hun satt i døren til slottet hennes, så hun seg tilfeldigvis rundt og så Dorothy ligge og sov, med vennene sine rundt seg. De var et stykke unna, men den onde heksen ble sint over å finne dem i landet hennes; så hun blåste i en sølvfløyte som hang rundt halsen hennes.
+\n
+\nStraks kom det løpende til henne fra alle kanter en flokk store ulver. De hadde lange ben og voldsomme øyne og skarpe tenner.
+\n
+\n\"Gå til de menneskene,\" sa heksen, \"og riv dem i stykker.\"
+\n
+\n\"Skal du ikke gjøre dem til dine slaver\?\" spurte lederen for ulvene.
+\n
+\n\"Nei,\" svarte hun, \"en er av tinn og en av halm; en er en jente og en annen en løve. Ingen av dem er arbeidsdyktige, så du kan rive dem i småbiter.\"
+\n
+\n- Veldig bra, sa ulven, og han sprang av gårde i full fart, etterfulgt av de andre.
+\n
+\nDet var heldig at fugleskremselet og skogmannen var lys våkne og hørte ulvene komme.
+\n
+\n\"Dette er min kamp,\" sa Woodman, \"så kom bak meg og jeg vil møte dem når de kommer.\"
+\n
+\nHan grep øksen hans, som han hadde gjort veldig skarp, og da lederen for ulvene kom på svingte Tin Woodman armen og hugget ulvens hode fra kroppen, slik at den døde umiddelbart. Så snart han kunne heve øksen kom en annen ulv opp, og han falt også under den skarpe kanten av Tin Woodmans våpen. Det var førti ulver, og førti ganger ble en ulv drept, så til slutt lå de alle døde i en haug foran Woodman.
+\n
+\nSå la han fra seg øksa og satte seg ved siden av fugleskremselet, som sa: «Det var en god kamp, venn».
+\n
+\nDe ventet til Dorothy våknet neste morgen. Den lille jenta ble ganske redd da hun så den store haugen med raggete ulver, men Tin Woodman fortalte henne alt. Hun takket ham for at han reddet dem og satte seg til frokost, hvorpå de begynte på reisen igjen.
+\n
+\nNå samme morgen kom den onde heksa til døren til slottet hennes og så ut med det ene øyet som kunne se langt borte. Hun så alle ulvene hennes ligge døde, og de fremmede som fortsatt reiste gjennom landet hennes. Dette gjorde henne sintere enn før, og hun blåste i sølvfløyta to ganger.
+\n
+\nStraks kom en stor flokk ville kråker flyvende mot henne, nok til å mørkne himmelen.
+\n
+\nOg den onde heksen sa til kongekråken: \"Fly med en gang til de fremmede, plukk ut øynene deres og riv dem i stykker.\"
+\n
+\nDe ville kråkene fløy i en stor flokk mot Dorothy og hennes følgesvenner. Da den lille jenta så dem komme, ble hun redd.
+\n
+\nMen fugleskremselet sa: \"Dette er min kamp, så legg deg ned ved siden av meg og du vil ikke bli skadet.\"
+\n
+\nSå de lå alle på bakken unntatt fugleskremselen, og han reiste seg og strakte ut armene. Og da kråkene så ham, ble de redde, som disse fuglene alltid er av fugleskremsler, og torde ikke komme nærmere. Men kongekråken sa:
+\n
+\n\"Det er bare en utstoppet mann. Jeg vil hakke øynene hans ut.\"
+\n
+\nKongekråken fløy mot fugleskremselet, som fanget den i hodet og vred på nakken til den døde. Og så fløy en annen kråke mot ham, og fugleskremselet vred også på nakken. Det var førti kråker, og førti ganger vred fugleskremselet en nakke, inntil alle omsider lå døde ved siden av ham. Så ropte han til sine ledsagere om å reise seg, og igjen dro de ut på reisen.
+\n
+\nDa den onde heksen så ut igjen og så alle kråkene hennes ligge i en haug, ble hun forferdelig rasende og blåste tre ganger på sølvfløyten hennes.
+\n
+\nStraks hørtes det en stor summing i luften, og en sverm av svarte bier kom flyvende mot henne.
+\n
+\n\"Gå til de fremmede og stikk dem i hjel!\" kommanderte heksen, og biene snudde seg og fløy raskt til de kom dit Dorothy og vennene hennes gikk. Men Woodman hadde sett dem komme, og fugleskremselet hadde bestemt seg for hva de skulle gjøre.
+\n
+\n\"Ta ut strået mitt og strø det over den lille jenta og hunden og løven,\" sa han til Woodman, \"og biene kan ikke stikke dem.\" Dette gjorde Woodman, og da Dorothy lå tett ved siden av løven og holdt Toto i armene hennes, dekket halmen dem helt.
+\n
+\nBiene kom og fant ingen andre enn Woodman å stikke, så de fløy på ham og brøt av alle broddene deres mot tinn, uten å skade Woodman i det hele tatt. Og siden bier ikke kan leve når broddene deres er knekt, var det slutten på de svarte biene, og de lå spredt tykt rundt Woodman, som små hauger med fint kull.
+\n
+\nSå reiste Dorothy og løven seg, og jenta hjalp Tin Woodman med å sette sugerøret tilbake i fugleskremselet igjen, til han var så god som alltid. Så de begynte på reisen igjen.
+\n
+\nDen onde heksen ble så sint da hun så de svarte biene hennes i små hauger som fint kull at hun trampet med foten og rev i håret og gnisset tenner. Og så kalte hun et dusin av slavene sine, som var Winkies, og ga dem skarpe spyd og ba dem gå til de fremmede og ødelegge dem.
+\n
+\nWinkies var ikke et modig folk, men de måtte gjøre som de ble fortalt. Så de marsjerte bort til de nærmet seg Dorothy. Så ga løven et stort brøl og sprang mot dem, og de stakkars Winkies ble så redde at de løp tilbake så fort de kunne.</string>
+    <string name="dialogRestoreDefaultsMessage">Vil du gjenopprette innstillingene til standardverdiene\?</string>
+    <string name="paramDamping">Demping</string>
+    <string name="serviceInactiveText">Tjenesten er deaktivert, klikk her for å aktivere.</string>
+    <string name="aboutScreenTranslationsText">Hjelp med å oversette denne appen og få en gratis lisens! Mer informasjon:</string>
+    <string name="cancel">Avbryt</string>
+    <string name="ultimateLicenseTitle">Ultimativ lisens</string>
+    <string name="measuredSensorRate">Målt sensorhastighet</string>
+    <string name="menuTheme">Tema</string>
+    <string name="measuredSensorRateInfo">Gjeldende sensorhastighet målt av appen. Dette kan avvike fra ønsket sensorhastighet ettersom systemet til slutt bestemmer hvilken rate som skal gis.</string>
+    <string name="aboutScreenGithubLink">Stilly på GitHub</string>
+    <string name="aboutScreenLicenseTitle">Applisens</string>
+    <string name="aboutScreenLicenseText">Denne applikasjonen er gratis og fungerer uten begrensninger. Parametrene vil imidlertid gå tilbake til standardverdiene etter 1 time uten lisens.</string>
+    <string name="dialogInfoButton">Gå til GitHub</string>
+    <string name="generalError">Det oppstod en feil. Vær så snill, prøv på nytt.</string>
+    <string name="paramRecoilInfo">Å øke denne vil redusere følsomheten for små svingninger og gjøre bevegelser mindre følsomme for større krefter.</string>
+    <string name="dialogConsentTitle">Samtykke</string>
+    <string name="menuRestoreDefaults">Gjenopprett standardinnstillinger</string>
+    <string name="dialogButtonRateOnPlayStore">Vurder på Play Store</string>
+    <string name="paramSensorRateInfo">Dette stiller inn ønsket sensorhastighet. Høyere verdier kan bruke mer batteri. Dette kan avvike fra den målte sensorhastigheten ettersom systemet til slutt bestemmer hvilken hastighet som skal gis.</string>
+    <string name="menuIncreaseTextSize">Øk tekststørrelsen</string>
+    <string name="menuInfo">Info</string>
+    <string name="accServiceDesc">⛵ Denne tjenesten lar kompatible applikasjoner enkelt motvirke små enhetsbevegelser i brukergrensesnittet.
+\n
+\n🏝️ Dette kan forbedre skjermlesbarheten og muligens lindre reisesyke mens du er på farten, f.eks. mens du leser i et kjøretøy i bevegelse.
+\n
+\n🛡️ Appen trenger din tillatelse for å vite hvilket vindu som er synlig på skjermen. Den leser ikke vinduets innhold.
+\n
+\nℹ️ Finn mer informasjon, implementeringsdetaljer og eksempler på:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
