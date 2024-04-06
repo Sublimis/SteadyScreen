@@ -1,2 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="appDesc">⛵ Þessi þjónusta gerir samhæfum forritum kleift að vinna auðveldlega gegn litlum hreyfingum tækja innan notendaviðmótsins.
+\n
+\n🏝️ Þetta getur bætt læsileika skjásins og hugsanlega dregið úr ferðaveiki á ferðinni, t.d. við lestur í ökutæki á ferð.
+\n
+\n⚡ Forritið hefur verið unnið mjög vandlega til að lágmarka auðlindanotkun og hámarka afköst.
+\n
+\nVona að þú njótir þess 😊</string>
+    <string name="dialogReviewNudgeMessage">Ertu að njóta þessa apps\?</string>
+    <string name="dialogReviewNudgeMessage2">Takk! Vinsamlegast skrifaðu góða umsögn eða gefðu okkur 5 stjörnur í Play Store.</string>
+    <string name="paramLinearScalingInfo">Þetta skalar hreyfingarnar línulega, gerir þær stærri eða minni án þess að hafa áhrif á útreikningana.</string>
+    <string name="licenseItemAlreadyOwned">Leyfishlutur er þegar í eigu</string>
+    <string name="dialogInfoMessage">Hristið tækið aðeins. Taktu eftir því hvernig bakgrunnsinnihaldið mýkir þessar hreyfingar og gerir lestur á skjánum auðveldari. (Stilly þjónusta verður að vera virkjuð í aðgengisstillingunum til að þetta gerist.)
+\n
+\nÞessa virkni er auðvelt að útfæra í hvaða forriti sem er. Vinsamlegast fylgdu leiðbeiningunum á GitHub.</string>
+    <string name="paramForceScaling">Þvingunarskala</string>
+    <string name="paramLinearScaling">Línuleg mælikvarði</string>
+    <string name="dialogConsentButton">Samþykkja</string>
+    <string name="no">Nei</string>
+    <string name="licenseSuccessDialogMessage">Forritið fékk leyfi. Þakka þér fyrir stuðninginn!</string>
+    <string name="menuSettings">Aðgengisstillingar</string>
+    <string name="menuAbout">Um</string>
+    <string name="paramForceScalingInfo">Þetta skalar kraftana fyrir útreikninga, sem aftur hefur áhrif á heildarstærð hreyfinga.</string>
+    <string name="menuLicense">Uppfærðu leyfið þitt</string>
+    <string name="openSourceLicensesTitle">Opinn uppspretta leyfi</string>
+    <string name="dialogConsentMessage">Þetta forrit þarf AccessibilityService API til að sækja gagnvirka glugga á skjáinn til að finna samhæfa.
+\n
+\nÞjónustan sendir síðan margar „færa glugga“ aðgengisaðgerðir til slíkra glugga, eftir þörfum, til að framkvæma fyrirhugaða aðgerð.</string>
+    <string name="menuDecreaseTextSize">Minnka textastærð</string>
+    <string name="aboutScreenTranslationsTitle">Þýðingar</string>
+    <string name="menuRateAndComment">Gefðu okkur einkunn</string>
+    <string name="yes">Já</string>
+    <string name="paramRecoil">Hrökkun</string>
+    <string name="paramSensorRate">Hraði skynjara</string>
+    <string name="paramDampingInfo">Með því að auka þetta mun hægja á og draga úr hreyfingum, sem gerir þær minna viðkvæmar fyrir stærri kröftum.</string>
+    <string name="ok">Allt í lagi</string>
+    <string name="menuSendDebugFeedback">Tilkynna mál</string>
+    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ultimateLicenseLabel">Fullkominn</string>
+    <string name="loremIpsum">(Þessi texti er til sýnis)
+\n
+\nHermaðurinn með grænu whisper leiddi þá um götur Emerald City þar til þeir komu að herberginu þar sem Guardian of the Gates bjó. Þessi liðsforingi opnaði gleraugun þeirra til að setja þau aftur í stóra kassann sinn, og svo opnaði hann hliðið kurteislega fyrir vini okkar.
+\n
+\n\"Hvaða vegur liggur til vondu nornarinnar í vestrinu\?\" spurði Dorothy.
+\n
+\n„Það er enginn vegur,“ svaraði Guardian of the Gates. „Enginn vill fara þessa leið“.
+\n
+\n\"Hvernig eigum við þá að finna hana\?\" spurði stúlkan.
+\n
+\n\"Það verður auðvelt,\" svaraði maðurinn, \"því að þegar hún veit að þú ert í landi Winkies mun hún finna þig og gera þig að þrælum sínum.\"
+\n
+\n\"Kannski ekki,\" sagði fuglahræðan, \"því við ætlum að eyða henni.\"
+\n
+\n„Ó, það er öðruvísi,“ sagði Guardian of the Gates. \"Enginn hefur nokkru sinni eytt henni áður, svo ég hélt náttúrulega að hún myndi gera þig að þrælum eins og hún hefur gert af hinum. En farðu varlega, því að hún er vond og grimm og getur ekki leyft þér að tortíma henni. Haltu þig við Vestur, þar sem sólin sest, og þú getur ekki mistekist að finna hana.\"
+\n
+\nÞeir þökkuðu honum og kvöddu hann og sneru í átt til vesturs, gangandi yfir mjúku grasvelli, sem eru doppaðir hér og þar með tígulskrautum og smjörbollum. Dorothy klæddist enn fallega silkikjólnum sem hún hafði klætt sig í í höllinni, en nú, henni til undrunar, fann hún að hann var ekki lengur grænn, heldur hreinhvítur. Slaufan um háls Toto hafði líka misst græna litinn og var eins hvítur og kjóllinn hennar Dorothy.
+\n
+\nEmerald City var fljótlega skilinn eftir langt á eftir. Eftir því sem þeir komust áleiðis varð jörðin grófari og hærra, því að hvorki voru bæir né hús hér á Vesturlandi, og var jörð gróin.
+\n
+\nSíðdegis skein sólin heit í andlit þeirra, því engin tré voru til að veita þeim skugga; Svo að fyrir nóttina voru Dorothy og Toto og ljónið þreytt, og lögðust í grasið og sofnuðu, með skógarmanninum og fuglahræðanum sem stóðu vaktina.
+\n
+\nNú hafði vonda nornin á Vesturlöndum aðeins eitt auga, en samt var það eins öflugt og sjónauki og sá alls staðar. Svo, þegar hún sat í hurðinni á kastalanum sínum, leit hún í kringum sig og sá Dorothy liggja sofandi, með vinum sínum allt í kringum sig. Þeir voru langt í burtu, en vonda nornin var reið að finna þá í landi sínu; svo hún blés í silfurflautu sem hékk um hálsinn á henni.
+\n
+\nÞegar í stað kom hlaupandi til hennar úr öllum áttum hópur mikilla úlfa. Þeir höfðu langa fætur og grimm augu og skarpar tennur.
+\n
+\n\"Farðu til fólksins,\" sagði nornin, \"og rífðu það í sundur.\"
+\n
+\n\"Ætlarðu ekki að gera þá að þrælum þínum\?\" spurði leiðtogi úlfanna.
+\n
+\n\"Nei,\" svaraði hún, \"einn er úr tini og einn úr hálmi; ein er stúlka og önnur ljón. Enginn þeirra er hæfur til vinnu, svo þú mátt rífa þá í litla bita.\"
+\n
+\n\"Mjög vel,\" sagði úlfurinn, og hann hljóp í burtu á fullri ferð, á eftir hinum.
+\n
+\nÞað var heppni að fuglahræðan og skógarmaðurinn voru vakandi og heyrðu úlfana koma.
+\n
+\n\"Þetta er barátta mín,\" sagði skógarmaðurinn, \"svo farðu á bak við mig og ég mun hitta þá þegar þeir koma.\"
+\n
+\nHann greip öxi sína, sem hann hafði gert mjög beitta, og þegar leiðtogi úlfanna kom á sveif Tin Woodman handleggnum og hjó höfuð úlfsins af líkama hans, svo að hann dó strax. Um leið og hann gat reist öxi sína kom annar úlfur upp og féll hann líka undir beittan brún vopns Tin Woodman. Þar voru fjörutíu úlfar og fjörutíu sinnum var úlfur drepinn, svo að loks lágu þeir allir dauðir í hrúgu fyrir skógarmanninum.
+\n
+\nSíðan lagði hann frá sér öxina og settist við hlið fuglahræðarinnar, sem sagði: \"Þetta var góður bardagi, vinur.\"
+\n
+\nÞeir biðu þar til Dorothy vaknaði morguninn eftir. Litla stúlkan varð ansi hrædd þegar hún sá stóra hauginn af loðnum úlfum, en Tin Woodman sagði henni allt. Hún þakkaði honum fyrir að hafa bjargað þeim og settist að morgunverði, eftir það hófu þau ferð sína aftur.
+\n
+\nNú þennan sama morgun kom vonda nornin að dyrum kastalans síns og horfði út með annað augað sitt sem sá langt í burtu. Hún sá alla úlfa sína liggja dauða og ókunnuga ferðast um land hennar. Þetta gerði hana reiðari en áður og blés í silfurflautunni tvisvar.
+\n
+\nStrax kom mikill hópur villtra kráka fljúgandi á móti henni, nóg til að myrkva himininn.
+\n
+\nOg vonda nornin sagði við Krákkónginn: \"Fljúgðu strax til ókunnugra, tíndu úr þeim augun og rífðu þau í sundur.\"
+\n
+\nVilltu krákurnar flugu í einni stórri hjörð í áttina að Dóróthy og félögum hennar. Þegar litla stúlkan sá þá koma var hún hrædd.
+\n
+\nEn fuglahræðan sagði: \"Þetta er orrusta mín, svo leggstu niður hjá mér og þér mun ekki verða meint.\"
+\n
+\nÞeir lágu því allir á jörðinni nema fuglahræðan, og hann stóð upp og rétti út handleggina. Og þegar krákurnar sáu hann, urðu þær hræddar, eins og þessir fuglar eru alltaf við skræki, og þorðu ekki að koma nær. En Kráka konungur sagði:
+\n
+\n\"Þetta er bara uppstoppaður maður. Ég skal kíkja úr honum augun.\"
+\n
+\nKonungakrákan flaug á fuglahræðuna sem greip hana í höfuðið og sneri hálsinum á henni þar til hún dó. Og svo flaug önnur kráka á hann, og fuglahræðan sneri líka hálsinum. Það voru fjörutíu krákar og fjörutíu sinnum sneri fuglahræðan hálsinn, þar til loksins allir lágu dauðir við hlið hans. Þá kallaði hann til félaga sinna að rísa upp, og þeir héldu aftur ferð sinni.
+\n
+\nÞegar vonda nornin leit út aftur og sá allar krákurnar sínar liggja í hrúgu, varð hún hræðileg reiði og blés þrisvar sinnum í silfurflautuna sína.
+\n
+\nStrax heyrðist mikill suð í loftinu og svartur býflugnasveit kom fljúgandi á móti henni.
+\n
+\n\"Farðu til ókunnugra og stungið þá til bana!\" skipaði norninni og býflugurnar sneru sér við og flugu hratt þar til þær komu þangað sem Dorothy og vinir hennar gengu. En skógarmaðurinn hafði séð þá koma og fuglahræðan hafði ákveðið hvað hann ætti að gera.
+\n
+\n\"Taktu stráið mitt og dreifðu því yfir litlu stúlkuna og hundinn og ljónið,\" sagði hann við skógarmanninn, \"og býflugurnar geta ekki stungið þær.\" Þetta gerði skógarmaðurinn, og þar sem Dorothy lá nálægt ljóninu og hélt á Toto í fanginu, huldi stráin þau alveg.
+\n
+\nBýflugurnar komu og fundu engan nema Skógarmanninn til að stinga, svo þær flugu á hann og brutu af sér allar stungurnar á móti tindinni, án þess að meiða skógarmanninn neitt. Og þar sem býflugur geta ekki lifað þegar stungur þeirra eru brotnar, var það endirinn á svörtu býflugunum, og þær lágu á víð og dreif um Woodman, eins og litlar hrúgur af fínum kolum.
+\n
+\nÞá stóðu Dorothy og ljónið upp og stúlkan hjálpaði Tin Woodman að setja stráið aftur í fuglahræðuna, þar til hann var jafn góður og alltaf. Þeir hófu því ferð sína enn og aftur.
+\n
+\nIllu nornin varð svo reið þegar hún sá svörtu býflugurnar sínar í litlum hrúgum eins og fínum kolum að hún stappaði í fótinn og reif hárið og gnístraði tönnum. Og svo kallaði hún á tugi þræla sinna, sem voru Winkies, og gaf þeim hvöss spjót og sagði þeim að fara til ókunnugra og eyða þeim.
+\n
+\nWinkies voru ekki hugrakkur fólk, en þeir urðu að gera eins og þeim var sagt. Gengu þeir því burt uns þeir komu nær Dóróteíu. Þá gaf ljónið mikið öskur og stökk í áttina að þeim, og greyið Winkies urðu svo hræddir að þeir hlupu til baka eins hratt og þeir gátu.</string>
+    <string name="dialogRestoreDefaultsMessage">Endurheimta stillingar í sjálfgefin gildi\?</string>
+    <string name="paramDamping">Dempun</string>
+    <string name="serviceInactiveText">Þjónustan er óvirk, smelltu hér til að virkja.</string>
+    <string name="aboutScreenTranslationsText">Hjálpaðu til við að þýða þetta forrit og fáðu ókeypis leyfi! Meiri upplýsingar:</string>
+    <string name="cancel">Hætta við</string>
+    <string name="ultimateLicenseTitle">Fullkomið leyfi</string>
+    <string name="measuredSensorRate">Mældur skynjarahraði</string>
+    <string name="menuTheme">Þema</string>
+    <string name="measuredSensorRateInfo">Núverandi skynjarahraði eins og mældur með appinu. Þetta getur verið frábrugðið æskilegum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
+    <string name="aboutScreenGithubLink">Stilly á GitHub</string>
+    <string name="aboutScreenLicenseTitle">App leyfi</string>
+    <string name="aboutScreenLicenseText">Þetta forrit er ókeypis og virkar án takmarkana. Hins vegar munu færibreyturnar fara aftur í sjálfgefnar gildi eftir 1 klukkustund án leyfis.</string>
+    <string name="dialogInfoButton">Farðu á GitHub</string>
+    <string name="generalError">Einhver villa kom upp. Vinsamlegast reyndu aftur.</string>
+    <string name="paramRecoilInfo">Með því að auka þetta mun draga úr næmni fyrir litlum sveiflum og gera hreyfingar minna næmar fyrir stærri kröftum.</string>
+    <string name="dialogConsentTitle">Samþykki</string>
+    <string name="menuRestoreDefaults">Endurheimta sjálfgefna stillingar</string>
+    <string name="dialogButtonRateOnPlayStore">Gefðu einkunn í Play Store</string>
+    <string name="paramSensorRateInfo">Þetta stillir æskilegan skynjarahraða. Hærri gildi gætu eytt meiri rafhlöðu. Þetta getur verið frábrugðið mældum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
+    <string name="menuIncreaseTextSize">Auka textastærð</string>
+    <string name="menuInfo">Upplýsingar</string>
+    <string name="accServiceDesc">⛵ Þessi þjónusta gerir samhæfum forritum kleift að vinna auðveldlega gegn litlum hreyfingum tækja innan notendaviðmótsins.
+\n
+\n🏝️ Þetta getur bætt læsileika skjásins og hugsanlega dregið úr ferðaveiki á ferðinni, t.d. við lestur í ökutæki á ferð.
+\n
+\n🛡️ Forritið þarf leyfi þitt til að vita hvaða gluggi sést á skjánum. Það les ekki innihald gluggans.
+\n
+\nℹ️ Finndu frekari upplýsingar, útfærsluupplýsingar og dæmi á:
+\n
+\ngithub.com/Sublimis/SteadyScreen</string>
+</resources>
