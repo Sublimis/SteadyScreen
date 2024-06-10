@@ -33,23 +33,16 @@ Absolutely nothing. Your Views and ViewGroups continue to function as if the Ste
 
 ## Enable or disable programatically
 
-Call the `ISteadyView.setSteadyViewEnabled(final boolean enabled)` method on your ISteadyView to disable or (re)enable the functionality:
+Call the `ISteadyView.setSteadyViewEnabled(final boolean enabled)` method on your ISteadyView to disable or (re)enable the functionality.
 
+Disable:
+```java
+myView.setSteadyViewEnabled(false);
 ```
-MyCustomView extends View implements ISteadyView
-{
-   ...
-}
 
-MyCustomView myCustomView = new MyCustomView();
-
-...
-
-myCustomView.setSteadyViewEnabled(false);
-
-...
-
-myCustomView.setSteadyViewEnabled(true);
+Enable:
+```java
+myView.setSteadyViewEnabled(true);
 ```
 
 Note, this does not disable/enable the service, it just tells the View to ignore all service inputs.
