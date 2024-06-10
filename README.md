@@ -51,7 +51,7 @@ Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to chec
 
 ## About the service
 
-[SteadyScreen service](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) application uses the [AccessibilityService API](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) to retrieve interactive windows on the screen, in order to find compatible ones. The service then sends multiple "move window" accessibility actions to such windows, as needed, to perform the intended function. The application never collects, stores nor shares any data that can be of personal and confidential nature in any way.
+[SteadyScreen service](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) application uses the [AccessibilityService API](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) to retrieve interactive windows on the screen, in order to find compatible ones. It then sends multiple "move window" accessibility actions to such windows, as needed, to perform the intended function. The service never collects, stores nor shares any data that can be of personal and confidential nature in any way.
 
 ⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. It uses only the accelerometer sensor to achieve the goal.
 
