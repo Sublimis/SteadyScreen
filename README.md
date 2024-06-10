@@ -10,16 +10,6 @@ Ever been in a moving vehicle trying to read?
 - It can improve screen readability and possibly alleviate motion sickness while on the go, e.g. while reading in a moving vehicle or walking.
 
 
-## List of apps supporting SteadyScreen service
-
-(as of 2024-05)
-
-- [Wikipedia (developer build)](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): We compiled this from [the original source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
-
-- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
-
-*Let us know if you've made an app that should be included in the list!*
-
 ## How to make your application compatible
 
 - The easiest way is to use the [SteadyViews](https://github.com/Sublimis/SteadyViews) library, which contains ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
@@ -47,6 +37,17 @@ myView.setSteadyViewEnabled(true);
 
 Note, this does not disable/enable the service, it just tells the View to ignore all service inputs.
 Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to check the enabled state.
+
+
+## List of apps supporting SteadyScreen service
+
+(as of 2024-05)
+
+- [Wikipedia (developer build)](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): We compiled this from [the original source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
+
+- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
+
+*Let us know if you've made an app that should be included in the list!*
 
 
 ## About the service
