@@ -18,7 +18,7 @@ Ever been in a moving vehicle trying to read?
 
 ## What happens if the service is not installed
 
-Absolutely nothing. Your Views and ViewGroups continue to function as if the SteadyScreen service never existed, and we all get on with our merry lives.
+Absolutely nothing. Your Views and ViewGroups continue to function as if the SteadyScreen service never existed. They will never get a callback from the service, so nothing happens.
 
 
 ## Enable or disable programatically
