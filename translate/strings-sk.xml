@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">súhlasiť</string>
     <string name="no">Nie</string>
     <string name="licenseSuccessDialogMessage">Aplikácia bola úspešne licencovaná. Ďakujem za tvoju podporu!</string>
-    <string name="menuSettings">Nastavenia dostupnosti</string>
     <string name="menuAbout">O</string>
     <string name="paramForceScalingInfo">Toto škáluje sily pred výpočtami, čo následne ovplyvňuje celkovú veľkosť pohybov.</string>
     <string name="menuLicense">Aktualizujte si licenciu</string>
     <string name="openSourceLicensesTitle">Licencie s otvoreným zdrojom</string>
-    <string name="dialogConsentMessage">Táto aplikácia potrebuje API AccessibilityService na načítanie interaktívnych okien na obrazovke, aby našla kompatibilné.
-\n
-\nSlužba potom podľa potreby odošle do takýchto okien viacero akcií prístupnosti „presunúť okno“, aby vykonali zamýšľanú funkciu.</string>
     <string name="menuDecreaseTextSize">Zmenšiť veľkosť textu</string>
     <string name="aboutScreenTranslationsTitle">Preklady</string>
     <string name="menuRateAndComment">Ohodnoť nás</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Prejdite na GitHub</string>
     <string name="generalError">Vyskytla sa nejaká chyba. Prosím skúste znova.</string>
     <string name="paramRecoilInfo">Zvýšením sa zníži citlivosť na malé oscilácie a pohyby budú menej citlivé na väčšie sily.</string>
-    <string name="dialogConsentTitle">Súhlas</string>
     <string name="menuRestoreDefaults">Obnoviť predvolené nastavenia</string>
     <string name="dialogButtonRateOnPlayStore">Ohodnoťte v Obchode Play</string>
     <string name="paramSensorRateInfo">Tým sa nastaví požadovaná frekvencia snímača. Vyššie hodnoty môžu spotrebovať viac batérie. Tá sa môže líšiť od nameranej rýchlosti snímača, pretože systém nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
     <string name="menuIncreaseTextSize">Zväčšiť veľkosť textu</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Táto služba umožňuje kompatibilným aplikáciám jednoducho čeliť malým pohybom zariadenia v rámci ich používateľského rozhrania.
-\n
-\n🏝️ Môže to zlepšiť čitateľnosť obrazovky a možno aj zmierniť kinetózu na cestách, napr. pri čítaní v idúcom vozidle.
-\n
-\n🛡️ Aplikácia potrebuje vaše povolenie, aby vedela, ktoré okno je viditeľné na obrazovke. Nečíta obsah okna.
-\n
-\nℹ️ Viac informácií, podrobnosti o implementácii a príklady nájdete na:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Tento text slúži na demonštračné účely)
 \n
 \nVojak so zelenými fúzmi ich viedol ulicami Smaragdového mesta, až sa dostali do miestnosti, kde býval Strážca brán. Tento dôstojník im odomkol okuliare, aby ich dal späť do svojej veľkej skrinky, a potom zdvorilo otvoril bránu pre našich priateľov.

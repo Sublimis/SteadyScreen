@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Nõustu</string>
     <string name="no">Ei</string>
     <string name="licenseSuccessDialogMessage">Rakenduse litsentsimine õnnestus. Täname teid toetuse eest!</string>
-    <string name="menuSettings">Juurdepääsetavuse seaded</string>
     <string name="menuAbout">Umbes</string>
     <string name="paramForceScalingInfo">See skaleerib jõude enne arvutusi, mis omakorda mõjutab liikumiste üldist suurust.</string>
     <string name="menuLicense">Uuendage oma litsentsi</string>
     <string name="openSourceLicensesTitle">Avatud lähtekoodiga litsentsid</string>
-    <string name="dialogConsentMessage">See rakendus vajab ühilduvate akende leidmiseks ekraanilt interaktiivsete akende toomiseks AccessibilityService API-t.
-\n
-\nSeejärel saadab teenus sellistele akendele vastavalt vajadusele soovitud funktsiooni täitmiseks mitu akna teisaldamise juurdepääsutoimingut.</string>
     <string name="menuDecreaseTextSize">Vähendage teksti suurust</string>
     <string name="aboutScreenTranslationsTitle">Tõlked</string>
     <string name="menuRateAndComment">Hinda meid</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Minge GitHubi</string>
     <string name="generalError">Ilmnes mingi viga. Palun proovi uuesti.</string>
     <string name="paramRecoilInfo">Selle suurendamine vähendab tundlikkust väikeste võnkumiste suhtes ja muudab liigutused vähem tundlikuks suuremate jõudude suhtes.</string>
-    <string name="dialogConsentTitle">Nõusolek</string>
     <string name="menuRestoreDefaults">Taasta algseaded</string>
     <string name="dialogButtonRateOnPlayStore">Hinda Play poes</string>
     <string name="paramSensorRateInfo">See määrab soovitud anduri kiiruse. Kõrgemad väärtused võivad akut rohkem tarbida. See võib erineda mõõdetud anduri kiirusest, kuna süsteem otsustab lõpuks, millist kiirust pakkuda.</string>
     <string name="menuIncreaseTextSize">Suurendage teksti suurust</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ See teenus võimaldab ühilduvatel rakendustel oma kasutajaliideses hõlpsalt tõrjuda seadme väikeseid liikumisi.
-\n
-\n🏝️ See võib parandada ekraani loetavust ja võib-olla leevendada liikumishaigust liikvel olles, nt. liikuvas sõidukis lugedes.
-\n
-\n🛡️ Rakendus vajab teie luba, et teada saada, milline aken ekraanil on nähtav. See ei loe akna sisu.
-\n
-\nℹ️ Lisateavet, rakenduse üksikasju ja näiteid leiate:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(See tekst on demonstreerimise eesmärgil)
 \n
 \nRoheliste vurruga sõdur juhatas nad läbi Smaragdlinna tänavate, kuni nad jõudsid tuppa, kus elas Väravate valvur. See ohvitser avas nende prillid lukust, et panna need tagasi oma suurepärasesse kasti, ja avas siis viisakalt meie sõpradele värava.

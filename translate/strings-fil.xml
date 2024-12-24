@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Tanggapin</string>
     <string name="no">Hindi</string>
     <string name="licenseSuccessDialogMessage">Matagumpay na nalisensyahan ang app. Salamat sa iyong suporta!</string>
-    <string name="menuSettings">Mga setting ng accessibility</string>
     <string name="menuAbout">Tungkol sa</string>
     <string name="paramForceScalingInfo">Sinusukat nito ang mga puwersa bago ang mga kalkulasyon, na nakakaapekto naman sa pangkalahatang magnitude ng mga paggalaw.</string>
     <string name="menuLicense">I-upgrade ang iyong lisensya</string>
     <string name="openSourceLicensesTitle">Mga lisensyang open source</string>
-    <string name="dialogConsentMessage">Ang application na ito ay nangangailangan ng AccessibilityService API upang mabawi ang mga interactive na window sa screen, upang makahanap ng mga katugma.
-\n
-\nAng serbisyo ay nagpapadala ng maramihang \"move window\" na mga pagkilos sa pagiging naa-access sa mga naturang window, kung kinakailangan, upang maisagawa ang nilalayon na function.</string>
     <string name="menuDecreaseTextSize">Bawasan ang laki ng teksto</string>
     <string name="aboutScreenTranslationsTitle">Mga pagsasalin</string>
     <string name="menuRateAndComment">I-rate kami</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Pumunta sa GitHub</string>
     <string name="generalError">May naganap na error. Pakisubukang muli.</string>
     <string name="paramRecoilInfo">Ang pagpapataas nito ay magbabawas ng sensitivity sa maliliit na oscillations at gagawing hindi gaanong sensitibo ang mga paggalaw sa mas malalaking pwersa.</string>
-    <string name="dialogConsentTitle">Pagpayag</string>
     <string name="menuRestoreDefaults">Ibalik sa dating ayos</string>
     <string name="dialogButtonRateOnPlayStore">I-rate sa Play Store</string>
     <string name="paramSensorRateInfo">Itinatakda nito ang nais na rate ng sensor. Maaaring kumonsumo ng mas maraming baterya ang mas mataas na halaga. Maaaring mag-iba ito sa sinusukat na rate ng sensor dahil sa huli ay nagpapasya ang system kung aling rate ang ibibigay.</string>
     <string name="menuIncreaseTextSize">Palakihin ang laki ng teksto</string>
     <string name="menuInfo">Impormasyon</string>
-    <string name="accServiceDesc">⛵ Ang serbisyong ito ay nagbibigay-daan sa mga katugmang application na madaling malabanan ang maliliit na paggalaw ng device sa loob ng kanilang user interface.
-\n
-\n🏝️ Mapapabuti nito ang pagiging madaling mabasa ng screen at posibleng maibsan ang pagkakasakit sa paggalaw habang on the go, hal. habang nagbabasa sa umaandar na sasakyan.
-\n
-\n🛡️ Kailangan ng app ang iyong pahintulot para malaman kung aling window ang makikita sa screen. Hindi nito binabasa ang mga nilalaman ng window.
-\n
-\nℹ️ Maghanap ng higit pang impormasyon, mga detalye ng pagpapatupad at mga halimbawa sa:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Ang tekstong ito ay para sa mga layunin ng pagpapakita)
 \n
 \nInakay sila ng sundalong may berdeng balbas sa mga lansangan ng Emerald City hanggang sa makarating sila sa silid kung saan nakatira ang Guardian of the Gates. Binuksan ng opisyal na ito ang kanilang mga salamin upang ibalik ang mga ito sa kanyang malaking kahon, at pagkatapos ay magalang niyang binuksan ang gate para sa aming mga kaibigan.

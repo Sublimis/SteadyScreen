@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Gba</string>
     <string name="no">Rara</string>
     <string name="licenseSuccessDialogMessage">Ohun elo naa ti ni iwe-aṣẹ ni aṣeyọri. O ṣeun fun atilẹyin rẹ!</string>
-    <string name="menuSettings">Eto wiwọle</string>
     <string name="menuAbout">Nipa</string>
     <string name="paramForceScalingInfo">Eyi ṣe iwọn awọn ipa ṣaaju ṣiṣe iṣiro, eyiti o ni ipa lori titobi gbogbo awọn agbeka.</string>
     <string name="menuLicense">Ṣe imudojuiwọn iwe-aṣẹ rẹ</string>
     <string name="openSourceLicensesTitle">Ṣii awọn iwe-aṣẹ orisun</string>
-    <string name="dialogConsentMessage">Ohun elo yii nilo API AccessibilityService lati gba awọn ferese ibaraenisepo pada loju iboju, lati wa awọn ti o baamu.
-\n
-\nIṣẹ naa lẹhinna firanṣẹ awọn iṣe iraye si “window gbigbe” lọpọlọpọ si iru awọn window, bi o ṣe nilo, lati ṣe iṣẹ ti a pinnu.</string>
     <string name="menuDecreaseTextSize">Din iwọn ọrọ dinku</string>
     <string name="aboutScreenTranslationsTitle">Awọn itumọ</string>
     <string name="menuRateAndComment">Oṣuwọn wa</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Lọ si GitHub</string>
     <string name="generalError">Diẹ ninu awọn aṣiṣe waye. Jọwọ gbiyanju lẹẹkansi.</string>
     <string name="paramRecoilInfo">Alekun eyi yoo dinku ifamọ si awọn oscillation kekere ati ki o jẹ ki awọn iṣipopada dinku ifarabalẹ si awọn ipa nla.</string>
-    <string name="dialogConsentTitle">Gbigbanilaaye</string>
     <string name="menuRestoreDefaults">Mu awọn aiyipada pada</string>
     <string name="dialogButtonRateOnPlayStore">Oṣuwọn lori Play itaja</string>
     <string name="paramSensorRateInfo">Eyi ṣeto iwọn sensọ ti o fẹ. Awọn iye ti o ga julọ le jẹ batiri diẹ sii. Eyi le yato si iwọn sensọ ti a ṣewọn bi eto ṣe pinnu nikẹhin iru oṣuwọn lati pese.</string>
     <string name="menuIncreaseTextSize">Mu iwọn ọrọ pọ si</string>
     <string name="menuInfo">Alaye</string>
-    <string name="accServiceDesc">⛵ Iṣẹ yii ngbanilaaye awọn ohun elo ibaramu lati ni irọrun koju awọn agbeka ẹrọ kekere laarin wiwo olumulo wọn.
-\n
-\n🏝️ Eyi le ṣe ilọsiwaju kika iboju ati o ṣee ṣe dinku aisan išipopada lakoko ti o nlọ, fun apẹẹrẹ. nigba kika ni ọkọ gbigbe.
-\n
-\n🛡️ Ohun elo naa nilo igbanilaaye rẹ lati mọ iru window wo ni o han loju iboju. Ko ka awọn akoonu inu window.
-\n
-\nℹ️ Wa alaye diẹ sii, awọn alaye imuse ati awọn apẹẹrẹ lori:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Ọrọ yii jẹ fun awọn idi ifihan)
 \n
 \nỌmọ-ogun ti o ni awọn whiskers alawọ ewe mu wọn lọ nipasẹ awọn ita ti Emerald City titi wọn fi de yara ti Oluṣọ ti Ẹnubode ngbe. Ọ̀gágun yìí ṣí àwọn ìwo wọn láti fi wọ́n pa dà sínú àpótí ńlá rẹ̀, ó sì fi tọ̀wọ̀tọ̀wọ̀ ṣí ilẹ̀kùn fún àwọn ọ̀rẹ́ wa.

@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">受け入れる</string>
     <string name="no">いいえ</string>
     <string name="licenseSuccessDialogMessage">アプリは正常にライセンス認証されました。ご協力ありがとうございます！</string>
-    <string name="menuSettings">アクセシビリティ設定</string>
     <string name="menuAbout">について</string>
     <string name="paramForceScalingInfo">これにより、計算前に力がスケーリングされ、動きの全体的な大きさに影響を与えます。</string>
     <string name="menuLicense">ライセンスをアップグレードする</string>
     <string name="openSourceLicensesTitle">オープンソースライセンス</string>
-    <string name="dialogConsentMessage">このアプリケーションでは、互換性のあるウィンドウを見つけるために、画面上の対話型ウィンドウを取得する AccessibilityService API が必要です。
-\n
-\n次に、サービスは、必要に応じて、複数の「ウィンドウの移動」アクセシビリティ アクションをそのようなウィンドウに送信し、目的の機能を実行します。</string>
     <string name="menuDecreaseTextSize">テキストサイズを小さくする</string>
     <string name="aboutScreenTranslationsTitle">翻訳</string>
     <string name="menuRateAndComment">私たちを評価してください</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">GitHubへ移動</string>
     <string name="generalError">何らかのエラーが発生しました。もう一度試してください。</string>
     <string name="paramRecoilInfo">この値を増やすと、小さな振動に対する感度が低下し、大きな力に対する動きが鈍くなります。</string>
-    <string name="dialogConsentTitle">同意</string>
     <string name="menuRestoreDefaults">デフォルトに戻す</string>
     <string name="dialogButtonRateOnPlayStore">Play ストアでの評価</string>
     <string name="paramSensorRateInfo">これにより、必要なセンサー レートが設定されます。値を大きくすると、バッテリーの消費量が増える可能性があります。どのレートを提供するかはシステムが最終的に決定するため、これは測定されたセンサー レートとは異なる場合があります。</string>
     <string name="menuIncreaseTextSize">テキストサイズを大きくする</string>
     <string name="menuInfo">情報</string>
-    <string name="accServiceDesc">⛵ このサービスにより、互換性のあるアプリケーションは、ユーザー インターフェイス内での小さなデバイスの動きに簡単に対抗できるようになります。
-\n
-\n🏝️ これにより、画面の読みやすさが向上し、移動中などの乗り物酔いが軽減される可能性があります。移動中の車内で読書中。
-\n
-\n🛡️ アプリは、画面にどのウィンドウが表示されているかを知るためにあなたの許可を必要とします。ウィンドウの内容は読み取られません。
-\n
-\nℹ️ 詳細情報、実装の詳細、例は次のとおりです。
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(このテキストはデモ用です)
 \n
 \n緑のひげを生やした兵士は、門の守護者が住んでいる部屋に着くまで、エメラルドの都の通りを彼らを導きました。この警官は彼らの眼鏡のロックを解除して大きな箱に戻し、それから私たちの友人のために門を丁寧に開けてくれました。

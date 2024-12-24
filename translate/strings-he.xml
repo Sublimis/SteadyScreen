@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">לְקַבֵּל</string>
     <string name="no">לא</string>
     <string name="licenseSuccessDialogMessage">האפליקציה קיבלה רישיון בהצלחה. תודה על תמיכתך!</string>
-    <string name="menuSettings">הגדרות נגישות</string>
     <string name="menuAbout">על אודות</string>
     <string name="paramForceScalingInfo">זה משנה את הכוחות לפני חישובים, אשר בתורו משפיע על גודל התנועות הכולל.</string>
     <string name="menuLicense">שדרג את הרישיון שלך</string>
     <string name="openSourceLicensesTitle">רישיונות קוד פתוח</string>
-    <string name="dialogConsentMessage">יישום זה זקוק ל-AccessibilityService API כדי לאחזר חלונות אינטראקטיביים על המסך, כדי למצוא תואמים.
-\n
-\nלאחר מכן, השירות שולח מספר פעולות נגישות \"הזז חלון\" לחלונות כאלה, לפי הצורך, כדי לבצע את הפונקציה המיועדת.</string>
     <string name="menuDecreaseTextSize">הקטן את גודל הטקסט</string>
     <string name="aboutScreenTranslationsTitle">תרגומים</string>
     <string name="menuRateAndComment">דרג אותנו</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">עבור אל GitHub</string>
     <string name="generalError">אירעה שגיאה כלשהי. בבקשה נסה שוב.</string>
     <string name="paramRecoilInfo">הגדלת זה תפחית את הרגישות לתנודות קטנות ותהפוך את התנועות לפחות רגישות לכוחות גדולים יותר.</string>
-    <string name="dialogConsentTitle">הַסכָּמָה</string>
     <string name="menuRestoreDefaults">לשחזר את ברירות מחדל</string>
     <string name="dialogButtonRateOnPlayStore">דרג בחנות Play</string>
     <string name="paramSensorRateInfo">זה קובע את קצב החיישן הרצוי. ערכים גבוהים יותר עשויים לצרוך יותר סוללה. זה עשוי להיות שונה מקצב החיישן הנמדד שכן המערכת מחליטה בסופו של דבר איזה קצב לספק.</string>
     <string name="menuIncreaseTextSize">הגדל את גודל הטקסט</string>
     <string name="menuInfo">מידע</string>
-    <string name="accServiceDesc">⛵ שירות זה מאפשר ליישומים תואמים לסתור בקלות תנועות מכשיר קטנות בתוך ממשק המשתמש שלהם.
-\n
-\n🏝️ זה יכול לשפר את קריאות המסך ואולי להקל על מחלת תנועה תוך כדי תנועה, למשל. בזמן קריאה ברכב נע.
-\n
-\n🛡️ האפליקציה זקוקה לאישור שלכם כדי לדעת איזה חלון גלוי על המסך. זה לא קורא את תוכן החלון.
-\n
-\nℹ️ מצא מידע נוסף, פרטי יישום ודוגמאות ב:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(טקסט זה מיועד למטרות הדגמה)
 \n
 \nהחייל עם הזיפים הירוקים הוביל אותם ברחובות עיר האזמרגד עד שהגיעו לחדר שבו התגורר שומר השערים. הקצין הזה פתח את המשקפיים שלהם כדי להחזיר אותם לקופסה הגדולה שלו, ואז הוא פתח בנימוס את השער עבור חברינו.

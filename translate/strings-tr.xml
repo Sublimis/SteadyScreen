@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Kabul etmek</string>
     <string name="no">HAYIR</string>
     <string name="licenseSuccessDialogMessage">Uygulama başarıyla lisanslandı. Desteğin için teşekkürler!</string>
-    <string name="menuSettings">Erişilebilirlik ayarları</string>
     <string name="menuAbout">Hakkında</string>
     <string name="paramForceScalingInfo">Bu, hesaplamalardan önce kuvvetleri ölçeklendirir ve bu da hareketlerin genel büyüklüğünü etkiler.</string>
     <string name="menuLicense">Lisansınızı yükseltin</string>
     <string name="openSourceLicensesTitle">Açık kaynak lisansları</string>
-    <string name="dialogConsentMessage">Bu uygulamanın, uyumlu olanları bulmak amacıyla ekrandaki etkileşimli pencereleri almak için AccessibilityService API\'sine ihtiyacı vardır.
-\n
-\nHizmet daha sonra amaçlanan işlevi gerçekleştirmek için gerektiğinde bu tür pencerelere birden fazla \"pencereyi taşıma\" erişilebilirlik eylemi gönderir.</string>
     <string name="menuDecreaseTextSize">Metin boyutunu azalt</string>
     <string name="aboutScreenTranslationsTitle">Çeviriler</string>
     <string name="menuRateAndComment">Bizi değerlendirin</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">GitHub\'a git</string>
     <string name="generalError">Bazı hatalar oluştu. Lütfen tekrar deneyin.</string>
     <string name="paramRecoilInfo">Bunu artırmak, küçük salınımlara karşı duyarlılığı azaltacak ve hareketleri daha büyük kuvvetlere karşı daha az duyarlı hale getirecektir.</string>
-    <string name="dialogConsentTitle">Onay</string>
     <string name="menuRestoreDefaults">Varsayılanları geri yükle</string>
     <string name="dialogButtonRateOnPlayStore">Play Store\'da puan verin</string>
     <string name="paramSensorRateInfo">Bu, istenen sensör hızını ayarlar. Daha yüksek değerler daha fazla pil tüketebilir. Sistem sonuçta hangi hızı sağlayacağına karar verdiği için bu, ölçülen sensör hızından farklı olabilir.</string>
     <string name="menuIncreaseTextSize">Metin boyutunu artır</string>
     <string name="menuInfo">Bilgi</string>
-    <string name="accServiceDesc">⛵ Bu hizmet, uyumlu uygulamaların kullanıcı arayüzlerindeki küçük cihaz hareketlerine kolayca karşı koymasına olanak tanır.
-\n
-\n🏝️ Bu, ekranın okunabilirliğini artırabilir ve muhtemelen hareket halindeyken hareket rahatsızlığını hafifletebilir; Hareket halindeki bir araçta kitap okurken.
-\n
-\n🛡️ Uygulamanın ekranda hangi pencerenin göründüğünü bilmesi için izninize ihtiyacı var. Pencere içeriğini okumaz.
-\n
-\nℹ️ Daha fazla bilgi, uygulama ayrıntıları ve örnekleri şu adreste bulabilirsiniz:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Bu metin tanıtım amaçlıdır)
 \n
 \nYeşil bıyıklı asker, Kapı Muhafızı\'nın yaşadığı odaya ulaşana kadar onları Emerald City\'nin sokaklarında gezdirdi. Bu memur, gözlüklerini büyük kutusuna geri koymak için kilidini açtı ve ardından kibarca kapıyı arkadaşlarımıza açtı.

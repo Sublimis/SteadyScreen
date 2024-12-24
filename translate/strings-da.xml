@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Acceptere</string>
     <string name="no">Ingen</string>
     <string name="licenseSuccessDialogMessage">Appen blev godkendt. Tak for din støtte!</string>
-    <string name="menuSettings">Indstillinger for tilgængelighed</string>
     <string name="menuAbout">Om</string>
     <string name="paramForceScalingInfo">Dette skalerer kræfterne før beregninger, hvilket igen påvirker den samlede størrelse af bevægelser.</string>
     <string name="menuLicense">Opgrader din licens</string>
     <string name="openSourceLicensesTitle">Open source-licenser</string>
-    <string name="dialogConsentMessage">Denne applikation har brug for AccessibilityService API for at hente interaktive vinduer på skærmen for at finde kompatible.
-\n
-\nTjenesten sender derefter flere \"flytt vindue\"-tilgængelighedshandlinger til sådanne vinduer efter behov for at udføre den tilsigtede funktion.</string>
     <string name="menuDecreaseTextSize">Formindsk tekststørrelsen</string>
     <string name="aboutScreenTranslationsTitle">Oversættelser</string>
     <string name="menuRateAndComment">Bedøm os</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Gå til GitHub</string>
     <string name="generalError">Der opstod en fejl. Prøv igen.</string>
     <string name="paramRecoilInfo">At øge dette vil reducere følsomheden over for små svingninger og gøre bevægelser mindre følsomme over for større kræfter.</string>
-    <string name="dialogConsentTitle">Samtykke</string>
     <string name="menuRestoreDefaults">Gendanne standardindstillingerne</string>
     <string name="dialogButtonRateOnPlayStore">Bedøm i Play Butik</string>
     <string name="paramSensorRateInfo">Dette indstiller den ønskede sensorhastighed. Højere værdier kan bruge mere batteri. Dette kan afvige fra den målte sensorhastighed, da systemet i sidste ende beslutter, hvilken hastighed der skal leveres.</string>
     <string name="menuIncreaseTextSize">Forøg tekststørrelsen</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Denne service giver kompatible applikationer mulighed for nemt at modvirke små enhedsbevægelser i deres brugergrænseflade.
-\n
-\n🏝️ Dette kan forbedre skærmlæsbarheden og muligvis lindre køresyge, mens du er på farten, f.eks. mens du læser i et køretøj i bevægelse.
-\n
-\n🛡️ Appen skal have din tilladelse for at vide, hvilket vindue der er synligt på skærmen. Den læser ikke vinduets indhold.
-\n
-\nℹ️ Find mere info, implementeringsdetaljer og eksempler på:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Denne tekst er til demonstrationsformål)
 \n
 \nSoldaten med de grønne knurhår førte dem gennem Smaragdbyens gader, indtil de nåede det rum, hvor Portens Guardian boede. Denne officer låste deres briller op for at lægge dem tilbage i sin store æske, og så åbnede han høfligt porten for vores venner.

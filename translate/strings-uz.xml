@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Qabul qiling</string>
     <string name="no">Yo\'q</string>
     <string name="licenseSuccessDialogMessage">Ilova muvaffaqiyatli litsenziyalandi. Qo\'llab-quvvatlaganingiz uchun tashakkur!</string>
-    <string name="menuSettings">Maxsus imkoniyatlar sozlamalari</string>
     <string name="menuAbout">Haqida</string>
     <string name="paramForceScalingInfo">Bu hisob-kitoblardan oldin kuchlarni o\'lchaydi, bu esa o\'z navbatida harakatlarning umumiy kattaligiga ta\'sir qiladi.</string>
     <string name="menuLicense">Litsenziyangizni yangilang</string>
     <string name="openSourceLicensesTitle">Ochiq kodli litsenziyalar</string>
-    <string name="dialogConsentMessage">Ushbu ilovaga mos oynalarni topish uchun ekrandagi interaktiv oynalarni olish uchun AccessibilityService API kerak.
-\n
-\nKeyin xizmat mo\'ljallangan vazifani bajarish uchun kerak bo\'lganda bunday oynalarga bir nechta \"ko\'chirish oynasi\" mavjud amallarni yuboradi.</string>
     <string name="menuDecreaseTextSize">Matn hajmini kamaytiring</string>
     <string name="aboutScreenTranslationsTitle">Tarjimalar</string>
     <string name="menuRateAndComment">Bizga baho bering</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">GitHub-ga o\'ting</string>
     <string name="generalError">Ba\'zi xatolik yuz berdi. Iltimos, yana bir bor urinib ko\'ring.</string>
     <string name="paramRecoilInfo">Buni oshirish kichik tebranishlarga nisbatan sezgirlikni pasaytiradi va harakatlarni katta kuchlarga nisbatan kamroq sezgir qiladi.</string>
-    <string name="dialogConsentTitle">Rozilik</string>
     <string name="menuRestoreDefaults">Standart sozlamalarni tiklash</string>
     <string name="dialogButtonRateOnPlayStore">Play Marketda baho bering</string>
     <string name="paramSensorRateInfo">Bu kerakli sensor tezligini o\'rnatadi. Yuqori qiymatlar ko\'proq batareya iste\'mol qilishi mumkin. Bu o\'lchangan sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni ta\'minlashni hal qiladi.</string>
     <string name="menuIncreaseTextSize">Matn hajmini oshiring</string>
     <string name="menuInfo">Ma\'lumot</string>
-    <string name="accServiceDesc">⛵ Ushbu xizmat mos keluvchi ilovalarga foydalanuvchi interfeysi doirasidagi kichik qurilma harakatlariga osongina qarshi turish imkonini beradi.
-\n
-\n🏝️ Bu ekranni oʻqish qobiliyatini yaxshilashi va yoʻl-yoʻlakay harakat kasalligini engillashtirishi mumkin, masalan. harakatlanayotgan transport vositasida o\'qish paytida.
-\n
-\n🛡️ Ekranda qaysi oyna ko‘rinishini bilish uchun ilovaga ruxsatingiz kerak. U oyna mazmunini o\'qimaydi.
-\n
-\nℹ️ Qo\'shimcha ma\'lumot, amalga oshirish tafsilotlari va misollarni quyidagi manzilda toping:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Ushbu matn ko\'rsatish uchun mo\'ljallangan)
 \n
 \nYashil mo‘ylovli askar ularni Zumrad shahar ko‘chalari bo‘ylab, darvoza qo‘riqchisi yashaydigan xonaga yetguncha yetaklab bordi. Bu ofitser ularning ko\'zoynagini o\'zining katta qutisiga qaytarish uchun qulfini ochdi, keyin esa do\'stlarimizga xushmuomalalik bilan darvozani ochdi.

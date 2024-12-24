@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Aceitar</string>
     <string name="no">Não</string>
     <string name="licenseSuccessDialogMessage">O aplicativo foi licenciado com sucesso. Obrigado pelo seu apoio!</string>
-    <string name="menuSettings">Configurações de acessibilidade</string>
     <string name="menuAbout">Sobre</string>
     <string name="paramForceScalingInfo">Isto dimensiona as forças antes dos cálculos, o que por sua vez afeta a magnitude geral dos movimentos.</string>
     <string name="menuLicense">Atualize sua licença</string>
     <string name="openSourceLicensesTitle">Licenças de código aberto</string>
-    <string name="dialogConsentMessage">Este aplicativo precisa da API AccessibilityService para recuperar janelas interativas na tela, a fim de encontrar janelas compatíveis.
-\n
-\nO serviço então envia diversas ações de acessibilidade \"mover janela\" para essas janelas, conforme necessário, para executar a função pretendida.</string>
     <string name="menuDecreaseTextSize">Diminuir o tamanho do texto</string>
     <string name="aboutScreenTranslationsTitle">Traduções</string>
     <string name="menuRateAndComment">Nos avalie</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Vá para GitHub</string>
     <string name="generalError">Ocorreu algum erro. Por favor, tente novamente.</string>
     <string name="paramRecoilInfo">Aumentar isso reduzirá a sensibilidade a pequenas oscilações e tornará os movimentos menos sensíveis a forças maiores.</string>
-    <string name="dialogConsentTitle">Consentimento</string>
     <string name="menuRestoreDefaults">Restaurar padrões</string>
     <string name="dialogButtonRateOnPlayStore">Avalie na Play Store</string>
     <string name="paramSensorRateInfo">Isso define a taxa de sensor desejada. Valores mais altos podem consumir mais bateria. Isto pode diferir da taxa medida do sensor, pois o sistema decide qual taxa fornecer.</string>
     <string name="menuIncreaseTextSize">Aumentar o tamanho do texto</string>
     <string name="menuInfo">Informações</string>
-    <string name="accServiceDesc">⛵ Este serviço permite que aplicativos compatíveis neutralizem facilmente pequenos movimentos de dispositivos em sua interface de usuário.
-\n
-\n🏝️ Isso pode melhorar a legibilidade da tela e possivelmente aliviar o enjôo em movimento, por exemplo. enquanto lê em um veículo em movimento.
-\n
-\n🛡️ O aplicativo precisa da sua permissão para saber qual janela está visível na tela. Não lê o conteúdo da janela.
-\n
-\nℹ️ Encontre mais informações, detalhes de implementação e exemplos em:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Este texto é para fins de demonstração)
 \n
 \nO soldado de bigodes verdes os conduziu pelas ruas da Cidade Esmeralda até chegarem ao quarto onde morava o Guardião dos Portões. Este oficial destrancou os óculos para colocá-los de volta em sua grande caixa e então abriu educadamente o portão para nossos amigos.

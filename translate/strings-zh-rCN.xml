@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">接受</string>
     <string name="no">不</string>
     <string name="licenseSuccessDialogMessage">该应用程序已成功获得许可。感谢您的支持！</string>
-    <string name="menuSettings">辅助功能设置</string>
     <string name="menuAbout">关于</string>
     <string name="paramForceScalingInfo">这会在计算之前缩放力，进而影响运动的整体幅度。</string>
     <string name="menuLicense">升级您的许可证</string>
     <string name="openSourceLicensesTitle">开源许可证</string>
-    <string name="dialogConsentMessage">此应用程序需要 AccessibilityService API 来检索屏幕上的交互式窗口，以便找到兼容的窗口。
-\n
-\n然后，该服务根据需要向此类窗口发送多个“移动窗口”可访问性操作，以执行预期功能。</string>
     <string name="menuDecreaseTextSize">减小文字大小</string>
     <string name="aboutScreenTranslationsTitle">翻译</string>
     <string name="menuRateAndComment">评价我们</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">前往 GitHub</string>
     <string name="generalError">发生一些错误。请再试一次。</string>
     <string name="paramRecoilInfo">增加此值将降低对小振动的敏感度，并使运动对较大力的敏感度降低。</string>
-    <string name="dialogConsentTitle">同意</string>
     <string name="menuRestoreDefaults">恢复默认值</string>
     <string name="dialogButtonRateOnPlayStore">在 Play 商店中评分</string>
     <string name="paramSensorRateInfo">这设置了所需的传感器速率。较高的值可能会消耗更多的电池。这可能与测量的传感器速率不同，因为系统最终决定提供哪个速率。</string>
     <string name="menuIncreaseTextSize">增加文字大小</string>
     <string name="menuInfo">信息</string>
-    <string name="accServiceDesc">⛵ 该服务允许兼容的应用程序轻松抵消其用户界面内的小型设备移动。
-\n
-\n🏝️ 这可以提高屏幕可读性，并可能减轻旅途中的晕动病，例如在旅途中。在行驶的车辆中阅读时。
-\n
-\n🛡️ 该应用程序需要您的许可才能知道屏幕上哪个窗口可见。它不读取窗口内容。
-\n
-\nℹ️ 查找更多信息、实施细节和示例：
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">（本文仅供演示之用）
 \n
 \n绿须士兵带着他们穿过翡翠城的街道，来到了城门守护者居住的房间。这位警官打开他们的眼镜，把它们放回他的大盒子里，然后他礼貌地为我们的朋友打开了大门。

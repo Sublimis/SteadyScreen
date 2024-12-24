@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Chấp nhận</string>
     <string name="no">KHÔNG</string>
     <string name="licenseSuccessDialogMessage">Ứng dụng đã được cấp phép thành công. Cảm ơn sự hỗ trợ của bạn!</string>
-    <string name="menuSettings">Cài đặt trợ năng</string>
     <string name="menuAbout">Về</string>
     <string name="paramForceScalingInfo">Điều này chia tỷ lệ các lực trước khi tính toán, từ đó ảnh hưởng đến cường độ tổng thể của các chuyển động.</string>
     <string name="menuLicense">Nâng cấp giấy phép của bạn</string>
     <string name="openSourceLicensesTitle">Giấy phép nguồn mở</string>
-    <string name="dialogConsentMessage">Ứng dụng này cần API AccessibilityService để truy xuất các cửa sổ tương tác trên màn hình nhằm tìm những cửa sổ tương thích.
-\n
-\nSau đó, dịch vụ sẽ gửi nhiều hành động trợ năng \"di chuyển cửa sổ\" tới các cửa sổ đó, nếu cần, để thực hiện chức năng dự kiến.</string>
     <string name="menuDecreaseTextSize">Giảm kích thước văn bản</string>
     <string name="aboutScreenTranslationsTitle">Bản dịch</string>
     <string name="menuRateAndComment">Đánh giá chúng tôi</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Truy cập GitHub</string>
     <string name="generalError">Đã xảy ra một số lỗi. Vui lòng thử lại.</string>
     <string name="paramRecoilInfo">Việc tăng giá trị này sẽ làm giảm độ nhạy đối với các dao động nhỏ và làm cho chuyển động kém nhạy hơn với các lực lớn hơn.</string>
-    <string name="dialogConsentTitle">Bằng lòng</string>
     <string name="menuRestoreDefaults">Khôi phục mặc định</string>
     <string name="dialogButtonRateOnPlayStore">Đánh giá trên Cửa hàng Play</string>
     <string name="paramSensorRateInfo">Điều này đặt tốc độ cảm biến mong muốn. Giá trị cao hơn có thể tiêu tốn nhiều pin hơn. Tốc độ này có thể khác với tốc độ cảm biến đo được vì cuối cùng hệ thống sẽ quyết định nên cung cấp tốc độ nào.</string>
     <string name="menuIncreaseTextSize">Tăng kích thước văn bản</string>
     <string name="menuInfo">Thông tin</string>
-    <string name="accServiceDesc">⛵ Dịch vụ này cho phép các ứng dụng tương thích dễ dàng chống lại các chuyển động nhỏ của thiết bị trong giao diện người dùng của chúng.
-\n
-\n🏝️ Điều này có thể cải thiện khả năng đọc trên màn hình và có thể làm giảm chứng say tàu xe khi đang di chuyển, ví dụ: trong khi đọc trong một chiếc xe đang di chuyển.
-\n
-\n🛡️ Ứng dụng cần có sự cho phép của bạn để biết cửa sổ nào hiển thị trên màn hình. Nó không đọc nội dung cửa sổ.
-\n
-\nℹ️ Tìm thêm thông tin, chi tiết triển khai và ví dụ trên:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Văn bản này mang tính chất minh họa)
 \n
 \nNgười lính có bộ râu màu xanh lá cây dẫn họ qua các con phố của Thành phố Ngọc lục bảo cho đến khi họ đến căn phòng nơi Người bảo vệ Cổng sống. Viên sĩ quan này mở khóa kính của họ để cất vào chiếc hộp lớn của mình, rồi lịch sự mở cổng cho bạn bè chúng tôi.

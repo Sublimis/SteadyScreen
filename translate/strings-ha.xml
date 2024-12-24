@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Karba</string>
     <string name="no">A\'a</string>
     <string name="licenseSuccessDialogMessage">An ba da izinin ƙa\'idar cikin nasara. Na gode da goyon bayan ku!</string>
-    <string name="menuSettings">Saitunan samun dama</string>
     <string name="menuAbout">Game da</string>
     <string name="paramForceScalingInfo">Wannan yana daidaita ma\'aunin ƙarfi kafin ƙididdigewa, wanda hakan ke shafar girman ƙungiyoyin gabaɗaya.</string>
     <string name="menuLicense">Haɓaka lasisin ku</string>
     <string name="openSourceLicensesTitle">Bude lasisin tushe</string>
-    <string name="dialogConsentMessage">Wannan aikace-aikacen yana buƙatar API ɗin AccessibilityService don dawo da tagogi masu ma\'amala akan allo, don nemo waɗanda suka dace.
-\n
-\nSabis ɗin sannan yana aika ayyuka masu yawa na \"taga motsi\" zuwa irin waɗannan windows, kamar yadda ake buƙata, don aiwatar da aikin da aka nufa.</string>
     <string name="menuDecreaseTextSize">Rage girman rubutu</string>
     <string name="aboutScreenTranslationsTitle">Fassara</string>
     <string name="menuRateAndComment">Rage mu</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Je zuwa GitHub</string>
     <string name="generalError">An sami wasu kurakurai. Da fatan za a sake gwadawa.</string>
     <string name="paramRecoilInfo">Ƙara wannan zai rage hankali ga ƙananan oscillations kuma ya sa ƙungiyoyi ba su da hankali ga manyan runduna.</string>
-    <string name="dialogConsentTitle">Yarda</string>
     <string name="menuRestoreDefaults">Mayar da abubuwan da ba a so</string>
     <string name="dialogButtonRateOnPlayStore">Rate akan Play Store</string>
     <string name="paramSensorRateInfo">Wannan yana saita ƙimar firikwensin da ake so. Maɗaukakin ƙima na iya cinye ƙarin baturi. Wannan na iya bambanta da ƙimar firikwensin da aka auna yayin da tsarin ya yanke shawarar wane ƙimar da zai bayar.</string>
     <string name="menuIncreaseTextSize">Ƙara girman rubutu</string>
     <string name="menuInfo">Bayani</string>
-    <string name="accServiceDesc">⛵ Wannan sabis ɗin yana ba da damar aikace-aikacen da suka dace da sauƙi don magance ƙananan motsin na\'ura a cikin mahaɗin mai amfani da su.
-\n
-\n🏝️ Wannan na iya inganta karatun allo da yuwuwar rage ciwon motsi yayin tafiya, misali. yayin karatu a cikin abin hawa mai motsi.
-\n
-\n🛡️ App ɗin yana buƙatar izinin ku don sanin wane taga ne akan allo. Ba ya karanta abubuwan da ke cikin taga.
-\n
-\nℹ️ Nemo ƙarin bayani, cikakkun bayanan aiwatarwa da misalai akan:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Wannan rubutun don dalilai ne na nunawa)
 \n
 \nSojan da koren barasa ya jagorance su cikin titunan birnin Emerald har suka isa dakin da mai gadin kofar ke zaune. Wannan jami\'in ya buɗe faifan kallon su don mayar da su cikin babban akwatinsa, sannan ya buɗe wa abokanmu cikin ladabi.

@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Priimti</string>
     <string name="no">Nr</string>
     <string name="licenseSuccessDialogMessage">Programa sėkmingai licencijuota. Dėkojame už palaikymą!</string>
-    <string name="menuSettings">Pritaikymo neįgaliesiems nustatymai</string>
     <string name="menuAbout">Apie</string>
     <string name="paramForceScalingInfo">Tai padidina jėgas prieš skaičiavimus, o tai savo ruožtu turi įtakos bendram judesių dydžiui.</string>
     <string name="menuLicense">Atnaujinkite savo licenciją</string>
     <string name="openSourceLicensesTitle">Atvirojo kodo licencijos</string>
-    <string name="dialogConsentMessage">Šiai programai reikalinga AccessibilityService API, kad būtų galima nuskaityti interaktyvius langus ekrane ir rasti suderinamus.
-\n
-\nTada paslauga siunčia kelis „lango perkėlimo“ pasiekiamumo veiksmus tokiems langams, jei reikia, kad būtų atlikta numatyta funkcija.</string>
     <string name="menuDecreaseTextSize">Sumažinti teksto dydį</string>
     <string name="aboutScreenTranslationsTitle">Vertimai</string>
     <string name="menuRateAndComment">Įvertinkite mus</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Eikite į „GitHub“.</string>
     <string name="generalError">Įvyko kažkokia klaida. Prašau, pabandykite dar kartą.</string>
     <string name="paramRecoilInfo">Tai padidinus, sumažės jautrumas mažiems virpesiams ir judesiai bus mažiau jautrūs didesnėms jėgoms.</string>
-    <string name="dialogConsentTitle">Sutikimas</string>
     <string name="menuRestoreDefaults">Atkurti numatytuosius nustatymus</string>
     <string name="dialogButtonRateOnPlayStore">Įvertinkite „Play“ parduotuvėje</string>
     <string name="paramSensorRateInfo">Taip nustatomas norimas jutiklio dažnis. Didesnės vertės gali sunaudoti daugiau akumuliatoriaus. Tai gali skirtis nuo išmatuoto jutiklio greičio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
     <string name="menuIncreaseTextSize">Padidinti teksto dydį</string>
     <string name="menuInfo">Informacija</string>
-    <string name="accServiceDesc">⛵ Ši paslauga leidžia suderinamoms programoms lengvai atremti nedidelius įrenginio judesius savo vartotojo sąsajoje.
-\n
-\n🏝️ Tai gali pagerinti ekrano skaitomumą ir galbūt palengvinti judesio ligą keliaujant, pvz. skaitydamas važiuojančioje transporto priemonėje.
-\n
-\n🛡️ Programai reikia jūsų leidimo, kad žinotų, kuris langas matomas ekrane. Jis neskaito lango turinio.
-\n
-\nℹ️ Daugiau informacijos, įgyvendinimo detalių ir pavyzdžių rasite:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Šis tekstas skirtas demonstravimo tikslais)
 \n
 \nKareivis žaliais ūsais vedė juos Smaragdo miesto gatvėmis, kol jie pasiekė kambarį, kuriame gyveno Vartų sargas. Šis pareigūnas atrakino jų akinius, kad įdėtų juos atgal į savo puikią dėžę, o tada mandagiai atidarė vartus mūsų draugams.

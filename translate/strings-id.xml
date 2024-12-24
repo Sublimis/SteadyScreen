@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Menerima</string>
     <string name="no">TIDAK</string>
     <string name="licenseSuccessDialogMessage">Aplikasi ini berhasil dilisensikan. Terima kasih atas dukungan Anda!</string>
-    <string name="menuSettings">Pengaturan aksesibilitas</string>
     <string name="menuAbout">Tentang</string>
     <string name="paramForceScalingInfo">Ini menskalakan gaya sebelum perhitungan, yang pada gilirannya mempengaruhi besarnya pergerakan secara keseluruhan.</string>
     <string name="menuLicense">Tingkatkan lisensi Anda</string>
     <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
-    <string name="dialogConsentMessage">Aplikasi ini memerlukan AccessibilityService API untuk mengambil jendela interaktif di layar, untuk menemukan jendela yang kompatibel.
-\n
-\nLayanan kemudian mengirimkan beberapa tindakan aksesibilitas \"pindahkan jendela\" ke jendela tersebut, sesuai kebutuhan, untuk menjalankan fungsi yang diinginkan.</string>
     <string name="menuDecreaseTextSize">Kurangi ukuran teks</string>
     <string name="aboutScreenTranslationsTitle">Terjemahan</string>
     <string name="menuRateAndComment">Nilai kami</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Buka GitHub</string>
     <string name="generalError">Beberapa kesalahan terjadi. Silakan coba lagi.</string>
     <string name="paramRecoilInfo">Meningkatkan ini akan mengurangi sensitivitas terhadap osilasi kecil dan membuat gerakan menjadi kurang sensitif terhadap gaya yang lebih besar.</string>
-    <string name="dialogConsentTitle">Izin</string>
     <string name="menuRestoreDefaults">Kembalikan default</string>
     <string name="dialogButtonRateOnPlayStore">Nilai di Play Store</string>
     <string name="paramSensorRateInfo">Ini mengatur kecepatan sensor yang diinginkan. Nilai yang lebih tinggi mungkin menghabiskan lebih banyak baterai. Ini mungkin berbeda dari kecepatan sensor yang diukur karena sistem pada akhirnya memutuskan kecepatan mana yang akan diberikan.</string>
     <string name="menuIncreaseTextSize">Tingkatkan ukuran teks</string>
     <string name="menuInfo">Informasi</string>
-    <string name="accServiceDesc">⛵ Layanan ini memungkinkan aplikasi yang kompatibel dengan mudah menangkal pergerakan kecil perangkat dalam antarmuka penggunanya.
-\n
-\n🏝️ Hal ini dapat meningkatkan keterbacaan layar dan mungkin meringankan mabuk perjalanan saat bepergian, misalnya saat berkendara. sambil membaca di dalam kendaraan yang bergerak.
-\n
-\n🛡️ Aplikasi ini memerlukan izin Anda untuk mengetahui jendela mana yang terlihat di layar. Itu tidak membaca isi jendela.
-\n
-\nℹ️ Temukan info lebih lanjut, detail implementasi, dan contoh di:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Teks ini untuk tujuan demonstrasi)
 \n
 \nPrajurit berkumis hijau memimpin mereka melewati jalan-jalan Kota Zamrud hingga mereka mencapai ruangan tempat tinggal Penjaga Gerbang. Petugas ini membuka kunci kacamata mereka untuk dimasukkan kembali ke dalam kotak besarnya, dan kemudian dia dengan sopan membukakan gerbang untuk teman-teman kami.

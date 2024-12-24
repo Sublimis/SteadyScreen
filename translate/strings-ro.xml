@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Accept</string>
     <string name="no">Nu</string>
     <string name="licenseSuccessDialogMessage">Aplicația a fost licențiată cu succes. Iti multumesc pentru sprijin!</string>
-    <string name="menuSettings">Setări de accesibilitate</string>
     <string name="menuAbout">Despre</string>
     <string name="paramForceScalingInfo">Acest lucru scalează forțele înainte de calcule, care, la rândul său, afectează amploarea totală a mișcărilor.</string>
     <string name="menuLicense">Actualizați-vă licența</string>
     <string name="openSourceLicensesTitle">Licențe open source</string>
-    <string name="dialogConsentMessage">Această aplicație are nevoie de API-ul AccessibilityService pentru a prelua ferestre interactive de pe ecran, pentru a le găsi pe cele compatibile.
-\n
-\nServiciul trimite apoi mai multe acțiuni de accesibilitate „mutare fereastră” către astfel de ferestre, după cum este necesar, pentru a îndeplini funcția dorită.</string>
     <string name="menuDecreaseTextSize">Reduceți dimensiunea textului</string>
     <string name="aboutScreenTranslationsTitle">Traduceri</string>
     <string name="menuRateAndComment">Ne evalua</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Accesați GitHub</string>
     <string name="generalError">A apărut o eroare. Vă rugăm să încercați din nou.</string>
     <string name="paramRecoilInfo">Creșterea acestuia va reduce sensibilitatea la oscilațiile mici și va face mișcările mai puțin sensibile la forțe mai mari.</string>
-    <string name="dialogConsentTitle">Consimţământ</string>
     <string name="menuRestoreDefaults">Restabiliti setarile de baza</string>
     <string name="dialogButtonRateOnPlayStore">Evaluați pe Play Store</string>
     <string name="paramSensorRateInfo">Aceasta setează rata dorită a senzorului. Valorile mai mari pot consuma mai multă baterie. Aceasta poate diferi de rata măsurată a senzorului, deoarece sistemul decide în cele din urmă ce rată să furnizeze.</string>
     <string name="menuIncreaseTextSize">Măriți dimensiunea textului</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Acest serviciu permite aplicațiilor compatibile să contracareze cu ușurință mișcările mici ale dispozitivului în interfața lor cu utilizatorul.
-\n
-\n🏝️ Acest lucru poate îmbunătăți lizibilitatea ecranului și poate atenua răul de mișcare în timpul mersului, de ex. în timp ce citește într-un vehicul în mișcare.
-\n
-\n🛡️ Aplicația are nevoie de permisiunea dvs. pentru a ști ce fereastră este vizibilă pe ecran. Nu citește conținutul ferestrei.
-\n
-\nℹ️ Găsiți mai multe informații, detalii de implementare și exemple pe:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Acest text are scop demonstrativ)
 \n
 \nSoldatul cu mustăți verzi i-a condus pe străzile Orașului de Smarald până au ajuns în camera în care locuia Gardianul Porților. Acest ofițer le-a descuiat ochelarii pentru a-i pune înapoi în cutia lui mare, apoi a deschis politicos poarta prietenilor noștri.

@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Aanvaarden</string>
     <string name="no">Nee</string>
     <string name="licenseSuccessDialogMessage">De app is met succes gelicentieerd. Bedankt voor je ondersteuning!</string>
-    <string name="menuSettings">Toegankelijkheidsinstellingen</string>
     <string name="menuAbout">Over</string>
     <string name="paramForceScalingInfo">Hierdoor worden de krachten vóór de berekeningen geschaald, wat op zijn beurt de totale omvang van de bewegingen beïnvloedt.</string>
     <string name="menuLicense">Upgrade uw licentie</string>
     <string name="openSourceLicensesTitle">Open source-licenties</string>
-    <string name="dialogConsentMessage">Deze applicatie heeft de AccessibilityService API nodig om interactieve vensters op het scherm op te halen, om compatibele vensters te vinden.
-\n
-\nDe service verzendt vervolgens, indien nodig, meerdere toegankelijkheidsacties voor het verplaatsen van vensters naar dergelijke vensters om de beoogde functie uit te voeren.</string>
     <string name="menuDecreaseTextSize">Verklein de tekstgrootte</string>
     <string name="aboutScreenTranslationsTitle">Vertalingen</string>
     <string name="menuRateAndComment">Beoordeel ons</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Ga naar GitHub</string>
     <string name="generalError">Er is een fout opgetreden. Probeer het opnieuw.</string>
     <string name="paramRecoilInfo">Als u dit vergroot, wordt de gevoeligheid voor kleine trillingen verminderd en worden bewegingen minder gevoelig voor grotere krachten.</string>
-    <string name="dialogConsentTitle">Toestemming</string>
     <string name="menuRestoreDefaults">Standaardwaarden herstellen</string>
     <string name="dialogButtonRateOnPlayStore">Beoordeel in Play Store</string>
     <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
     <string name="menuIncreaseTextSize">Vergroot de tekstgrootte</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
-\n
-\n🏝️Dit kan de leesbaarheid van het scherm verbeteren en mogelijk bewegingsziekte verlichten terwijl u onderweg bent, bijvoorbeeld als u onderweg bent. tijdens het lezen in een rijdend voertuig.
-\n
-\n🛡️ De app heeft jouw toestemming nodig om te weten welk venster zichtbaar is op het scherm. Het leest de inhoud van het venster niet.
-\n
-\nℹ️ Vind meer informatie, implementatiedetails en voorbeelden op:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Deze tekst is ter demonstratie)
 \n
 \nDe soldaat met de groene bakkebaarden leidde hen door de straten van de Smaragdgroene Stad totdat ze de kamer bereikten waar de Wachter van de Poort woonde. Deze officier ontgrendelde hun bril om ze terug in zijn grote kist te stoppen, en vervolgens opende hij beleefd de poort voor onze vrienden.

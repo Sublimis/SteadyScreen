@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Hyväksyä</string>
     <string name="no">Ei</string>
     <string name="licenseSuccessDialogMessage">Sovelluksen lisensointi onnistui. Kiitos tuestasi!</string>
-    <string name="menuSettings">Esteettömyysasetukset</string>
     <string name="menuAbout">Noin</string>
     <string name="paramForceScalingInfo">Tämä skaalaa voimat ennen laskelmia, mikä puolestaan vaikuttaa liikkeiden kokonaissuuruuteen.</string>
     <string name="menuLicense">Päivitä lisenssisi</string>
     <string name="openSourceLicensesTitle">Avoimen lähdekoodin lisenssit</string>
-    <string name="dialogConsentMessage">Tämä sovellus tarvitsee AccessibilityService API:n hakeakseen interaktiivisia ikkunoita näytöltä löytääkseen yhteensopivia.
-\n
-\nPalvelu lähettää sitten useita \"siirrä ikkunaa\" -käyttötoimintoja tällaisiin ikkunoihin tarpeen mukaan suorittaakseen aiotun toiminnon.</string>
     <string name="menuDecreaseTextSize">Pienennä tekstin kokoa</string>
     <string name="aboutScreenTranslationsTitle">Käännökset</string>
     <string name="menuRateAndComment">Anna meille arvosana</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Siirry GitHubiin</string>
     <string name="generalError">Tapahtui virhe. Yritä uudelleen.</string>
     <string name="paramRecoilInfo">Tämän lisääminen vähentää herkkyyttä pienille värähtelyille ja tekee liikkeistä vähemmän herkkiä suuremmille voimille.</string>
-    <string name="dialogConsentTitle">Suostumus</string>
     <string name="menuRestoreDefaults">Palauttaa oletukset</string>
     <string name="dialogButtonRateOnPlayStore">Arvioi Play Kaupassa</string>
     <string name="paramSensorRateInfo">Tämä asettaa halutun anturin nopeuden. Suuremmat arvot voivat kuluttaa enemmän akkua. Tämä voi poiketa mitatusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden se antaa.</string>
     <string name="menuIncreaseTextSize">Suurenna tekstin kokoa</string>
     <string name="menuInfo">Tiedot</string>
-    <string name="accServiceDesc">⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
-\n
-\n🏝️ Tämä voi parantaa näytön luettavuutta ja mahdollisesti lievittää matkapahoinvointia liikkeellä ollessa, esim. kun luet liikkuvassa ajoneuvossa.
-\n
-\n🛡️ Sovellus tarvitsee luvan tietääkseen, mikä ikkuna näkyy näytöllä. Se ei lue ikkunan sisältöä.
-\n
-\nℹ️ Katso lisätietoja, toteutustietoja ja esimerkkejä:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Tämä teksti on esittelytarkoituksessa)
 \n
 \nVihreät viikset sotilas johti heidät Smaragdikaupungin kaduilla, kunnes he saavuttivat huoneeseen, jossa Porttien vartija asui. Tämä upseeri avasi heidän silmälasinsa laittaakseen ne takaisin mahtavaan laatikkoonsa, ja sitten hän avasi kohteliaasti portin ystävillemme.

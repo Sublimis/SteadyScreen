@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Accepter</string>
     <string name="no">Non</string>
     <string name="licenseSuccessDialogMessage">L\'application a obtenu une licence avec succès. Merci pour votre soutien!</string>
-    <string name="menuSettings">Paramètres d\'accessibilité</string>
     <string name="menuAbout">À propos</string>
     <string name="paramForceScalingInfo">Cela met à l\'échelle les forces avant les calculs, ce qui affecte à son tour l\'ampleur globale des mouvements.</string>
     <string name="menuLicense">Mettez à niveau votre licence</string>
     <string name="openSourceLicensesTitle">Licences open source</string>
-    <string name="dialogConsentMessage">Cette application a besoin de l\'API AccessibilityService pour récupérer les fenêtres interactives à l\'écran, afin d\'en trouver celles compatibles.
-\n
-\nLe service envoie ensuite plusieurs actions d\'accessibilité de « déplacement de fenêtre » à ces fenêtres, selon les besoins, pour exécuter la fonction prévue.</string>
     <string name="menuDecreaseTextSize">Diminuer la taille du texte</string>
     <string name="aboutScreenTranslationsTitle">Traductions</string>
     <string name="menuRateAndComment">Évaluez nous</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Allez sur GitHub</string>
     <string name="generalError">Une erreur s\'est produite. Veuillez réessayer.</string>
     <string name="paramRecoilInfo">L\'augmenter réduira la sensibilité aux petites oscillations et rendra les mouvements moins sensibles aux forces plus importantes.</string>
-    <string name="dialogConsentTitle">Consentement</string>
     <string name="menuRestoreDefaults">Réinitialiser</string>
     <string name="dialogButtonRateOnPlayStore">Tarif sur Play Store</string>
     <string name="paramSensorRateInfo">Ceci définit le taux de capteur souhaité. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer du débit mesuré par le capteur, car le système décide finalement quel débit fournir.</string>
     <string name="menuIncreaseTextSize">Augmenter la taille du texte</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Ce service permet aux applications compatibles de contrecarrer facilement les petits mouvements d\'appareils au sein de leur interface utilisateur.
-\n
-\n🏝️ Cela peut améliorer la lisibilité de l\'écran et éventuellement atténuer le mal des transports lors de vos déplacements, par ex. en lisant dans un véhicule en mouvement.
-\n
-\n🛡️ L\'application a besoin de votre autorisation pour savoir quelle fenêtre est visible à l\'écran. Il ne lit pas le contenu de la fenêtre.
-\n
-\nℹ️ Retrouvez plus d\'informations, de détails de mise en œuvre et d\'exemples sur :
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Ce texte est à des fins de démonstration)
 \n
 \nLe soldat aux moustaches vertes les conduisit à travers les rues de la Cité d\'Émeraude jusqu\'à ce qu\'ils atteignent la pièce où vivait le Gardien des Portes. Cet officier déverrouilla leurs lunettes pour les remettre dans sa grande boîte, puis il ouvrit poliment la porte à nos amis.

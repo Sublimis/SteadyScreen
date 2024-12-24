@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Aksepterer</string>
     <string name="no">Nei</string>
     <string name="licenseSuccessDialogMessage">Appen ble lisensiert. Takk for støtten!</string>
-    <string name="menuSettings">Tilgjengelighetsinnstillinger</string>
     <string name="menuAbout">Om</string>
     <string name="paramForceScalingInfo">Dette skalerer kreftene før beregninger, som igjen påvirker den totale størrelsen på bevegelsene.</string>
     <string name="menuLicense">Oppgrader lisensen din</string>
     <string name="openSourceLicensesTitle">Åpen kildekode-lisenser</string>
-    <string name="dialogConsentMessage">Denne applikasjonen trenger AccessibilityService API for å hente interaktive vinduer på skjermen, for å finne kompatible vinduer.
-\n
-\nTjenesten sender deretter flere \"flytt vindu\" tilgjengelighetshandlinger til slike vinduer, etter behov, for å utføre den tiltenkte funksjonen.</string>
     <string name="menuDecreaseTextSize">Reduser tekststørrelsen</string>
     <string name="aboutScreenTranslationsTitle">Oversettelser</string>
     <string name="menuRateAndComment">Rangere oss</string>
@@ -128,19 +124,9 @@
     <string name="dialogInfoButton">Gå til GitHub</string>
     <string name="generalError">Det oppstod en feil. Vær så snill, prøv på nytt.</string>
     <string name="paramRecoilInfo">Å øke denne vil redusere følsomheten for små svingninger og gjøre bevegelser mindre følsomme for større krefter.</string>
-    <string name="dialogConsentTitle">Samtykke</string>
     <string name="menuRestoreDefaults">Gjenopprett standardinnstillinger</string>
     <string name="dialogButtonRateOnPlayStore">Vurder på Play Store</string>
     <string name="paramSensorRateInfo">Dette stiller inn ønsket sensorhastighet. Høyere verdier kan bruke mer batteri. Dette kan avvike fra den målte sensorhastigheten ettersom systemet til slutt bestemmer hvilken hastighet som skal gis.</string>
     <string name="menuIncreaseTextSize">Øk tekststørrelsen</string>
     <string name="menuInfo">Info</string>
-    <string name="accServiceDesc">⛵ Denne tjenesten lar kompatible applikasjoner enkelt motvirke små enhetsbevegelser i brukergrensesnittet.
-\n
-\n🏝️ Dette kan forbedre skjermlesbarheten og muligens lindre reisesyke mens du er på farten, f.eks. mens du leser i et kjøretøy i bevegelse.
-\n
-\n🛡️ Appen trenger din tillatelse for å vite hvilket vindu som er synlig på skjermen. Den leser ikke vinduets innhold.
-\n
-\nℹ️ Finn mer informasjon, implementeringsdetaljer og eksempler på:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>

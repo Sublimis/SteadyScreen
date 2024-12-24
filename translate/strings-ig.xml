@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Nabata</string>
     <string name="no">Mba</string>
     <string name="licenseSuccessDialogMessage">Enyere ngwa ahụ ikike nke ọma. Daalụ maka nkwado gị!</string>
-    <string name="menuSettings">Ntọala nnweta</string>
     <string name="menuAbout">Ihe gbasara</string>
     <string name="paramForceScalingInfo">Nke a na-atụba ndị agha tupu mgbako, nke n\'aka nke ya na-emetụta oke mmegharị ahụ.</string>
     <string name="menuLicense">Kwalite akwụkwọ ikike gị</string>
     <string name="openSourceLicensesTitle">Mepee ikikere isi mmalite</string>
-    <string name="dialogConsentMessage">Ngwa a chọrọ API AccessibilityService iji weghachite windo mmekọrịta na ihuenyo, ka ịchọta ndị dakọtara.
-\n
-\nỌrụ ahụ na-eziga ọtụtụ omume ịnweta \"window mbugharị\" na ụdị mpio ahụ, dịka ọ dị mkpa, iji rụọ ọrụ a chọrọ.</string>
     <string name="menuDecreaseTextSize">Wedata nha ederede</string>
     <string name="aboutScreenTranslationsTitle">Ntụgharị asụsụ</string>
     <string name="menuRateAndComment">Nye anyị ọnụ</string>
@@ -53,21 +49,11 @@
     <string name="dialogInfoButton">Gaa na GitHub</string>
     <string name="generalError">Ụfọdụ mperi mere. Biko nwaa ọzọ.</string>
     <string name="paramRecoilInfo">Ịbawanye nke a ga-ebelata mmetụta nke obere oscillations ma mee ka mmegharị ahụ ghara inwe mmetụta nke ike ndị buru ibu.</string>
-    <string name="dialogConsentTitle">Nkwenye</string>
     <string name="menuRestoreDefaults">Weghachite ndabara</string>
     <string name="dialogButtonRateOnPlayStore">Ọnụ ego na Play Store</string>
     <string name="paramSensorRateInfo">Nke a na-edobe ọnụọgụ ihe mmetụta achọrọ. Ọnụ ahịa dị elu nwere ike iri batrị karịa. Nke a nwere ike ịdị iche na ọnụego ihe mmetụta a tụrụ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
     <string name="menuIncreaseTextSize">Welie nha ederede</string>
     <string name="menuInfo">Ozi</string>
-    <string name="accServiceDesc">⛵ Ọrụ a na-enye ohere ka ngwa dakọtara na-egbochi mmegharị ngwaọrụ dị mfe n\'ime interface onye ọrụ ha.
-\n
-\n🏝️ Nke a nwere ike melite ọgụgụ ihuenyo yana ikekwe ibelata ọrịa ngagharị mgbe ị na-aga, dịka. mgbe ị na-agụ n\'ụgbọ ala na-akpụ akpụ.
-\n
-\n🛡️ Ngwa ahụ chọrọ ikike gị iji mara windo nke a na-ahụ anya na ihuenyo. Ọ naghị agụ ihe dị na windo.
-\n
-\nℹ️ Chọta ozi ndị ọzọ, nkọwa mmejuputa iwu na ọmụmaatụ na:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
     <string name="loremIpsum">(Ede ederede a bụ maka ihe ngosi)
 \n
 \nOnye agha ahụ ji ahịhịa ndụ akwụkwọ ndụ duuru ha n\'okporo ámá nke Emerald City ruo mgbe ha rutere n\'ọnụ ụlọ ebe onye nche nke ọnụ ụzọ ámá bi. Onye uwe ojii a meghere enyo ha ka o tinyeghachi ha n\'ime nnukwu igbe ya, ma jiri nkwanye ùgwù meghere ndị enyi anyị ọnụ ụzọ ámá.

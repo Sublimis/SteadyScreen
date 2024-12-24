@@ -19,14 +19,10 @@
     <string name="dialogConsentButton">Samþykkja</string>
     <string name="no">Nei</string>
     <string name="licenseSuccessDialogMessage">Forritið fékk leyfi. Þakka þér fyrir stuðninginn!</string>
-    <string name="menuSettings">Aðgengisstillingar</string>
     <string name="menuAbout">Um</string>
     <string name="paramForceScalingInfo">Þetta skalar kraftana fyrir útreikninga, sem aftur hefur áhrif á heildarstærð hreyfinga.</string>
     <string name="menuLicense">Uppfærðu leyfið þitt</string>
     <string name="openSourceLicensesTitle">Opinn uppspretta leyfi</string>
-    <string name="dialogConsentMessage">Þetta forrit þarf AccessibilityService API til að sækja gagnvirka glugga á skjáinn til að finna samhæfa.
-\n
-\nÞjónustan sendir síðan margar „færa glugga“ aðgengisaðgerðir til slíkra glugga, eftir þörfum, til að framkvæma fyrirhugaða aðgerð.</string>
     <string name="menuDecreaseTextSize">Minnka textastærð</string>
     <string name="aboutScreenTranslationsTitle">Þýðingar</string>
     <string name="menuRateAndComment">Gefðu okkur einkunn</string>
@@ -128,19 +124,9 @@
     <string name="dialogInfoButton">Farðu á GitHub</string>
     <string name="generalError">Einhver villa kom upp. Vinsamlegast reyndu aftur.</string>
     <string name="paramRecoilInfo">Með því að auka þetta mun draga úr næmni fyrir litlum sveiflum og gera hreyfingar minna næmar fyrir stærri kröftum.</string>
-    <string name="dialogConsentTitle">Samþykki</string>
     <string name="menuRestoreDefaults">Endurheimta sjálfgefna stillingar</string>
     <string name="dialogButtonRateOnPlayStore">Gefðu einkunn í Play Store</string>
     <string name="paramSensorRateInfo">Þetta stillir æskilegan skynjarahraða. Hærri gildi gætu eytt meiri rafhlöðu. Þetta getur verið frábrugðið mældum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
     <string name="menuIncreaseTextSize">Auka textastærð</string>
     <string name="menuInfo">Upplýsingar</string>
-    <string name="accServiceDesc">⛵ Þessi þjónusta gerir samhæfum forritum kleift að vinna auðveldlega gegn litlum hreyfingum tækja innan notendaviðmótsins.
-\n
-\n🏝️ Þetta getur bætt læsileika skjásins og hugsanlega dregið úr ferðaveiki á ferðinni, t.d. við lestur í ökutæki á ferð.
-\n
-\n🛡️ Forritið þarf leyfi þitt til að vita hvaða gluggi sést á skjánum. Það les ekki innihald gluggans.
-\n
-\nℹ️ Finndu frekari upplýsingar, útfærsluupplýsingar og dæmi á:
-\n
-\ngithub.com/Sublimis/SteadyScreen</string>
 </resources>
