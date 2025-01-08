@@ -26,7 +26,6 @@
     <string name="menuLicense">I-upgrade ang iyong lisensya</string>
     <string name="openSourceLicensesTitle">Mga lisensyang open source</string>
     <string name="menuDecreaseTextSize">Bawasan ang laki ng teksto</string>
-    <string name="aboutScreenTranslationsTitle">Mga pagsasalin</string>
     <string name="menuRateAndComment">I-rate kami</string>
     <string name="yes">Oo</string>
     <string name="paramRecoil">Pag-urong</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Ibalik ang mga parameter sa mga default na halaga\?</string>
     <string name="paramDamping">Pamamasa</string>
     <string name="serviceInactiveText">Ang serbisyo ay hindi pinagana, i-click upang paganahin.</string>
-    <string name="aboutScreenTranslationsText">Tumulong na isalin ang app na ito at makakuha ng libreng lisensya! Karagdagang impormasyon:</string>
     <string name="cancel">Kanselahin</string>
     <string name="ultimateLicenseTitle">Ultimate License</string>
     <string name="measuredSensorRate">Sinusukat ang rate ng sensor</string>

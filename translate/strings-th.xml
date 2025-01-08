@@ -26,7 +26,6 @@
     <string name="menuLicense">อัพเกรดใบอนุญาตของคุณ</string>
     <string name="openSourceLicensesTitle">ใบอนุญาตโอเพ่นซอร์ส</string>
     <string name="menuDecreaseTextSize">ลดขนาดตัวอักษร</string>
-    <string name="aboutScreenTranslationsTitle">การแปล</string>
     <string name="menuRateAndComment">ให้คะแนนเรา</string>
     <string name="yes">ใช่</string>
     <string name="paramRecoil">แรงถอย</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">คืนค่าพารามิเตอร์เป็นค่าเริ่มต้น\?</string>
     <string name="paramDamping">การลดแรงสั่นสะเทือน</string>
     <string name="serviceInactiveText">บริการถูกปิดใช้งาน คลิกเพื่อเปิดใช้งาน</string>
-    <string name="aboutScreenTranslationsText">ช่วยแปลแอพนี้และรับใบอนุญาตฟรี! ข้อมูลเพิ่มเติม:</string>
     <string name="cancel">ยกเลิก</string>
     <string name="ultimateLicenseTitle">ใบอนุญาตขั้นสูงสุด</string>
     <string name="measuredSensorRate">อัตราการวัดเซนเซอร์</string>

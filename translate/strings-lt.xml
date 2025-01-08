@@ -26,7 +26,6 @@
     <string name="menuLicense">Atnaujinkite savo licenciją</string>
     <string name="openSourceLicensesTitle">Atvirojo kodo licencijos</string>
     <string name="menuDecreaseTextSize">Sumažinti teksto dydį</string>
-    <string name="aboutScreenTranslationsTitle">Vertimai</string>
     <string name="menuRateAndComment">Įvertink mus</string>
     <string name="yes">Taip</string>
     <string name="paramRecoil">Atsitraukimas</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Atkurti parametrus į numatytąsias reikšmes\?</string>
     <string name="paramDamping">Slopinimas</string>
     <string name="serviceInactiveText">Paslauga išjungta, spustelėkite, kad įgalintumėte.</string>
-    <string name="aboutScreenTranslationsText">Padėkite išversti šią programą ir gaukite nemokamą licenciją! Daugiau informacijos:</string>
     <string name="cancel">Atšaukti</string>
     <string name="ultimateLicenseTitle">Galutinė licencija</string>
     <string name="measuredSensorRate">Išmatuotas jutiklio greitis</string>

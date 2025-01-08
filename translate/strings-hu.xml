@@ -26,7 +26,6 @@
     <string name="menuLicense">Frissítse licencét</string>
     <string name="openSourceLicensesTitle">Nyílt forráskódú licencek</string>
     <string name="menuDecreaseTextSize">Csökkentse a szöveg méretét</string>
-    <string name="aboutScreenTranslationsTitle">Fordítások</string>
     <string name="menuRateAndComment">Értékeljen minket</string>
     <string name="yes">Igen</string>
     <string name="paramRecoil">Visszarúg</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Visszaállítja a paramétereket az alapértelmezett értékekre\?</string>
     <string name="paramDamping">Csillapítás</string>
     <string name="serviceInactiveText">A szolgáltatás le van tiltva, kattintson az engedélyezéshez.</string>
-    <string name="aboutScreenTranslationsText">Segítsen lefordítani ezt az alkalmazást, és szerezzen ingyenes licencet! Több információ:</string>
     <string name="cancel">Mégsem</string>
     <string name="ultimateLicenseTitle">Végső licenc</string>
     <string name="measuredSensorRate">Mért érzékelő sebesség</string>

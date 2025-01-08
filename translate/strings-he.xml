@@ -26,7 +26,6 @@
     <string name="menuLicense">שדרג את הרישיון שלך</string>
     <string name="openSourceLicensesTitle">רישיונות קוד פתוח</string>
     <string name="menuDecreaseTextSize">הקטן את גודל הטקסט</string>
-    <string name="aboutScreenTranslationsTitle">תרגומים</string>
     <string name="menuRateAndComment">דרג אותנו</string>
     <string name="yes">כֵּן</string>
     <string name="paramRecoil">רְתִיעָה</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">לשחזר פרמטרים לערכי ברירת מחדל\?</string>
     <string name="paramDamping">שיכוך</string>
     <string name="serviceInactiveText">השירות מושבת, לחץ כדי להפעיל.</string>
-    <string name="aboutScreenTranslationsText">עזור לתרגם את האפליקציה הזו וקבל רישיון חינם! עוד מידע:</string>
     <string name="cancel">לְבַטֵל</string>
     <string name="ultimateLicenseTitle">רישיון אולטימטיבי</string>
     <string name="measuredSensorRate">קצב חיישן נמדד</string>

@@ -26,7 +26,6 @@
     <string name="menuLicense">तुमचा परवाना अपग्रेड करा</string>
     <string name="openSourceLicensesTitle">मुक्त स्रोत परवाने</string>
     <string name="menuDecreaseTextSize">मजकूर आकार कमी करा</string>
-    <string name="aboutScreenTranslationsTitle">भाषांतरे</string>
     <string name="menuRateAndComment">आम्हाला रेट करा</string>
     <string name="yes">होय</string>
     <string name="paramRecoil">मागे हटणे</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">पॅरामीटर्स डीफॉल्ट मूल्यांवर पुनर्संचयित करायचे\?</string>
     <string name="paramDamping">ओलसर</string>
     <string name="serviceInactiveText">सेवा अक्षम केली आहे, सक्षम करण्यासाठी क्लिक करा.</string>
-    <string name="aboutScreenTranslationsText">या ॲपचे भाषांतर करण्यात मदत करा आणि विनामूल्य परवाना मिळवा! अधिक माहिती:</string>
     <string name="cancel">रद्द करा</string>
     <string name="ultimateLicenseTitle">अंतिम परवाना</string>
     <string name="measuredSensorRate">मोजलेले सेन्सर दर</string>

@@ -26,7 +26,6 @@
     <string name="menuLicense">ਆਪਣਾ ਲਾਇਸੰਸ ਅੱਪਗ੍ਰੇਡ ਕਰੋ</string>
     <string name="openSourceLicensesTitle">ਓਪਨ ਸੋਰਸ ਲਾਇਸੰਸ</string>
     <string name="menuDecreaseTextSize">ਟੈਕਸਟ ਦਾ ਆਕਾਰ ਘਟਾਓ</string>
-    <string name="aboutScreenTranslationsTitle">ਅਨੁਵਾਦ</string>
     <string name="menuRateAndComment">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
     <string name="yes">ਹਾਂ</string>
     <string name="paramRecoil">ਪਿੱਛੇ ਹਟਣਾ</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">ਕੀ ਪੈਰਾਮੀਟਰਾਂ ਨੂੰ ਡਿਫੌਲਟ ਮੁੱਲਾਂ ਵਿੱਚ ਰੀਸਟੋਰ ਕਰਨਾ ਹੈ\?</string>
     <string name="paramDamping">ਡੰਪਿੰਗ</string>
     <string name="serviceInactiveText">ਸੇਵਾ ਅਯੋਗ ਹੈ, ਯੋਗ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।</string>
-    <string name="aboutScreenTranslationsText">ਇਸ ਐਪ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਅਤੇ ਮੁਫ਼ਤ ਲਾਇਸੰਸ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰੋ! ਹੋਰ ਜਾਣਕਾਰੀ:</string>
     <string name="cancel">ਰੱਦ ਕਰੋ</string>
     <string name="ultimateLicenseTitle">ਅੰਤਮ ਲਾਇਸੰਸ</string>
     <string name="measuredSensorRate">ਮਾਪਿਆ ਸੈਂਸਰ ਦਰ</string>

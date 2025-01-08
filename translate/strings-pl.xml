@@ -26,7 +26,6 @@
     <string name="menuLicense">Zaktualizuj swoją licencję</string>
     <string name="openSourceLicensesTitle">Licencje Open Source</string>
     <string name="menuDecreaseTextSize">Zmniejsz rozmiar tekstu</string>
-    <string name="aboutScreenTranslationsTitle">Tłumaczenia</string>
     <string name="menuRateAndComment">Oceń nas</string>
     <string name="yes">Tak</string>
     <string name="paramRecoil">Odrzut</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Przywrócić parametry do wartości domyślnych\?</string>
     <string name="paramDamping">Tłumienie</string>
     <string name="serviceInactiveText">Usługa jest wyłączona, kliknij aby włączyć.</string>
-    <string name="aboutScreenTranslationsText">Pomóż przetłumaczyć tę aplikację i uzyskaj bezpłatną licencję! Więcej informacji:</string>
     <string name="cancel">Anulować</string>
     <string name="ultimateLicenseTitle">Licencja Ultimate</string>
     <string name="measuredSensorRate">Zmierzona szybkość czujnika</string>

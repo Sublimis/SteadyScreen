@@ -26,7 +26,6 @@
     <string name="menuLicense">Actualizați-vă licența</string>
     <string name="openSourceLicensesTitle">Licențe open source</string>
     <string name="menuDecreaseTextSize">Reduceți dimensiunea textului</string>
-    <string name="aboutScreenTranslationsTitle">Traduceri</string>
     <string name="menuRateAndComment">Evaluează-ne</string>
     <string name="yes">Da</string>
     <string name="paramRecoil">Recul</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Restabiliți parametrii la valorile implicite\?</string>
     <string name="paramDamping">Amortizare</string>
     <string name="serviceInactiveText">Serviciul este dezactivat, faceți clic pentru a activa.</string>
-    <string name="aboutScreenTranslationsText">Ajutați la traducerea acestei aplicații și obțineți o licență gratuită! Mai multe informatii:</string>
     <string name="cancel">Anula</string>
     <string name="ultimateLicenseTitle">Licență finală</string>
     <string name="measuredSensorRate">Rata senzorului măsurată</string>

@@ -26,7 +26,6 @@
     <string name="menuLicense">Lisansınızı yükseltin</string>
     <string name="openSourceLicensesTitle">Açık kaynak lisansları</string>
     <string name="menuDecreaseTextSize">Metin boyutunu azalt</string>
-    <string name="aboutScreenTranslationsTitle">Çeviriler</string>
     <string name="menuRateAndComment">Bizi derecelendirin</string>
     <string name="yes">Evet</string>
     <string name="paramRecoil">Geri tepme</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Parametreleri varsayılan değerlere geri yüklemek ister misiniz\?</string>
     <string name="paramDamping">Sönümleme</string>
     <string name="serviceInactiveText">Hizmet devre dışı bırakıldı, etkinleştirmek için tıklayın.</string>
-    <string name="aboutScreenTranslationsText">Bu uygulamanın çevrilmesine yardımcı olun ve ücretsiz bir lisans alın! Daha fazla bilgi:</string>
     <string name="cancel">İptal etmek</string>
     <string name="ultimateLicenseTitle">Nihai Lisans</string>
     <string name="measuredSensorRate">Ölçülen sensör oranı</string>

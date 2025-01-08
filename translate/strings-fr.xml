@@ -26,7 +26,6 @@
     <string name="menuLicense">Mettez à niveau votre licence</string>
     <string name="openSourceLicensesTitle">Licences open source</string>
     <string name="menuDecreaseTextSize">Réduire la taille du texte</string>
-    <string name="aboutScreenTranslationsTitle">Traductions</string>
     <string name="menuRateAndComment">Évaluez-nous</string>
     <string name="yes">Oui</string>
     <string name="paramRecoil">Recul</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Restaurer les paramètres aux valeurs par défaut \?</string>
     <string name="paramDamping">Amortissement</string>
     <string name="serviceInactiveText">Le service est désactivé, cliquez pour activer.</string>
-    <string name="aboutScreenTranslationsText">Aidez à traduire cette application et obtenez une licence gratuite ! Plus d\'informations:</string>
     <string name="cancel">Annuler</string>
     <string name="ultimateLicenseTitle">Licence Ultime</string>
     <string name="measuredSensorRate">Taux de capteur mesuré</string>

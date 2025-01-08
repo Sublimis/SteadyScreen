@@ -26,7 +26,6 @@
     <string name="menuLicense">Tingkatkan lesen anda</string>
     <string name="openSourceLicensesTitle">Lesen sumber terbuka</string>
     <string name="menuDecreaseTextSize">Kurangkan saiz teks</string>
-    <string name="aboutScreenTranslationsTitle">Terjemahan</string>
     <string name="menuRateAndComment">Nilaikan kami</string>
     <string name="yes">ya</string>
     <string name="paramRecoil">Berundur</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Pulihkan parameter kepada nilai lalai\?</string>
     <string name="paramDamping">redaman</string>
     <string name="serviceInactiveText">Perkhidmatan dilumpuhkan, klik untuk membolehkan.</string>
-    <string name="aboutScreenTranslationsText">Bantu menterjemah apl ini dan dapatkan lesen percuma! maklumat lanjut:</string>
     <string name="cancel">Batal</string>
     <string name="ultimateLicenseTitle">Lesen muktamad</string>
     <string name="measuredSensorRate">Kadar penderia yang diukur</string>

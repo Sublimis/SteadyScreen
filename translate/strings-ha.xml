@@ -26,7 +26,6 @@
     <string name="menuLicense">Haɓaka lasisin ku</string>
     <string name="openSourceLicensesTitle">Bude lasisin tushe</string>
     <string name="menuDecreaseTextSize">Rage girman rubutu</string>
-    <string name="aboutScreenTranslationsTitle">Fassara</string>
     <string name="menuRateAndComment">Rage mu</string>
     <string name="yes">Ee</string>
     <string name="paramRecoil">Maimaitawa</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Mayar da sigogi zuwa tsoffin ƙima\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">An kashe sabis, danna don kunna.</string>
-    <string name="aboutScreenTranslationsText">Taimaka fassara wannan app kuma sami lasisi kyauta! Karin bayani:</string>
     <string name="cancel">Soke</string>
     <string name="ultimateLicenseTitle">Lasisi na ƙarshe</string>
     <string name="measuredSensorRate">Ƙimar firikwensin da aka auna</string>

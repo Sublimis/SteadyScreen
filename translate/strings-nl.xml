@@ -26,7 +26,6 @@
     <string name="menuLicense">Upgrade uw licentie</string>
     <string name="openSourceLicensesTitle">Open source-licenties</string>
     <string name="menuDecreaseTextSize">Tekstgrootte verkleinen</string>
-    <string name="aboutScreenTranslationsTitle">Vertalingen</string>
     <string name="menuRateAndComment">Beoordeel ons</string>
     <string name="yes">Ja</string>
     <string name="paramRecoil">Terugslag</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Parameters herstellen naar standaardwaarden\?</string>
     <string name="paramDamping">Demping</string>
     <string name="serviceInactiveText">Service is uitgeschakeld, klik om in te schakelen.</string>
-    <string name="aboutScreenTranslationsText">Help deze app te vertalen en ontvang een gratis licentie! Meer informatie:</string>
     <string name="cancel">Annuleren</string>
     <string name="ultimateLicenseTitle">Ultieme licentie</string>
     <string name="measuredSensorRate">Gemeten sensorsnelheid</string>

@@ -26,7 +26,6 @@
     <string name="menuLicense">તમારું લાઇસન્સ અપગ્રેડ કરો</string>
     <string name="openSourceLicensesTitle">ઓપન સોર્સ લાઇસન્સ</string>
     <string name="menuDecreaseTextSize">ટેક્સ્ટનું કદ ઘટાડો</string>
-    <string name="aboutScreenTranslationsTitle">અનુવાદો</string>
     <string name="menuRateAndComment">અમને રેટ કરો</string>
     <string name="yes">હા</string>
     <string name="paramRecoil">પાછળ પડવું</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">પરિમાણોને ડિફૉલ્ટ મૂલ્યોમાં પુનઃસ્થાપિત કરીએ\?</string>
     <string name="paramDamping">ભીનાશ</string>
     <string name="serviceInactiveText">સેવા અક્ષમ છે, સક્ષમ કરવા માટે ક્લિક કરો.</string>
-    <string name="aboutScreenTranslationsText">આ એપ્લિકેશનનો અનુવાદ કરવામાં અને મફત લાઇસન્સ મેળવવામાં સહાય કરો! વધુ માહિતી:</string>
     <string name="cancel">રદ કરો</string>
     <string name="ultimateLicenseTitle">અલ્ટીમેટ લાયસન્સ</string>
     <string name="measuredSensorRate">માપેલ સેન્સર દર</string>

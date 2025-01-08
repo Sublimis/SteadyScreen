@@ -26,7 +26,6 @@
     <string name="menuLicense">ፈቃድህን አሻሽል።</string>
     <string name="openSourceLicensesTitle">ክፍት ምንጭ ፈቃዶች</string>
     <string name="menuDecreaseTextSize">የጽሑፍ መጠን ቀንስ</string>
-    <string name="aboutScreenTranslationsTitle">ትርጉሞች</string>
     <string name="menuRateAndComment">ደረጃ ይስጡን።</string>
     <string name="yes">አዎ</string>
     <string name="paramRecoil">ማገገሚያ</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">መለኪያዎች ወደ ነባሪ እሴቶች ይመለሱ\?</string>
     <string name="paramDamping">መደምሰስ</string>
     <string name="serviceInactiveText">አገልግሎቱ ተሰናክሏል፣ ለማንቃት ጠቅ ያድርጉ።</string>
-    <string name="aboutScreenTranslationsText">ይህን መተግበሪያ ለመተርጎም ያግዙ እና ነጻ ፍቃድ ያግኙ! ተጨማሪ መረጃ:</string>
     <string name="cancel">ሰርዝ</string>
     <string name="ultimateLicenseTitle">የመጨረሻ ፍቃድ</string>
     <string name="measuredSensorRate">የተለካ ዳሳሽ መጠን</string>

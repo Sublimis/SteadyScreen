@@ -26,7 +26,6 @@
     <string name="menuLicense">升级您的许可证</string>
     <string name="openSourceLicensesTitle">开源许可证</string>
     <string name="menuDecreaseTextSize">减小文本大小</string>
-    <string name="aboutScreenTranslationsTitle">翻译</string>
     <string name="menuRateAndComment">给我们评分</string>
     <string name="yes">是的</string>
     <string name="paramRecoil">畏缩</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">恢复参数为默认值？</string>
     <string name="paramDamping">减震</string>
     <string name="serviceInactiveText">服务已禁用，点击启用。</string>
-    <string name="aboutScreenTranslationsText">帮助翻译这个应用程序并获得免费许可证！更多信息：</string>
     <string name="cancel">取消</string>
     <string name="ultimateLicenseTitle">终极许可证</string>
     <string name="measuredSensorRate">测量传感器速率</string>

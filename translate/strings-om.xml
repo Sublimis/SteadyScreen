@@ -26,7 +26,6 @@
     <string name="menuLicense">Hayyama kee fooyyessaa</string>
     <string name="openSourceLicensesTitle">Hayyama madda banaa</string>
     <string name="menuDecreaseTextSize">Hammangaa barruu hir\'isi</string>
-    <string name="aboutScreenTranslationsTitle">Hiikkaawwan</string>
     <string name="menuRateAndComment">Sadarkaa nuuf kennaa</string>
     <string name="yes">Eeyyee</string>
     <string name="paramRecoil">Duubatti deebi\'uu</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Qabduulee gara gatiiwwan durtiitti deebisuu\?</string>
     <string name="paramDamping">Daampii gochuu</string>
     <string name="serviceInactiveText">Tajaajilli hojii irraa ooleera, dandeessisuuf cuqaasi.</string>
-    <string name="aboutScreenTranslationsText">Appii kana hiikuuf gargaaraa hayyama bilisaa argadhaa! Odeeffannoo dabalataa:</string>
     <string name="cancel">Haquu</string>
     <string name="ultimateLicenseTitle">Hayyama Dhumaa</string>
     <string name="measuredSensorRate">Saffisa sensaraa safarame</string>

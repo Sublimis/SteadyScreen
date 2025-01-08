@@ -26,7 +26,6 @@
     <string name="menuLicense">Αναβαθμίστε την άδειά σας</string>
     <string name="openSourceLicensesTitle">Άδειες ανοιχτού κώδικα</string>
     <string name="menuDecreaseTextSize">Μειώστε το μέγεθος του κειμένου</string>
-    <string name="aboutScreenTranslationsTitle">Μεταφράσεις</string>
     <string name="menuRateAndComment">Βαθμολογήστε μας</string>
     <string name="yes">Ναί</string>
     <string name="paramRecoil">Ανάκρουση</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Επαναφορά παραμέτρων στις προεπιλεγμένες τιμές;</string>
     <string name="paramDamping">Απόσβεση</string>
     <string name="serviceInactiveText">Η υπηρεσία είναι απενεργοποιημένη, κάντε κλικ για ενεργοποίηση.</string>
-    <string name="aboutScreenTranslationsText">Βοηθήστε στη μετάφραση αυτής της εφαρμογής και αποκτήστε δωρεάν άδεια! Περισσότερες πληροφορίες:</string>
     <string name="cancel">Ματαίωση</string>
     <string name="ultimateLicenseTitle">Απόλυτη άδεια</string>
     <string name="measuredSensorRate">Μετρημένη ταχύτητα αισθητήρα</string>

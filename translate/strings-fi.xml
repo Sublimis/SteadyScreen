@@ -26,7 +26,6 @@
     <string name="menuLicense">Päivitä lisenssisi</string>
     <string name="openSourceLicensesTitle">Avoimen lähdekoodin lisenssit</string>
     <string name="menuDecreaseTextSize">Pienennä tekstin kokoa</string>
-    <string name="aboutScreenTranslationsTitle">Käännökset</string>
     <string name="menuRateAndComment">Arvioi meidät</string>
     <string name="yes">Kyllä</string>
     <string name="paramRecoil">Rekyyli</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Palautetaanko parametrit oletusarvoihin\?</string>
     <string name="paramDamping">Vaimennus</string>
     <string name="serviceInactiveText">Palvelu on poistettu käytöstä, ota käyttöön napsauttamalla.</string>
-    <string name="aboutScreenTranslationsText">Auta kääntämään tämä sovellus ja hanki ilmainen lisenssi! Lisätietoja:</string>
     <string name="cancel">Peruuttaa</string>
     <string name="ultimateLicenseTitle">Ultimate Lisenssi</string>
     <string name="measuredSensorRate">Mitattu anturin nopeus</string>

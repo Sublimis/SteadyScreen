@@ -26,7 +26,6 @@
     <string name="menuLicense">Nâng cấp giấy phép của bạn</string>
     <string name="openSourceLicensesTitle">Giấy phép nguồn mở</string>
     <string name="menuDecreaseTextSize">Giảm kích thước văn bản</string>
-    <string name="aboutScreenTranslationsTitle">Bản dịch</string>
     <string name="menuRateAndComment">Đánh giá chúng tôi</string>
     <string name="yes">Đúng</string>
     <string name="paramRecoil">Sự giật lùi</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Khôi phục tham số về giá trị mặc định\?</string>
     <string name="paramDamping">Giảm chấn</string>
     <string name="serviceInactiveText">Dịch vụ đã bị vô hiệu hóa, hãy nhấp để bật lại.</string>
-    <string name="aboutScreenTranslationsText">Giúp dịch ứng dụng này và nhận được giấy phép miễn phí! Thêm thông tin:</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="ultimateLicenseTitle">Giấy phép cuối cùng</string>
     <string name="measuredSensorRate">Tốc độ cảm biến được đo</string>

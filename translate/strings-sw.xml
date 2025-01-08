@@ -26,7 +26,6 @@
     <string name="menuLicense">Boresha leseni yako</string>
     <string name="openSourceLicensesTitle">Leseni za chanzo huria</string>
     <string name="menuDecreaseTextSize">Punguza ukubwa wa maandishi</string>
-    <string name="aboutScreenTranslationsTitle">Tafsiri</string>
     <string name="menuRateAndComment">Tukadirie</string>
     <string name="yes">Ndiyo</string>
     <string name="paramRecoil">Rejea</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Ungependa kurejesha vigezo kwa thamani chaguomsingi\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">Huduma imezimwa, bofya ili kuwezesha.</string>
-    <string name="aboutScreenTranslationsText">Saidia kutafsiri programu hii na kupata leseni bila malipo! Maelezo zaidi:</string>
     <string name="cancel">Ghairi</string>
     <string name="ultimateLicenseTitle">Leseni ya Mwisho</string>
     <string name="measuredSensorRate">Kiwango cha kihisi kilichopimwa</string>

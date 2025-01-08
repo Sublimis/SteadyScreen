@@ -26,7 +26,6 @@
     <string name="menuLicense">Обновите свою лицензию</string>
     <string name="openSourceLicensesTitle">Лицензии с открытым исходным кодом</string>
     <string name="menuDecreaseTextSize">Уменьшить размер текста</string>
-    <string name="aboutScreenTranslationsTitle">Переводы</string>
     <string name="menuRateAndComment">Оцените нас</string>
     <string name="yes">Да</string>
     <string name="paramRecoil">Отдача</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Восстановить параметры до значений по умолчанию\?</string>
     <string name="paramDamping">Демпфирование</string>
     <string name="serviceInactiveText">Служба отключена, нажмите, чтобы включить.</string>
-    <string name="aboutScreenTranslationsText">Помогите перевести это приложение и получите бесплатную лицензию! Больше информации:</string>
     <string name="cancel">Отмена</string>
     <string name="ultimateLicenseTitle">Полная лицензия</string>
     <string name="measuredSensorRate">Измеренная скорость датчика</string>

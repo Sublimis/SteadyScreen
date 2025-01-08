@@ -26,7 +26,6 @@
     <string name="menuLicense">라이센스를 업그레이드하세요</string>
     <string name="openSourceLicensesTitle">오픈소스 라이센스</string>
     <string name="menuDecreaseTextSize">글자 크기 줄이기</string>
-    <string name="aboutScreenTranslationsTitle">번역</string>
     <string name="menuRateAndComment">우리를 평가해주세요</string>
     <string name="yes">예</string>
     <string name="paramRecoil">뒷걸음질</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">매개변수를 기본값으로 복원하시겠습니까\?</string>
     <string name="paramDamping">제동</string>
     <string name="serviceInactiveText">서비스가 비활성화되었습니다. 클릭하여 활성화하세요.</string>
-    <string name="aboutScreenTranslationsText">이 앱의 번역을 도와주고 무료 라이센스를 받으세요! 더 많은 정보:</string>
     <string name="cancel">취소</string>
     <string name="ultimateLicenseTitle">얼티밋 라이센스</string>
     <string name="measuredSensorRate">측정된 센서 속도</string>

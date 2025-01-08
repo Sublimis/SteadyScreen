@@ -26,7 +26,6 @@
     <string name="menuLicense">Jauniniet savu licenci</string>
     <string name="openSourceLicensesTitle">Atvērtā pirmkoda licences</string>
     <string name="menuDecreaseTextSize">Samaziniet teksta lielumu</string>
-    <string name="aboutScreenTranslationsTitle">Tulkojumi</string>
     <string name="menuRateAndComment">Novērtējiet mūs</string>
     <string name="yes">Jā</string>
     <string name="paramRecoil">Atsitiens</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Vai atjaunot parametrus uz noklusējuma vērtībām\?</string>
     <string name="paramDamping">Amortizācija</string>
     <string name="serviceInactiveText">Pakalpojums ir atspējots, noklikšķiniet, lai iespējotu.</string>
-    <string name="aboutScreenTranslationsText">Palīdziet tulkot šo lietotni un iegūstiet bezmaksas licenci! Vairāk informācijas:</string>
     <string name="cancel">Atcelt</string>
     <string name="ultimateLicenseTitle">Ultimate License</string>
     <string name="measuredSensorRate">Izmērītais sensora ātrums</string>

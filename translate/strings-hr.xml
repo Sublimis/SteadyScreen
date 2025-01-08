@@ -26,7 +26,6 @@
     <string name="menuLicense">Nadogradite svoju licencu</string>
     <string name="openSourceLicensesTitle">Licence otvorenog koda</string>
     <string name="menuDecreaseTextSize">Smanji veličinu teksta</string>
-    <string name="aboutScreenTranslationsTitle">Prijevodi</string>
     <string name="menuRateAndComment">Ocijenite nas</string>
     <string name="yes">Da</string>
     <string name="paramRecoil">trzaj</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Vratiti parametre na zadane vrijednosti\?</string>
     <string name="paramDamping">Prigušivanje</string>
     <string name="serviceInactiveText">Usluga je onemogućena, kliknite za uključivanje.</string>
-    <string name="aboutScreenTranslationsText">Pomozite prevesti ovu aplikaciju i dobijte besplatnu licencu! Više informacija:</string>
     <string name="cancel">Otkazati</string>
     <string name="ultimateLicenseTitle">Konačna licenca</string>
     <string name="measuredSensorRate">Izmjerena brzina senzora</string>

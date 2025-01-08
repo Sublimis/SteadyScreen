@@ -26,7 +26,6 @@
     <string name="menuLicense">Uppfærðu leyfið þitt</string>
     <string name="openSourceLicensesTitle">Opinn uppspretta leyfi</string>
     <string name="menuDecreaseTextSize">Minnka textastærð</string>
-    <string name="aboutScreenTranslationsTitle">Þýðingar</string>
     <string name="menuRateAndComment">Gefðu okkur einkunn</string>
     <string name="yes">Já</string>
     <string name="paramRecoil">Hrökkun</string>
@@ -114,7 +113,6 @@
     <string name="dialogRestoreDefaultsMessage">Endurheimta færibreytur í sjálfgefin gildi\?</string>
     <string name="paramDamping">Dempun</string>
     <string name="serviceInactiveText">Þjónustan er óvirk, smelltu til að virkja.</string>
-    <string name="aboutScreenTranslationsText">Hjálpaðu til við að þýða þetta forrit og fáðu ókeypis leyfi! Meiri upplýsingar:</string>
     <string name="cancel">Hætta við</string>
     <string name="ultimateLicenseTitle">Fullkomið leyfi</string>
     <string name="measuredSensorRate">Mældur skynjarahraði</string>

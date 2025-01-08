@@ -26,7 +26,6 @@
     <string name="menuLicense">Upgradujte svou licenci</string>
     <string name="openSourceLicensesTitle">Open source licence</string>
     <string name="menuDecreaseTextSize">Zmenšit velikost textu</string>
-    <string name="aboutScreenTranslationsTitle">Překlady</string>
     <string name="menuRateAndComment">Ohodnoťte nás</string>
     <string name="yes">Ano</string>
     <string name="paramRecoil">Zpětný ráz</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Obnovit parametry na výchozí hodnoty\?</string>
     <string name="paramDamping">Tlumení</string>
     <string name="serviceInactiveText">Služba je zakázána, kliknutím ji povolte.</string>
-    <string name="aboutScreenTranslationsText">Pomozte přeložit tuto aplikaci a získejte bezplatnou licenci! Více informací:</string>
     <string name="cancel">Zrušit</string>
     <string name="ultimateLicenseTitle">Ultimate Licence</string>
     <string name="measuredSensorRate">Naměřená rychlost senzoru</string>

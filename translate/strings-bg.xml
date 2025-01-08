@@ -26,7 +26,6 @@
     <string name="menuLicense">Надстройте лиценза си</string>
     <string name="openSourceLicensesTitle">Лицензи с отворен код</string>
     <string name="menuDecreaseTextSize">Намалете размера на текста</string>
-    <string name="aboutScreenTranslationsTitle">Преводи</string>
     <string name="menuRateAndComment">Оценете ни</string>
     <string name="yes">да</string>
     <string name="paramRecoil">Откат</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Възстановяване на параметрите до стойностите по подразбиране\?</string>
     <string name="paramDamping">Амортизиране</string>
     <string name="serviceInactiveText">Услугата е деактивирана, щракнете, за да активирате.</string>
-    <string name="aboutScreenTranslationsText">Помогнете за превода на това приложение и получете безплатен лиценз! Повече информация:</string>
     <string name="cancel">Отказ</string>
     <string name="ultimateLicenseTitle">Краен лиценз</string>
     <string name="measuredSensorRate">Измерена честота на сензора</string>

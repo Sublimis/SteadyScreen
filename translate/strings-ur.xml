@@ -26,7 +26,6 @@
     <string name="menuLicense">اپنا لائسنس اپ گریڈ کریں۔</string>
     <string name="openSourceLicensesTitle">اوپن سورس لائسنس</string>
     <string name="menuDecreaseTextSize">متن کا سائز کم کریں۔</string>
-    <string name="aboutScreenTranslationsTitle">ترجمے</string>
     <string name="menuRateAndComment">ہمیں درجہ دیں۔</string>
     <string name="yes">جی ہاں</string>
     <string name="paramRecoil">پیچھے ہٹنا</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">پیرامیٹرز کو ڈیفالٹ اقدار پر بحال کریں؟</string>
     <string name="paramDamping">نم کرنا</string>
     <string name="serviceInactiveText">سروس غیر فعال ہے، فعال کرنے کے لیے کلک کریں۔</string>
-    <string name="aboutScreenTranslationsText">اس ایپ کا ترجمہ کرنے اور مفت لائسنس حاصل کرنے میں مدد کریں! مزید معلومات:</string>
     <string name="cancel">منسوخ کریں۔</string>
     <string name="ultimateLicenseTitle">الٹیمیٹ لائسنس</string>
     <string name="measuredSensorRate">پیمائش شدہ سینسر کی شرح</string>

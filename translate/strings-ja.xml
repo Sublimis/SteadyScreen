@@ -26,7 +26,6 @@
     <string name="menuLicense">ライセンスをアップグレードする</string>
     <string name="openSourceLicensesTitle">オープンソースライセンス</string>
     <string name="menuDecreaseTextSize">テキストサイズを小さくする</string>
-    <string name="aboutScreenTranslationsTitle">翻訳</string>
     <string name="menuRateAndComment">評価してください</string>
     <string name="yes">はい</string>
     <string name="paramRecoil">反動</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">パラメータをデフォルト値に戻しますか\?</string>
     <string name="paramDamping">ダンピング</string>
     <string name="serviceInactiveText">サービスは無効になっています。クリックして有効にしてください。</string>
-    <string name="aboutScreenTranslationsText">このアプリの翻訳にご協力いただき、無料ライセンスを取得してください!より詳しい情報：</string>
     <string name="cancel">キャンセル</string>
     <string name="ultimateLicenseTitle">究極のライセンス</string>
     <string name="measuredSensorRate">測定されたセンサーレート</string>

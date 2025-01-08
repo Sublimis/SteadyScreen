@@ -26,7 +26,6 @@
     <string name="menuLicense">Uuendage oma litsentsi</string>
     <string name="openSourceLicensesTitle">Avatud lähtekoodiga litsentsid</string>
     <string name="menuDecreaseTextSize">Vähendage teksti suurust</string>
-    <string name="aboutScreenTranslationsTitle">Tõlked</string>
     <string name="menuRateAndComment">Hinda meid</string>
     <string name="yes">Jah</string>
     <string name="paramRecoil">Tagasilöök</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Kas taastada parameetrid vaikeväärtustele\?</string>
     <string name="paramDamping">Summutamine</string>
     <string name="serviceInactiveText">Teenus on keelatud, lubamiseks klõpsake.</string>
-    <string name="aboutScreenTranslationsText">Aidake seda rakendust tõlkida ja hankige tasuta litsents! Rohkem infot:</string>
     <string name="cancel">Tühista</string>
     <string name="ultimateLicenseTitle">Ülim litsents</string>
     <string name="measuredSensorRate">Mõõdetud anduri kiirus</string>

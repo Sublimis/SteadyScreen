@@ -26,7 +26,6 @@
     <string name="menuLicense">ترقية الترخيص الخاص بك</string>
     <string name="openSourceLicensesTitle">رخص مفتوحة المصدر</string>
     <string name="menuDecreaseTextSize">تقليل حجم النص</string>
-    <string name="aboutScreenTranslationsTitle">ترجمات</string>
     <string name="menuRateAndComment">قيمنا</string>
     <string name="yes">نعم</string>
     <string name="paramRecoil">نكص</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">استعادة المعلمات إلى القيم الافتراضية؟</string>
     <string name="paramDamping">التخميد</string>
     <string name="serviceInactiveText">تم تعطيل الخدمة، انقر لتمكينها.</string>
-    <string name="aboutScreenTranslationsText">ساعد في ترجمة هذا التطبيق واحصل على ترخيص مجاني! مزيد من المعلومات:</string>
     <string name="cancel">يلغي</string>
     <string name="ultimateLicenseTitle">الترخيص النهائي</string>
     <string name="measuredSensorRate">معدل الاستشعار المقاس</string>

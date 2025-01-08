@@ -26,7 +26,6 @@
     <string name="menuLicense">Tingkatkan lisensi Anda</string>
     <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
     <string name="menuDecreaseTextSize">Kurangi ukuran teks</string>
-    <string name="aboutScreenTranslationsTitle">Terjemahan</string>
     <string name="menuRateAndComment">Beri penilaian pada kami</string>
     <string name="yes">Ya</string>
     <string name="paramRecoil">Mundur</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Kembalikan parameter ke nilai default\?</string>
     <string name="paramDamping">Pembasahan</string>
     <string name="serviceInactiveText">Layanan dinonaktifkan, klik untuk mengaktifkan.</string>
-    <string name="aboutScreenTranslationsText">Bantu terjemahkan aplikasi ini dan dapatkan lisensi gratis! Info lebih lanjut:</string>
     <string name="cancel">Membatalkan</string>
     <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
     <string name="measuredSensorRate">Kecepatan sensor yang diukur</string>

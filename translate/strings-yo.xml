@@ -26,7 +26,6 @@
     <string name="menuLicense">Ṣe imudojuiwọn iwe-aṣẹ rẹ</string>
     <string name="openSourceLicensesTitle">Ṣii awọn iwe-aṣẹ orisun</string>
     <string name="menuDecreaseTextSize">Din iwọn ọrọ dinku</string>
-    <string name="aboutScreenTranslationsTitle">Awọn itumọ</string>
     <string name="menuRateAndComment">Oṣuwọn wa</string>
     <string name="yes">Bẹẹni</string>
     <string name="paramRecoil">Yipada</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Pada awọn paramita pada si awọn iye aiyipada bi\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">Iṣẹ jẹ alaabo, tẹ lati mu ṣiṣẹ.</string>
-    <string name="aboutScreenTranslationsText">Ṣe iranlọwọ tumọ ohun elo yii ki o gba iwe-aṣẹ ọfẹ! Alaye diẹ sii:</string>
     <string name="cancel">Fagilee</string>
     <string name="ultimateLicenseTitle">Gbẹhin iwe-aṣẹ</string>
     <string name="measuredSensorRate">Iwọn sensọ ti a ṣewọn</string>

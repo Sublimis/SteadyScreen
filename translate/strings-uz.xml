@@ -26,7 +26,6 @@
     <string name="menuLicense">Litsenziyangizni yangilang</string>
     <string name="openSourceLicensesTitle">Ochiq kodli litsenziyalar</string>
     <string name="menuDecreaseTextSize">Matn hajmini kamaytiring</string>
-    <string name="aboutScreenTranslationsTitle">Tarjimalar</string>
     <string name="menuRateAndComment">Bizga baho bering</string>
     <string name="yes">Ha</string>
     <string name="paramRecoil">Orqaga qaytish</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Parametrlar standart qiymatlarga tiklansinmi\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">Xizmat o\'chirilgan, yoqish uchun bosing.</string>
-    <string name="aboutScreenTranslationsText">Ushbu ilovani tarjima qilishga va bepul litsenziya olishga yordam bering! Batafsil ma\'lumot:</string>
     <string name="cancel">Bekor qilish</string>
     <string name="ultimateLicenseTitle">Yakuniy litsenziya</string>
     <string name="measuredSensorRate">O\'lchangan sensor tezligi</string>

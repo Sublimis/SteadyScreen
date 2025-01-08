@@ -26,7 +26,6 @@
     <string name="menuLicense">Oppgrader lisensen din</string>
     <string name="openSourceLicensesTitle">Åpen kildekode-lisenser</string>
     <string name="menuDecreaseTextSize">Reduser tekststørrelsen</string>
-    <string name="aboutScreenTranslationsTitle">Oversettelser</string>
     <string name="menuRateAndComment">Vurder oss</string>
     <string name="yes">Ja</string>
     <string name="paramRecoil">Rekyl</string>
@@ -114,7 +113,6 @@
     <string name="dialogRestoreDefaultsMessage">Vil du gjenopprette parametere til standardverdier\?</string>
     <string name="paramDamping">Demping</string>
     <string name="serviceInactiveText">Tjenesten er deaktivert, klikk for å aktivere.</string>
-    <string name="aboutScreenTranslationsText">Hjelp med å oversette denne appen og få en gratis lisens! Mer informasjon:</string>
     <string name="cancel">Kansellere</string>
     <string name="ultimateLicenseTitle">Ultimativ lisens</string>
     <string name="measuredSensorRate">Målt sensorhastighet</string>

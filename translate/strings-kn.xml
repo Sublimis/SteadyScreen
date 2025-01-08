@@ -26,7 +26,6 @@
     <string name="menuLicense">ನಿಮ್ಮ ಪರವಾನಗಿಯನ್ನು ನವೀಕರಿಸಿ</string>
     <string name="openSourceLicensesTitle">ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಗಳು</string>
     <string name="menuDecreaseTextSize">ಪಠ್ಯದ ಗಾತ್ರವನ್ನು ಕಡಿಮೆ ಮಾಡಿ</string>
-    <string name="aboutScreenTranslationsTitle">ಅನುವಾದಗಳು</string>
     <string name="menuRateAndComment">ನಮಗೆ ರೇಟ್ ಮಾಡಿ</string>
     <string name="yes">ಹೌದು</string>
     <string name="paramRecoil">ಹಿಮ್ಮೆಟ್ಟಿಸಿ</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">ನಿಯತಾಂಕಗಳನ್ನು ಡೀಫಾಲ್ಟ್ ಮೌಲ್ಯಗಳಿಗೆ ಮರುಸ್ಥಾಪಿಸುವುದೇ\?</string>
     <string name="paramDamping">ಡ್ಯಾಂಪಿಂಗ್</string>
     <string name="serviceInactiveText">ಸೇವೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, ಸಕ್ರಿಯಗೊಳಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.</string>
-    <string name="aboutScreenTranslationsText">ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಭಾಷಾಂತರಿಸಲು ಮತ್ತು ಉಚಿತ ಪರವಾನಗಿ ಪಡೆಯಲು ಸಹಾಯ ಮಾಡಿ! ಹೆಚ್ಚಿನ ಮಾಹಿತಿ:</string>
     <string name="cancel">ರದ್ದುಮಾಡಿ</string>
     <string name="ultimateLicenseTitle">ಅಂತಿಮ ಪರವಾನಗಿ</string>
     <string name="measuredSensorRate">ಸಂವೇದಕ ದರವನ್ನು ಅಳೆಯಲಾಗುತ್ತದೆ</string>

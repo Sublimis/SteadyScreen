@@ -26,7 +26,6 @@
     <string name="menuLicense">உங்கள் உரிமத்தை மேம்படுத்தவும்</string>
     <string name="openSourceLicensesTitle">திறந்த மூல உரிமங்கள்</string>
     <string name="menuDecreaseTextSize">உரை அளவைக் குறைக்கவும்</string>
-    <string name="aboutScreenTranslationsTitle">மொழிபெயர்ப்புகள்</string>
     <string name="menuRateAndComment">எங்களை மதிப்பிடுங்கள்</string>
     <string name="yes">ஆம்</string>
     <string name="paramRecoil">பின்னடைவு</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">அளவுருக்களை இயல்புநிலை மதிப்புகளுக்கு மீட்டமைக்கவா\?</string>
     <string name="paramDamping">தணித்தல்</string>
     <string name="serviceInactiveText">சேவை முடக்கப்பட்டுள்ளது, இயக்க கிளிக் செய்யவும்.</string>
-    <string name="aboutScreenTranslationsText">இந்தப் பயன்பாட்டை மொழிபெயர்த்து இலவச உரிமத்தைப் பெற உதவுங்கள்! மேலும் தகவல்:</string>
     <string name="cancel">ரத்து செய்</string>
     <string name="ultimateLicenseTitle">இறுதி உரிமம்</string>
     <string name="measuredSensorRate">அளவிடப்பட்ட சென்சார் வீதம்</string>

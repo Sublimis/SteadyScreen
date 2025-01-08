@@ -26,7 +26,6 @@
     <string name="menuLicense">మీ లైసెన్స్‌ని అప్‌గ్రేడ్ చేయండి</string>
     <string name="openSourceLicensesTitle">ఓపెన్ సోర్స్ లైసెన్స్‌లు</string>
     <string name="menuDecreaseTextSize">వచన పరిమాణాన్ని తగ్గించండి</string>
-    <string name="aboutScreenTranslationsTitle">అనువాదాలు</string>
     <string name="menuRateAndComment">మాకు రేట్ చేయండి</string>
     <string name="yes">అవును</string>
     <string name="paramRecoil">తిరోగమనం</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">పారామితులను డిఫాల్ట్ విలువలకు పునరుద్ధరించాలా\?</string>
     <string name="paramDamping">డంపింగ్</string>
     <string name="serviceInactiveText">సేవ నిలిపివేయబడింది, ప్రారంభించడానికి క్లిక్ చేయండి.</string>
-    <string name="aboutScreenTranslationsText">ఈ అనువర్తనాన్ని అనువదించడంలో సహాయం చేయండి మరియు ఉచిత లైసెన్స్ పొందండి! మరింత సమాచారం:</string>
     <string name="cancel">రద్దు చేయి</string>
     <string name="ultimateLicenseTitle">అల్టిమేట్ లైసెన్స్</string>
     <string name="measuredSensorRate">సెన్సార్ రేటును కొలుస్తారు</string>

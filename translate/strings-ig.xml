@@ -26,7 +26,6 @@
     <string name="menuLicense">Kwalite akwụkwọ ikike gị</string>
     <string name="openSourceLicensesTitle">Mepee ikikere isi mmalite</string>
     <string name="menuDecreaseTextSize">Wedata nha ederede</string>
-    <string name="aboutScreenTranslationsTitle">Ntụgharị asụsụ</string>
     <string name="menuRateAndComment">Nye anyị ọnụ</string>
     <string name="yes">Ee</string>
     <string name="paramRecoil">Weghachite</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Weghachite paramita na ụkpụrụ ndabara\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">Agbanyụrụ ọrụ, pịa ka ị nwee ike.</string>
-    <string name="aboutScreenTranslationsText">Nyere aka ịtụgharị asụsụ ngwa a wee nweta ikike efu! Ozi ndị ọzọ:</string>
     <string name="cancel">Kagbuo</string>
     <string name="ultimateLicenseTitle">Akwụkwọ ikike kacha</string>
     <string name="measuredSensorRate">Ọnụ ọgụgụ ihe mmetụta atụtara</string>

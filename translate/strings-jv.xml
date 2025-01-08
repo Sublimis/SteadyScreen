@@ -26,7 +26,6 @@
     <string name="menuLicense">Nganyarke lisensi sampeyan</string>
     <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
     <string name="menuDecreaseTextSize">Ngurangi ukuran teks</string>
-    <string name="aboutScreenTranslationsTitle">Terjemahan</string>
     <string name="menuRateAndComment">Rate kita</string>
     <string name="yes">ya wis</string>
     <string name="paramRecoil">mundur</string>
@@ -39,7 +38,6 @@
     <string name="dialogRestoreDefaultsMessage">Mulihake paramèter menyang nilai standar\?</string>
     <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">Layanan dipateni, klik kanggo ngaktifake.</string>
-    <string name="aboutScreenTranslationsText">Tulung nerjemahake aplikasi iki lan entuk lisensi gratis! Info liyane:</string>
     <string name="cancel">Batal</string>
     <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
     <string name="measuredSensorRate">Tingkat sensor sing diukur</string>
