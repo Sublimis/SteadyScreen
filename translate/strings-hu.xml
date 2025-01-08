@@ -1,53 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ez a szolgáltatás lehetővé teszi a kompatibilis alkalmazások számára, hogy könnyen ellensúlyozzák a felhasználói felületükön belüli kis eszközmozgásokat.
+    <string name="appDesc">Tedd még élvezetesebbé az olvasást útközben!
 \n
-\n🏝️ Ez javíthatja a képernyő olvashatóságát, és esetleg enyhítheti a mozgási rosszullétet útközben, pl. olvasás közben egy mozgó járműben.
+\n⛵ Ez a szolgáltatás lehetővé teszi a kompatibilis alkalmazások számára, hogy könnyen ellensúlyozzák a felhasználói felületükön belüli kis eszközmozgásokat.
 \n
-\n⚡ Az alkalmazást nagyon aprólékosan készítették el az erőforrás-felhasználás minimalizálása és a teljesítmény maximalizálása érdekében.
+\n🏝️ Ez javítja a kézi eszköz képernyőjének olvashatóságát séta vagy utazás közben.
 \n
-\nRemélem tetszeni fog 😊</string>
+\n⚡ A szolgáltatást nagyon aprólékosan alakították ki az erőforrás-felhasználás minimalizálása és a teljesítmény maximalizálása érdekében. További információkat a GitHubon találhat.
+\n
+\nRemélem élvezni fogod ezt a használatát 😊</string>
     <string name="dialogReviewNudgeMessage">Élvezed ezt az alkalmazást\?</string>
-    <string name="dialogReviewNudgeMessage2">Kösz! Kérjük, írjon egy szép véleményt, vagy értékeljen minket 5 csillaggal a Play Áruházban.</string>
+    <string name="dialogReviewNudgeMessage2">Köszönöm! Kérjük, írjon egy szép véleményt, vagy értékeljen minket 5 csillaggal a Play Áruházban.</string>
     <string name="paramLinearScalingInfo">Ez lineárisan skálázza a mozgásokat, így nagyobb vagy kisebb lesz anélkül, hogy befolyásolná a számításokat.</string>
     <string name="licenseItemAlreadyOwned">A licencelem már birtokában van</string>
-    <string name="dialogInfoMessage">Rázza meg kissé a készüléket. Figyelje meg, hogy a háttértartalom hogyan lágyítja ezeket a mozgásokat, megkönnyítve a képernyőn történő olvasást. (Ehhez a Stilly szolgáltatást engedélyezni kell a Kisegítő lehetőségek beállításaiban.)
+    <string name="dialogInfoMessage">Rázza meg kissé a készüléket. Figyelje meg, hogy a háttértartalom hogyan lágyítja ezeket a mozgásokat, megkönnyítve a képernyőn történő olvasást.
 \n
 \nEz a funkció bármely alkalmazásban könnyen megvalósítható. Kérjük, kövesse a GitHubon található utasításokat.</string>
     <string name="paramForceScaling">Erőméretezés</string>
     <string name="paramLinearScaling">Lineáris skálázás</string>
-    <string name="dialogConsentButton">Elfogad</string>
+    <string name="dialogConsentButton">Elfogadás</string>
     <string name="no">Nem</string>
-    <string name="licenseSuccessDialogMessage">Az alkalmazás licence sikeresen megtörtént. Köszönöm a tamogatásod!</string>
-    <string name="menuAbout">Ról ről</string>
+    <string name="licenseSuccessDialogMessage">Az alkalmazás licence sikeresen megtörtént. Köszönjük a támogatást!</string>
+    <string name="menuAbout">Körülbelül</string>
     <string name="paramForceScalingInfo">Ez a számítások előtt skálázza az erőket, ami viszont befolyásolja a mozgások általános nagyságát.</string>
     <string name="menuLicense">Frissítse licencét</string>
     <string name="openSourceLicensesTitle">Nyílt forráskódú licencek</string>
     <string name="menuDecreaseTextSize">Csökkentse a szöveg méretét</string>
     <string name="aboutScreenTranslationsTitle">Fordítások</string>
-    <string name="menuRateAndComment">Értékelj minket</string>
+    <string name="menuRateAndComment">Értékeljen minket</string>
     <string name="yes">Igen</string>
     <string name="paramRecoil">Visszarúg</string>
     <string name="paramSensorRate">Érzékelő sebessége</string>
     <string name="paramDampingInfo">Ennek növelése lelassítja és tompítja a mozgásokat, így kevésbé lesznek érzékenyek a nagyobb erőkre.</string>
-    <string name="ok">rendben</string>
+    <string name="ok">RENDBEN</string>
     <string name="menuSendDebugFeedback">Probléma bejelentése</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Végső</string>
-    <string name="dialogRestoreDefaultsMessage">Visszaállítja a beállításokat az alapértelmezett értékekre\?</string>
+    <string name="dialogRestoreDefaultsMessage">Visszaállítja a paramétereket az alapértelmezett értékekre\?</string>
     <string name="paramDamping">Csillapítás</string>
-    <string name="serviceInactiveText">A szolgáltatás le van tiltva, kattintson ide az engedélyezéshez.</string>
+    <string name="serviceInactiveText">A szolgáltatás le van tiltva, kattintson az engedélyezéshez.</string>
     <string name="aboutScreenTranslationsText">Segítsen lefordítani ezt az alkalmazást, és szerezzen ingyenes licencet! Több információ:</string>
-    <string name="cancel">Megszünteti</string>
+    <string name="cancel">Mégsem</string>
     <string name="ultimateLicenseTitle">Végső licenc</string>
     <string name="measuredSensorRate">Mért érzékelő sebesség</string>
     <string name="menuTheme">Téma</string>
-    <string name="measuredSensorRateInfo">Az érzékelő aktuális sebessége az alkalmazás által mérve. Ez eltérhet a kívánt szenzorfrekvenciától, mivel a rendszer végül eldönti, hogy melyik frekvenciát adja meg.</string>
-    <string name="aboutScreenGithubLink">Stilly a GitHubon</string>
-    <string name="aboutScreenLicenseTitle">Alkalmazáslicenc</string>
+    <string name="measuredSensorRateInfo">Az érzékelő aktuális sebessége az alkalmazás által mérve. Ez eltérhet a kívánt érzékelő frekvenciától, mivel a rendszer végső soron eldönti, hogy melyik frekvenciát adja meg.</string>
+    <string name="aboutScreenGithubLink">Állandó képernyő a GitHubon</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licenc</string>
     <string name="aboutScreenLicenseText">Ez az alkalmazás ingyenes és korlátozások nélkül működik. Licenc nélkül azonban 1 óra elteltével a paraméterek visszaállnak az alapértelmezett értékekre.</string>
     <string name="dialogInfoButton">Lépjen a GitHub oldalra</string>
-    <string name="generalError">Valami hiba történt. Kérlek próbáld újra.</string>
+    <string name="generalError">Valami hiba történt. Kérjük, próbálja újra.</string>
     <string name="paramRecoilInfo">Ennek növelése csökkenti a kis oszcillációkra való érzékenységet, és a mozgások kevésbé lesznek érzékenyek a nagyobb erőkre.</string>
     <string name="menuRestoreDefaults">Alapértékek visszaállítása</string>
     <string name="dialogButtonRateOnPlayStore">Értékelés a Play Áruházban</string>
@@ -68,15 +70,15 @@
 \n
 \n– Talán nem – mondta a Madárijesztő –, mert el akarjuk pusztítani.
 \n
-\n– Ó, ez más – mondta a Kapuk Őre. \"Soha még senki nem pusztította el, ezért természetesen azt hittem, hogy rabszolgákat fog csinálni belőled, ahogy a többit is. De vigyázz, mert gonosz és vad, és nem engedheti meg, hogy elpusztítsd. Nyugaton, ahol a nap lenyugszik, és nem találhatod meg őt.\"
+\n– Ó, ez más – mondta a Kapuk Őre. \"Soha még senki nem pusztította el, ezért természetesen azt hittem, hogy rabszolgává fog tenni, ahogy a többit is. De vigyázzatok magatokra, mert gonosz és vad, és nem engedheti meg, hogy elpusztítsa. Nyugaton, ahol a nap lenyugszik, és nem találhatod meg őt.\"
 \n
-\nKöszönetet mondtak neki, elbúcsúztak tőle, és nyugat felé fordultak, lágy füves mezőkön sétálva, melyeket itt-ott százszorszépek és boglárkák tarkítottak. Dorothy még mindig azt a csinos selyemruhát viselte, amelyet a palotában vett fel, de most meglepetésére azt tapasztalta, hogy az már nem zöld, hanem tiszta fehér. A Toto nyakát körülvevő szalag is elvesztette zöld színét, és olyan fehér volt, mint Dorothy ruhája.
+\nKöszönetet mondtak neki, elbúcsúztak tőle, és nyugat felé fordultak, lágy füves mezőkön sétálva, melyeket itt-ott százszorszépek és boglárkák tarkítottak. Dorothy még mindig azt a csinos selyemruhát viselte, amit a palotában vett fel, de most meglepetésére azt tapasztalta, hogy az már nem zöld, hanem tiszta fehér. A Toto nyakát körülvevő szalag is elvesztette zöld színét, és olyan fehér volt, mint Dorothy ruhája.
 \n
-\nA Smaragdváros hamarosan messze elmaradt. Ahogy haladtak előre, a talaj egyre durvább és dombosabb lett, mert ebben a nyugati országban nem voltak sem farmok, sem házak, és a talaj megmunkált.
+\nA Smaragdváros hamarosan messze elmaradt. Ahogy haladtak előre, a talaj egyre durvább és dombosabb lett, mert ebben a nyugati országban nem voltak farmok és házak, és a talaj megmunkált.
 \n
-\nDélután a nap forrón sütött az arcukba, mert nem volt fák, amelyek árnyékot adnának nekik; úgy, hogy az éjszaka előtt Dorothy, Toto és az oroszlán elfáradtak, lefeküdtek a fűre és elaludtak, miközben a Favágó és a Madárijesztő vigyáztak.
+\nDélután a nap forrón sütött az arcukba, mert nem volt fák, amelyek árnyékot adnának nekik; úgy, hogy az éjszaka előtt Dorothy, Toto és az Oroszlán elfáradtak, lefeküdtek a fűre és elaludtak, miközben a Favágó és a Madárijesztő vigyáztak.
 \n
-\nA nyugati gonosz boszorkánynak csak egy szeme volt, de az olyan erős volt, mint egy távcső, és mindenhová látott. Így hát, ahogy a kastélya ajtajában ült, véletlenül körülnézett, és látta, hogy Dorothy alszik, és körülötte voltak a barátai. Nagyon messze voltak, de a Gonosz Boszorkány dühös volt, hogy hazájában találta őket; így belefújt egy ezüst sípba, ami a nyakában lógott.
+\nA nyugati gonosz boszorkánynak csak egy szeme volt, de az olyan erős volt, mint egy távcső, és mindenhová látott. Így hát, miközben a kastélya ajtajában ült, véletlenül körülnézett, és látta, hogy Dorothy alszik, és körülötte voltak a barátai. Nagyon messze voltak, de a Gonosz Boszorkány dühös volt, hogy hazájában találta őket; így belefújt egy ezüst sípba, ami a nyakában lógott.
 \n
 \nEgyszerre minden irányból egy nagy farkasfalka futott hozzá. Hosszú lábuk, vad szemük és éles fogaik voltak.
 \n
@@ -84,21 +86,21 @@
 \n
 \n– Nem fogod őket rabszolgává tenni\? – kérdezte a farkasok vezére.
 \n
-\n– Nem – válaszolta –, az egyik ónból van, a másik szalmából; az egyik lány, a másik pedig oroszlán. Egyikük sem alkalmas a munkára, így apró darabokra tépheti őket.
+\n\"Nem\" - válaszolta -, az egyik ónból, a másik szalmából van; az egyik lány, a másik pedig oroszlán. Egyikük sem alkalmas a munkára, így apró darabokra tépheti őket.
 \n
-\n– Nagyon jó – mondta a farkas, és teljes sebességgel elrohant, a többiek nyomában.
+\n– Rendben – mondta a farkas, és teljes sebességgel elrohant, a többiek nyomában.
 \n
 \nMég szerencse, hogy a Madárijesztő és a Favágó ébren voltak, és hallották a farkasok közeledését.
 \n
 \n– Ez az én harcom – mondta a Favágó –, hát állj mögé, és találkozni fogok velük, ahogy jönnek.
 \n
-\nMegragadta a fejszéjét, amelyet nagyon élesre készített, és amikor a farkasok vezére rájött a Bádogfavágóra, meglendítette a karját, és levágta a farkas fejét a testéből, így az azonnal meghalt. Amint fel tudta emelni a fejszéjét, egy másik farkas bukkant fel, és ő is a Bádog Favágó fegyverének éle alá esett. Negyven farkas volt, és negyvenszer öltek meg egy farkast, úgy hogy végül mind holtan hevertek egy kupacban a Favágó előtt.
+\nMegragadta a fejszéjét, amelyet nagyon élesre készített, és amikor a farkasok vezére rájött a Bádogfavágóra, meglendítette a karját, és levágta a farkas fejét a testéből, így az azonnal meghalt. Amint fel tudta emelni a fejszéjét, egy másik farkas bukkant fel, és ő is a Bádog Favágó fegyverének éles éle alá esett. Negyven farkas volt, és negyvenszer öltek meg egy farkast, úgyhogy végül mind holtan hevertek egy kupacban a Favágó előtt.
 \n
 \nAztán letette a fejszéjét, és leült a Madárijesztő mellé, aki azt mondta: \"Jó harc volt, barátom.\"
 \n
-\nMegvárták, míg Dorothy másnap reggel felébred. A kislány nagyon megijedt, amikor meglátta a nagy bozontos farkashalmot, de a Bádogfavágó mindent elmondott neki. Megköszönte, hogy megmentette őket, és leült reggelizni, majd újra indultak útjukra.
+\nMegvárták, míg Dorothy másnap reggel felébred. A kislány nagyon megijedt, amikor meglátta a nagy bozontos farkashalmot, de a Bádogfavágó mindent elmondott neki. Megköszönte, hogy megmentette őket, leült reggelizni, majd újra indultak útjukra.
 \n
-\nUgyanazon a reggelen a Gonosz Boszorkány a kastélya ajtajához lépett, és kinézett az egyik szemével, amely messzire látott. Látta az összes farkasát holtan heverni, és az idegeneket még mindig átutazni az országán. Ettől még jobban feldühödött, mint korábban, és kétszer megfújta az ezüst sípját.
+\nUgyanazon a reggelen a Gonosz Boszorkány a kastélya ajtajához lépett, és kinézett az egyik szemével, amely messzire látott. Látta az összes farkasát holtan heverni, és az idegeneket, akik még mindig az országon át utaznak. Ettől még jobban feldühödött, mint korábban, és kétszer megfújta az ezüst sípját.
 \n
 \nEgyből egy hatalmas vad varjak csapata repült feléje, elég ahhoz, hogy elsötétítse az eget.
 \n
@@ -118,15 +120,20 @@
 \n
 \nAzonnal nagy zümmögést hallottak a levegőben, és egy fekete méhraj repült feléje.
 \n
-\n\"Menj az idegenekhez, és szúrd halálra!\" – parancsolta a Boszorkány, a méhek pedig megfordultak és gyorsan repültek, míg el nem értek, ahol Dorothy és barátai sétáltak. De a Favágó látta őket jönni, és a Madárijesztő eldöntötte, mit tegyen.
+\n\"Menj az idegenekhez, és szúrd halálra!\" – parancsolta a Boszorkány, mire a méhek megfordultak és gyorsan repültek, mígnem oda nem értek, ahol Dorothy és barátai sétáltak. De a Favágó látta őket jönni, és a Madárijesztő eldöntötte, mit tegyen.
 \n
 \n– Vedd ki a szalmám, és szórd szét a kislányra, a kutyára és az Oroszlánra – mondta a Favágónak –, és a méhek nem tudják megcsípni őket. Ezt a Favágó megtette, és amikor Dorothy szorosan az Oroszlán mellett feküdt, és a karjában tartotta Totót, a szalma teljesen beborította őket.
 \n
 \nA méhek odajöttek, és a Favágón kívül senkit nem találtak megszúrni, ezért rárepültek, és minden csípésüket letörték az ónból, anélkül, hogy a Favágót megbántották volna. És ahogy a méhek nem tudnak élni, ha a csípésük eltörik, ez volt a vége a fekete méheknek, és szétszórva hevertek a Favágó körül, mint kis halom finom szén.
 \n
-\nAztán Dorothy és az Oroszlán felállt, és a lány segített a Bádog Favágónak újra visszatenni a szalmát a Madárijesztőbe, amíg olyan jól nem lett, mint valaha. Így hát újra nekivágtak az útnak.
+\nAztán Dorothy és az oroszlán felállt, és a lány segített a Bádog Favágónak újra visszatenni a szalmát a Madárijesztőbe, amíg olyan jól nem lett, mint valaha. Így hát újra nekivágtak az útnak.
 \n
-\nA Gonosz Boszorkány annyira dühös volt, amikor meglátta fekete méheit apró szénhalmazokban, hogy megütötte a lábát, tépte a haját és csikorgatta a fogát. Aztán felhívta egy tucat rabszolgáját, akik a Winkiek voltak, és éles lándzsákat adott nekik, mondván nekik, hogy menjenek az idegenekhez, és pusztítsák el őket.
+\nA Gonosz Boszorkány annyira dühös volt, amikor meglátta fekete méheit apró szénhalomban, hogy megütötte a lábát, tépte a haját és csikorgatta a fogát. Aztán felhívta egy tucat rabszolgáját, akik a Winkiek voltak, és éles lándzsákat adott nekik, és azt mondta nekik, menjenek az idegenekhez, és pusztítsák el őket.
 \n
 \nA Winkiék nem voltak bátor népek, de úgy kellett tenniük, ahogy mondták. Így hát elvonultak, mígnem Dorothyhoz értek. Ekkor az Oroszlán nagyot üvöltött és feléjük ugrott, szegény Winkiék pedig annyira megijedtek, hogy amilyen gyorsan csak tudtak, visszarohantak.</string>
+    <string name="menuEnable">Engedélyezés</string>
+    <string name="dialogServiceDisableMessage">A fogyasztói alkalmazások nem fogadnak eseményeket. Szolgáltatás letiltása\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Alkalmazások</string>
+    <string name="menuDisable">Letiltás</string>
+    <string name="aboutScreenAppListText">Az eszközre telepített, a Steady Screen funkciót használó alkalmazáscsomagok listája:</string>
 </resources>
