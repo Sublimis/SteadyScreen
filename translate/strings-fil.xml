@@ -11,7 +11,7 @@
 \nSana ay masiyahan ka sa paggamit nito 😊</string>
     <string name="dialogReviewNudgeMessage">Nasisiyahan ka ba sa app na ito\?</string>
     <string name="dialogReviewNudgeMessage2">Salamat! Mangyaring magsulat ng magandang review o i-rate kami ng 5 star sa Play Store.</string>
-    <string name="paramLinearScalingInfo">Sinusukat nito ang mga paggalaw nang linearly, na ginagawang mas malaki o mas maliit ang mga ito nang hindi naaapektuhan ang mga kalkulasyon.</string>
+    <string name="paramLinearScalingInfo">Sinusukat nito ang mga paggalaw nang linear, na ginagawang mas malaki o mas maliit ang mga ito nang hindi naaapektuhan ang mga kalkulasyon.</string>
     <string name="licenseItemAlreadyOwned">Ang item ng lisensya ay pag-aari na</string>
     <string name="dialogInfoMessage">Iling ng kaunti ang device. Pansinin kung paano pinapalambot ng nilalaman ng background ang mga paggalaw na ito, na ginagawang mas madali ang pagbabasa sa screen.
 \n
@@ -47,7 +47,7 @@
     <string name="measuredSensorRateInfo">Kasalukuyang rate ng sensor gaya ng sinusukat ng app. Ito ay maaaring mag-iba sa gustong sensor rate dahil ang system sa huli ay nagpapasya kung aling rate ang ibibigay.</string>
     <string name="aboutScreenGithubLink">Panay na Screen sa GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisensya</string>
-    <string name="aboutScreenLicenseText">Ang application na ito ay libre at gumagana nang walang limitasyon. Gayunpaman, babalik ang mga parameter sa kanilang mga default na halaga pagkatapos ng 1 oras nang walang lisensya.</string>
+    <string name="aboutScreenLicenseText">Ang application na ito ay libre at gumagana nang walang limitasyon. Gayunpaman, babalik ang mga parameter sa kanilang mga default na halaga pagkatapos ng 1 oras na walang lisensya.</string>
     <string name="dialogInfoButton">Pumunta sa GitHub</string>
     <string name="generalError">May naganap na error. Pakisubukang muli.</string>
     <string name="paramRecoilInfo">Ang pagpapataas nito ay magbabawas ng sensitivity sa maliliit na oscillations at gagawing hindi gaanong sensitibo ang mga paggalaw sa mas malalaking pwersa.</string>
@@ -100,9 +100,9 @@
 \n
 \nNaghintay sila hanggang sa magising si Dorothy kinaumagahan. Medyo natakot ang batang babae nang makita niya ang malaking tumpok ng makapal na lobo, ngunit sinabi sa kanya ng Tin Woodman ang lahat. Nagpasalamat siya sa pagligtas sa kanila at umupo sa almusal, pagkatapos ay nagsimula silang muli sa kanilang paglalakbay.
 \n
-\nNgayon nitong umaga ding iyon ang Masasamang Mangkukulam ay dumating sa pintuan ng kanyang kastilyo at tumingin sa labas gamit ang kanyang isang mata na nakakakita sa malayo. Nakita niya ang lahat ng kanyang mga lobo na nakahiga, at ang mga estranghero ay naglalakbay pa rin sa kanyang bansa. Ito ay nagpagalit sa kanya kaysa dati, at hinipan niya ng dalawang beses ang kanyang pilak na sipol.
+\nNgayong umaga ding ito ang Masasamang Mangkukulam ay dumating sa pintuan ng kanyang kastilyo at tumingin sa labas gamit ang kanyang isang mata na nakakakita sa malayo. Nakita niya ang lahat ng kanyang mga lobo na nakahiga, at ang mga estranghero ay naglalakbay pa rin sa kanyang bansa. Ito ay nagpagalit sa kanya kaysa dati, at hinipan niya ng dalawang beses ang kanyang pilak na sipol.
 \n
-\nAgad na lumipad patungo sa kanya ang isang malaking kawan ng ligaw na uwak, sapat na upang dumilim ang kalangitan.
+\nAgad na lumipad patungo sa kanya ang isang malaking kawan ng mga ligaw na uwak, sapat na upang dumilim ang kalangitan.
 \n
 \nAt sinabi ng Masasamang Mangkukulam sa Haring Uwak, \"Lumipad ka kaagad sa mga dayuhan; dukitin mo ang kanilang mga mata at punitin sila.\"
 \n
@@ -114,13 +114,13 @@
 \n
 \n\"It is only a stuffed man. I will peck his eyes out.\"
 \n
-\nNilipad ng King Crow ang Scarecrow, na sinalo ito sa ulo at pinilipit ang leeg hanggang sa mamatay. At pagkatapos ay lumipad sa kanya ang isa pang uwak, at pinaikot din ng Scarecrow ang leeg nito. Mayroong apatnapung uwak, at apatnapung beses na pinaikot ng Scarecrow ang isang leeg, hanggang sa wakas lahat ay patay na nakahiga sa tabi niya. Pagkatapos ay tinawag niya ang kanyang mga kasama na bumangon, at muli silang nagpatuloy sa kanilang paglalakbay.
+\nNilipad ng King Crow ang Scarecrow, na sinalo ito sa ulo at pinaikot-ikot ang leeg hanggang sa mamatay. At pagkatapos ay lumipad sa kanya ang isa pang uwak, at pinaikot din ng Scarecrow ang leeg nito. Mayroong apatnapung uwak, at apatnapung beses na pinaikot ng Scarecrow ang isang leeg, hanggang sa wakas lahat ay patay na nakahiga sa tabi niya. Pagkatapos ay tinawag niya ang kanyang mga kasamahan na bumangon, at muli silang nagpatuloy sa kanilang paglalakbay.
 \n
 \nNang tumingin muli ang Masasamang Mangkukulam at nakita ang lahat ng kanyang mga uwak na nakahiga sa isang bunton, nagalit siya, at humihip ng tatlong beses sa kanyang pilak na sipol.
 \n
 \nAgad na narinig ang isang malakas na hugong sa hangin, at isang pulutong ng mga itim na bubuyog ang lumilipad patungo sa kanya.
 \n
-\n\"Pumunta ka sa mga estranghero at sagatin mo sila hanggang sa mamatay!\" utos ng Witch, at ang mga bubuyog ay tumalikod at mabilis na lumipad hanggang sa makarating sila sa kung saan naglalakad si Dorothy at ang kanyang mga kaibigan. Ngunit nakita na sila ng Woodman na paparating, at nagpasya ang Scarecrow kung ano ang gagawin.
+\n\"Pumunta ka sa mga estranghero at sagatin mo sila hanggang sa mamatay!\" utos ng Witch, at ang mga bubuyog ay tumalikod at mabilis na lumipad hanggang sa makarating sila sa kung saan naglalakad si Dorothy at ang kanyang mga kaibigan. Ngunit nakita sila ng Woodman na paparating, at nagpasya ang Scarecrow kung ano ang gagawin.
 \n
 \n\"Kunin mo ang aking dayami at ikalat ito sa maliit na batang babae at sa aso at sa Leon,\" sabi niya sa Mangahoy, \"at hindi sila matusok ng mga bubuyog.\" Ginawa ito ng Woodman, at habang nakahiga si Dorothy malapit sa leon at hinawakan si Toto sa kanyang mga bisig, ang dayami ay natakpan sila nang buo.
 \n
@@ -130,7 +130,7 @@
 \n
 \nGalit na galit ang Wicked Witch nang makita niya ang kanyang mga itim na bubuyog sa maliliit na bunton tulad ng pinong karbon kaya\'t natapakan niya ang kanyang paa at pinunit ang kanyang buhok at nagngangalit ang kanyang mga ngipin. At pagkatapos ay tinawag niya ang isang dosena ng kanyang mga alipin, na mga Winkie, at binigyan sila ng matatalas na sibat, na sinasabi sa kanila na pumunta sa mga estranghero at lipulin sila.
 \n
-\nAng Winkies ay hindi isang matapang na tao, ngunit kailangan nilang gawin ang sinabi sa kanila. Kaya\'t sila\'y lumayo hanggang sa makalapit sila kay Dorothy. Pagkatapos ang Lion ay nagbigay ng isang malakas na dagundong at tumalsik patungo sa kanila, at ang kaawa-awang Winkies ay natakot kaya tumakbo sila pabalik nang mas mabilis hangga\'t maaari.</string>
+\nAng Winkies ay hindi isang matapang na tao, ngunit kailangan nilang gawin ang sinabi sa kanila. Kaya\'t sila\'y lumayo hanggang sa makalapit sila kay Dorothy. Pagkatapos ang Lion ay nagbigay ng isang malakas na dagundong at tumalsik patungo sa kanila, at ang mga kaawa-awang Winkies ay natakot na sila ay tumakbo pabalik nang mas mabilis hangga\'t maaari.</string>
     <string name="menuEnable">Paganahin</string>
     <string name="dialogServiceDisableMessage">Hihinto sa pagtanggap ng mga event ang mga application ng consumer. Huwag paganahin ang serbisyo\?</string>
     <string name="aboutScreenAppListTitle">⛵ Mga app</string>
