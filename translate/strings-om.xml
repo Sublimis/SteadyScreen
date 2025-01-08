@@ -129,4 +129,9 @@
 \nFalfaltuu Hamtuun beeylada ishee gurraacha tuullaa xixiqqoo akka dhagaa boba’aa gaarii ta’an yeroo argitu baay’ee waan aarteef miila ishee chaappaa fi rifeensa ishee ciccirtee ilkaan ishee ciccitte. Achiis garboota ishee kudhan kanneen Wiinkii turan waamtee eeboo qara qabu itti kennitee, orma bira dhaqanii akka isaan balleessan itti himte.
 \n
 \nWarri Wiinkii ummata jabaa osoo hin taane akkuma itti himame gochuu qabu turan. Kanaaf, hamma Doorotiitti dhihaatanitti hiriira baʼan. Sana booda Leencichi sagalee guddaa dhageessisee gara isaaniitti utaalee, Wiinkii hiyyeeyyiin baay’ee sodaatanii hamma danda’anitti deebi’anii fiigan.</string>
+    <string name="menuEnable">Dandeessisuu</string>
+    <string name="dialogServiceDisableMessage">Appilikeeshiniiwwan fayyadamtootaa taateewwan fudhachuu ni dhaabu. Tajaajila hojii irraa oolchuu\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Appilikeeshiniiwwan</string>
+    <string name="menuDisable">Akka hin hojjenne gochuu</string>
+    <string name="aboutScreenAppListText">Tarree paakeejii appii meeshaa kana irratti fe\'aman kanneen amala Iskiriinii Dhaabbataa fayyadaman:</string>
 </resources>
