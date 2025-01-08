@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Huduma hii huruhusu programu zinazooana kukabiliana kwa urahisi na miondoko ya kifaa kidogo ndani ya kiolesura chao cha mtumiaji.
+    <string name="appDesc">Fanya kusoma popote ulipo kufurahisha zaidi!
 \n
-\n🏝️ Hii inaweza kuboresha usomaji wa skrini na ikiwezekana kupunguza ugonjwa wa mwendo ukiwa safarini, k.m. wakati wa kusoma kwenye gari linalotembea.
+\n⛵ Huduma hii huruhusu programu zinazooana kukabiliana kwa urahisi na miondoko ya kifaa kidogo ndani ya kiolesura chao cha mtumiaji.
 \n
-\n⚡ Programu imeundwa kwa uangalifu sana, ili kupunguza matumizi ya rasilimali na kuongeza utendaji.
+\n🏝️ Hii huboresha usomaji wa skrini ya kifaa kinachoshikiliwa kwa mkono unapotembea au kusafiri.
 \n
-\nNatumai utaifurahia 😊</string>
+\n⚡ Huduma imeundwa kwa uangalifu sana, ili kupunguza matumizi ya rasilimali na kuongeza utendaji. Habari zaidi inaweza kupatikana kwenye GitHub yetu.
+\n
+\nNatumai utafurahiya kutumia hii 😊</string>
     <string name="dialogReviewNudgeMessage">Je, unafurahia programu hii\?</string>
     <string name="dialogReviewNudgeMessage2">Asante! Tafadhali andika ukaguzi mzuri au ukadirie nyota 5 kwenye Play Store.</string>
     <string name="paramLinearScalingInfo">Hii hupima mizani kwa mstari, na kuifanya kuwa kubwa au ndogo bila kuathiri mahesabu.</string>
     <string name="licenseItemAlreadyOwned">Bidhaa ya leseni tayari inamilikiwa</string>
-    <string name="dialogInfoMessage">Tikisa kifaa kidogo. Angalia jinsi maudhui ya chinichini yanavyopunguza miondoko hii, na kurahisisha usomaji kwenye skrini. (Huduma tulivu lazima iwashwe katika mipangilio ya Ufikivu ili hili lifanyike.)
+    <string name="dialogInfoMessage">Tikisa kifaa kidogo. Angalia jinsi maudhui ya chinichini yanavyopunguza miondoko hii, na kurahisisha usomaji kwenye skrini.
 \n
 \nUtendaji huu unaweza kutekelezwa kwa urahisi katika programu yoyote. Tafadhali fuata maagizo kwenye GitHub.</string>
     <string name="paramForceScaling">Kuongeza nguvu</string>
     <string name="paramLinearScaling">Kuongeza mstari</string>
     <string name="dialogConsentButton">Kubali</string>
     <string name="no">Hapana</string>
-    <string name="licenseSuccessDialogMessage">Programu ilipewa leseni. Ahsante kwa msaada wako!</string>
+    <string name="licenseSuccessDialogMessage">Programu ilipewa leseni. Asante kwa msaada wako!</string>
     <string name="menuAbout">Kuhusu</string>
     <string name="paramForceScalingInfo">Hii inapima nguvu kabla ya mahesabu, ambayo kwa upande huathiri ukubwa wa jumla wa harakati.</string>
     <string name="menuLicense">Boresha leseni yako</string>
@@ -30,25 +32,25 @@
     <string name="paramRecoil">Rejea</string>
     <string name="paramSensorRate">Kiwango cha sensorer</string>
     <string name="paramDampingInfo">Kuongeza hii kutapunguza kasi na kupunguza harakati, na kuzifanya kuwa nyeti kwa nguvu kubwa.</string>
-    <string name="ok">sawa</string>
+    <string name="ok">SAWA</string>
     <string name="menuSendDebugFeedback">Ripoti suala</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Mwisho</string>
-    <string name="dialogRestoreDefaultsMessage">Ungependa kurejesha mipangilio kwa thamani chaguomsingi\?</string>
+    <string name="dialogRestoreDefaultsMessage">Ungependa kurejesha vigezo kwa thamani chaguomsingi\?</string>
     <string name="paramDamping">Damping</string>
-    <string name="serviceInactiveText">Huduma imezimwa, bofya hapa ili kuwezesha.</string>
+    <string name="serviceInactiveText">Huduma imezimwa, bofya ili kuwezesha.</string>
     <string name="aboutScreenTranslationsText">Saidia kutafsiri programu hii na kupata leseni bila malipo! Maelezo zaidi:</string>
     <string name="cancel">Ghairi</string>
     <string name="ultimateLicenseTitle">Leseni ya Mwisho</string>
     <string name="measuredSensorRate">Kiwango cha kihisi kilichopimwa</string>
     <string name="menuTheme">Mandhari</string>
-    <string name="measuredSensorRateInfo">Kasi ya sasa ya vitambuzi kama inavyopimwa na programu. Hii inaweza kutofautiana na kasi ya vitambuzi unavyotaka kwani mfumo hatimaye huamua ni kiwango kipi cha kutoa.</string>
-    <string name="aboutScreenGithubLink">Bado kwenye GitHub</string>
-    <string name="aboutScreenLicenseTitle">Leseni ya programu</string>
+    <string name="measuredSensorRateInfo">Kasi ya sasa ya vitambuzi kama inavyopimwa na programu. Hii inaweza kutofautiana na kiwango cha kihisi kinachohitajika kwani mfumo hatimaye huamua ni kiwango kipi cha kutoa.</string>
+    <string name="aboutScreenGithubLink">Skrini thabiti kwenye GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Leseni</string>
     <string name="aboutScreenLicenseText">Programu hii ni bure na inafanya kazi bila vikwazo. Hata hivyo, vigezo vitarejea kwa thamani zao chaguomsingi baada ya saa 1 bila leseni.</string>
     <string name="dialogInfoButton">Nenda kwa GitHub</string>
     <string name="generalError">Hitilafu fulani ilitokea. Tafadhali jaribu tena.</string>
-    <string name="paramRecoilInfo">Kuongeza hii itapunguza usikivu kwa oscillations ndogo na kufanya harakati chini nyeti kwa nguvu kubwa.</string>
+    <string name="paramRecoilInfo">Kuongeza hii kutapunguza usikivu kwa oscillations ndogo na kufanya harakati chini nyeti kwa nguvu kubwa.</string>
     <string name="menuRestoreDefaults">Rejesha chaguomsingi</string>
     <string name="dialogButtonRateOnPlayStore">Bei kwenye Play Store</string>
     <string name="paramSensorRateInfo">Hii huweka kiwango cha kihisi kinachohitajika. Thamani za juu zaidi zinaweza kutumia betri zaidi. Hii inaweza kutofautiana na kiwango cha vitambuzi kilichopimwa kwani mfumo hatimaye huamua ni kiwango gani cha kutoa.</string>
@@ -68,9 +70,9 @@
 \n
 \n\"Labda si,\" alisema Scarecrow, \"kwa maana tuna maana ya kumwangamiza.\"
 \n
-\n\"Oh, hiyo ni tofauti,\" Mlinzi wa Gates alisema. \"Hakuna mtu aliyewahi kumwangamiza hapo awali, kwa hivyo nilidhani kwamba atawafanya watumwa kama yeye kwa wengine. Lakini jihadharini, kwa maana yeye ni mwovu na mkali, na hawezi kukuruhusu kumwangamiza. Magharibi, ambapo jua linatua, na huwezi kukosa kumpata.\"
+\n\"Oh, hiyo ni tofauti,\" Mlinzi wa Gates alisema. \"Hakuna mtu aliyewahi kumwangamiza hapo awali, kwa hiyo nilidhani kwamba atawafanya watumwa wenu, kama yeye amewafanya watumwa wengine. Lakini jihadharini, kwa maana yeye ni mwovu na mkali, na hawezi kukuruhusu kumwangamiza. Magharibi, ambapo jua linatua, na huwezi kukosa kumpata.\"
 \n
-\nWalimshukuru na kumuaga, na kugeukia upande wa Magharibi, wakitembea juu ya mashamba ya nyasi laini zilizotapakaa hapa na pale zenye daisies na buttercups. Dorothy bado alikuwa amevaa vazi zuri la hariri alilokuwa amevaa ndani ya jumba hilo la kifalme, lakini sasa, kwa mshangao, alikuta halikuwa tena la kijani kibichi, bali ni jeupe tupu. Utepe wa shingo ya Toto pia ulikuwa umepoteza rangi yake ya kijani kibichi na ulikuwa mweupe kama mavazi ya Dorothy.
+\nWalimshukuru na kumuaga, na kugeukia upande wa Magharibi, wakitembea juu ya mashamba ya nyasi laini zilizotapakaa hapa na pale zenye daisies na buttercups. Dorothy bado alikuwa amevaa vazi zuri la hariri alilokuwa amevaa ndani ya jumba hilo la kifalme, lakini sasa, kwa mshangao, alikuta halikuwa tena la kijani kibichi, bali ni jeupe kabisa. Utepe wa shingoni mwa Toto pia ulikuwa umepoteza rangi yake ya kijani kibichi na ulikuwa mweupe kama mavazi ya Dorothy.
 \n
 \nMji wa Zamaradi uliachwa nyuma sana. Kadiri walivyosonga mbele ardhi ilizidi kuwa mbaya na yenye vilima zaidi, kwani hapakuwa na mashamba wala nyumba katika nchi hii ya Magharibi, na ardhi ililimwa.
 \n
@@ -84,7 +86,7 @@
 \n
 \n\"Je, hamtawafanya watumwa wenu\?\" aliuliza kiongozi wa mbwa mwitu.
 \n
-\n\"Hapana,\" akajibu, \"moja ni ya bati, na moja ya majani, mmoja ni msichana na mwingine Simba. Hakuna hata mmoja wao anayefaa kufanya kazi, kwa hiyo unaweza kuwararua vipande vidogo.\"
+\n\"Hapana,\" akajibu, \"mmoja ni wa bati, mmoja wa majani, mmoja ni msichana na mwingine Simba. Hakuna hata mmoja wao anayefaa kufanya kazi, kwa hiyo unaweza kuwararua vipande vidogo.\"
 \n
 \n\"Vizuri sana,\" mbwa mwitu alisema, na yeye dashed mbali kwa kasi kamili, na kufuatiwa na wengine.
 \n
@@ -100,21 +102,21 @@
 \n
 \nSasa asubuhi hii hiyo Mchawi Mwovu alifika kwenye mlango wa ngome yake na akatazama nje kwa jicho lake moja ambalo lingeweza kuona mbali. Aliona mbwa mwitu wake wote wamelala wamekufa, na wageni bado wanasafiri katika nchi yake. Hili lilimfanya kuwa na hasira zaidi kuliko hapo awali, na akapuliza filimbi yake ya fedha mara mbili.
 \n
-\nMara kundi kubwa la kunguru wa mwituni wakaja wakiruka kuelekea kwake, kiasi cha kufanya anga kuwa giza.
+\nMara kundi kubwa la kunguru wa mwituni wakaja wakiruka kuelekea kwake, vya kutosha kufanya anga kuwa giza.
 \n
-\nNa yule Mchawi Mwovu akamwambia Kunguru Mfalme, \"Rukia mara moja kwa wageni; toa macho yao na uwararue vipande vipande.\"
+\nNa yule Mchawi Mwovu akamwambia Kunguru wa Mfalme, \"Rukia mara moja kwa wageni; toa macho yao na uwararue vipande vipande.\"
 \n
 \nKunguru wa mwituni waliruka katika kundi moja kubwa kuelekea Dorothy na wenzake. Msichana mdogo alipowaona wanakuja aliogopa.
 \n
 \nLakini Scarecrow akasema, \"Hii ni vita yangu, kwa hivyo lala chini yangu na hautadhurika.\"
 \n
-\nHivyo wote kuweka juu ya ardhi isipokuwa Scarecrow, na alisimama na akanyosha mikono yake. Kunguru walipomwona waliogopa, kwani ndege hawa huwa na hofu kila wakati, na hawakuthubutu kumkaribia. Lakini Kunguru mfalme alisema:
+\nHivyo wote kuweka juu ya ardhi isipokuwa Scarecrow, na alisimama na akanyosha mikono yake. Kunguru walipomwona waliogopa, kwa vile ndege hawa daima hupigwa na scarecrows, na hawakuthubutu kumkaribia. Lakini Kunguru mfalme alisema:
 \n
 \n\"Ni mtu stuffed tu. Mimi peck macho yake nje.\"
 \n
 \nKunguru wa Mfalme akaruka kwa Scarecrow, ambaye alimshika kwa kichwa na kugeuza shingo yake hadi akafa. Na kisha kunguru mwingine akaruka kwake, na Scarecrow inaendelea shingo yake pia. Kulikuwa na kunguru arobaini, na mara arobaini Scarecrow inaendelea shingo, mpaka mwisho wote walikuwa wamelala wafu karibu naye. Kisha akawaita wenzake wainuke, na wakaanza tena safari yao.
 \n
-\nWakati Witch waovu inaonekana nje tena na kuona kunguru wake wote amelazwa katika lundo, yeye got katika hasira ya kutisha, na akapiga mara tatu juu ya fedha yake filimbi.
+\nMchawi Mwovu alipotazama tena na kuona kunguru wake wote wamelala kwenye lundo, aliingia kwa hasira ya kutisha, na akapiga filimbi ya fedha mara tatu.
 \n
 \nMara ikasikika mlio mkubwa hewani, na kundi la nyuki weusi likaja likiruka kuelekea kwake.
 \n
@@ -122,11 +124,11 @@
 \n
 \n\"Chukua majani yangu na utawanye juu ya msichana mdogo na mbwa na Simba,\" alimwambia Woodman, \"na nyuki hawawezi kuwauma.\" Hii Woodman alifanya, na kama Dorothy kuweka karibu kando ya Simba na uliofanyika Toto katika mikono yake, majani kufunikwa yao kabisa.
 \n
-\nnyuki alikuja na kukuta hakuna mtu lakini Woodman kuumwa, hivyo akaruka saa yake na kuvunja miiba yao yote dhidi ya bati, bila kuumiza Woodman wakati wote. Na kama nyuki hawawezi kuishi wakati miiba yao ni kuvunjwa kwamba alikuwa mwisho wa nyuki nyeusi, na kuweka waliotawanyika nene kuhusu Woodman, kama chungu kidogo ya makaa ya mawe faini.
+\nnyuki alikuja na kukuta hakuna mtu lakini Woodman kuumwa, hivyo akaruka saa yake na kuvunja miiba yao yote dhidi ya bati, bila kuumiza Woodman wakati wote. Na kama nyuki hawawezi kuishi wakati miiba yao ni kuvunjwa kwamba ilikuwa mwisho wa nyuki nyeusi, na kuweka waliotawanyika nene kuhusu Woodman, kama chungu kidogo ya makaa ya mawe faini.
 \n
 \nKisha Dorothy na Simba akainuka, na msichana kusaidiwa Woodman Tin kuweka majani nyuma katika Scarecrow tena, mpaka alikuwa kama nzuri kama milele. Kwa hiyo wakaanza safari yao kwa mara nyingine.
 \n
-\nMchawi Mwovu alikasirika sana alipowaona nyuki wake weusi wakiwa kwenye chungu kidogo kama makaa safi hivi kwamba alikanyaga mguu wake na kurarua nywele zake na kusaga meno yake. Na kisha akawaita dazeni ya watumwa wake, ambao walikuwa Winkies, na akawapa mikuki mikali, akiwaambia kwenda kwa wageni na kuwaangamiza.
+\nMchawi Mwovu alikasirika sana alipowaona nyuki wake weusi wakiwa kwenye chungu kidogo kama makaa safi hivi kwamba alikanyaga mguu wake na kurarua nywele zake na kusaga meno yake. Na kisha akawaita dazeni ya watumwa wake, ambao walikuwa Winkies, na kuwapa mikuki mikali, akiwaambia kwenda kwa wageni na kuwaangamiza.
 \n
 \nAkina Winkie hawakuwa watu jasiri, lakini walipaswa kufanya kama walivyoambiwa. Kwa hiyo wakaondoka mpaka wakafika karibu na Dorothy. Kisha Simba akatoa kishindo kikubwa na kuruka kuelekea kwao, na Winkies maskini waliogopa sana kwamba walikimbia nyuma haraka iwezekanavyo.</string>
     <string name="menuEnable">Wezesha</string>
