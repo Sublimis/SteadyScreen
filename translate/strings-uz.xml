@@ -129,4 +129,9 @@
 \nYovuz jodugar o‘zining qora arilarini mayda-chuyda cho‘g‘dek mayda-chuyda qilib ko‘rib, shunchalik g‘azablandiki, oyog‘ini urib, sochlarini yirtib, tishlarini g‘ijirlatdi. Keyin u Vinki bo\'lgan o\'nlab qullarini chaqirdi va ularga o\'tkir nayzalar berib, begonalarning oldiga borib, ularni yo\'q qilishni aytdi.
 \n
 \nWinkies jasur xalq emas edi, lekin ular aytganidek qilishlari kerak edi. Shunday qilib, ular Dorotiga yaqinlashguncha yurishdi. Shunda Arslon qattiq bo\'kirib, ular tomon otildi va bechora Vinkilar shunchalik qo\'rqib ketishdiki, ular imkon qadar tezroq orqaga yugurishdi.</string>
+    <string name="menuEnable">Yoqish</string>
+    <string name="dialogServiceDisableMessage">Iste\'molchi ilovalari voqealarni qabul qilishni to\'xtatadi. Xizmat o\'chirilsinmi\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Ilovalar</string>
+    <string name="menuDisable">Oʻchirish</string>
+    <string name="aboutScreenAppListText">Doimiy ekran funksiyasidan foydalanadigan ushbu qurilmaga oʻrnatilgan ilovalar paketlari roʻyxati:</string>
 </resources>
