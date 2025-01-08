@@ -1,132 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Layanan ini memungkinkan aplikasi yang kompatibel dengan mudah menangkal pergerakan kecil perangkat dalam antarmuka penggunanya.
+    <string name="appDesc">Jadikan membaca saat bepergian lebih menyenangkan!
 \n
-\n🏝️ Hal ini dapat meningkatkan keterbacaan layar dan mungkin meringankan mabuk perjalanan saat bepergian, misalnya saat berkendara. sambil membaca di dalam kendaraan yang bergerak.
+\n⛵ Layanan ini memungkinkan aplikasi yang kompatibel untuk dengan mudah menangkal gerakan perangkat kecil dalam antarmuka penggunanya.
 \n
-\n⚡ Aplikasi ini dibuat dengan sangat cermat, untuk meminimalkan penggunaan sumber daya dan memaksimalkan kinerja.
+\n🏝️ Ini meningkatkan keterbacaan layar perangkat genggam saat berjalan atau bepergian.
 \n
-\nSemoga Anda menikmatinya 😊</string>
+\n⚡ Layanan telah dibuat dengan sangat cermat, untuk meminimalkan penggunaan sumber daya dan memaksimalkan kinerja. Info lebih lanjut dapat ditemukan di GitHub kami.
+\n
+\nSemoga Anda menikmati penggunaan ini 😊</string>
     <string name="dialogReviewNudgeMessage">Apakah Anda menikmati aplikasi ini\?</string>
-    <string name="dialogReviewNudgeMessage2">Terima kasih! Silakan tulis ulasan yang bagus atau beri kami nilai 5 bintang di Play Store.</string>
-    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan secara linier, menjadikannya lebih besar atau lebih kecil tanpa mempengaruhi perhitungan.</string>
-    <string name="licenseItemAlreadyOwned">Barang lisensi sudah dimiliki</string>
-    <string name="dialogInfoMessage">Goyangkan perangkat sedikit. Perhatikan bagaimana konten latar belakang memperhalus gerakan ini, membuat pembacaan di layar menjadi lebih mudah. (Layanan Stilly harus diaktifkan di pengaturan Aksesibilitas agar hal ini dapat terjadi.)
+    <string name="dialogReviewNudgeMessage2">Terima kasih! Silakan tulis ulasan yang bagus atau beri kami peringkat 5 bintang di Play Store.</string>
+    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan secara linear, menjadikannya lebih besar atau lebih kecil tanpa memengaruhi perhitungan.</string>
+    <string name="licenseItemAlreadyOwned">Item lisensi sudah dimiliki</string>
+    <string name="dialogInfoMessage">Goyangkan perangkat sedikit. Perhatikan bagaimana konten latar belakang melembutkan gerakan ini, sehingga memudahkan pembacaan di layar.
 \n
-\nFungsionalitas ini dapat dengan mudah diimplementasikan di aplikasi apa pun. Silakan ikuti petunjuk di GitHub.</string>
-    <string name="paramForceScaling">Penskalaan paksa</string>
-    <string name="paramLinearScaling">Penskalaan linier</string>
+\nFungsionalitas ini dapat dengan mudah diterapkan di aplikasi apa pun. Harap ikuti petunjuk di GitHub.</string>
+    <string name="paramForceScaling">Skala gaya</string>
+    <string name="paramLinearScaling">Skala linier</string>
     <string name="dialogConsentButton">Menerima</string>
     <string name="no">TIDAK</string>
     <string name="licenseSuccessDialogMessage">Aplikasi ini berhasil dilisensikan. Terima kasih atas dukungan Anda!</string>
     <string name="menuAbout">Tentang</string>
-    <string name="paramForceScalingInfo">Ini menskalakan gaya sebelum perhitungan, yang pada gilirannya mempengaruhi besarnya pergerakan secara keseluruhan.</string>
+    <string name="paramForceScalingInfo">Ini menskalakan gaya sebelum perhitungan, yang pada gilirannya memengaruhi besarnya pergerakan secara keseluruhan.</string>
     <string name="menuLicense">Tingkatkan lisensi Anda</string>
     <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
     <string name="menuDecreaseTextSize">Kurangi ukuran teks</string>
     <string name="aboutScreenTranslationsTitle">Terjemahan</string>
-    <string name="menuRateAndComment">Nilai kami</string>
+    <string name="menuRateAndComment">Beri penilaian pada kami</string>
     <string name="yes">Ya</string>
     <string name="paramRecoil">Mundur</string>
-    <string name="paramSensorRate">Kecepatan sensor</string>
-    <string name="paramDampingInfo">Peningkatan ini akan memperlambat dan melemahkan gerakan, sehingga kurang sensitif terhadap kekuatan yang lebih besar.</string>
+    <string name="paramSensorRate">Tingkat sensor</string>
+    <string name="paramDampingInfo">Meningkatkannya akan memperlambat dan melemahkan gerakan, membuatnya kurang sensitif terhadap gaya yang lebih besar.</string>
     <string name="ok">OKE</string>
     <string name="menuSendDebugFeedback">Laporkan masalah</string>
-    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="ratePerSecond">%1$sHz</string>
     <string name="ultimateLicenseLabel">Terakhir</string>
-    <string name="dialogRestoreDefaultsMessage">Kembalikan pengaturan ke nilai default\?</string>
+    <string name="dialogRestoreDefaultsMessage">Kembalikan parameter ke nilai default\?</string>
     <string name="paramDamping">Pembasahan</string>
-    <string name="serviceInactiveText">Layanan dinonaktifkan, klik di sini untuk mengaktifkan.</string>
+    <string name="serviceInactiveText">Layanan dinonaktifkan, klik untuk mengaktifkan.</string>
     <string name="aboutScreenTranslationsText">Bantu terjemahkan aplikasi ini dan dapatkan lisensi gratis! Info lebih lanjut:</string>
     <string name="cancel">Membatalkan</string>
-    <string name="ultimateLicenseTitle">Lisensi Utama</string>
-    <string name="measuredSensorRate">Kecepatan sensor terukur</string>
+    <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
+    <string name="measuredSensorRate">Kecepatan sensor yang diukur</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Kecepatan sensor saat ini diukur oleh aplikasi. Ini mungkin berbeda dari kecepatan sensor yang diinginkan karena sistem pada akhirnya memutuskan kecepatan mana yang akan diberikan.</string>
-    <string name="aboutScreenGithubLink">Masih di GitHub</string>
-    <string name="aboutScreenLicenseTitle">Lisensi aplikasi</string>
-    <string name="aboutScreenLicenseText">Aplikasi ini gratis dan bekerja tanpa batasan. Namun, parameter akan kembali ke nilai defaultnya setelah 1 jam tanpa lisensi.</string>
-    <string name="dialogInfoButton">Buka GitHub</string>
-    <string name="generalError">Beberapa kesalahan terjadi. Silakan coba lagi.</string>
-    <string name="paramRecoilInfo">Meningkatkan ini akan mengurangi sensitivitas terhadap osilasi kecil dan membuat gerakan menjadi kurang sensitif terhadap gaya yang lebih besar.</string>
-    <string name="menuRestoreDefaults">Kembalikan default</string>
+    <string name="measuredSensorRateInfo">Kecepatan sensor saat ini sebagaimana diukur oleh aplikasi. Kecepatan ini mungkin berbeda dari kecepatan sensor yang diinginkan karena sistem pada akhirnya memutuskan kecepatan mana yang akan diberikan.</string>
+    <string name="aboutScreenGithubLink">Layar Tetap di GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lisensi</string>
+    <string name="aboutScreenLicenseText">Aplikasi ini gratis dan berfungsi tanpa batasan. Namun, parameter akan kembali ke nilai default setelah 1 jam tanpa lisensi.</string>
+    <string name="dialogInfoButton">Kunjungi GitHub</string>
+    <string name="generalError">Terjadi kesalahan. Silakan coba lagi.</string>
+    <string name="paramRecoilInfo">Meningkatkannya akan mengurangi kepekaan terhadap osilasi kecil dan membuat gerakan kurang peka terhadap gaya yang lebih besar.</string>
+    <string name="menuRestoreDefaults">Mengembalikan ke default</string>
     <string name="dialogButtonRateOnPlayStore">Nilai di Play Store</string>
-    <string name="paramSensorRateInfo">Ini mengatur kecepatan sensor yang diinginkan. Nilai yang lebih tinggi mungkin menghabiskan lebih banyak baterai. Ini mungkin berbeda dari kecepatan sensor yang diukur karena sistem pada akhirnya memutuskan kecepatan mana yang akan diberikan.</string>
-    <string name="menuIncreaseTextSize">Tingkatkan ukuran teks</string>
+    <string name="paramSensorRateInfo">Ini menetapkan laju sensor yang diinginkan. Nilai yang lebih tinggi dapat menghabiskan lebih banyak daya baterai. Ini mungkin berbeda dari laju sensor yang diukur karena sistem pada akhirnya memutuskan laju mana yang akan diberikan.</string>
+    <string name="menuIncreaseTextSize">Meningkatkan ukuran teks</string>
     <string name="menuInfo">Informasi</string>
     <string name="loremIpsum">(Teks ini untuk tujuan demonstrasi)
 \n
-\nPrajurit berkumis hijau memimpin mereka melewati jalan-jalan Kota Zamrud hingga mereka mencapai ruangan tempat tinggal Penjaga Gerbang. Petugas ini membuka kunci kacamata mereka untuk dimasukkan kembali ke dalam kotak besarnya, dan kemudian dia dengan sopan membukakan gerbang untuk teman-teman kami.
+\nPrajurit berkumis hijau itu menuntun mereka melalui jalan-jalan Kota Zamrud hingga mereka mencapai ruangan tempat tinggal Sang Penjaga Gerbang. Petugas ini membuka kacamata mereka untuk memasukkannya kembali ke dalam kotak besarnya, lalu dengan sopan membuka gerbang untuk teman-teman kita.
 \n
-\n“Jalan mana yang menuju ke Penyihir Jahat dari Barat\?” tanya Dorothy.
+\n\"Jalan mana yang menuju ke Penyihir Jahat dari Barat\?\" tanya Dorothy.
 \n
-\n“Tidak ada jalan,” jawab Penjaga Gerbang. \"Tidak ada seorang pun yang ingin pergi ke sana.\"
+\n\"Tidak ada jalan,\" jawab Sang Penjaga Gerbang. \"Tidak seorang pun ingin pergi ke sana.\"
 \n
-\n\"Kalau begitu, bagaimana kita bisa menemukannya\?\" tanya gadis itu.
+\n\"Lalu, bagaimana kita bisa menemukannya\?\" tanya gadis itu.
 \n
-\n“Itu akan mudah,” jawab pria itu, “karena ketika dia tahu kamu berada di negeri para Winkies, dia akan menemukanmu, dan menjadikanmu semua budaknya.”
+\n\"Itu mudah,\" jawab pria itu, \"karena saat dia tahu kau berada di negeri Winkies, dia akan menemukanmu, dan menjadikan kalian semua budaknya.\"
 \n
-\n“Mungkin tidak,” kata Orang-orangan Sawah, “karena kami bermaksud menghancurkannya.”
+\n\"Mungkin tidak,\" kata Orang-orangan Sawah, \"karena kita bermaksud menghancurkannya.\"
 \n
-\n\"Oh, itu berbeda,\" kata Penjaga Gerbang. \"Tidak ada seorang pun yang pernah menghancurkannya sebelumnya, jadi aku secara alami berpikir dia akan menjadikanmu budak, seperti yang dia lakukan pada yang lain. Tapi berhati-hatilah; karena dia jahat dan galak, dan mungkin tidak membiarkanmu menghancurkannya. Jagalah agar tetap pada tempatnya.\" Barat, tempat matahari terbenam, dan kau pasti akan menemukannya.\"
+\n\"Oh, itu berbeda,\" kata Sang Penjaga Gerbang. \"Tidak seorang pun pernah menghancurkannya sebelumnya, jadi wajar saja aku mengira dia akan memperbudakmu, seperti yang telah dia lakukan terhadap yang lain. Tapi berhati-hatilah; karena dia jahat dan ganas, dan mungkin tidak akan membiarkanmu menghancurkannya. Tetaplah di Barat, tempat matahari terbenam, dan kau pasti akan menemukannya.\" Mereka mengucapkan terima kasih dan berpamitan, lalu berbalik ke arah Barat, berjalan di atas padang rumput lembut yang di sana-sini dihiasi bunga aster dan buttercup. Dorothy masih mengenakan gaun sutra cantik yang dikenakannya di istana, tetapi sekarang, yang mengejutkannya, dia mendapati gaun itu tidak lagi hijau, melainkan putih bersih. Pita di leher Toto juga telah kehilangan warna hijaunya dan seputih gaun Dorothy. Kota Zamrud segera tertinggal jauh di belakang. Saat mereka maju, tanah menjadi lebih kasar dan berbukit, karena tidak ada pertanian atau rumah di negara Barat ini, dan tanahnya tidak diolah. Pada sore hari matahari bersinar panas di wajah mereka, karena tidak ada pohon yang memberi mereka keteduhan; sehingga sebelum malam tiba Dorothy, Toto, dan si Singa sudah lelah, lalu berbaring di atas rumput dan tertidur, dengan si Manusia Kayu dan si Orang-orangan Sawah yang berjaga.
 \n
-\nMereka mengucapkan terima kasih dan berpamitan, lalu berbalik ke arah Barat, berjalan melintasi padang rumput lembut yang di sana-sini dihiasi bunga aster dan buttercup. Dorothy masih mengenakan gaun sutra cantik yang pernah dikenakannya di istana, tetapi sekarang, yang mengejutkannya, dia mendapati gaun itu tidak lagi hijau, melainkan putih bersih. Pita yang melingkari leher Toto juga sudah kehilangan warna hijaunya dan seputih gaun Dorothy.
+\nPenyihir Jahat dari Barat hanya memiliki satu mata, namun mata itu sekuat teleskop, dan dapat melihat ke mana-mana. Jadi, saat dia duduk di pintu kastilnya, dia kebetulan melihat sekeliling dan melihat Dorothy tertidur, dengan teman-temannya di sekelilingnya. Mereka berada sangat jauh, tetapi si Penyihir Jahat marah karena menemukan mereka di negaranya; jadi dia meniup peluit perak yang tergantung di lehernya.
 \n
-\nKota Zamrud segera tertinggal jauh. Ketika mereka maju, tanah menjadi lebih kasar dan berbukit, karena tidak ada pertanian atau rumah di negara Barat ini, dan tanahnya belum digarap.
+\nTiba-tiba sekawanan serigala besar berlari ke arahnya dari segala arah. Mereka memiliki kaki yang panjang dan mata yang tajam serta gigi yang tajam.
 \n
-\nPada sore hari, matahari bersinar terik di wajah mereka, karena tidak ada pohon yang bisa memberi mereka keteduhan; sehingga sebelum malam, Dorothy, Toto, dan Singa sudah lelah, lalu berbaring di rumput dan tertidur, bersama si Penebang Kayu dan Orang-orangan Sawah yang berjaga.
+\n\"Pergilah ke orang-orang itu,\" kata si Penyihir, \"dan cabik-cabik mereka.\"
 \n
-\nSekarang Penyihir Jahat dari Barat hanya mempunyai satu mata, namun sekuat teleskop, dan bisa melihat ke mana-mana. Jadi, saat dia duduk di pintu istananya, dia kebetulan melihat sekeliling dan melihat Dorothy terbaring tertidur, bersama teman-temannya di sekelilingnya. Jarak mereka jauh, tapi Penyihir Jahat marah karena menemukan mereka di negaranya; jadi dia meniup peluit perak yang tergantung di lehernya.
+\n\"Apakah kamu tidak akan menjadikan mereka budakmu\?\" tanya pemimpin serigala.
 \n
-\nTiba-tiba segerombolan serigala besar berlari ke arahnya dari segala arah. Mereka memiliki kaki yang panjang, mata yang tajam, dan gigi yang tajam.
+\n\"Tidak,\" jawabnya, \"satu terbuat dari timah, dan satu lagi dari jerami; satu lagi seorang gadis dan satu lagi seekor singa. Tak satu pun dari mereka layak bekerja, jadi kau boleh mencabik-cabik mereka menjadi potongan-potongan kecil.\"
 \n
-\n\"Pergilah ke orang-orang itu,\" kata sang Penyihir, \"dan robeklah mereka.\"
+\n\"Baiklah,\" kata serigala, dan ia berlari kencang, diikuti oleh yang lainnya.
 \n
-\n“Apakah kamu tidak akan menjadikan mereka budakmu\?” tanya pemimpin serigala.
+\nBeruntung orang-orangan sawah dan si penebang kayu terjaga dan mendengar kedatangan serigala.
 \n
-\n“Bukan,” jawabnya, “yang satu dari timah, yang satu dari jerami; yang satu perempuan dan yang satu lagi Singa. Tak satu pun dari mereka yang cocok untuk bekerja, jadi kamu boleh merobeknya menjadi potongan-potongan kecil.”
+\n\"Ini pertarunganku,\" kata si penebang kayu, \"jadi pergilah ke belakangku dan aku akan menghadapi mereka saat mereka datang.\"
 \n
-\n\"Baiklah,\" kata serigala, dan dia berlari dengan kecepatan penuh, diikuti oleh yang lainnya.
+\nIa meraih kapaknya, yang telah dibuatnya sangat tajam, dan saat pemimpin serigala datang, si penebang kayu mengayunkan lengannya dan memotong kepala serigala dari tubuhnya, sehingga serigala itu langsung mati. Begitu ia bisa mengangkat kapaknya, serigala lain muncul, dan ia juga jatuh di bawah ujung tajam senjata si penebang kayu. Ada empat puluh serigala, dan empat puluh kali seekor serigala terbunuh, sehingga akhirnya mereka semua tergeletak mati di hadapan si penebang kayu.
 \n
-\nUntunglah Orang-orangan Sawah dan Penebang Kayu terjaga dan mendengar serigala datang.
+\nKemudian dia meletakkan kapaknya dan duduk di samping Orang-orangan Sawah, yang berkata, \"Pertarungan yang hebat, teman.\"
 \n
-\n“Ini pertarunganku,” kata si Penebang Kayu, “jadi mundurlah aku dan aku akan menemui mereka saat mereka datang.”
+\nMereka menunggu sampai Dorothy bangun keesokan paginya. Gadis kecil itu sangat ketakutan ketika dia melihat tumpukan besar serigala berbulu lebat, tetapi Manusia Kayu Timah menceritakan semuanya padanya. Dia berterima kasih padanya karena telah menyelamatkan mereka dan duduk untuk sarapan, setelah itu mereka memulai perjalanan mereka lagi.
 \n
-\nDia mengambil kapaknya, yang telah dibuatnya sangat tajam, dan ketika pemimpin serigala itu datang, Tukang Kayu Timah itu mengayunkan lengannya dan memotong kepala serigala itu dari tubuhnya, sehingga serigala itu segera mati. Begitu dia bisa mengangkat kapaknya, seekor serigala lain muncul, dan dia pun terjatuh di bawah ujung tajam senjata si Tukang Kayu Timah. Ada empat puluh serigala, dan empat puluh kali seekor serigala dibunuh, sehingga akhirnya mereka semua tergeletak mati di hadapan si Penebang Kayu.
+\nPagi itu juga Penyihir Jahat datang ke pintu kastilnya dan melihat keluar dengan satu matanya yang bisa melihat jauh. Dia melihat semua serigalanya tergeletak mati, dan orang-orang asing masih bepergian melalui negaranya. Ini membuatnya lebih marah dari sebelumnya, dan dia meniup peluit peraknya dua kali.
 \n
-\nKemudian dia meletakkan kapaknya dan duduk di samping Orang-orangan Sawah, yang berkata, “Pertarungan yang bagus, teman.”
+\nSeketika sekawanan besar burung gagak liar terbang ke arahnya, cukup untuk menggelapkan langit.
 \n
-\nMereka menunggu sampai Dorothy bangun keesokan paginya. Gadis kecil itu cukup ketakutan ketika dia melihat tumpukan besar serigala berbulu lebat, namun si Tukang Kayu Timah menceritakan semuanya. Dia berterima kasih padanya karena telah menyelamatkan mereka dan duduk untuk sarapan, setelah itu mereka memulai perjalanan lagi.
+\nDan Penyihir Jahat berkata kepada Raja Gagak, \"Terbanglah segera ke orang-orang asing itu; patuk mata mereka dan robek-robek mereka.\"
 \n
-\nPada pagi yang sama, Penyihir Jahat datang ke pintu istananya dan melihat ke luar dengan satu matanya yang bisa melihat jauh. Dia melihat semua serigalanya tergeletak mati, dan orang-orang asing masih berkeliaran di negaranya. Hal ini membuatnya lebih marah dari sebelumnya, dan dia meniup peluit peraknya dua kali.
+\nBurung gagak liar terbang dalam satu kawanan besar menuju Dorothy dan teman-temannya. Ketika gadis kecil itu melihat mereka datang, dia takut.
 \n
-\nSegera sekawanan besar burung gagak liar terbang ke arahnya, cukup untuk menggelapkan langit.
+\nNamun, Orang-orangan Sawah berkata, \"Ini pertarunganku, jadi berbaringlah di sampingku dan kau tidak akan terluka.\"
 \n
-\nDan Penyihir Jahat berkata kepada Raja Gagak, \"Segeralah terbang ke arah orang-orang asing; cungkil mata mereka dan sobeklah mereka.\"
-\n
-\nBurung gagak liar terbang dalam satu kawanan besar menuju Dorothy dan teman-temannya. Ketika gadis kecil itu melihat mereka datang, dia ketakutan.
-\n
-\nTapi Orang-orangan Sawah berkata, \"Ini pertarunganku, jadi berbaringlah di sampingku dan kamu tidak akan terluka.\"
-\n
-\nMaka mereka semua tergeletak di tanah kecuali Orang-orangan Sawah, dan dia berdiri dan merentangkan tangannya. Dan ketika burung-burung gagak melihatnya, mereka ketakutan, karena burung-burung ini selalu berada di dekat orang-orangan sawah, dan tidak berani mendekat. Namun Raja Gagak berkata:
+\nJadi, mereka semua berbaring di tanah kecuali Orang-orangan Sawah, dan ia berdiri dan merentangkan tangannya. Dan ketika burung gagak melihatnya, mereka ketakutan, seperti burung-burung ini selalu takut pada orang-orangan sawah, dan tidak berani mendekat. Namun, Raja Gagak berkata:
 \n
 \n\"Itu hanya boneka manusia. Aku akan mematuk matanya.\"
 \n
-\nRaja Gagak terbang ke arah Orang-orangan Sawah, yang menangkap kepalanya dan memutar lehernya hingga mati. Dan kemudian burung gagak lain terbang ke arahnya, dan Orang-orangan Sawah juga memutar lehernya. Ada empat puluh burung gagak, dan empat puluh kali Orang-orangan Sawah memutar lehernya, hingga akhirnya semuanya tergeletak mati di sampingnya. Kemudian dia memanggil teman-temannya untuk bangkit, dan mereka kembali melanjutkan perjalanan.
+\nRaja Gagak terbang ke arah Orang-orangan Sawah, yang menangkapnya di kepala dan memutar lehernya hingga mati. Dan kemudian burung gagak lain terbang ke arahnya, dan Orang-orangan Sawah juga memutar lehernya. Ada empat puluh burung gagak, dan empat puluh kali Orang-orangan Sawah memutar lehernya, hingga akhirnya semua burung gagak tergeletak mati di sampingnya. Kemudian ia memanggil teman-temannya untuk bangun, dan mereka pun melanjutkan perjalanan mereka.
 \n
-\nKetika Penyihir Jahat melihat keluar lagi dan melihat semua burung gagaknya tergeletak di tumpukan, dia menjadi sangat marah, dan meniup peluit peraknya sebanyak tiga kali.
+\nKetika Penyihir Jahat melihat keluar lagi dan melihat semua burung gagaknya tergeletak dalam tumpukan, ia menjadi sangat marah, dan meniup peluit peraknya tiga kali.
 \n
-\nSegera terdengar dengungan keras di udara, dan segerombolan lebah hitam terbang ke arahnya.
+\nSeketika terdengar suara dengungan keras di udara, dan segerombolan lebah hitam terbang ke arahnya.
 \n
-\n\"Pergi ke orang asing dan sengat mereka sampai mati!\" perintah sang Penyihir, dan lebah-lebah itu berbalik dan terbang dengan cepat hingga mereka tiba di tempat Dorothy dan teman-temannya berjalan. Namun Penebang Kayu telah melihat mereka datang, dan Orang-orangan Sawah telah memutuskan apa yang harus dilakukan.
+\n\"Pergi ke orang-orang asing itu dan sengat mereka sampai mati!\" perintah sang Penyihir, dan lebah-lebah itu berbalik dan terbang cepat sampai mereka tiba di tempat Dorothy dan teman-temannya berjalan. Namun, si Manusia Kayu telah melihat mereka datang, dan si Orang-orangan Sawah telah memutuskan apa yang harus dilakukan.
 \n
-\n“Keluarkan jeramiku dan taburkan ke gadis kecil, anjing, dan singa,” katanya kepada si Penebang Kayu, “dan lebah tidak akan bisa menyengat mereka.” Hal ini dilakukan oleh si Penebang Kayu, dan saat Dorothy berbaring dekat di samping sang Singa dan memegang Toto dalam pelukannya, jerami menutupi seluruh tubuh mereka.
+\n\"Ambilkan jeramiku dan taburkan ke gadis kecil, anjing, dan Singa,\" katanya kepada si Manusia Kayu, \"dan lebah-lebah itu tidak akan bisa menyengat mereka.\" Si Manusia Kayu melakukannya, dan saat Dorothy berbaring dekat dengan Singa dan menggendong Toto di lengannya, jerami menutupi mereka sepenuhnya.
 \n
-\nLebah-lebah itu datang dan tidak menemukan siapa pun selain si Penebang Kayu yang bisa disengat, jadi mereka terbang ke arahnya dan mematahkan semua sengatnya pada kaleng, tanpa melukai si Penebang Kayu sama sekali. Dan karena lebah tidak dapat hidup jika sengatnya dipatahkan, itulah akhir dari lebah hitam, dan mereka tergeletak berserakan di sekitar Manusia Penebang Kayu, seperti timbunan kecil batu bara yang bagus.
+\nLebah-lebah itu datang dan tidak menemukan siapa pun kecuali si Manusia Kayu untuk disengat, jadi mereka terbang ke arahnya dan mematahkan semua sengat mereka di kaleng, tanpa melukai si Manusia Kayu sama sekali. Dan karena lebah tidak dapat hidup ketika sengat mereka patah, maka berakhirlah lebah-lebah hitam itu, dan mereka berhamburan di sekitar si Manusia Kayu, seperti tumpukan kecil batu bara halus.
 \n
-\nKemudian Dorothy dan Singa bangkit, dan gadis itu membantu Tukang Kayu Timah mengembalikan jerami ke Orang-orangan Sawah, sampai dia menjadi sebaik biasanya. Jadi mereka memulai perjalanan mereka sekali lagi.
+\nKemudian Dorothy dan Singa bangkit, dan gadis itu membantu Manusia Kayu Timah memasukkan kembali jerami ke dalam Orang-orangan Sawah, hingga ia menjadi lebih baik dari sebelumnya. Jadi mereka memulai perjalanan mereka sekali lagi.
 \n
-\nPenyihir Jahat sangat marah ketika dia melihat lebah-lebah hitamnya bertumpuk-tumpuk kecil seperti batu bara halus sehingga dia menghentakkan kakinya, menjambak rambutnya, dan mengertakkan giginya. Dan kemudian dia memanggil selusin budaknya, yang merupakan keluarga Winkie, dan memberi mereka tombak tajam, menyuruh mereka pergi ke orang asing dan menghancurkan mereka.
+\nPenyihir Jahat sangat marah ketika ia melihat lebah-lebah hitamnya dalam tumpukan kecil seperti batu bara halus sehingga ia menghentakkan kakinya dan mencabut rambutnya serta menggertakkan giginya. Dan kemudian ia memanggil selusin budaknya, yang adalah para Winkie, dan memberi mereka tombak tajam, menyuruh mereka pergi ke orang-orang asing itu dan menghancurkan mereka.
 \n
-\nKeluarga Winkie bukanlah orang-orang pemberani, tapi mereka harus melakukan apa yang diperintahkan. Jadi mereka berjalan pergi sampai mendekati Dorothy. Kemudian sang Singa mengaum keras dan melompat ke arah mereka, dan para Winkie yang malang itu begitu ketakutan sehingga mereka berlari kembali secepat yang mereka bisa.</string>
+\nPara Winkie bukanlah orang-orang pemberani, tetapi mereka harus melakukan apa yang diperintahkan. Jadi mereka berbaris menjauh hingga mereka mendekati Dorothy. Kemudian Singa itu meraung keras dan melompat ke arah mereka, dan para Winkie yang malang itu sangat ketakutan sehingga mereka berlari kembali secepat yang mereka bisa.</string>
+    <string name="menuEnable">Memungkinkan</string>
+    <string name="dialogServiceDisableMessage">Aplikasi konsumen akan berhenti menerima peristiwa. Nonaktifkan layanan\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplikasi</string>
+    <string name="menuDisable">Cacat</string>
+    <string name="aboutScreenAppListText">Daftar paket aplikasi yang diinstal pada perangkat ini yang menggunakan fitur Layar Tetap:</string>
 </resources>
