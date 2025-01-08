@@ -1,62 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ova usluga omogućuje kompatibilnim aplikacijama da se lako suprotstave malim pomacima uređaja unutar svog korisničkog sučelja.
+    <string name="appDesc">Učinite čitanje u pokretu ugodnijim!
 \n
-\n🏝️ Ovo može poboljšati čitljivost zaslona i eventualno ublažiti mučninu dok ste u pokretu, npr. tijekom čitanja u vozilu u pokretu.
+\n⛵ Ova usluga omogućuje kompatibilnim aplikacijama da se lako suprotstave malim pomacima uređaja unutar svog korisničkog sučelja.
 \n
-\n⚡ Aplikacija je izrađena vrlo pažljivo, kako bi se smanjila upotreba resursa i maksimizirale performanse.
+\n🏝️ Ovo poboljšava čitljivost zaslona ručnog uređaja tijekom hodanja ili putovanja.
 \n
-\nNadamo se da ćete uživati 😊</string>
+\n⚡ Usluga je izrađena vrlo pažljivo, kako bi se smanjila upotreba resursa i maksimizirale performanse. Više informacija možete pronaći na našem GitHubu.
+\n
+\nNadamo se da ćete uživati u korištenju ovoga 😊</string>
     <string name="dialogReviewNudgeMessage">Uživate li u ovoj aplikaciji\?</string>
     <string name="dialogReviewNudgeMessage2">Hvala! Napišite lijepu recenziju ili nas ocijenite s 5 zvjezdica u Trgovini Play.</string>
     <string name="paramLinearScalingInfo">Ovo skalira pokrete linearno, čineći ih većim ili manjim bez utjecaja na izračune.</string>
     <string name="licenseItemAlreadyOwned">Stavka licence već je u vlasništvu</string>
-    <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj omekšava ove pokrete, čineći čitanje na zaslonu lakšim. (Usluga ipak mora biti omogućena u postavkama pristupačnosti da bi se to dogodilo.)
+    <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj ublažava te pokrete, čineći čitanje na zaslonu lakšim.
 \n
 \nOva se funkcionalnost može jednostavno implementirati u bilo koju aplikaciju. Slijedite upute na GitHubu.</string>
     <string name="paramForceScaling">Skaliranje sile</string>
     <string name="paramLinearScaling">Linearno skaliranje</string>
     <string name="dialogConsentButton">Prihvatiti</string>
     <string name="no">Ne</string>
-    <string name="licenseSuccessDialogMessage">Aplikacija je uspješno licencirana. Hvala na podršci!</string>
+    <string name="licenseSuccessDialogMessage">Aplikacija je uspješno licencirana. Hvala vam na podršci!</string>
     <string name="menuAbout">Oko</string>
     <string name="paramForceScalingInfo">Ovo skalira sile prije izračuna, što zauzvrat utječe na ukupnu veličinu kretanja.</string>
     <string name="menuLicense">Nadogradite svoju licencu</string>
     <string name="openSourceLicensesTitle">Licence otvorenog koda</string>
     <string name="menuDecreaseTextSize">Smanji veličinu teksta</string>
     <string name="aboutScreenTranslationsTitle">Prijevodi</string>
-    <string name="menuRateAndComment">Ocijeni nas</string>
+    <string name="menuRateAndComment">Ocijenite nas</string>
     <string name="yes">Da</string>
     <string name="paramRecoil">trzaj</string>
     <string name="paramSensorRate">Stopa senzora</string>
     <string name="paramDampingInfo">Povećanje toga će usporiti i ublažiti pokrete, čineći ih manje osjetljivima na veće sile.</string>
-    <string name="ok">u redu</string>
-    <string name="menuSendDebugFeedback">Prijaviti problem</string>
+    <string name="ok">U REDU</string>
+    <string name="menuSendDebugFeedback">Prijavite problem</string>
     <string name="ratePerSecond">%1$s Hz</string>
-    <string name="ultimateLicenseLabel">Ultimativno</string>
-    <string name="dialogRestoreDefaultsMessage">Vratiti postavke na zadane vrijednosti\?</string>
+    <string name="ultimateLicenseLabel">Krajnji</string>
+    <string name="dialogRestoreDefaultsMessage">Vratiti parametre na zadane vrijednosti\?</string>
     <string name="paramDamping">Prigušivanje</string>
-    <string name="serviceInactiveText">Usluga je onemogućena, kliknite ovdje da biste je omogućili.</string>
+    <string name="serviceInactiveText">Usluga je onemogućena, kliknite za uključivanje.</string>
     <string name="aboutScreenTranslationsText">Pomozite prevesti ovu aplikaciju i dobijte besplatnu licencu! Više informacija:</string>
     <string name="cancel">Otkazati</string>
     <string name="ultimateLicenseTitle">Konačna licenca</string>
-    <string name="measuredSensorRate">Izmjerena brzina senzora</string>
+    <string name="measuredSensorRate">Izmjerena stopa senzora</string>
     <string name="menuTheme">Tema</string>
     <string name="measuredSensorRateInfo">Trenutačna brzina senzora prema mjerenju aplikacije. To se može razlikovati od željene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
-    <string name="aboutScreenGithubLink">Još uvijek na GitHubu</string>
-    <string name="aboutScreenLicenseTitle">Licenca aplikacije</string>
+    <string name="aboutScreenGithubLink">Stalni zaslon na GitHubu</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licenca</string>
     <string name="aboutScreenLicenseText">Ova aplikacija je besplatna i radi bez ograničenja. Međutim, parametri će se vratiti na zadane vrijednosti nakon 1 sata bez licence.</string>
     <string name="dialogInfoButton">Idite na GitHub</string>
-    <string name="generalError">Došlo je do neke pogreške. Molim te pokušaj ponovno.</string>
+    <string name="generalError">Došlo je do neke pogreške. Molimo pokušajte ponovo.</string>
     <string name="paramRecoilInfo">Povećanjem toga smanjit će se osjetljivost na male oscilacije i učiniti pokrete manje osjetljivima na veće sile.</string>
-    <string name="menuRestoreDefaults">Vratiti zadane</string>
+    <string name="menuRestoreDefaults">Vrati zadane postavke</string>
     <string name="dialogButtonRateOnPlayStore">Ocijenite u Trgovini Play</string>
-    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene brzine senzora jer sustav na kraju odlučuje koju će stopu dati.</string>
+    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
     <string name="menuIncreaseTextSize">Povećaj veličinu teksta</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Ovaj tekst je u svrhu demonstracije)
 \n
-\nVojnik sa zelenim brkovima vodio ih je ulicama Smaragdnog grada dok nisu stigli do sobe u kojoj je živio Čuvar Vrata. Ovaj policajac im je otključao naočale da ih vrati u svoju veliku kutiju, a zatim je pristojno otvorio vrata našim prijateljima.
+\nVojnik sa zelenim brkovima vodio ih je ulicama Smaragdnog grada dok nisu stigli do sobe u kojoj je živio Čuvar Vrata. Ovaj im je policajac otključao naočale kako bi ih vratio u svoju veliku kutiju, a potom je pristojno otvorio vrata našim prijateljima.
 \n
 \n\"Koji put vodi do Zle vještice Zapada\?\" upita Dorothy.
 \n
@@ -64,7 +66,7 @@
 \n
 \n\"Kako ćemo je onda pronaći\?\" upita djevojka.
 \n
-\n\"To će biti lako\", odgovorio je čovjek, \"jer kada sazna da ste u zemlji Winkieja, pronaći će vas i sve vas učiniti svojim robovima.\"
+\n\"To će biti lako,\" odgovori čovjek, \"jer kada sazna da ste u zemlji Winkieja, pronaći će vas i sve vas učiniti svojim robovima.\"
 \n
 \n\"Možda ne\", reče Strašilo, \"jer mi je namjeravamo uništiti.\"
 \n
@@ -88,11 +90,11 @@
 \n
 \n- Dobro - reče vuk i odjuri punom brzinom, a za njim i ostali.
 \n
-\nBila je sreća što su Strašilo i Drvosječa bili sasvim budni i čuli vukove kako dolaze.
+\nBila je sreća što su Strašilo i Drvosječa bili posve budni i čuli vukove kako dolaze.
 \n
 \n\"Ovo je moja borba\", rekao je Drvosječa, \"zato stanite iza mene i ja ću ih dočekati dok budu dolazili.\"
 \n
-\nZgrabio je svoju sjekiru, koju je jako naoštrio, i kad je vođa vukova naišao, Limeni Drvosječa je zamahnuo rukom i odsjekao vučju glavu od njegova tijela, tako da je odmah uginuo. Čim je mogao podići sjekiru, pojavio se drugi vuk, koji je također pao pod oštru oštricu oružja Limenog Drvosječe. Bilo je četrdeset vukova i četrdeset puta je vuk ubijen, tako da su na kraju svi ležali mrtvi na hrpi pred Drvosječom.
+\nZgrabio je svoju sjekiru, koju je jako naoštrio, i kad je vođa vukova naišao, Limeni Drvosječa je zamahnuo rukom i odsjekao vučju glavu s njegova tijela, tako da je odmah uginuo. Čim je mogao podići sjekiru, pojavio se drugi vuk, koji je također pao pod oštru oštricu oružja Limenog Drvosječe. Bilo je četrdeset vukova i četrdeset puta je vuk ubijen, tako da su na kraju svi ležali mrtvi na hrpi pred Drvosječom.
 \n
 \nZatim je spustio sjekiru i sjeo pokraj Strašila, koji je rekao: \"Bila je to dobra borba, prijatelju.\"
 \n
@@ -104,21 +106,21 @@
 \n
 \nA Zla Vještica reče Kralju Vranu: \"Odmah odleti k strancima; iskopaj im oči i rastrgaj ih na komade.\"
 \n
-\nDivlje vrane poletjele su u jednom velikom jatu prema Dorothy i njezinim drugovima. Kad ih je djevojčica vidjela kako dolaze, uplašila se.
+\nDivlje vrane poletjele su u jednom velikom jatu prema Dorothy i njezinim drugovima. Kad je djevojčica vidjela da dolaze, uplašila se.
 \n
 \nAli Strašilo reče: \"Ovo je moja bitka, zato lezi kraj mene i nećeš biti ozlijeđen.\"
 \n
-\nTako su svi ležali na zemlji osim Strašila, a on je ustao i ispružio ruke. A kad su ga vrane ugledale, uplašile su se, kao što su te ptice uvijek strašila, i nisu se usudile prići bliže. Ali Kralj Vrana reče:
+\nTako su svi ležali na zemlji osim Strašila, a on je ustao i ispružio ruke. A kad su ga vrane ugledale, preplašile su se, kao što su te ptice uvijek strašila, i nisu se usudile prići bliže. Ali Kralj Vrana reče:
 \n
 \n\"To je samo plišani čovjek. Iskopat ću mu oči.\"
 \n
 \nKralj vrana poletio je na Strašilo, koje ga je uhvatilo za glavu i zavrtalo mu vrat dok nije umrlo. A onda je druga vrana doletjela na njega, a Strašilo je također izvilo vrat. Bilo je četrdeset vrana, i četrdeset je puta Strašilo zavrnulo vratom, dok na kraju sve nisu ležale mrtve kraj njega. Zatim je pozvao svoje drugove da ustanu, i oni su ponovno krenuli na put.
 \n
-\nKad je Zla Vještica ponovno pogledala i vidjela sve svoje vrane kako leže na hrpi, užasno se razbjesnila i tri puta puhnula u svoju srebrnu zviždaljku.
+\nKad je Zla Vještica ponovno pogledala van i vidjela sve svoje vrane kako leže na hrpi, užasno se razbjesnila i tri puta puhnula u svoju srebrnu zviždaljku.
 \n
-\nIstog trenutka u zraku se začulo snažno zujanje i roj crnih pčela poletio je prema njoj.
+\nSmjesta se začulo snažno zujanje u zraku, a roj crnih pčela poletio je prema njoj.
 \n
-\n\"Idi strancima i ubodi ih do smrti!\" zapovjedi Vještica, a pčele se okrenuše i brzo poletješe sve dok ne dođoše do mjesta gdje su šetale Dorothy i njezine prijateljice. Ali Drvosječa ih je vidio kako dolaze i Strašilo je odlučilo što učiniti.
+\n\"Idi strancima i ubodi ih do smrti!\" zapovjedi Vještica, a pčele se okrenuše i brzo poletješe sve dok ne dođoše do mjesta gdje su šetale Dorothy i njezine prijateljice. Ali Drvosječa ih je vidio kako dolaze, a Strašilo je odlučilo što učiniti.
 \n
 \n\"Izvadi moju slamu i pospi je po djevojčici, psu i lavu\", rekao je Drvosječi, \"i pčele ih ne mogu ubosti.\" Drvosječa je to učinio, a dok je Dorothy ležala blizu Lava i držala Tota u naručju, slama ih je potpuno prekrila.
 \n
@@ -129,4 +131,9 @@
 \nZla vještica bila je toliko ljuta kad je vidjela svoje crne pčele u malim hrpama poput sitnog ugljena da je lupila nogom, čupala kosu i škrgutala zubima. A onda je pozvala desetak svojih robova, koji su bili Winkies, i dala im oštra koplja, rekavši im da odu do stranaca i unište ih.
 \n
 \nWinkieji nisu bili hrabar narod, ali su morali učiniti što im je rečeno. Tako su marširali dok se nisu približili Dorothy. Tada je Lav snažno zaurlao i skočio prema njima, a jadne Winkies bile su toliko uplašene da su potrčale natrag što su brže mogle.</string>
+    <string name="menuEnable">Omogućiti</string>
+    <string name="dialogServiceDisableMessage">Potrošačke aplikacije prestat će primati događaje. Onemogućiti uslugu\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplikacije</string>
+    <string name="menuDisable">Onemogući</string>
+    <string name="aboutScreenAppListText">Popis paketa aplikacija instaliranih na ovom uređaju koji koriste značajku Steady Screen:</string>
 </resources>
