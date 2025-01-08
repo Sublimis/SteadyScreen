@@ -129,4 +129,9 @@
 \nZła Czarownica była tak wściekła, kiedy zobaczyła swoje czarne pszczoły w małych kupkach przypominających miał węgiel, że tupnęła nogą, wyrywała sobie włosy i zgrzytała zębami. A potem przywołała tuzin swoich niewolników, którymi byli Winkie, i dała im ostre włócznie, mówiąc im, aby udali się do nieznajomych i ich zniszczyli.
 \n
 \nWinkie nie były odważnym ludem, ale musiały robić, co im kazano. I tak maszerowali, aż zbliżyli się do Doroty. Wtedy Lew wydał z siebie wielki ryk i rzucił się w ich stronę, a biedne Winkie tak się przestraszyły, że uciekły tak szybko, jak tylko mogły.</string>
+    <string name="menuEnable">Włączać</string>
+    <string name="dialogServiceDisableMessage">Aplikacje konsumenckie przestaną odbierać zdarzenia. Wyłączyć usługę\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplikacje</string>
+    <string name="menuDisable">Wyłączyć</string>
+    <string name="aboutScreenAppListText">Lista pakietów aplikacji zainstalowanych na tym urządzeniu, które korzystają z funkcji Steady Screen:</string>
 </resources>
