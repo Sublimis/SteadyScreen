@@ -1,134 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ 该服务允许兼容的应用程序轻松抵消其用户界面内的小型设备移动。
+    <string name="appDesc">让旅途中的阅读更加愉快！
 \n
-\n🏝️ 这可以提高屏幕可读性，并可能减轻旅途中的晕动病，例如在旅途中。在行驶的车辆中阅读时。
+\n⛵ 这项服务允许兼容的应用程序在其用户界面内轻松抵消小的设备移动。
 \n
-\n⚡ 该应用程序经过精心设计，以最大限度地减少资源使用并最大限度地提高性能。
+\n🏝️ 这提高了手持设备在行走或旅行时的屏幕可读性。
 \n
-\n希望你喜欢😊</string>
-    <string name="dialogReviewNudgeMessage">您喜欢这个应用程序吗？</string>
-    <string name="dialogReviewNudgeMessage2">谢谢！请在 Play 商店上写一篇好评或给我们评分 5 星。</string>
-    <string name="paramLinearScalingInfo">这会线性缩放运动，使它们变大或变小，而不影响计算。</string>
-    <string name="licenseItemAlreadyOwned">已拥有的许可项目</string>
-    <string name="dialogInfoMessage">稍微摇晃设备。注意背景内容如何柔化这些动作，使屏幕阅读更容易。（必须在辅助功能设置中启用 Stilly 服务才能实现此功能。）
+\n⚡ 服务经过精心设计，以最大限度地减少资源使用并最大限度地提高性能。更多信息可以在我们的 GitHub 上找到。
+\n
+\n希望你喜欢使用它 😊</string>
+    <string name="dialogReviewNudgeMessage">你喜欢这个应用程序吗？</string>
+    <string name="dialogReviewNudgeMessage2">谢谢！请在 Play Store 上给我们写一个好评或评 5 星。</string>
+    <string name="paramLinearScalingInfo">这可以线性缩放运动，使其变大或变小而不影响计算。</string>
+    <string name="licenseItemAlreadyOwned">已拥有许可项目</string>
+    <string name="dialogInfoMessage">稍微摇晃设备。注意背景内容如何柔化这些动作，使屏幕阅读更容易。
 \n
 \n此功能可轻松在任何应用程序中实现。请按照 GitHub 上的说明进行操作。</string>
-    <string name="paramForceScaling">强制缩放</string>
+    <string name="paramForceScaling">力量缩放</string>
     <string name="paramLinearScaling">线性缩放</string>
     <string name="dialogConsentButton">接受</string>
     <string name="no">不</string>
-    <string name="licenseSuccessDialogMessage">该应用程序已成功获得许可。感谢您的支持！</string>
+    <string name="licenseSuccessDialogMessage">应用授权成功，感谢您的支持！</string>
     <string name="menuAbout">关于</string>
-    <string name="paramForceScalingInfo">这会在计算之前缩放力，进而影响运动的整体幅度。</string>
+    <string name="paramForceScalingInfo">这会在计算之前缩放力量，进而影响运动的整体幅度。</string>
     <string name="menuLicense">升级您的许可证</string>
     <string name="openSourceLicensesTitle">开源许可证</string>
-    <string name="menuDecreaseTextSize">减小文字大小</string>
+    <string name="menuDecreaseTextSize">减小文本大小</string>
     <string name="aboutScreenTranslationsTitle">翻译</string>
-    <string name="menuRateAndComment">评价我们</string>
+    <string name="menuRateAndComment">给我们评分</string>
     <string name="yes">是的</string>
     <string name="paramRecoil">畏缩</string>
     <string name="paramSensorRate">传感器速率</string>
-    <string name="paramDampingInfo">增加这个值会减慢并减弱运动，使它们对更大的力不那么敏感。</string>
+    <string name="paramDampingInfo">增加这个值会减慢和减弱运动，使它们对较大的力量不太敏感。</string>
     <string name="ok">好的</string>
     <string name="menuSendDebugFeedback">报告问题</string>
     <string name="ratePerSecond">%1$s 赫兹</string>
     <string name="ultimateLicenseLabel">最终的</string>
-    <string name="dialogRestoreDefaultsMessage">将设置恢复为默认值？</string>
+    <string name="dialogRestoreDefaultsMessage">恢复参数为默认值？</string>
     <string name="paramDamping">减震</string>
-    <string name="serviceInactiveText">服务已禁用，请单击此处启用。</string>
+    <string name="serviceInactiveText">服务已禁用，点击启用。</string>
     <string name="aboutScreenTranslationsText">帮助翻译这个应用程序并获得免费许可证！更多信息：</string>
     <string name="cancel">取消</string>
-    <string name="ultimateLicenseTitle">最终许可</string>
+    <string name="ultimateLicenseTitle">终极许可证</string>
     <string name="measuredSensorRate">测量传感器速率</string>
     <string name="menuTheme">主题</string>
-    <string name="measuredSensorRateInfo">应用程序测量的当前传感器速率。这可能与所需的传感器速率不同，因为系统最终决定提供哪个速率。</string>
-    <string name="aboutScreenGithubLink">GitHub 上的斯蒂利</string>
-    <string name="aboutScreenLicenseTitle">应用程序许可证</string>
+    <string name="measuredSensorRateInfo">应用程序测量的当前传感器速率。这可能与所需的传感器速率不同，因为系统最终决定提供哪种速率。</string>
+    <string name="aboutScreenGithubLink">GitHub 上的 Steady Screen</string>
+    <string name="aboutScreenLicenseTitle">🔑 许可证</string>
     <string name="aboutScreenLicenseText">此应用程序免费且无任何限制。但是，如果没有许可证，参数将在 1 小时后恢复为默认值。</string>
     <string name="dialogInfoButton">前往 GitHub</string>
-    <string name="generalError">发生一些错误。请再试一次。</string>
-    <string name="paramRecoilInfo">增加此值将降低对小振动的敏感度，并使运动对较大力的敏感度降低。</string>
-    <string name="menuRestoreDefaults">恢复默认值</string>
+    <string name="generalError">发生错误。请重试。</string>
+    <string name="paramRecoilInfo">增加该值将降低对小振动的敏感度并使运动对较大的力不太敏感。</string>
+    <string name="menuRestoreDefaults">恢复默认设置</string>
     <string name="dialogButtonRateOnPlayStore">在 Play 商店中评分</string>
-    <string name="paramSensorRateInfo">这设置了所需的传感器速率。较高的值可能会消耗更多的电池。这可能与测量的传感器速率不同，因为系统最终决定提供哪个速率。</string>
-    <string name="menuIncreaseTextSize">增加文字大小</string>
+    <string name="paramSensorRateInfo">这将设置所需的传感器速率。较高的值可能会消耗更多电量。这可能与测量的传感器速率不同，因为系统最终决定提供哪种速率。</string>
+    <string name="menuIncreaseTextSize">增加文本大小</string>
     <string name="menuInfo">信息</string>
-    <string name="loremIpsum">（本文仅供演示之用）
+    <string name="loremIpsum">（本文仅供演示）
 \n
-\n绿须士兵带着他们穿过翡翠城的街道，来到了城门守护者居住的房间。这位警官打开他们的眼镜，把它们放回他的大盒子里，然后他礼貌地为我们的朋友打开了大门。
+\n绿胡子士兵带领他们穿过翡翠城的街道，直到他们到达守门人居住的房间。这位军官打开他们的眼镜，将其放回他的大盒子里，然后礼貌地为我们的朋友打开大门。
 \n
-\n“哪条路通向西方恶女巫？”多萝西问道。
+\n“哪条路通向西方邪恶女巫？”多萝西问道。
 \n
-\n“没有路。”大门守护者回答道。 “没有人愿意走那条路。”
+\n“没有路，”守门人回答道。“没有人愿意走那条路。”
 \n
-\n“那我们怎样才能找到她呢？”女孩问道。
+\n“那么，我们怎么找到她？”女孩问道。
 \n
-\n“那很容易，”那人回答道，“因为当她知道你在温基人的国家时，她就会找到你，并让你成为她的奴隶。”
+\n“那很容易，”士兵回答道，“因为当她知道你在温基人的国家时，她会找到你，并让你们都成为她的奴隶。”
 \n
-\n“也许不是，”稻草人说，“因为我们打算毁掉她。”
+\n“也许不会，”稻草人说，“因为我们打算毁灭她。”
 \n
-\n“哦，那不一样，”大门守护者说道。 “以前从来没有人消灭过她，所以我自然认为她会成为你的奴隶，就像她对待其他人一样。但是要小心，因为她邪恶而凶猛，可能不会允许你消灭她。坚持下去西边，太阳落山的地方，你不可能找不到她。”
+\n“哦，那不一样，”守门人说。 “以前从来没有人毁灭过她，所以我自然而然地认为她会把你变成奴隶，就像她对其他人所做的那样。但要小心；因为她邪恶而凶猛，可能不会允许你毁灭她。一直往西走，太阳落山的地方，你一定能找到她。”
 \n
-\n他们向他道谢，向他告别，然后转向西方，走过柔软的草地，那里点缀着雏菊和毛茛。多萝西还穿着她在宫殿里穿的那件漂亮的丝质连衣裙，但现在，她惊讶地发现，它不再是绿色的，而是纯白色的。托托脖子上的丝带也失去了绿色，变成了和多萝西的裙子一样的白色。
+\n他们感谢他，向他道别，转身向西走，走过柔软的草地，草地上点缀着雏菊和毛茛花。多萝西仍然穿着她在宫殿里穿的漂亮丝绸裙子，但现在，令她惊讶的是，她发现它不再是绿色的，而是纯白色的。托托脖子上的丝带也失去了绿色，和多萝西的裙子一样白。
 \n
-\n翡翠城很快就被远远抛在了后面。随着他们的前进，地面变得更加崎岖和崎岖，因为这个西部国家没有农场，也没有房屋，而且土地都被开垦过。
+\n翡翠城很快就被远远地抛在后面。随着他们前进，地面变得越来越崎岖，因为西方这个国家没有农场也没有房子，土地是未耕种的。
 \n
-\n下午，阳光灼热地照在他们的脸上，因为没有树可以给他们遮荫。到了晚上，多萝西、托托和狮子都累了，躺在草地上睡着了，樵夫和稻草人则守候着。
+\n下午，太阳照在他们的脸上，因为没有树可以为他们遮荫；于是，天还没亮，多萝西、托托和狮子就累了，躺在草地上睡着了，樵夫和稻草人守在那儿。
 \n
-\n现在西方恶女巫虽然只有一只眼睛，但却像望远镜一样强大，无所不在。所以，当她坐在城堡门口时，她偶然环顾四周，看到多萝西躺在床上睡着了，周围都是她的朋友们。他们相距很远，但邪恶女巫在她的国家发现他们很生气；于是她吹响了挂在脖子上的银哨子。
+\n西方的邪恶女巫只有一只眼睛，但它却像望远镜一样强大，可以看到任何地方。于是，当她坐在城堡门口时，她碰巧环顾四周，看到多萝西躺在那里睡着了，她的朋友们都围在她身边。他们离得很远，但邪恶女巫很生气，因为她发现他们在她的国家；于是她吹了吹挂在脖子上的银哨子。
 \n
-\n立刻，一群大狼从四面八方向她奔来。他们有长腿、凶猛的眼睛和锋利的牙齿。
+\n立刻，一群大狼从四面八方跑来。他们腿长，眼神凶狠，牙齿锋利。
 \n
 \n“去找那些人，”女巫说，“把他们撕成碎片。”
 \n
-\n“你不打算让他们成为你的奴隶吗？”狼群首领问道。
+\n“你不打算让他们成为你的奴隶吗？”狼群的首领问道。
 \n
-\n“不，”她回答，“一个是锡的，一个是稻草的；一个是女孩，另一个是狮子。它们都不适合干活，所以你可以把它们撕成小块。”
+\n“不，”她回答说，“一个是锡做的，一个是稻草做的；一个是女孩，另一个是狮子。他们都不适于工作，所以你可以把他们撕成碎片。”
 \n
-\n“很好。”狼说，然后他全速飞奔而去，其他人也跟在后面。
+\n“很好，”狼说，他全速冲走了，其他人紧随其后。
 \n
-\n幸运的是，稻草人和樵夫完全清醒，听到狼群来了。
+\n幸运的是，稻草人和樵夫都醒了，听到了狼来了。
 \n
-\n“这是我的战斗，”樵夫说，“所以到我身后去吧，他们来的时候我会迎接他们。”
+\n“这是我的战斗，”樵夫说，“所以跟在我后面，我会在他们来的时候迎战他们。”
 \n
-\n他抓起他那把锋利的斧头，当狼群首领冲上来时，铁皮樵夫挥动手臂，把狼的头从身上砍下来，狼立刻就死了。刚一举起斧子，另一只狼就扑了上来，他也倒在了铁皮樵夫利刃之下。有四十只狼，四十只狼被杀死，最后它们都死在樵夫面前。
+\n他抓起斧头，斧头被他弄得很锋利，当狼群的首领走近时，铁皮樵夫挥动手臂，把狼的头从它的身体上砍了下来，它立刻就死了。他刚举起斧头，另一只狼就来了，它也倒在铁皮樵夫武器的锋利边缘下。有四十只狼，每只狼被杀四十次，最后它们都死在了铁皮人面前。
 \n
 \n然后他放下斧头，坐在稻草人旁边，稻草人说：“这是一场精彩的战斗，朋友。”
 \n
-\n他们等到第二天早上多萝西醒来。小女孩看到那一大堆毛茸茸的狼时非常害怕，但铁皮樵夫把一切都告诉了她。她感谢他救了他们，然后坐下来吃早餐，然后他们又开始了旅程。
+\n他们等到第二天早上多萝西醒来。当小女孩看到那一大堆毛茸茸的狼时，她非常害怕，但铁皮人告诉了她一切。她感谢他救了他们，坐下来吃早餐，之后他们又开始了旅程。
 \n
-\n今天早上，邪恶女巫来到她的城堡门口，用她那只看得见远处的眼睛向外张望。她看到她所有的狼都死了，而陌生人仍然在她的国家旅行。这让她比之前更加愤怒，银哨吹了两声。
+\n就在今天早上，邪恶的女巫来到她的城堡门口，用她那只能看得很远的眼睛向外张望。她看到她所有的狼都死了，陌生人仍然在她的国家旅行。这让她比以前更生气，她吹了两声银哨。
 \n
-\n立刻一大群野乌鸦向她飞来，足以遮蔽天空。
+\n立刻，一大群野乌鸦向她飞来，足以遮蔽天空。
 \n
-\n邪恶女巫对乌鸦王说：“立刻飞到陌生人那里去，啄出他们的眼睛，把他们撕成碎片。”
+\n邪恶的女巫对乌鸦王说：“马上飞到陌生人那里，啄出他们的眼睛，把他们撕成碎片。”
 \n
-\n野乌鸦成群结队地朝多萝西和她的同伴飞去。小女孩看到他们来了，她很害怕。
+\n一群野乌鸦朝多萝西和她的同伴飞去。小女孩看到他们来了，很害怕。
 \n
-\n但稻草人说：“这是我的战斗，所以躺在我身边，你就不会受到伤害。”
+\n但稻草人说：“这是我的战斗，所以躺在我旁边，你不会受到伤害。”
 \n
-\n于是，除了稻草人之外，他们都躺在地上，稻草人站起来，伸出双臂。乌鸦们一看到他，就害怕了，因为这些鸟总是被稻草人所包围，不敢靠近。但乌鸦王说道：
+\n于是他们都躺在地上，只有稻草人站起来，伸出双臂。当乌鸦们看到他时，它们都吓坏了，就像这些鸟儿总是被稻草人吓到一样，不敢再靠近了。但乌鸦王说：“这只是一个被塞住的人。我要啄出他的眼睛。”
 \n
-\n“这只是一个毛绒玩具，我要把他的眼睛啄出来。”
+\n乌鸦王向稻草人飞去，稻草人抓住它的头，扭断它的脖子，直到它死去。然后另一只乌鸦向他飞来，稻草人也扭断了脖子。有四十只乌鸦，稻草人扭了四十次脖子，最后所有乌鸦都死在了他身边。然后他叫同伴们起来，他们又继续上路了。
 \n
-\n乌鸦王飞向稻草人，稻草人抓住了它的头，扭断了它的脖子，直到它死了。这时，另一只乌鸦向他飞来，稻草人也扭断了脖子。有四十只乌鸦，稻草人扭断脖子四十次，最后全都死在他身边。然后他叫同伴们起身，他们又继续上路了。
+\n当邪恶的女巫再次向外看时，看到她所有的乌鸦都躺在一堆，她勃然大怒，吹了三次银哨。
 \n
-\n当邪恶女巫再次向外看时，看到她所有的乌鸦都躺在一堆，她勃然大怒，吹响了银哨子三声。
+\n立刻听到空中传来一阵嗡嗡声，一群黑蜂朝她飞来。
 \n
-\n随即空气中传来一阵巨大的嗡嗡声，一群黑色的蜜蜂向她飞来。
+\n“去找陌生人，把他们蜇死！”女巫命令道，蜜蜂转身飞快地飞来，直到它们来到多萝西和她的朋友走路的地方。但是樵夫已经看到他们来了，稻草人已经决定怎么做了。
 \n
-\n“到陌生人那里去，把他们蜇死！”女巫命令道，蜜蜂们转身飞快地飞，直到来到多萝西和她的朋友们散步的地方。但樵夫已经看到他们来了，稻草人也决定了该怎么做。
+\n“拿出我的稻草，撒在小女孩、狗和狮子身上，”他对樵夫说，“蜜蜂就不能蜇他们了。”樵夫照做了，多萝西紧紧地躺在狮子旁边，把托托抱在怀里，稻草完全盖住了他们。
 \n
-\n“拿出我的稻草，撒在小女孩、狗和狮子身上，”他对樵夫说，“这样蜜蜂就不会蜇他们了。”樵夫这样做了，当多萝西靠近狮子并把托托抱在怀里时，稻草完全覆盖了他们。
+\n蜜蜂飞来，发现除了樵夫，没有其他人可以蜇，于是它们向他飞去，在铁皮上折断了所有的刺，一点伤不到樵夫。蜜蜂的刺断了就活不下去了，这就是黑蜂的末日，它们密密麻麻地散落在樵夫周围，像一小堆细煤。
 \n
-\n蜜蜂来了，发现除了樵夫没有人可以蜇人，于是它们飞向他，把所有的刺都折断在锡上，没有伤害樵夫。就像蜜蜂的刺被折断后就无法生存一样，黑蜜蜂也就完蛋了，它们密密麻麻地散落在樵夫周围，就像一小堆细煤。
+\n然后多萝西和狮子站了起来，小女孩帮助铁皮人把稻草放回稻草人体内，直到他恢复原样。于是他们又开始了旅程。
 \n
-\n然后多萝西和狮子站了起来，女孩帮助铁皮樵夫把稻草重新放回稻草人体内，直到稻草人恢复原状。于是他们又开始了他们的旅程。
+\n当邪恶的女巫看到她的黑蜂像细煤一样一小堆一小堆时，她非常生气，她跺着脚，扯着头发，咬牙切齿。然后她叫来十几个奴隶，也就是温基人，给了他们锋利的长矛，让他们去找陌生人，消灭他们。
 \n
-\n当邪恶女巫看到黑蜂像细煤一样小堆时，她非常生气，她跺脚，撕扯头发，咬牙切齿。然后她叫来了十几个奴隶，他们是温基人，给了他们锋利的长矛，告诉他们去陌生人那里消灭他们。
-\n
-\n温基人并不是勇敢的民族，但他们必须按照别人的吩咐去做。于是他们就走开了，直到靠近多萝西。然后狮子发出一声巨大的吼叫，向他们扑来，可怜的温基人吓坏了，以最快的速度往回跑。</string>
+\n温基人并不勇敢，但他们必须按照吩咐去做。于是他们继续前进，直到他们靠近多萝西。这时狮子发出一声大吼，向他们扑来，可怜的温基人被吓得尽可能快地往后逃。</string>
     <string name="menuEnable">使能够</string>
     <string name="dialogServiceDisableMessage">消费者应用程序将停止接收事件。禁用服务？</string>
     <string name="aboutScreenAppListTitle">⛵ 应用程序</string>
