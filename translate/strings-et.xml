@@ -10,7 +10,7 @@
 \n
 \nLoodetavasti naudite selle kasutamist 😊</string>
     <string name="dialogReviewNudgeMessage">Kas teile meeldib see rakendus\?</string>
-    <string name="dialogReviewNudgeMessage2">Aitäh! Kirjutage Play poes kena arvustus või hinnake meid 5 tärniga.</string>
+    <string name="dialogReviewNudgeMessage2">Aitäh! Kirjutage hea arvustus või hinnake meid Play poes 5 tärniga.</string>
     <string name="paramLinearScalingInfo">See skaleerib liigutusi lineaarselt, muutes need suuremaks või väiksemaks ilma arvutusi mõjutamata.</string>
     <string name="licenseItemAlreadyOwned">Litsentsiüksus on juba omanduses</string>
     <string name="dialogInfoMessage">Raputage seadet veidi. Pange tähele, kuidas taustasisu pehmendab neid liigutusi, muutes ekraanil lugemise lihtsamaks.
@@ -118,7 +118,7 @@
 \n
 \nKui Kuri Nõid vaatas uuesti välja ja nägi kõiki oma vareseid hunnikus lebamas, sattus ta kohutavasse raevu ja puhus kolm korda oma hõbedast vilet.
 \n
-\nÕhus oli kohe kuulda suurt suminat ja mustade mesilaste sülem lendas tema poole.
+\nÕhus oli kohe kuulda suurt suminat ja tema poole lendas must mesilaste sülem.
 \n
 \n\"Minge võõraste juurde ja nõelake nad surnuks!\" käskis nõid ning mesilased pöördusid ja lendasid kiiresti, kuni jõudsid kohale, kus Dorothy ja ta sõbrad kõndisid. Kuid Metsamees oli näinud neid tulemas ja Hernehirmutis oli otsustanud, mida teha.
 \n
@@ -130,7 +130,7 @@
 \n
 \nKuri nõid oli nii vihane, kui ta nägi oma musti mesilasi väikeste kivisüsi hunnikutes, et ta trampis jalga, rebis juukseid ja kiristas hambaid. Ja siis kutsus ta kümmekond oma orja, kelleks olid Winkied, ja andis neile teravad odad, käskis neil minna võõraste juurde ja hävitada.
 \n
-\nWinkied ei olnud julge rahvas, kuid nad pidid tegema nii, nagu kästi. Nii nad marssisid minema, kuni jõudsid Dorothy lähedale. Siis lõvi müristas ja kargas nende poole ning vaesed Winkid olid nii ehmunud, et jooksid tagasi nii kiiresti kui suutsid.</string>
+\nWinkied ei olnud julge rahvas, aga nad pidid tegema nii, nagu kästi. Nii nad marssisid minema, kuni jõudsid Dorothy lähedale. Siis lõvi müristas ja kargas nende poole ning vaesed Winkid olid nii ehmunud, et jooksid tagasi nii kiiresti kui suutsid.</string>
     <string name="menuEnable">Luba</string>
     <string name="dialogServiceDisableMessage">Tarbijarakendused lõpetavad sündmuste vastuvõtmise. Kas keelata teenus\?</string>
     <string name="aboutScreenAppListTitle">⛵ Rakendused</string>
