@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Šis pakalpojums ļauj saderīgām lietojumprogrammām viegli novērst nelielas ierīces kustības savā lietotāja saskarnē.
+    <string name="appDesc">Padariet lasīšanu, atrodoties ceļā, patīkamāku!
 \n
-\n🏝️ Tas var uzlabot ekrāna lasāmību un, iespējams, mazināt kustību slimības, atrodoties ceļā, piemēram, lasot braucošā transportlīdzeklī.
+\n⛵ Šis pakalpojums ļauj saderīgām lietojumprogrammām viegli novērst nelielas ierīces kustības savā lietotāja saskarnē.
 \n
-\n⚡ Lietojumprogramma ir izstrādāta ļoti rūpīgi, lai samazinātu resursu izmantošanu un palielinātu veiktspēju.
+\n🏝️ Tas uzlabo rokas ierīces ekrāna lasāmību pastaigas vai ceļojuma laikā.
 \n
-\nCeru, ka jums patiks 😊</string>
+\n⚡ Pakalpojums ir izstrādāts ļoti rūpīgi, lai samazinātu resursu izmantošanu un palielinātu veiktspēju. Plašāku informāciju var atrast mūsu GitHub.
+\n
+\nCeru, ka jums patiks to izmantot 😊</string>
     <string name="dialogReviewNudgeMessage">Vai jums patīk šī lietotne\?</string>
     <string name="dialogReviewNudgeMessage2">Paldies! Lūdzu, uzrakstiet jauku atsauksmi vai novērtējiet mūs ar 5 zvaigznēm Play veikalā.</string>
     <string name="paramLinearScalingInfo">Tādējādi kustības tiek mērogotas lineāri, padarot tās lielākas vai mazākas, neietekmējot aprēķinus.</string>
     <string name="licenseItemAlreadyOwned">Licences vienums jau pieder</string>
-    <string name="dialogInfoMessage">Nedaudz sakratiet ierīci. Ievērojiet, kā fona saturs mīkstina šīs kustības, atvieglojot lasīšanu ekrānā. (Lai tas notiktu, pieejamības iestatījumos ir jāiespējo pakalpojums joprojām.)
+    <string name="dialogInfoMessage">Nedaudz sakratiet ierīci. Ievērojiet, kā fona saturs mīkstina šīs kustības, atvieglojot lasīšanu ekrānā.
 \n
 \nŠo funkcionalitāti var viegli ieviest jebkurā lietojumprogrammā. Lūdzu, izpildiet GitHub sniegtos norādījumus.</string>
     <string name="paramForceScaling">Spēka mērogošana</string>
     <string name="paramLinearScaling">Lineārā mērogošana</string>
     <string name="dialogConsentButton">Pieņemt</string>
     <string name="no">Nē</string>
-    <string name="licenseSuccessDialogMessage">Lietotne tika veiksmīgi licencēta. Paldies Tev par atbalstu!</string>
+    <string name="licenseSuccessDialogMessage">Lietotne tika veiksmīgi licencēta. Paldies par atbalstu!</string>
     <string name="menuAbout">Par</string>
     <string name="paramForceScalingInfo">Tas mērogo spēkus pirms aprēķiniem, kas savukārt ietekmē kopējo kustību apjomu.</string>
     <string name="menuLicense">Jauniniet savu licenci</string>
     <string name="openSourceLicensesTitle">Atvērtā pirmkoda licences</string>
     <string name="menuDecreaseTextSize">Samaziniet teksta lielumu</string>
     <string name="aboutScreenTranslationsTitle">Tulkojumi</string>
-    <string name="menuRateAndComment">Novērtē mūs</string>
+    <string name="menuRateAndComment">Novērtējiet mūs</string>
     <string name="yes">Jā</string>
     <string name="paramRecoil">Atsitiens</string>
     <string name="paramSensorRate">Sensora ātrums</string>
     <string name="paramDampingInfo">Palielinot to, kustības palēnināsies un vājināsies, padarot tās mazāk jutīgas pret lielākiem spēkiem.</string>
-    <string name="ok">labi</string>
+    <string name="ok">Labi</string>
     <string name="menuSendDebugFeedback">Ziņot par problēmu</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Galīgais</string>
-    <string name="dialogRestoreDefaultsMessage">Vai atjaunot iestatījumus uz noklusējuma vērtībām\?</string>
+    <string name="dialogRestoreDefaultsMessage">Vai atjaunot parametrus uz noklusējuma vērtībām\?</string>
     <string name="paramDamping">Amortizācija</string>
-    <string name="serviceInactiveText">Pakalpojums ir atspējots, noklikšķiniet šeit, lai iespējotu.</string>
+    <string name="serviceInactiveText">Pakalpojums ir atspējots, noklikšķiniet, lai iespējotu.</string>
     <string name="aboutScreenTranslationsText">Palīdziet tulkot šo lietotni un iegūstiet bezmaksas licenci! Vairāk informācijas:</string>
     <string name="cancel">Atcelt</string>
     <string name="ultimateLicenseTitle">Ultimate License</string>
     <string name="measuredSensorRate">Izmērītais sensora ātrums</string>
     <string name="menuTheme">Tēma</string>
-    <string name="measuredSensorRateInfo">Pašreizējais sensora ātrums, ko mēra lietotne. Tas var atšķirties no vēlamā sensora ātruma, jo sistēma galu galā izlemj, kādu ātrumu nodrošināt.</string>
-    <string name="aboutScreenGithubLink">Stilly vietnē GitHub</string>
-    <string name="aboutScreenLicenseTitle">Lietojumprogrammas licence</string>
+    <string name="measuredSensorRateInfo">Pašreizējais sensora ātrums, ko mēra lietotne. Tas var atšķirties no vēlamā sensora ātruma, jo sistēma galu galā izlemj, kuru ātrumu nodrošināt.</string>
+    <string name="aboutScreenGithubLink">Stabils ekrāns vietnē GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licence</string>
     <string name="aboutScreenLicenseText">Šī lietojumprogramma ir bezmaksas un darbojas bez ierobežojumiem. Tomēr pēc 1 stundas bez licences parametri atgriezīsies pie noklusējuma vērtībām.</string>
     <string name="dialogInfoButton">Dodieties uz GitHub</string>
-    <string name="generalError">Radās kāda kļūda. Lūdzu mēģiniet vēlreiz.</string>
+    <string name="generalError">Radās kāda kļūda. Lūdzu, mēģiniet vēlreiz.</string>
     <string name="paramRecoilInfo">Palielinot to, samazināsies jutība pret mazām svārstībām un kustības būs mazāk jutīgas pret lielākiem spēkiem.</string>
-    <string name="menuRestoreDefaults">Atjaunot noklusējumus</string>
+    <string name="menuRestoreDefaults">Atjaunot noklusējuma iestatījumus</string>
     <string name="dialogButtonRateOnPlayStore">Novērtējiet Play veikalā</string>
     <string name="paramSensorRateInfo">Tas iestata vēlamo sensora ātrumu. Augstākas vērtības var patērēt vairāk akumulatora. Tas var atšķirties no izmērītā sensora ātruma, jo sistēma galu galā izlemj, kādu ātrumu nodrošināt.</string>
     <string name="menuIncreaseTextSize">Palieliniet teksta izmēru</string>
@@ -112,7 +114,7 @@
 \n
 \n\"Tas ir tikai piebāzts vīrietis. Es viņam izbāzīšu acis.\"
 \n
-\nKaraļa vārna uzlidoja Putnubiedēklim, kurš to satvēra aiz galvas un izgrieza kaklu, līdz tas nomira. Un tad viņam uzlidoja cita vārna, un Putnubiedēklis arī izgrieza kaklu. Tur bija četrdesmit vārnu, un četrdesmit reizes Putnubiedēklis pagrieza kaklu, līdz beidzot visi gulēja miruši viņam blakus. Tad viņš aicināja savus biedrus celties, un tie atkal devās ceļā.
+\nKaralis Vārna lidoja pie Putnubiedēkļa, kurš to satvēra aiz galvas un izgrieza kaklu, līdz tas nomira. Un tad viņam uzlidoja cita vārna, un Putnubiedēklis arī izgrieza kaklu. Tur bija četrdesmit vārnu, un četrdesmit reizes Putnubiedēklis pagrieza kaklu, līdz beidzot visi gulēja miruši viņam blakus. Tad viņš aicināja savus biedrus celties, un tie atkal devās ceļā.
 \n
 \nKad ļaunā ragana atkal paskatījās ārā un ieraudzīja visas savas vārnas guļam kaudzē, viņa sadusmojās un trīs reizes uzpūta savai sudraba svilpei.
 \n
@@ -122,11 +124,16 @@
 \n
 \n\"Izņemiet manus salmus un izkaisiet tos pār mazo meiteni, suni un Lauvu,\" viņš teica mežsargam, \"un bites nevarēs tos iedzelt.\" To izdarīja mežsargs, un, kad Dorotija gulēja blakus Lauvai un turēja Toto rokās, salmi viņus pilnībā pārklāja.
 \n
-\nBites atnāca un neatrada nevienu citu kā mežnieku, kam dzelt, tāpēc tās uzlidoja viņam un nolauza visus dzēlienus pret skārdu, nemaz nenodarot pāri kokam. Un, tā kā bites nevar dzīvot, ja to dzēliens ir salauzts, tas bija melno bišu gals, un tās gulēja izkaisītas ap mežavīri kā mazas smalku ogļu kaudzes.
+\nBites atnāca un neatrada nevienu citu kā mežnieku, kam dzelt, tāpēc viņi uzlidoja viņam un nolauza visus dzēlienus pret skārdu, nemaz nenodarot pāri kokam. Un, tā kā bites nevar dzīvot, kad to dzēlieni ir salauzti, tas bija melno bišu gals, un tās gulēja izkaisītas ap mežavīri kā mazas smalku ogļu kaudzes.
 \n
 \nTad Doroteja un Lauva piecēlās, un meitene palīdzēja Skārda mežsargam atkal ielikt salmus Putnubiedēklī, līdz viņš kļuva tikpat labs kā jebkad. Tā viņi atkal sāka savu ceļojumu.
 \n
-\nĻaunā ragana bija tik dusmīga, ieraugot savas melnās bites mazās kaudzēs kā smalkas ogles, ka viņa spieda kāju, saplēsa matus un grieza zobus. Un tad viņa pasauca duci savu vergu, kas bija Vinkiji, un iedeva viņiem asus šķēpus, sakot, lai viņi iet pie svešiniekiem un tos iznīcina.
+\nĻaunā ragana bija tik dusmīga, kad ieraudzīja savas melnās bites mazās kaudzēs kā smalkas ogles, ka viņa spieda kāju, saplēsa matus un grieza zobus. Un tad viņa pasauca duci savu vergu, kas bija Vinkiji, un iedeva viņiem asus šķēpus, sakot, lai viņi iet pie svešiniekiem un tos iznīcina.
 \n
 \nVinkiji nebija drosmīgi cilvēki, bet viņiem bija jādara, kā viņiem lika. Tā viņi devās prom, līdz pietuvojās Dorotijai. Tad Lauva spēcīgi rēca un metās viņiem pretī, un nabaga Vinkiji bija tik nobijušies, ka skrēja atpakaļ, cik ātri vien spēja.</string>
+    <string name="menuEnable">Iespējot</string>
+    <string name="dialogServiceDisableMessage">Patērētāju lietojumprogrammas pārtrauks notikumu saņemšanu. Vai atspējot pakalpojumu\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Lietotnes</string>
+    <string name="menuDisable">Atspējot</string>
+    <string name="aboutScreenAppListText">Šajā ierīcē instalēto lietotņu pakotņu saraksts, kurās tiek izmantota funkcija Steady Screen:</string>
 </resources>
