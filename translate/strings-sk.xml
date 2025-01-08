@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Táto služba umožňuje kompatibilným aplikáciám jednoducho čeliť malým pohybom zariadenia v rámci ich používateľského rozhrania.
+    <string name="appDesc">Spríjemnite si čítanie na cestách!
 \n
-\n🏝️ Môže to zlepšiť čitateľnosť obrazovky a možno aj zmierniť kinetózu na cestách, napr. pri čítaní v idúcom vozidle.
+\n⛵ Táto služba umožňuje kompatibilným aplikáciám jednoducho čeliť malým pohybom zariadenia v rámci ich používateľského rozhrania.
 \n
-\n⚡ Aplikácia bola vytvorená veľmi starostlivo, aby sa minimalizovalo využitie zdrojov a maximalizoval výkon.
+\n🏝️ To zlepšuje čitateľnosť obrazovky ručného zariadenia pri chôdzi alebo cestovaní.
 \n
-\nDúfam, že si to užijete 😊</string>
+\n⚡ Služba bola vytvorená veľmi starostlivo, aby sa minimalizovalo využívanie zdrojov a maximalizoval výkon. Viac informácií nájdete na našom GitHub.
+\n
+\nDúfam, že sa vám to bude páčiť 😊</string>
     <string name="dialogReviewNudgeMessage">Páči sa vám táto aplikácia\?</string>
-    <string name="dialogReviewNudgeMessage2">Vďaka! Napíšte peknú recenziu alebo nám ohodnoťte 5 hviezdičkami v Obchode Play.</string>
+    <string name="dialogReviewNudgeMessage2">Ďakujem! Napíšte peknú recenziu alebo nám ohodnoťte 5 hviezdičkami v Obchode Play.</string>
     <string name="paramLinearScalingInfo">Toto lineárne škáluje pohyby, čím sa zväčšujú alebo zmenšujú bez ovplyvnenia výpočtov.</string>
     <string name="licenseItemAlreadyOwned">Položka licencie už vlastníte</string>
-    <string name="dialogInfoMessage">Zariadenie trochu potraste. Všimnite si, ako obsah na pozadí zjemňuje tieto pohyby, čím uľahčuje čítanie na obrazovke. (Aby sa tak stalo, služba musí byť povolená v nastaveniach dostupnosti.)
+    <string name="dialogInfoMessage">Zariadenie trochu potraste. Všimnite si, ako obsah na pozadí zjemňuje tieto pohyby, čím uľahčuje čítanie na obrazovke.
 \n
 \nTúto funkcionalitu je možné jednoducho implementovať do akejkoľvek aplikácie. Postupujte podľa pokynov na GitHub.</string>
     <string name="paramForceScaling">Silové škálovanie</string>
     <string name="paramLinearScaling">Lineárne škálovanie</string>
-    <string name="dialogConsentButton">súhlasiť</string>
+    <string name="dialogConsentButton">Prijať</string>
     <string name="no">Nie</string>
-    <string name="licenseSuccessDialogMessage">Aplikácia bola úspešne licencovaná. Ďakujem za tvoju podporu!</string>
+    <string name="licenseSuccessDialogMessage">Aplikácia bola úspešne licencovaná. Ďakujeme za vašu podporu!</string>
     <string name="menuAbout">O</string>
     <string name="paramForceScalingInfo">Toto škáluje sily pred výpočtami, čo následne ovplyvňuje celkovú veľkosť pohybov.</string>
     <string name="menuLicense">Aktualizujte si licenciu</string>
     <string name="openSourceLicensesTitle">Licencie s otvoreným zdrojom</string>
     <string name="menuDecreaseTextSize">Zmenšiť veľkosť textu</string>
     <string name="aboutScreenTranslationsTitle">Preklady</string>
-    <string name="menuRateAndComment">Ohodnoť nás</string>
-    <string name="yes">Áno</string>
+    <string name="menuRateAndComment">Ohodnoťte nás</string>
+    <string name="yes">áno</string>
     <string name="paramRecoil">Spätný ráz</string>
     <string name="paramSensorRate">Rýchlosť snímača</string>
     <string name="paramDampingInfo">Zvýšenie tejto hodnoty spomalí a utlmí pohyby, vďaka čomu budú menej citlivé na väčšie sily.</string>
@@ -34,24 +36,24 @@
     <string name="menuSendDebugFeedback">Nahláste problém</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ultimate</string>
-    <string name="dialogRestoreDefaultsMessage">Obnoviť nastavenia na predvolené hodnoty\?</string>
+    <string name="dialogRestoreDefaultsMessage">Obnoviť parametre na predvolené hodnoty\?</string>
     <string name="paramDamping">Tlmenie</string>
-    <string name="serviceInactiveText">Služba je zakázaná, kliknutím sem ju povolíte.</string>
+    <string name="serviceInactiveText">Služba je zakázaná, kliknutím ju povolíte.</string>
     <string name="aboutScreenTranslationsText">Pomôžte preložiť túto aplikáciu a získajte bezplatnú licenciu! Viac informácií:</string>
     <string name="cancel">Zrušiť</string>
     <string name="ultimateLicenseTitle">Konečná licencia</string>
     <string name="measuredSensorRate">Nameraná rýchlosť snímača</string>
     <string name="menuTheme">Téma</string>
     <string name="measuredSensorRateInfo">Aktuálna frekvencia senzora meraná aplikáciou. Tá sa môže líšiť od požadovanej rýchlosti snímača, pretože systém nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
-    <string name="aboutScreenGithubLink">Stilly na GitHub</string>
-    <string name="aboutScreenLicenseTitle">Licencia aplikácie</string>
+    <string name="aboutScreenGithubLink">Neprerušovaná obrazovka na GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licencia</string>
     <string name="aboutScreenLicenseText">Táto aplikácia je bezplatná a funguje bez obmedzení. Po 1 hodine bez licencie sa však parametre vrátia na predvolené hodnoty.</string>
     <string name="dialogInfoButton">Prejdite na GitHub</string>
-    <string name="generalError">Vyskytla sa nejaká chyba. Prosím skúste znova.</string>
+    <string name="generalError">Vyskytla sa nejaká chyba. Skúste to znova.</string>
     <string name="paramRecoilInfo">Zvýšením sa zníži citlivosť na malé oscilácie a pohyby budú menej citlivé na väčšie sily.</string>
     <string name="menuRestoreDefaults">Obnoviť predvolené nastavenia</string>
     <string name="dialogButtonRateOnPlayStore">Ohodnoťte v Obchode Play</string>
-    <string name="paramSensorRateInfo">Tým sa nastaví požadovaná frekvencia snímača. Vyššie hodnoty môžu spotrebovať viac batérie. Tá sa môže líšiť od nameranej rýchlosti snímača, pretože systém nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
+    <string name="paramSensorRateInfo">Tým sa nastaví požadovaná frekvencia snímača. Vyššie hodnoty môžu spotrebovať viac batérie. Tá sa môže líšiť od nameranej rýchlosti snímača, pretože systém sa nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
     <string name="menuIncreaseTextSize">Zväčšiť veľkosť textu</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Tento text slúži na demonštračné účely)
@@ -92,7 +94,7 @@
 \n
 \n\"Toto je môj boj,\" povedal Woodman, \"tak choď za mňa a stretnem sa s nimi, keď prídu.\"
 \n
-\nChytil svoju sekeru, ktorú urobil veľmi ostrou, a keď vodca vlkov nastúpil, Plechový drevorubač švihol rukou a odťal vlkovi hlavu z tela, takže okamžite zomrel. Hneď ako mohol zdvihnúť sekeru, prišiel ďalší vlk a tiež padol pod ostrú hranu zbrane Tin Woodman. Bolo tam štyridsať vlkov a štyridsaťkrát bol zabitý vlk, takže napokon všetci ležali mŕtvi na hromade pred Drevom.
+\nUchopil svoju sekeru, ktorú urobil veľmi ostrou, a keď vodca vlkov nastúpil, Plechový lesák švihol rukou a odťal vlkovi hlavu z tela, takže okamžite zomrel. Hneď ako mohol zdvihnúť sekeru, prišiel ďalší vlk a tiež padol pod ostrú hranu zbrane Tin Woodman. Bolo tam štyridsať vlkov a štyridsaťkrát bol zabitý vlk, takže napokon všetci ležali mŕtvi na hromade pred Drevom.
 \n
 \nPotom odložil sekeru a sadol si vedľa Strašiaka, ktorý povedal: \"Bol to dobrý boj, priateľu.\"
 \n
