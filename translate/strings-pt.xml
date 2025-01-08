@@ -1,134 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Este serviço permite que aplicativos compatíveis neutralizem facilmente pequenos movimentos de dispositivos em sua interface de usuário.
+    <string name="appDesc">Torne a leitura em movimento mais agradável!
 \n
-\n🏝️ Isso pode melhorar a legibilidade da tela e possivelmente aliviar o enjôo em movimento, por exemplo. enquanto lê em um veículo em movimento.
+\n⛵ Este serviço permite que aplicativos compatíveis neutralizem facilmente pequenos movimentos do dispositivo dentro de sua interface de usuário.
 \n
-\n⚡ O aplicativo foi elaborado meticulosamente, a fim de minimizar o uso de recursos e maximizar o desempenho.
+\n🏝️ Isso melhora a legibilidade da tela de um dispositivo portátil ao caminhar ou viajar.
 \n
-\nEspero que gostem 😊</string>
+\n⚡ O serviço foi criado meticulosamente para minimizar o uso de recursos e maximizar o desempenho. Mais informações podem ser encontradas em nosso GitHub.
+\n
+\nEspero que você goste de usar isso 😊</string>
     <string name="dialogReviewNudgeMessage">Você está gostando deste aplicativo\?</string>
-    <string name="dialogReviewNudgeMessage2">Obrigado! Escreva uma boa crítica ou avalie-nos com 5 estrelas na Play Store.</string>
+    <string name="dialogReviewNudgeMessage2">Obrigado! Por favor, escreva uma boa avaliação ou nos avalie com 5 estrelas na Play Store.</string>
     <string name="paramLinearScalingInfo">Isso dimensiona os movimentos linearmente, tornando-os maiores ou menores sem afetar os cálculos.</string>
     <string name="licenseItemAlreadyOwned">Item de licença já possuído</string>
-    <string name="dialogInfoMessage">Agite um pouco o dispositivo. Observe como o conteúdo de fundo suaviza esses movimentos, facilitando a leitura na tela. (O serviço Stilly deve estar habilitado nas configurações de acessibilidade para que isso aconteça.)
+    <string name="dialogInfoMessage">Agite um pouco o dispositivo. Observe como o conteúdo de fundo suaviza esses movimentos, facilitando a leitura na tela.
 \n
-\nEsta funcionalidade pode ser facilmente implementada em qualquer aplicação. Siga as instruções no GitHub.</string>
-    <string name="paramForceScaling">Forçar dimensionamento</string>
+\nEssa funcionalidade pode ser facilmente implementada em qualquer aplicativo. Siga as instruções no GitHub.</string>
+    <string name="paramForceScaling">Escala de força</string>
     <string name="paramLinearScaling">Escala linear</string>
     <string name="dialogConsentButton">Aceitar</string>
     <string name="no">Não</string>
     <string name="licenseSuccessDialogMessage">O aplicativo foi licenciado com sucesso. Obrigado pelo seu apoio!</string>
     <string name="menuAbout">Sobre</string>
-    <string name="paramForceScalingInfo">Isto dimensiona as forças antes dos cálculos, o que por sua vez afeta a magnitude geral dos movimentos.</string>
+    <string name="paramForceScalingInfo">Isso dimensiona as forças antes dos cálculos, o que por sua vez afeta a magnitude geral dos movimentos.</string>
     <string name="menuLicense">Atualize sua licença</string>
     <string name="openSourceLicensesTitle">Licenças de código aberto</string>
-    <string name="menuDecreaseTextSize">Diminuir o tamanho do texto</string>
+    <string name="menuDecreaseTextSize">Diminuir tamanho do texto</string>
     <string name="aboutScreenTranslationsTitle">Traduções</string>
-    <string name="menuRateAndComment">Nos avalie</string>
+    <string name="menuRateAndComment">Avalie-nos</string>
     <string name="yes">Sim</string>
     <string name="paramRecoil">Recuo</string>
     <string name="paramSensorRate">Taxa do sensor</string>
-    <string name="paramDampingInfo">Aumentar isso irá desacelerar e atenuar os movimentos, tornando-os menos sensíveis a forças maiores.</string>
+    <string name="paramDampingInfo">Aumentar isso tornará os movimentos mais lentos e atenuados, tornando-os menos sensíveis a forças maiores.</string>
     <string name="ok">OK</string>
-    <string name="menuSendDebugFeedback">Informar um problema</string>
+    <string name="menuSendDebugFeedback">Reportar um problema</string>
     <string name="ratePerSecond">%1$sHz</string>
     <string name="ultimateLicenseLabel">Final</string>
-    <string name="dialogRestoreDefaultsMessage">Restaurar as configurações para os valores padrão\?</string>
+    <string name="dialogRestoreDefaultsMessage">Restaurar parâmetros para valores padrão\?</string>
     <string name="paramDamping">Amortecimento</string>
-    <string name="serviceInactiveText">O serviço está desativado, clique aqui para ativar.</string>
+    <string name="serviceInactiveText">O serviço está desabilitado, clique para habilitar.</string>
     <string name="aboutScreenTranslationsText">Ajude a traduzir este aplicativo e obtenha uma licença gratuita! Mais informações:</string>
     <string name="cancel">Cancelar</string>
-    <string name="ultimateLicenseTitle">Licença Final</string>
-    <string name="measuredSensorRate">Taxa medida do sensor</string>
+    <string name="ultimateLicenseTitle">Licença Ultimate</string>
+    <string name="measuredSensorRate">Taxa de sensor medida</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Taxa atual do sensor medida pelo aplicativo. Isto pode diferir da taxa de sensor desejada, pois o sistema decide qual taxa fornecer.</string>
-    <string name="aboutScreenGithubLink">Ainda no GitHub</string>
-    <string name="aboutScreenLicenseTitle">Licença do aplicativo</string>
-    <string name="aboutScreenLicenseText">Este aplicativo é gratuito e funciona sem limitações. No entanto, os parâmetros retornarão aos seus valores padrão após 1 hora sem licença.</string>
-    <string name="dialogInfoButton">Vá para GitHub</string>
+    <string name="measuredSensorRateInfo">Taxa atual do sensor medida pelo aplicativo. Isso pode diferir da taxa desejada do sensor, pois o sistema decide qual taxa fornecer.</string>
+    <string name="aboutScreenGithubLink">Tela estável no GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licença</string>
+    <string name="aboutScreenLicenseText">Este aplicativo é gratuito e funciona sem limitações. No entanto, os parâmetros retornarão aos seus valores padrão após 1 hora sem uma licença.</string>
+    <string name="dialogInfoButton">Ir para GitHub</string>
     <string name="generalError">Ocorreu algum erro. Por favor, tente novamente.</string>
     <string name="paramRecoilInfo">Aumentar isso reduzirá a sensibilidade a pequenas oscilações e tornará os movimentos menos sensíveis a forças maiores.</string>
     <string name="menuRestoreDefaults">Restaurar padrões</string>
     <string name="dialogButtonRateOnPlayStore">Avalie na Play Store</string>
-    <string name="paramSensorRateInfo">Isso define a taxa de sensor desejada. Valores mais altos podem consumir mais bateria. Isto pode diferir da taxa medida do sensor, pois o sistema decide qual taxa fornecer.</string>
+    <string name="paramSensorRateInfo">Isso define a taxa de sensor desejada. Valores mais altos podem consumir mais bateria. Isso pode diferir da taxa de sensor medida, pois o sistema decide qual taxa fornecer.</string>
     <string name="menuIncreaseTextSize">Aumentar o tamanho do texto</string>
     <string name="menuInfo">Informações</string>
     <string name="loremIpsum">(Este texto é para fins de demonstração)
 \n
-\nO soldado de bigodes verdes os conduziu pelas ruas da Cidade Esmeralda até chegarem ao quarto onde morava o Guardião dos Portões. Este oficial destrancou os óculos para colocá-los de volta em sua grande caixa e então abriu educadamente o portão para nossos amigos.
+\nO soldado com os bigodes verdes os guiou pelas ruas da Cidade Esmeralda até que chegaram ao quarto onde o Guardião dos Portões vivia. Este oficial destrancou seus óculos para colocá-los de volta em sua grande caixa, e então ele educadamente abriu o portão para nossos amigos.
 \n
-\n\"Qual caminho leva à Bruxa Má do Oeste\?\" perguntou Dorothy.
+\n\"Qual estrada leva à Bruxa Má do Oeste\?\" perguntou Dorothy.
 \n
-\n“Não há estrada”, respondeu o Guardião dos Portões. \"Ninguém deseja seguir esse caminho.\"
+\n\"Não há estrada\", respondeu o Guardião dos Portões. \"Ninguém nunca deseja ir por esse caminho.\"
 \n
 \n\"Como, então, vamos encontrá-la\?\" perguntou a garota.
 \n
-\n\"Isso será fácil\", respondeu o homem, \"pois quando ela souber que você está no país dos Winkies, ela o encontrará e fará de vocês todos seus escravos.\"
+\n\"Isso será fácil\", respondeu o homem, \"pois quando ela souber que você está no país dos Winkies, ela o encontrará e fará de todos vocês seus escravos.\"
 \n
 \n\"Talvez não\", disse o Espantalho, \"pois pretendemos destruí-la.\"
 \n
-\n“Oh, isso é diferente”, disse o Guardião dos Portões. “Ninguém jamais a destruiu antes, então naturalmente pensei que ela faria de vocês escravos, como fez com os demais. Oeste, onde o sol se põe, e você não pode deixar de encontrá-la.\"
+\n\"Oh, isso é diferente\", disse o Guardião dos Portões. \"Ninguém nunca a destruiu antes, então eu naturalmente pensei que ela faria escravos de vocês, como fez com os outros. Mas tomem cuidado; pois ela é perversa e feroz, e pode não permitir que vocês a destruam. Fiquem no Oeste, onde o sol se põe, e vocês não podem deixar de encontrá-la.\"
 \n
-\nAgradeceram-lhe e despediram-se dele, e viraram-se para oeste, caminhando por campos de relva macia pontilhados aqui e ali de margaridas e botões de ouro. Dorothy ainda usava o lindo vestido de seda que usara no palácio, mas agora, para sua surpresa, descobriu que não era mais verde, mas branco puro. A fita no pescoço de Totó também havia perdido a cor verde e estava tão branca quanto o vestido de Dorothy.
+\nEles agradeceram e se despediram, e se viraram para o Oeste, caminhando por campos de grama macia pontilhados aqui e ali com margaridas e botões de ouro. Dorothy ainda usava o lindo vestido de seda que ela tinha colocado no palácio, mas agora, para sua surpresa, ela descobriu que ele não era mais verde, mas branco puro. A fita em volta do pescoço de Totó também havia perdido sua cor verde e estava tão branca quanto o vestido de Dorothy.
 \n
-\nA Cidade Esmeralda logo foi deixada para trás. À medida que avançavam, o terreno tornou-se mais acidentado e montanhoso, pois não havia quintas nem casas neste país do Ocidente e o terreno não era cultivado.
+\nA Cidade das Esmeraldas logo foi deixada para trás. À medida que avançavam, o solo se tornava mais áspero e montanhoso, pois não havia fazendas nem casas neste país do Oeste, e o solo não era cultivado.
 \n
-\nÀ tarde o sol brilhava forte em seus rostos, pois não havia árvores que lhes oferecessem sombra; de modo que antes do anoitecer Dorothy, Totó e o Leão estavam cansados, deitaram-se na grama e adormeceram, com o Lenhador e o Espantalho vigiando.
+\nÀ tarde, o sol brilhava forte em seus rostos, pois não havia árvores para lhes oferecer sombra; de modo que antes da noite Dorothy, Toto e o Leão estavam cansados, deitaram-se na grama e adormeceram, com o Lenhador e o Espantalho vigiando.
 \n
-\nAgora, a Bruxa Má do Oeste tinha apenas um olho, mas era tão poderoso quanto um telescópio e podia ver em todos os lugares. Então, enquanto estava sentada na porta de seu castelo, ela olhou em volta e viu Dorothy dormindo, com seus amigos ao seu redor. Eles estavam muito longe, mas a Bruxa Má ficou furiosa ao encontrá-los em seu país; então ela soprou um apito prateado que estava pendurado em seu pescoço.
+\nAgora, a Bruxa Má do Oeste tinha apenas um olho, mas era tão poderoso quanto um telescópio, e podia ver em todos os lugares. Então, enquanto estava sentada na porta de seu castelo, ela olhou ao redor e viu Dorothy dormindo, com seus amigos ao seu redor. Eles estavam a uma longa distância, mas a Bruxa Má ficou furiosa ao encontrá-los em seu país; então ela soprou em um apito de prata que pendia em seu pescoço.
 \n
-\nImediatamente veio correndo até ela, vindo de todas as direções, uma matilha de grandes lobos. Eles tinham pernas longas, olhos ferozes e dentes afiados.
+\nDe imediato, veio correndo até ela de todas as direções uma matilha de grandes lobos. Eles tinham pernas longas, olhos ferozes e dentes afiados.
 \n
-\n\"Vá até essas pessoas\", disse a Bruxa, \"e faça-as em pedaços.\"
+\n\"Vá até essas pessoas\", disse a Bruxa, \"e destrua-as.\"
 \n
-\n\"Você não vai torná-los seus escravos\?\" perguntou o líder dos lobos.
+\n\"Você não vai torná-las suas escravas\?\" perguntou o líder dos lobos.
 \n
-\n\"Não\", ela respondeu, \"um é de estanho e outro de palha; um é uma menina e outro um Leão. Nenhum deles está apto para trabalhar, então você pode rasgá-los em pequenos pedaços.\"
+\n\"Não\", ela respondeu, \"um é de lata e um de palha; um é uma menina e outro um Leão. Nenhum deles é apto para trabalhar, então você pode rasgá-los em pedaços pequenos.\"
 \n
-\n\"Muito bem\", disse o lobo, e saiu correndo a toda velocidade, seguido pelos outros.
+\n\"Muito bem\", disse o lobo, e ele saiu correndo a toda velocidade, seguido pelos outros.
 \n
 \nFoi uma sorte que o Espantalho e o Lenhador estivessem bem acordados e ouvissem os lobos chegando.
 \n
-\n\"Esta é a minha luta\", disse o Lenhador, \"então fique atrás de mim e eu os encontrarei quando eles vierem.\"
+\n\"Esta é a minha luta\", disse o Lenhador, \"então fique atrás de mim e eu os enfrentarei quando eles vierem.\"
 \n
-\nEle agarrou seu machado, que havia feito muito afiado, e quando o líder dos lobos se aproximou, o Lenhador de Lata balançou o braço e cortou a cabeça do lobo de seu corpo, de modo que ele morreu imediatamente. Assim que ele conseguiu levantar o machado, outro lobo apareceu, e ele também caiu sob o fio afiado da arma do Lenhador de Lata. Havia quarenta lobos, e quarenta vezes um lobo foi morto, de modo que finalmente todos caíram mortos diante do Lenhador.
+\nEle pegou seu machado, que ele havia tornado muito afiado, e quando o líder dos lobos se aproximou, o Lenhador de Lata balançou o braço e cortou a cabeça do lobo de seu corpo, de modo que ele morreu imediatamente. Assim que ele conseguiu levantar seu machado, outro lobo apareceu, e ele também caiu sob a lâmina afiada da arma do Lenhador de Lata. Havia quarenta lobos, e quarenta vezes um lobo foi morto, de modo que no final todos eles estavam mortos em uma pilha diante do Lenhador.
 \n
-\nEntão ele largou o machado e sentou-se ao lado do Espantalho, que disse: “Foi uma boa luta, amigo”.
+\nEntão ele largou o machado e sentou-se ao lado do Espantalho, que disse: \"Foi uma boa luta, amigo.\"
 \n
-\nEsperaram até que Dorothy acordasse na manhã seguinte. A menina ficou bastante assustada ao ver a grande pilha de lobos peludos, mas o Lenhador de Lata contou-lhe tudo. Ela agradeceu por salvá-los e sentou-se para tomar o café da manhã, após o qual eles recomeçaram a jornada.
+\nEles esperaram até Dorothy acordar na manhã seguinte. A garotinha ficou bem assustada quando viu a grande pilha de lobos peludos, mas o Lenhador de Lata contou tudo a ela. Ela agradeceu por salvá-los e sentou-se para tomar café da manhã, depois do qual eles recomeçaram sua jornada.
 \n
-\nAgora, nesta mesma manhã, a Bruxa Má chegou à porta de seu castelo e olhou para fora com seu único olho que podia ver ao longe. Ela viu todos os seus lobos mortos e os estranhos ainda viajando por seu país. Isso a deixou mais irritada do que antes, e ela soprou o apito prateado duas vezes.
+\nAgora, nesta mesma manhã, a Bruxa Má chegou à porta de seu castelo e olhou com seu único olho que podia ver longe. Ela viu todos os seus lobos mortos e os estrangeiros ainda viajando por seu país. Isso a deixou mais furiosa do que antes, e ela soprou seu apito prateado duas vezes.
 \n
-\nImediatamente um grande bando de corvos selvagens veio voando em sua direção, o suficiente para escurecer o céu.
+\nImediatamente, um grande bando de corvos selvagens veio voando em sua direção, o suficiente para escurecer o céu.
 \n
-\nE a Bruxa Má disse ao Rei Corvo: \"Voe imediatamente para os estranhos; arranque-lhes os olhos e rasgue-os em pedaços.\"
+\nE a Bruxa Má disse ao Rei Corvo: \"Voe imediatamente para os estrangeiros; bique seus olhos e os despedace.\"
 \n
-\nOs corvos selvagens voaram num grande bando em direção a Dorothy e seus companheiros. Quando a menina os viu chegando, ficou com medo.
+\nOs corvos selvagens voaram em um grande bando em direção a Dorothy e seus companheiros. Quando a menina os viu chegando, ela ficou com medo.
 \n
-\nMas o Espantalho disse: “Esta é a minha batalha, então deite-se ao meu lado e você não será ferido”.
+\nMas o Espantalho disse: \"Esta é a minha batalha, então deite-se ao meu lado e você não será ferido.\"
 \n
-\nEntão todos se deitaram no chão, exceto o Espantalho, e ele se levantou e estendeu os braços. E quando os corvos o viram, ficaram assustados, como esses pássaros sempre ficam perto dos espantalhos, e não ousaram se aproximar. Mas o Rei Corvo disse:
+\nEntão todos se deitaram no chão, exceto o Espantalho, e ele se levantou e esticou os braços. E quando os corvos o viram, ficaram assustados, como esses pássaros sempre ficam com espantalhos, e não ousaram se aproximar. Mas o Rei Corvo disse:
 \n
-\n\"É apenas um homem de pelúcia. Vou arrancar os olhos dele.\"
+\n\"É apenas um homem empalhado. Vou arrancar os olhos dele com um bico.\"
 \n
-\nO Rei Corvo voou até o Espantalho, que o pegou pela cabeça e torceu seu pescoço até morrer. E então outro corvo voou para ele, e o Espantalho torceu o pescoço também. Eram quarenta corvos, e quarenta vezes o Espantalho torceu o pescoço, até que finalmente todos estavam mortos ao lado dele. Então ele chamou seus companheiros para se levantarem, e novamente eles prosseguiram sua jornada.
+\nO Rei Corvo voou até o Espantalho, que o pegou pela cabeça e torceu seu pescoço até que ele morresse. E então outro corvo voou até ele, e o Espantalho torceu seu pescoço também. Havia quarenta corvos, e quarenta vezes o Espantalho torceu um pescoço, até que finalmente todos estavam mortos ao lado dele. Então ele chamou seus companheiros para se levantarem, e novamente eles seguiram sua jornada.
 \n
-\nQuando a Bruxa Má olhou novamente e viu todos os seus corvos amontoados, ela ficou furiosa e soprou três vezes seu apito prateado.
+\nQuando a Bruxa Má olhou para fora novamente e viu todos os seus corvos amontoados, ela ficou furiosa e soprou três vezes seu apito prateado.
 \n
 \nImediatamente ouviu-se um grande zumbido no ar, e um enxame de abelhas pretas veio voando em sua direção.
 \n
-\n\"Vá até os estranhos e pique-os até a morte!\" comandou a Bruxa, e as abelhas se viraram e voaram rapidamente até chegarem onde Dorothy e suas amigas estavam caminhando. Mas o Lenhador os viu chegando e o Espantalho decidiu o que fazer.
+\n\"Vá até os estranhos e pique-os até a morte!\" ordenou a Bruxa, e as abelhas se viraram e voaram rapidamente até chegarem onde Dorothy e seus amigos estavam caminhando. Mas o Lenhador os viu chegando, e o Espantalho decidiu o que fazer.
 \n
-\n\"Tire meu canudo e espalhe-o sobre a menina, o cachorro e o Leão\", disse ele ao Lenhador, \"e as abelhas não poderão picá-los.\" Foi o que o Lenhador fez e, enquanto Dorothy se deitava ao lado do Leão e segurava Totó nos braços, a palha os cobriu inteiramente.
+\n\"Pegue minha palha e espalhe sobre a menina, o cachorro e o Leão\", ele disse ao Lenhador, \"e as abelhas não poderão picá-los\". Isso o Lenhador fez, e enquanto Dorothy estava deitada perto do Leão e segurava Totó em seus braços, a palha os cobriu completamente.
 \n
-\nAs abelhas vieram e não encontraram ninguém além do Lenhador para picar, então voaram até ele e quebraram todos os seus ferrões contra a lata, sem machucar o Lenhador. E como as abelhas não podem viver quando seus ferrões são quebrados, esse foi o fim das abelhas pretas, e elas ficaram espalhadas pelo Lenhador, como pequenos montes de carvão fino.
+\nAs abelhas vieram e não encontraram ninguém além do Lenhador para picar, então elas voaram até ele e quebraram todos os seus ferrões contra a lata, sem machucar o Lenhador. E como as abelhas não podem viver quando seus ferrões são quebrados, esse foi o fim das abelhas pretas, e elas ficaram espalhadas ao redor do Lenhador, como pequenos montes de carvão fino.
 \n
-\nEntão Dorothy e o Leão se levantaram, e a garota ajudou o Lenhador de Lata a colocar o canudo de volta no Espantalho, até que ele estivesse tão bom como sempre. Então eles começaram sua jornada mais uma vez.
+\nEntão Dorothy e o Leão se levantaram, e a menina ajudou o Lenhador de Lata a colocar a palha de volta no Espantalho, até que ele estivesse tão bom quanto sempre. Então eles começaram sua jornada mais uma vez.
 \n
-\nA Bruxa Má ficou tão zangada quando viu suas abelhas pretas em pequenos montes como carvão fino que bateu o pé, arrancou o cabelo e rangeu os dentes. E então ela chamou uma dúzia de seus escravos, que eram os Winkies, e deu-lhes lanças afiadas, dizendo-lhes para irem até os estranhos e destruí-los.
+\nA Bruxa Má ficou tão brava quando viu suas abelhas pretas em pequenos montes como carvão fino que ela bateu o pé, arrancou o cabelo e rangeu os dentes. E então ela chamou uma dúzia de seus escravos, que eram os Winkies, e deu a eles lanças afiadas, dizendo-lhes para irem até os estranhos e destruí-los.
 \n
-\nOs Winkies não eram um povo corajoso, mas tinham que fazer o que lhes mandavam. Então eles marcharam até chegarem perto de Dorothy. Então o Leão deu um grande rugido e saltou na direção deles, e os pobres Winkies ficaram tão assustados que correram de volta o mais rápido que puderam.</string>
+\nOs Winkies não eram um povo corajoso, mas eles tinham que fazer o que lhes foi dito. Então eles marcharam para longe até chegarem perto de Dorothy. Então o Leão deu um grande rugido e saltou em direção a eles, e os pobres Winkies ficaram tão assustados que correram de volta o mais rápido que puderam.</string>
     <string name="menuEnable">Habilitar</string>
     <string name="dialogServiceDisableMessage">Os aplicativos do consumidor deixarão de receber eventos. Desabilitar serviço\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplicativos</string>
