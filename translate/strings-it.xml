@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Questo servizio consente alle applicazioni compatibili di contrastare facilmente i piccoli movimenti del dispositivo all\'interno della loro interfaccia utente.
+    <string name="appDesc">Rendi più piacevole la lettura in movimento!
 \n
-\n🏝️ Ciò può migliorare la leggibilità dello schermo e possibilmente alleviare la chinetosi mentre sei in movimento, ad es. durante la lettura in un veicolo in movimento.
+\n⛵ Questo servizio consente alle applicazioni compatibili di contrastare facilmente i piccoli movimenti del dispositivo all\'interno della loro interfaccia utente.
 \n
-\n⚡ L\'applicazione è stata realizzata in modo molto meticoloso, al fine di ridurre al minimo l\'utilizzo delle risorse e massimizzare le prestazioni.
+\n🏝️ Ciò migliora la leggibilità dello schermo di un dispositivo portatile mentre si cammina o si viaggia.
 \n
-\nSpero che vi piaccia 😊</string>
+\n⚡ Il servizio è stato realizzato in modo molto meticoloso, al fine di ridurre al minimo l\'utilizzo delle risorse e massimizzare le prestazioni. Ulteriori informazioni sono disponibili sul nostro GitHub.
+\n
+\nSpero che ti piaccia usarlo 😊</string>
     <string name="dialogReviewNudgeMessage">Ti piace questa app\?</string>
     <string name="dialogReviewNudgeMessage2">Grazie! Scrivi una bella recensione o valutaci con 5 stelle sul Play Store.</string>
     <string name="paramLinearScalingInfo">Ciò ridimensiona i movimenti in modo lineare, rendendoli più grandi o più piccoli senza influenzare i calcoli.</string>
     <string name="licenseItemAlreadyOwned">Articolo in licenza già posseduto</string>
-    <string name="dialogInfoMessage">Scuoti leggermente il dispositivo. Nota come il contenuto dello sfondo ammorbidisce questi movimenti, facilitando la lettura sullo schermo (affinché questo accada, il servizio Stilly deve essere abilitato nelle impostazioni di Accessibilità).
+    <string name="dialogInfoMessage">Agita un po\' il dispositivo. Nota come il contenuto di sfondo ammorbidisca questi movimenti, rendendo più facile la lettura sullo schermo.
 \n
-\nQuesta funzionalità può essere facilmente implementata in qualsiasi applicazione. Seguire le istruzioni su GitHub.</string>
+\nQuesta funzionalità può essere facilmente implementata in qualsiasi applicazione. Segui le istruzioni su GitHub.</string>
     <string name="paramForceScaling">Ridimensionamento della forza</string>
     <string name="paramLinearScaling">Ridimensionamento lineare</string>
     <string name="dialogConsentButton">Accetta</string>
@@ -34,99 +36,104 @@
     <string name="menuSendDebugFeedback">Segnala un problema</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Definitivo</string>
-    <string name="dialogRestoreDefaultsMessage">Ripristinare le impostazioni ai valori predefiniti\?</string>
+    <string name="dialogRestoreDefaultsMessage">Ripristinare i parametri ai valori predefiniti\?</string>
     <string name="paramDamping">Smorzamento</string>
-    <string name="serviceInactiveText">Il servizio è disabilitato, fai clic qui per abilitarlo.</string>
+    <string name="serviceInactiveText">Il servizio è disabilitato, clicca per abilitarlo.</string>
     <string name="aboutScreenTranslationsText">Aiutaci a tradurre questa app e ottieni una licenza gratuita! Ulteriori informazioni:</string>
     <string name="cancel">Annulla</string>
     <string name="ultimateLicenseTitle">Licenza definitiva</string>
     <string name="measuredSensorRate">Frequenza del sensore misurata</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Frequenza attuale del sensore misurata dall\'app. Questa potrebbe differire dalla velocità del sensore desiderata poiché è il sistema a decidere in ultima analisi quale velocità fornire.</string>
-    <string name="aboutScreenGithubLink">Stilly su GitHub</string>
-    <string name="aboutScreenLicenseTitle">Licenza dell\'app</string>
+    <string name="measuredSensorRateInfo">Frequenza attuale del sensore misurata dall\'app. Questa potrebbe differire dalla frequenza desiderata del sensore, in quanto il sistema decide in ultima analisi quale frequenza fornire.</string>
+    <string name="aboutScreenGithubLink">Schermo fisso su GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licenza</string>
     <string name="aboutScreenLicenseText">Questa applicazione è gratuita e funziona senza limitazioni. Tuttavia, i parametri torneranno ai valori predefiniti dopo 1 ora senza licenza.</string>
     <string name="dialogInfoButton">Vai su GitHub</string>
     <string name="generalError">Si è verificato un errore. Riprova.</string>
     <string name="paramRecoilInfo">Aumentando questo fattore si ridurrà la sensibilità alle piccole oscillazioni e si renderanno i movimenti meno sensibili alle forze maggiori.</string>
     <string name="menuRestoreDefaults">Ripristina i valori predefiniti</string>
     <string name="dialogButtonRateOnPlayStore">Valuta sul Play Store</string>
-    <string name="paramSensorRateInfo">Imposta la frequenza del sensore desiderata. Valori più alti potrebbero consumare più batteria. Questa può differire dalla velocità misurata dal sensore poiché è il sistema a decidere in ultima analisi quale velocità fornire.</string>
+    <string name="paramSensorRateInfo">Imposta la frequenza del sensore desiderata. Valori più alti potrebbero consumare più batteria. Questa potrebbe differire dalla frequenza del sensore misurata, poiché il sistema alla fine decide quale frequenza fornire.</string>
     <string name="menuIncreaseTextSize">Aumenta la dimensione del testo</string>
     <string name="menuInfo">Informazioni</string>
     <string name="loremIpsum">(Questo testo è a scopo dimostrativo)
 \n
-\nIl soldato dai basettoni verdi li condusse per le strade della Città di Smeraldo fino a raggiungere la stanza dove viveva il Guardiano delle Porte. Questo ufficiale aprì loro gli occhiali per rimetterli nella sua grande scatola, e poi aprì educatamente il cancello ai nostri amici.
+\nIl soldato con i baffi verdi li condusse attraverso le strade della Città di Smeraldo finché non giunsero alla stanza in cui viveva il Guardiano delle Porte. Questo ufficiale aprì i loro occhiali per riporli nella sua grande scatola, e poi aprì educatamente il cancello per i nostri amici.
 \n
-\n\"Quale strada porta alla Malvagia Strega dell\'Ovest\?\" chiese Dorothy.
+\n\"Quale strada porta alla Strega Cattiva dell\'Ovest\?\" chiese Dorothy.
 \n
-\n\"Non c\'è strada\", rispose il Guardiano delle Porte. \"Nessuno desidera mai andare in quella direzione.\"
+\n\"Non c\'è una strada\", rispose il Guardiano delle Porte. \"Nessuno desidera mai andare da quella parte\".
 \n
-\n\"Come faremo allora a trovarla\?\" chiese la ragazza.
+\n\"Come possiamo trovarla, allora\?\" chiese la ragazza.
 \n
-\n\"Sarà facile\", rispose l\'uomo, \"perché quando saprà che sei nel paese dei Winkie, ti troverà e ti renderà tutti suoi schiavi.\"
+\n\"Sarà facile\", rispose l\'uomo, \"perché quando saprà che sei nel paese dei Winkies, ti troverà e ti renderà tutti suoi schiavi\".
 \n
-\n\"Forse no,\" disse lo Spaventapasseri, \"perché intendiamo distruggerla.\"
+\n\"Forse no\", disse lo Spaventapasseri, \"perché intendiamo distruggerla\".
 \n
-\n\"Oh, questo è diverso\", disse il Guardiano delle Porte. \"Nessuno l\'ha mai distrutta prima, quindi ho pensato naturalmente che ti avrebbe reso schiavo, come ha fatto con gli altri. Ma fai attenzione, perché è malvagia e feroce, e potrebbe non permetterti di distruggerla. Rimani fedele a A ovest, dove il sole tramonta e non puoi non trovarla.\"
+\n\"Oh, questo è diverso\", disse il Guardiano delle Porte. \"Nessuno l\'ha mai distrutta prima, quindi ho pensato naturalmente che avrebbe reso schiavi voi, come ha fatto con gli altri. Ma fate attenzione, perché è malvagia e feroce e non può permettersi di distruggerla. Tenetevi a ovest, dove tramonta il sole, e non potrete non trovarla.\"
 \n
-\nLo ringraziarono e lo salutarono, e si voltarono verso Ovest, camminando su campi di erba soffice punteggiati qua e là di margherite e ranuncoli. Dorothy indossava ancora il grazioso vestito di seta che aveva indossato a palazzo, ma ora, con sua sorpresa, scoprì che non era più verde, ma bianco puro. Anche il nastro attorno al collo di Totò aveva perso il suo colore verde ed era bianco come il vestito di Dorothy.
+\nLo ringraziarono e lo salutarono, e si diressero verso ovest, camminando su campi di erba soffice punteggiati qua e là da margherite e ranuncoli. Dorothy indossava ancora il grazioso vestito di seta che aveva indossato a palazzo, ma ora, con sua sorpresa, scoprì che non era più verde, ma bianco puro. Anche il nastro attorno al collo di Toto aveva perso il suo colore verde ed era bianco come il vestito di Dorothy.
 \n
-\nLa Città di Smeraldo fu presto lasciata molto indietro. Man mano che avanzavano, il terreno diventava più accidentato e collinoso, poiché non c\'erano né fattorie né case in questo paese dell\'Ovest, e il terreno era coltivato.
+\nLa Città di Smeraldo fu presto lasciata molto indietro. Mentre avanzavano il terreno divenne più accidentato e collinoso, perché non c\'erano fattorie né case in questo paese dell\'ovest, e il terreno era incolto.
 \n
-\nNel pomeriggio il sole splendeva caldo sui loro volti, perché non c\'erano alberi che offrissero loro ombra; così prima di notte Dorothy, Toto e il Leone erano stanchi, si sdraiarono sull\'erba e si addormentarono, con il Boscaiolo e lo Spaventapasseri che vegliavano.
+\nNel pomeriggio il sole splendeva caldo sui loro volti, perché non c\'erano alberi a offrire loro ombra; così che prima di notte Dorothy, Toto e il Leone erano stanchi, si sdraiarono sull\'erba e si addormentarono, con il Boscaiolo e lo Spaventapasseri che facevano la guardia.
 \n
-\nOra la Malvagia Strega dell\'Ovest aveva un solo occhio, eppure era potente come un telescopio e poteva vedere ovunque. Così, mentre sedeva sulla porta del suo castello, le capitò di guardarsi intorno e vide Dorothy addormentata, con i suoi amici tutt\'intorno. Erano molto lontani, ma la strega cattiva era arrabbiata nel trovarli nel suo paese; così soffiò in un fischietto d\'argento che le pendeva al collo.
+\nOra la Strega Cattiva dell\'Ovest aveva un solo occhio, ma era potente come un telescopio e poteva vedere ovunque. Così, mentre sedeva sulla porta del suo castello, le capitò di guardarsi intorno e vide Dorothy che dormiva, con i suoi amici tutti intorno a lei. Erano molto lontani, ma la Strega Cattiva era arrabbiata di trovarli nel suo paese; così soffiò in un fischietto d\'argento che le pendeva dal collo.
 \n
-\nImmediatamente corse verso di lei da tutte le direzioni un branco di grandi lupi. Avevano gambe lunghe, occhi feroci e denti aguzzi.
+\nImmediatamente arrivò di corsa da tutte le direzioni un branco di grandi lupi. Avevano lunghe gambe, occhi feroci e denti aguzzi.
 \n
-\n\"Vai da quelle persone,\" disse la strega, \"e falle a pezzi.\"
+\n\"Vai da quella gente\", disse la Strega, \"e falli a pezzi\".
 \n
 \n\"Non li renderai tuoi schiavi\?\" chiese il capo dei lupi.
 \n
-\n\"No\", rispose, \"uno è di stagno e uno di paglia; uno è una ragazza e un altro un leone. Nessuno di loro è adatto al lavoro, quindi potresti farli a pezzetti.\"
+\n\"No,\" rispose, \"uno è di latta e uno di paglia; uno è una ragazza e un altro un leone. Nessuno di loro è adatto al lavoro, quindi puoi farli a pezzettini.\"
 \n
-\n\"Molto bene,\" disse il lupo, e corse via a tutta velocità, seguito dagli altri.
+\n\"Molto bene,\" disse il lupo, e si lanciò via a tutta velocità, seguito dagli altri.
 \n
-\nPer fortuna lo Spaventapasseri e il Boscaiolo erano ben svegli e hanno sentito arrivare i lupi.
+\nFu una fortuna che lo Spaventapasseri e il Boscaiolo fossero ben svegli e sentissero arrivare i lupi.
 \n
-\n\"Questa è la mia battaglia,\" disse il Boscaiolo, \"quindi mettiti dietro di me e li incontrerò non appena verranno.\"
+\n\"Questa è la mia lotta,\" disse il Boscaiolo, \"quindi mettiti dietro di me e li incontrerò quando arriveranno.\"
 \n
-\nAfferrò la sua ascia, che aveva reso molto affilata, e quando il capo dei lupi arrivò, il Boscaiolo di Latta fece oscillare il braccio e tagliò la testa del lupo dal suo corpo, così che morì immediatamente. Non appena riuscì ad alzare l\'ascia, un altro lupo si avvicinò e cadde anche lui sotto il bordo tagliente dell\'arma del Boscaiolo di Latta. C\'erano quaranta lupi, e quaranta volte un lupo fu ucciso, tanto che alla fine giacevano tutti morti in un mucchio davanti al Boscaiolo.
+\nAfferrò la sua ascia, che aveva reso molto affilata, e quando il capo dei lupi si avvicinò, il Boscaiolo di Latta agitò il braccio e tagliò la testa del lupo dal suo corpo, così che morì immediatamente. Non appena riuscì ad alzare la sua ascia, un altro lupo si avvicinò, e cadde anche lui sotto il bordo affilato dell\'arma del Boscaiolo di Latta. C\'erano quaranta lupi, e quaranta volte un lupo fu ucciso, così che alla fine giacevano tutti morti in un mucchio davanti al Boscaiolo.
 \n
-\nPoi posò l\'ascia e si sedette accanto allo Spaventapasseri, che disse: \"È stato un bel combattimento, amico\".
+\nPoi posò l\'ascia e si sedette accanto allo Spaventapasseri, che disse: \"È stata una bella lotta, amico\".
 \n
-\nAspettarono finché Dorothy non si svegliò la mattina dopo. La bambina rimase piuttosto spaventata quando vide il grande mucchio di lupi irsuti, ma il Boscaiolo di Latta le raccontò tutto. Lo ringraziò per averli salvati e si sedette a fare colazione, dopodiché ripresero il viaggio.
+\nAspettarono che Dorothy si svegliasse la mattina dopo. La bambina si spaventò parecchio quando vide il grande mucchio di lupi pelosi, ma il Boscaiolo di Latta le raccontò tutto. Lo ringraziò per averli salvati e si sedette a fare colazione, dopodiché ripresero il loro viaggio.
 \n
-\nOra, questa stessa mattina, la strega cattiva è venuta alla porta del suo castello e ha guardato fuori con l\'unico occhio che poteva vedere lontano. Vide tutti i suoi lupi che giacevano morti e gli stranieri che ancora viaggiavano per il suo paese. Questo la fece arrabbiare più di prima e suonò due volte nel suo fischietto d\'argento.
+\nOra quella stessa mattina la Strega Cattiva arrivò alla porta del suo castello e guardò fuori con il suo unico occhio che poteva vedere lontano. Vide tutti i suoi lupi giacere morti e gli stranieri che viaggiavano ancora attraverso il suo paese. Questo la fece arrabbiare più di prima e soffiò due volte il suo fischietto d\'argento.
 \n
-\nSubito venne verso di lei un grande stormo di corvi selvatici, tanto da oscurare il cielo.
+\nImmediatamente un grande stormo di corvi selvatici volò verso di lei, abbastanza da oscurare il cielo.
 \n
-\nE la strega cattiva disse al re corvo: \"Vola subito dagli stranieri; cava loro gli occhi e falli a pezzi\".
+\nE la Strega Malvagia disse al Re Corvo: \"Vola subito dagli stranieri; cavagli gli occhi e falli a pezzi\".
 \n
 \nI corvi selvatici volarono in un grande stormo verso Dorothy e i suoi compagni. Quando la bambina li vide arrivare ebbe paura.
 \n
-\nMa lo Spaventapasseri disse: \"Questa è la mia battaglia, quindi sdraiati accanto a me e non ti verrà fatto del male\".
+\nMa lo Spaventapasseri disse: \"Questa è la mia battaglia, quindi sdraiati accanto a me e non ti faranno del male\".
 \n
-\nCosì si sdraiarono tutti a terra tranne lo Spaventapasseri, che si alzò e allungò le braccia. E quando i corvi lo videro si spaventarono, come sempre accade a questi uccelli davanti agli spaventapasseri, e non osarono avvicinarsi. Ma il Re Corvo disse:
+\nCosì si sdraiarono tutti a terra tranne lo Spaventapasseri, che si alzò e tese le braccia. E quando i corvi lo videro si spaventarono, come sempre accade a questi uccelli con gli spaventapasseri, e non osarono avvicinarsi di più. Ma il Re Corvo disse:
 \n
-\n\"È solo un uomo impagliato. Gli caverò gli occhi.\"
+\n\"È solo un uomo impagliato. Gli caverò gli occhi\".
 \n
-\nIl Re Corvo volò verso lo Spaventapasseri, che lo afferrò per la testa e gli girò il collo finché non morì. E poi un altro corvo volò verso di lui, e anche lo Spaventapasseri girò il collo. C\'erano quaranta corvi, e quaranta volte lo Spaventapasseri girò il collo, finché alla fine giacevano tutti morti accanto a lui. Allora chiamò i suoi compagni ad alzarsi, e di nuovo ripresero il viaggio.
+\nIl Re Corvo volò verso lo Spaventapasseri, che lo afferrò per la testa e gli torse il collo finché non morì. E poi un altro corvo gli volò contro e lo Spaventapasseri gli torse anche il collo. C\'erano quaranta corvi e quaranta volte lo Spaventapasseri torse un collo, finché alla fine tutti giacevano morti accanto a lui. Poi chiamò i suoi compagni di alzarsi e di nuovo ripartirono per il loro viaggio.
 \n
-\nQuando la strega cattiva guardò di nuovo fuori e vide tutti i suoi corvi ammucchiati, andò su tutte le furie e soffiò tre volte nel suo fischietto d\'argento.
+\nQuando la Strega Cattiva guardò di nuovo fuori e vide tutti i suoi corvi ammucchiati, si infuriò terribilmente e soffiò tre volte nel suo fischietto d\'argento.
 \n
 \nImmediatamente si udì un grande ronzio nell\'aria e uno sciame di api nere volò verso di lei.
 \n
-\n\"Vai dagli stranieri e pungerli a morte!\" comandò la strega, e le api si voltarono e volarono rapidamente finché arrivarono dove stavano camminando Dorothy e le sue amiche. Ma il Boscaiolo li aveva visti arrivare e lo Spaventapasseri aveva deciso cosa fare.
+\n\"Vai dagli stranieri e pungerli a morte!\" ordinò la Strega e le api si voltarono e volarono rapidamente finché non giunsero dove Dorothy e le sue amiche stavano camminando. Ma il Boscaiolo le aveva viste arrivare e lo Spaventapasseri aveva deciso cosa fare.
 \n
-\n\"Prendi la mia paglia e spargila sulla bambina, sul cane e sul leone,\" disse al Boscaiolo, \"e le api non potranno pungerli.\" Così fece il Boscaiolo, e mentre Dorothy giaceva accanto al Leone e teneva Toto tra le braccia, la paglia li coprì interamente.
+\n\"Prendi la mia paglia e spargila sulla bambina, sul cane e sul Leone\", disse al Boscaiolo, \"e le api non potranno pungerli\". Il Boscaiolo fece questo e, mentre Dorothy giaceva accanto al Leone e teneva Toto tra le braccia, la paglia li ricoprì completamente.
 \n
-\nLe api vennero e non trovarono nessuno da pungere tranne il Boscaiolo, così gli volarono addosso e spezzarono tutte le loro punture contro la latta, senza fare alcun male al Boscaiolo. E poiché le api non possono vivere quando le loro punture sono rotte, quella fu la fine delle api nere, che giacevano sparse attorno al Boscaiolo, come piccoli mucchi di carbone fine.
+\nLe api arrivarono e non trovarono nessuno tranne il Boscaiolo che potesse pungere, così gli volarono addosso e spezzarono tutti i loro pungiglioni contro la latta, senza ferire affatto il Boscaiolo. E poiché le api non possono vivere quando i loro pungiglioni sono spezzati, quella fu la fine delle api nere, e giacciono sparse fitte attorno al Boscaiolo, come piccoli mucchietti di carbone fine.
 \n
-\nPoi Dorothy e il Leone si alzarono, e la ragazza aiutò il Boscaiolo di Latta a rimettere la paglia nello Spaventapasseri, finché non fu più bravo che mai. Così ricominciarono il loro viaggio.
+\nQuindi Dorothy e il Leone si alzarono e la ragazza aiutò il Boscaiolo di Latta a rimettere la paglia nello Spaventapasseri, finché non fu buono come prima. Così ricominciarono il loro viaggio.
 \n
-\nLa strega cattiva era così arrabbiata quando vide le sue api nere in piccoli mucchi simili a carbone fine che batté il piede, si strappò i capelli e digrignò i denti. E poi chiamò una dozzina dei suoi schiavi, che erano i Winkie, e diede loro lance affilate, dicendo loro di andare dagli stranieri e distruggerli.
+\nLa Strega Cattiva si arrabbiò così tanto quando vide le sue api nere in piccoli mucchietti come carbone fine che batté i piedi, si strappò i capelli e digrignò i denti. E poi chiamò una dozzina dei suoi schiavi, che erano i Winkies, e diede loro delle lance affilate, dicendo loro di andare dagli stranieri e di distruggerli.
 \n
-\nI Winkie non erano un popolo coraggioso, ma dovevano fare quello che gli veniva detto. Così si allontanarono finché non si avvicinarono a Dorothy. Allora il leone emise un grande ruggito e balzò verso di loro, e i poveri Winkies furono così spaventati che corsero indietro più velocemente che potevano.</string>
+\nI Winkies non erano un popolo coraggioso, ma dovevano fare come veniva loro detto. Così marciarono via finché non giunsero vicino a Dorothy. Allora il Leone diede un gran ruggito e balzò verso di loro, e i poveri Winkies erano così spaventati che corsero indietro il più velocemente possibile.</string>
+    <string name="menuEnable">Abilitare</string>
+    <string name="dialogServiceDisableMessage">Le applicazioni consumer smetteranno di ricevere eventi. Disattivare il servizio\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Applicazioni</string>
+    <string name="menuDisable">Disabilitare</string>
+    <string name="aboutScreenAppListText">Elenco dei pacchetti di app installati su questo dispositivo che utilizzano la funzione Steady Screen:</string>
 </resources>
