@@ -129,4 +129,9 @@
 \n当邪恶女巫看到黑蜂像细煤一样小堆时，她非常生气，她跺脚，撕扯头发，咬牙切齿。然后她叫来了十几个奴隶，他们是温基人，给了他们锋利的长矛，告诉他们去陌生人那里消灭他们。
 \n
 \n温基人并不是勇敢的民族，但他们必须按照别人的吩咐去做。于是他们就走开了，直到靠近多萝西。然后狮子发出一声巨大的吼叫，向他们扑来，可怜的温基人吓坏了，以最快的速度往回跑。</string>
+    <string name="menuEnable">使能够</string>
+    <string name="dialogServiceDisableMessage">消费者应用程序将停止接收事件。禁用服务？</string>
+    <string name="aboutScreenAppListTitle">⛵ 应用程序</string>
+    <string name="menuDisable">禁用</string>
+    <string name="aboutScreenAppListText">此设备上安装的使用稳定屏幕功能的应用程序包列表：</string>
 </resources>
