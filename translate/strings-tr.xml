@@ -129,4 +129,9 @@
 \nKötü Cadı, kara arılarını ince kömür gibi küçük yığınlar halinde görünce o kadar sinirlendi ki, ayağını yere vurdu, saçlarını yoldu ve dişlerini gıcırdattı. Daha sonra Kırpıklar olan bir düzine kölesini çağırdı ve onlara keskin mızraklar vererek yabancıların yanına gidip onları yok etmelerini söyledi.
 \n
 \nKırpıklar cesur insanlar değildi ama kendilerine söyleneni yapmak zorundaydılar. Böylece Dorothy\'ye yaklaşana kadar yürüdüler. Sonra Aslan büyük bir kükreme çıkarıp onlara doğru atladı ve zavallı Kırpıklar o kadar korktular ki ellerinden geldiğince hızlı bir şekilde geri koştular.</string>
+    <string name="menuEnable">Olanak vermek</string>
+    <string name="dialogServiceDisableMessage">Tüketici uygulamaları olayları almayı durduracak. Hizmeti devre dışı bırak\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Uygulamalar</string>
+    <string name="menuDisable">Devre dışı bırakmak</string>
+    <string name="aboutScreenAppListText">Bu cihaza yüklenen ve Sabit Ekran özelliğini kullanan uygulama paketlerinin listesi:</string>
 </resources>
