@@ -129,4 +129,9 @@
 \nDe boze heks was zo boos toen ze haar zwarte bijen in kleine hoopjes als fijne kolen zag, dat ze met haar voet stampte, haar haar scheurde en met haar tanden knarste. En toen riep ze een tiental van haar slaven, die de Winkies waren, en gaf ze scherpe speren, met de opdracht naar de vreemdelingen te gaan en ze te vernietigen.
 \n
 \nDe Winkies waren geen moedig volk, maar ze moesten doen wat hun werd opgedragen. Dus marcheerden ze weg totdat ze in de buurt van Dorothy kwamen. Toen brulde de Leeuw luid en sprong naar hen toe, en de arme Winkies waren zo bang dat ze zo snel mogelijk terug renden.</string>
+    <string name="menuEnable">Inschakelen</string>
+    <string name="dialogServiceDisableMessage">Consumer-applicaties ontvangen geen gebeurtenissen meer. Service uitschakelen\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Toepassingen</string>
+    <string name="menuDisable">Uitzetten</string>
+    <string name="aboutScreenAppListText">Lijst met app-pakketten die op dit apparaat zijn geïnstalleerd en die gebruikmaken van de functie Steady Screen:</string>
 </resources>
