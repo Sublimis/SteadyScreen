@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Layanan iki ngidini aplikasi sing kompatibel bisa gampang nglawan obahe piranti cilik ing antarmuka pangguna.
+    <string name="appDesc">Gawea maca ing perjalanan luwih nyenengake!
 \n
-\n🏝️ Iki bisa nambah keterbacaan layar lan bisa uga nyuda mabuk nalika lelungan, contone. nalika maca ing kendaraan obah.
+\n⛵ Layanan iki ngidini aplikasi sing kompatibel bisa gampang nglawan obahe piranti cilik ing antarmuka pangguna.
 \n
-\n⚡ Aplikasi wis digawe kanthi tliti, supaya bisa nyilikake panggunaan sumber daya lan ngoptimalake kinerja.
+\n🏝️ Iki nambah keterbacaan layar piranti genggam nalika mlaku-mlaku utawa lelungan.
 \n
-\nSemoga terhibur 😊</string>
+\n⚡ Layanan wis digawe kanthi tliti, supaya bisa nyilikake panggunaan sumber daya lan ngoptimalake kinerja. Info liyane bisa ditemokake ing GitHub kita.
+\n
+\nMuga-muga sampeyan seneng nggunakake iki 😊</string>
     <string name="dialogReviewNudgeMessage">Apa sampeyan seneng karo aplikasi iki\?</string>
     <string name="dialogReviewNudgeMessage2">Matur nuwun! Tulis review sing apik utawa menehi rating 5 bintang ing Play Store.</string>
-    <string name="paramLinearScalingInfo">Iki skala gerakan linear, nggawe luwih gedhe utawa cilik tanpa mengaruhi petungan.</string>
+    <string name="paramLinearScalingInfo">Iki ngukur obahe kanthi linear, nggawe luwih gedhe utawa luwih cilik tanpa mengaruhi petungan.</string>
     <string name="licenseItemAlreadyOwned">Item lisensi wis diduweni</string>
-    <string name="dialogInfoMessage">Goyangake piranti kasebut sethithik. Elinga carane isi latar mburi soften gerakan iki, nggawe maca ing layar luwih gampang. (Layanan tetep kudu diaktifake ing setelan Aksesibilitas supaya bisa kedadeyan.)
+    <string name="dialogInfoMessage">Goyangake piranti kasebut sethithik. Elinga carane isi latar mburi soften gerakan iki, nggawe maca ing layar luwih gampang.
 \n
 \nFungsi iki bisa gampang dileksanakake ing aplikasi apa wae. Mangga tindakake pandhuan ing GitHub.</string>
     <string name="paramForceScaling">Force scaling</string>
@@ -34,20 +36,20 @@
     <string name="menuSendDebugFeedback">Laporan masalah</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Pamungkas</string>
-    <string name="dialogRestoreDefaultsMessage">Mulihake setelan menyang nilai gawan\?</string>
+    <string name="dialogRestoreDefaultsMessage">Mulihake paramèter menyang nilai standar\?</string>
     <string name="paramDamping">Damping</string>
-    <string name="serviceInactiveText">Layanan dipateni, klik kene kanggo ngaktifake.</string>
+    <string name="serviceInactiveText">Layanan dipateni, klik kanggo ngaktifake.</string>
     <string name="aboutScreenTranslationsText">Tulung nerjemahake aplikasi iki lan entuk lisensi gratis! Info liyane:</string>
     <string name="cancel">Batal</string>
     <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
     <string name="measuredSensorRate">Tingkat sensor sing diukur</string>
     <string name="menuTheme">Tema</string>
     <string name="measuredSensorRateInfo">Tingkat sensor saiki sing diukur dening app. Iki bisa uga beda-beda saka tingkat sensor sing dikarepake amarga sistem pungkasane nemtokake tarif sing bakal diwenehake.</string>
-    <string name="aboutScreenGithubLink">Stilly ing GitHub</string>
-    <string name="aboutScreenLicenseTitle">Lisensi aplikasi</string>
+    <string name="aboutScreenGithubLink">Layar Ajeg ing GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lisensi</string>
     <string name="aboutScreenLicenseText">Aplikasi iki gratis lan bisa digunakake tanpa watesan. Nanging, paramèter bakal bali menyang nilai standar sawise 1 jam tanpa lisensi.</string>
     <string name="dialogInfoButton">Pindhah menyang GitHub</string>
-    <string name="generalError">Ana sawetara kesalahan. Mangga nyoba maneh.</string>
+    <string name="generalError">Ana sawetara kesalahan. Coba maneh.</string>
     <string name="paramRecoilInfo">Nambah iki bakal nyuda sensitivitas kanggo osilasi cilik lan nggawe gerakan kurang sensitif marang pasukan sing luwih gedhe.</string>
     <string name="menuRestoreDefaults">Mulihake standar</string>
     <string name="dialogButtonRateOnPlayStore">Rate ing Play Store</string>
@@ -56,31 +58,31 @@
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Tèks iki kanggo tujuan demonstrasi)
 \n
-\nPrajurit karo kumis ijo nuntun wong-wong mau liwat lurung-lurung ing Kutha Jamrud nganti tekan kamar panggonane Guardian of the Gates. Petugas iki mbukak kunci kacamata kanggo dilebokake maneh ing kothak gedhene, banjur kanthi sopan mbukak gerbang kanggo kanca-kanca.
+\nPrajurit karo kumis ijo nuntun wong-wong mau liwat lurung-lurung ing Kutha Zamrud nganti tekan kamar panggonane Guardian of the Gates. Petugas iki mbukak kunci kacamata kanggo dilebokake maneh ing kothak gedhene, banjur kanthi sopan mbukak gerbang kanggo kanca-kanca.
 \n
 \n\"Lan endi sing ngarah menyang Penyihir Jahat saka Kulon\?\" takon Dorothy.
 \n
-\n\"Ora ana dalan,\" wangsulane Wali Gerbang. \"Ora ana wong sing kepengin lunga kanthi cara kasebut.\"
+\n“Ora ana dalan,” wangsulane Wali Gapura. \"Ora ana wong sing kepengin lunga kanthi cara kasebut.\"
 \n
-\n\"Lah, kepiye carane golek dheweke\?\" pitakone bocah wadon mau.
+\n\"Lah, kepiye carane bisa nemokake dheweke\?\" pitakone bocah wadon mau.
 \n
-\n\"Iku bakal gampang,\" wangsulane wong, \"amarga dheweke ngerti sampeyan ana ing negara Winkies, dheweke bakal nemokake sampeyan, lan nggawe sampeyan kabeh dadi batur.\"
+\n\"Iku bakal gampang,\" wangsulane wong, \"amarga dheweke ngerti yen sampeyan ana ing negara Winkies dheweke bakal nemokake sampeyan, lan nggawe sampeyan kabeh dadi abdine.\"
 \n
 \n\"Mbok ora,\" ujare Scarecrow, \"amarga kita arep numpes dheweke.\"
 \n
-\n\"Oh, sing beda,\" ujare Guardian of the Gates. \"Durung ana wong siji-sijia sing tau ngrusak dheweke, mula aku mesthi mikir yen dheweke bakal nggawe baturmu, kaya liyane. Kulon, ing ngendi srengenge surup, lan sampeyan ora bakal bisa nemokake dheweke.\"
+\n\"Oh, sing beda,\" ujare Guardian of the Gates. \"Durung ana wong siji-sijia sing tau ngrusak dheweke, mula aku mesthi mikir yen dheweke bakal dadi baturmu, kaya wong liya. Kulon, ing ngendi srengenge surup, lan sampeyan ora bakal bisa nemokake dheweke.\"
 \n
-\nWong-wong mau padha matur nuwun lan nyuwun pamit, banjur noleh menyang sisih kulon, mlaku-mlaku ing sawah-sawah suket alus sing ana ing kene karo kembang aster lan buttercups. Dorothy isih nganggo busana sutra sing apik banget sing disedhiyakake ing kraton, nanging saiki kaget dheweke nemokake yen wis ora ijo maneh, nanging putih murni. Pita ing gulu Toto uga wis ilang warnane ijo lan putih kaya klambine Dorothy.
+\nPadha matur nuwun lan nyuwun pamit, banjur nguripake menyang Kulon, mlaku liwat lapangan suket alus burik ing kene karo aster lan buttercups. Dorothy isih nganggo busana sutra sing apik banget sing disedhiyakake ing kraton, nanging saiki kaget dheweke nemokake yen wis ora ijo maneh, nanging putih murni. Pita ing gulu Toto uga wis ilang warnane ijo lan putih kaya klambine Dorothy.
 \n
-\nKutha Jamrud banjur ditinggal adoh. Nalika padha maju, lemahe saya kasar lan gunung, amarga ing negara Kulon iki ora ana tegalan utawa omah, lan lemahe nganti.
+\nKutha Jamrud banjur ditinggal adoh. Nalika padha maju, lemahe saya kasar lan bukit, amarga ing negara Kulon iki ora ana tegalan utawa omah, lan lemah wis digarap.
 \n
 \nIng wayah sore srengenge sumunar ing pasuryane, amarga ora ana wit-witan sing bisa menehi iyub-iyub; Dadi sadurunge wengi Dorothy lan Toto lan Singa wis kesel, banjur turu ing suket lan turu, karo Woodman lan Scarecrow tetep nonton.
 \n
-\nSaiki Penyihir Jahat saka Kulon mung duwe mripat siji, nanging sing kuat kaya teleskop, lan bisa ndeleng ing endi wae. Dadi, nalika dheweke lungguh ing lawang kastil, dheweke kebeneran ndeleng mubeng lan weruh Dorothy lagi turu, karo kanca-kancane kabeh. Padha adoh adoh, nanging Penyihir duraka nesu amarga nemokake dheweke ing negarane; mula dheweke ngunekake singsot perak sing ana ing gulu.
+\nSaiki Penyihir Jahat saka Kulon mung duwe mripat siji, nanging sing kuat kaya teleskop, lan bisa ndeleng ing endi wae. Dadi, nalika dheweke lungguh ing lawang kastil, dheweke kebeneran ndelok-ndelok lan weruh Dorothy lagi turu, karo kanca-kancane kabeh. Padha adoh adoh, nanging Penyihir duraka nesu kanggo nemokake dheweke ing negarane; mula dheweke ngunekake singsot perak sing ana ing gulu.
 \n
-\nSanalika iku ana kumpulan asu asu gedhe teka saka kabeh arah. Dheweke duwe sikil dawa lan mripate galak lan untune landhep.
+\nSanalika ana kumpulan asu asu gedhe sing mlayu marani dheweke saka kabeh arah. Dheweke duwe sikil dawa lan mripate galak lan untune landhep.
 \n
-\n\"Lungaa wong-wong mau,\" ujare Penyihir, \"lan nyuwek-nyuwek.\"
+\n\"Marani wong-wong mau,\" ujare Sang Penyihir, \"lan nyuwek-nyuwek.\"
 \n
 \n\"Apa sampeyan ora bakal nggawe dheweke dadi baturmu\?\" pitakone pimpinan asu ajag.
 \n
@@ -92,29 +94,29 @@
 \n
 \n\"Iki perangku,\" ujare Woodman, \"dadi ndhisiki aku lan aku bakal ketemu nalika dheweke teka.\"
 \n
-\nDheweke ngrebut kapak, sing digawe landhep banget, lan nalika pimpinan serigala teka ing Timah Woodman, dheweke ngayunake lengen lan ngethok sirahe asu ajag saka awak, saengga dheweke langsung mati. Sanalika dheweke bisa ngunggahake kapak, asu ajag liyane teka, lan dheweke uga tiba ing sangisore landhep gegaman Tin Woodman. Ana patang puluh asu ajag, lan ping patang puluh asu ajag dipatèni, dadi pungkasane kabeh padha mati ing tumpukan sadurunge Woodman.
+\nDheweke nyekel kapak, sing digawe landhep banget, lan nalika pimpinan asu ajag teka ing Tukang Kayu Timah ngayunake lengen lan ngethok sirahe asu ajag saka awak, supaya langsung mati. Sanalika dheweke bisa ngunggahake kapak, asu ajag liyane teka, lan dheweke uga tiba ing sangisore landhep gegaman Tin Woodman. Ana patang puluh asu ajag, lan ping patang puluh asu ajag dipatèni, dadi pungkasane kabeh padha mati ing tumpukan sadurunge Woodman.
 \n
 \nBanjur nyelehake kapak lan lungguh ing jejere Scarecrow, sing ngomong: \"Iku perang apik, kanca.\"
 \n
-\nDheweke ngenteni nganti Dorothy tangi esuk. Bocah wadon cilik iki wedi banget nalika ndeleng tumpukan gedhe asu asu, nanging Tukang Kayu Timah ngandhani kabeh. Dheweke matur nuwun kanggo nylametake dheweke lan lungguh sarapan, sawise iku dheweke miwiti maneh nalika lelungan.
+\nDheweke ngenteni nganti Dorothy tangi esuk. Bocah wadon cilik iki wedi banget nalika ndeleng tumpukan gedhe asu asu, nanging Tukang Kayu Timah ngandhani kabeh. Dheweke matur nuwun kanggo nyimpen wong-wong mau lan lungguh mudhun kanggo nedha isuk, sawise kang padha miwiti maneh ing lelampahan.
 \n
 \nSaiki esuk sing padha, Penyihir jahat teka ing lawang kastil lan katon metu kanthi mripat siji sing bisa ndeleng adoh. Dheweke weruh kabeh asu ajag padha mati, lan wong-wong manca isih lelungan liwat negarane. Iki nggawe dheweke nesu tinimbang sadurunge, lan dheweke ngunekake singsot perak kaping pindho.
 \n
 \nSakwisé kuwi ana manuk gagak galak mabur marani dhèwèké, cukup kanggo peteng ndhedhet langit.
 \n
-\nSi Dukun duraka ngandika marang Sang Gagak: \"Enggal-enggal mabur marani wong-wong manca, copot mripate lan cilaka.\"
+\nLan si Dukun duraka ngandika marang Raja Gagak, \"Enggal mabur menyang wong liyo, copot mripate lan nyuwek-nyuwek.\"
 \n
 \nGagak liar mabur ing siji kumpul gedhe menyang Dorothy lan kanca-kancane. Nalika bocah wadon cilik weruh dheweke teka, dheweke wedi.
 \n
 \nNanging wong Scarecrow kandha, \"Iki perangku, mula turua ing sandhingku lan kowe ora bakal cilaka.\"
 \n
-\nDadine kabeh padha gumlethak ana ing lemah kajaba Scarecrow, banjur jumeneng lan ngegungake tangane. Bareng manuk gagak padha weruh, banjur padha wedi, awit manuk-manuk mau tansah ana ing wong-wong, lan ora wani nyedhaki. Nanging Sang Prabu Gagak ngandika:
+\nDadine kabeh padha gumlethak ana ing lemah, kajaba Scarecrow, banjur jumeneng lan ngacungake tangane. Bareng manuk gagak weruh dheweke padha wedi, amarga manuk-manuk iki mesthi ana ing ngarepe wong-wong, lan ora wani nyedhaki. Nanging Sang Prabu Gagak ngandika:
 \n
 \n\"Iku mung wong diiseni. Aku bakal peck mripate metu.\"
 \n
 \nRaja Gagak mabur menyang Scarecrow, sing nyekel sirahe lan mbengkongake gulu nganti mati. Banjur manuk gagak liyane mabur ing dheweke, lan Scarecrow uga nggantheng gulu. Ana patang puluh gagak, lan ping patang puluh Scarecrow mbengkongake gulu, nganti pungkasane kabeh padha mati ing sandhinge. Panjenengané banjur nimbali kanca-kancané supaya padha tangi, banjur padha mangkat manèh.
 \n
-\nNalika Witch duraka katon metu maneh lan weruh kabeh gagak lying ing tumpukan, dheweke nesu banget, lan nyebul ping telu marang singsine perak.
+\nNalika Witch duraka katon metu maneh lan weruh kabeh gagak lying ing tumpukan, dheweke nesu banget, lan nyebul kaping telu ing singsine perak.
 \n
 \nSanalika keprungu swara gedhe ing udhara, lan grombolan tawon ireng mabur nyedhaki dheweke.
 \n
@@ -122,11 +124,16 @@
 \n
 \n\"Njupuk jeramiku lan nyebarake menyang bocah wadon cilik lan asu lan singa,\" ujare marang Woodman, \"lan tawon ora bisa nyengat dheweke.\" Iki ditindakake dening Woodman, lan nalika Dorothy lungguh ing jejere Singa lan nyekel Toto ing tangane, jerami kasebut nutupi kabeh.
 \n
-\nTawon padha teka lan ora ketemu wong kang nyengat, kajaba Woodman, banjur padha mabur ing wong lan nyuwil mati kabeh stings marang timah, tanpa natoni Woodman babar pisan. Lan minangka tawon ora bisa urip nalika stings sing bejat sing mburi tawon ireng, lan padha lay kasebar nglukis babagan Woodman, kaya tumpukan cilik saka batu bara nggoleki.
+\nTawon padha teka lan ora ketemu wong kang nyengat, kajaba Woodman, banjur padha mabur marang lan nyuwil kabeh stings marang timah, tanpa natoni Woodman babar pisan. Lan minangka tawon ora bisa urip nalika stings sing bejat sing mburi tawon ireng, lan padha lay kasebar nglukis babagan Woodman, kaya tumpukan cilik saka batu bara nggoleki.
 \n
 \nBanjur Dorothy lan Singa tangi, lan cah wadon mbantu Timah Woodman sijine kang dipercoyo bali menyang Scarecrow maneh, nganti dheweke dadi apik minangka tau. Mulané wong-wong mau banjur miwiti lelungan manèh.
 \n
-\nPenyihir Duraka nesu banget nalika ndeleng tawon ireng ing tumpukan cilik kaya batu bara sing apik, mula dheweke ngethok sikile lan nyuwek rambute lan keroting untune. Banjur dheweke nimbali rolas bature, yaiku Winkies, lan menehi tumbak sing landhep, didhawuhi marani wong liyo lan nyirnakake.
+\nPenyihir Duraka nesu banget nalika dheweke weruh tawon ireng ing tumpukan cilik kaya batu bara sing apik banget, dheweke ngethok sikile lan nyuwek rambute lan keroting untune. Banjur dheweke nimbali rolas bature, yaiku Winkies, lan menehi tumbak sing landhep, didhawuhi marani wong liyo lan nyirnakake.
 \n
 \nWinkies dudu wong sing wani, nanging kudu nindakake apa sing didhawuhake. Mulané padha budhal nganti cedhak karo Dorothy. Singa banjur nggero banget lan mlumpat menyang wong-wong mau, lan Winkies sing mlarat wedi banget, mula dheweke mlayu maneh kanthi cepet.</string>
+    <string name="menuEnable">Aktifake</string>
+    <string name="dialogServiceDisableMessage">Aplikasi konsumen bakal mandheg nampa acara. Pateni layanan\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplikasi</string>
+    <string name="menuDisable">Pateni</string>
+    <string name="aboutScreenAppListText">Dhaptar paket app sing diinstal ing piranti iki sing nggunakake fitur Steady Screen:</string>
 </resources>
