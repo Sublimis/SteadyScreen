@@ -129,4 +129,9 @@
 \nA Bruxa Má ficou tão zangada quando viu suas abelhas pretas em pequenos montes como carvão fino que bateu o pé, arrancou o cabelo e rangeu os dentes. E então ela chamou uma dúzia de seus escravos, que eram os Winkies, e deu-lhes lanças afiadas, dizendo-lhes para irem até os estranhos e destruí-los.
 \n
 \nOs Winkies não eram um povo corajoso, mas tinham que fazer o que lhes mandavam. Então eles marcharam até chegarem perto de Dorothy. Então o Leão deu um grande rugido e saltou na direção deles, e os pobres Winkies ficaram tão assustados que correram de volta o mais rápido que puderam.</string>
+    <string name="menuEnable">Habilitar</string>
+    <string name="dialogServiceDisableMessage">Os aplicativos do consumidor deixarão de receber eventos. Desabilitar serviço\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplicativos</string>
+    <string name="menuDisable">Desabilitar</string>
+    <string name="aboutScreenAppListText">Lista de pacotes de aplicativos instalados neste dispositivo que usam o recurso Tela Estável:</string>
 </resources>
