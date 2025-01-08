@@ -129,4 +129,9 @@
 \nZlá čarodejnica bola taká nahnevaná, keď videla svoje čierne včely na malých kôpkach ako jemné uhlie, že dupla nohou, trhala si vlasy a škrípala zubami. A potom zavolala tucet svojich otrokov, ktorí boli Winkies, a dala im ostré oštepy a povedala im, aby išli k cudzincom a zničili ich.
 \n
 \nWinkies neboli statoční ľudia, ale museli robiť, čo im bolo povedané. A tak pochodovali preč, kým sa nepriblížili k Dorote. Potom lev zareval a vyskočil k nim a úbohé Winkies boli tak vystrašené, že sa čo najrýchlejšie rozbehli späť.</string>
+    <string name="menuEnable">Povoliť</string>
+    <string name="dialogServiceDisableMessage">Spotrebiteľské aplikácie prestanú prijímať udalosti. Zakázať službu\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplikácie</string>
+    <string name="menuDisable">Zakázať</string>
+    <string name="aboutScreenAppListText">Zoznam balíkov aplikácií nainštalovaných v tomto zariadení, ktoré používajú funkciu stabilnej obrazovky:</string>
 </resources>
