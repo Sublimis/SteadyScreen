@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Wannan sabis ɗin yana ba da damar aikace-aikacen da suka dace da sauƙi don magance ƙananan motsin na\'ura a cikin mahaɗin mai amfani da su.
+    <string name="appDesc">Sanya karatu a kan tafiya ya fi daɗi!
 \n
-\n🏝️ Wannan na iya inganta karatun allo da yuwuwar rage ciwon motsi yayin tafiya, misali. yayin karatu a cikin abin hawa mai motsi.
+\n⛵ Wannan sabis ɗin yana ba da damar aikace-aikacen da suka dace da sauƙi don magance ƙananan motsin na\'ura a cikin mahaɗin mai amfani da su.
 \n
-\n⚡ An tsara aikace-aikacen sosai, don rage yawan amfani da albarkatu da haɓaka aiki.
+\n🏝️ Wannan yana inganta karatun allo na na\'urar hannu yayin tafiya ko tafiya.
 \n
-\nDa fatan za ku ji daɗi 😊</string>
+\n⚡ An ƙera sabis ɗin sosai, don rage yawan amfani da albarkatu da haɓaka aiki. Ana iya samun ƙarin bayani akan GitHub ɗin mu.
+\n
+\nDa fatan kun ji daɗin amfani da wannan 😊</string>
     <string name="dialogReviewNudgeMessage">Kuna jin daɗin wannan app\?</string>
     <string name="dialogReviewNudgeMessage2">Godiya! Da fatan za a rubuta kyakkyawan bita ko ƙididdige mu tauraro 5 akan Play Store.</string>
-    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
+    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi ɗaya, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
     <string name="licenseItemAlreadyOwned">An riga an mallaki abun lasisi</string>
-    <string name="dialogInfoMessage">Girgiza na\'urar kadan kadan. Yi la\'akari da yadda abun ciki na bango ya sassauta waɗannan motsin, yana sauƙaƙa karatun kan allo. (Har yanzu dole ne a kunna sabis a cikin saitunan Samun damar yin hakan don faruwa.)
+    <string name="dialogInfoMessage">Girgiza na\'urar kadan kadan. Yi la\'akari da yadda abun ciki na bango ya sassauta waɗannan motsin, yana sauƙaƙa karatun kan allo.
 \n
 \nAna iya aiwatar da wannan aikin cikin sauƙi a kowace aikace-aikace. Da fatan za a bi umarnin kan GitHub.</string>
     <string name="paramForceScaling">Ƙaddamar da ƙima</string>
@@ -34,18 +36,18 @@
     <string name="menuSendDebugFeedback">Bayar da rahoto</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ƙarshe</string>
-    <string name="dialogRestoreDefaultsMessage">Mayar da saituna zuwa tsoffin ƙima\?</string>
-    <string name="paramDamping">Damping</string>
-    <string name="serviceInactiveText">An kashe sabis, danna nan don kunna.</string>
+    <string name="dialogRestoreDefaultsMessage">Mayar da sigogi zuwa tsoffin ƙima\?</string>
+    <string name="paramDamping">Damuwa</string>
+    <string name="serviceInactiveText">An kashe sabis, danna don kunna.</string>
     <string name="aboutScreenTranslationsText">Taimaka fassara wannan app kuma sami lasisi kyauta! Karin bayani:</string>
     <string name="cancel">Soke</string>
     <string name="ultimateLicenseTitle">Lasisi na ƙarshe</string>
     <string name="measuredSensorRate">Ƙimar firikwensin da aka auna</string>
     <string name="menuTheme">Jigo</string>
     <string name="measuredSensorRateInfo">Adadin firikwensin na yanzu kamar yadda aka auna ta app. Wannan na iya bambanta da ƙimar firikwensin da ake so kamar yadda tsarin a ƙarshe ya yanke shawarar wane ƙimar da za a bayar.</string>
-    <string name="aboutScreenGithubLink">Stilly akan GitHub</string>
-    <string name="aboutScreenLicenseTitle">Lasin app</string>
-    <string name="aboutScreenLicenseText">Wannan aikace-aikacen kyauta ne kuma yana aiki ba tare da iyakancewa ba. Koyaya, sigogin za su koma ga tsoffin ƙimar su bayan awa 1 ba tare da lasisi ba.</string>
+    <string name="aboutScreenGithubLink">Tsayayyen allo akan GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 lasisi</string>
+    <string name="aboutScreenLicenseText">Wannan aikace-aikacen kyauta ne kuma yana aiki ba tare da iyakancewa ba. Koyaya, sigogin za su dawo zuwa ƙimar su ta asali bayan awa 1 ba tare da lasisi ba.</string>
     <string name="dialogInfoButton">Je zuwa GitHub</string>
     <string name="generalError">An sami wasu kurakurai. Da fatan za a sake gwadawa.</string>
     <string name="paramRecoilInfo">Ƙara wannan zai rage hankali ga ƙananan oscillations kuma ya sa ƙungiyoyi ba su da hankali ga manyan runduna.</string>
@@ -58,25 +60,25 @@
 \n
 \nSojan da koren barasa ya jagorance su cikin titunan birnin Emerald har suka isa dakin da mai gadin kofar ke zaune. Wannan jami\'in ya buɗe faifan kallon su don mayar da su cikin babban akwatinsa, sannan ya buɗe wa abokanmu cikin ladabi.
 \n
-\n\"Wace hanya ce ke kaiwa ga Mugun Mayya na Yamma\?\" Ta tambayi Dorothy.
+\n\"Wace hanya ce ta kai ga Mugun Mayya na Yamma\?\" Ta tambayi Dorothy.
 \n
 \n\"Ba wata hanya,\" in ji mai gadin kofar. \"Babu wanda yake fatan tafiya haka.\"
 \n
 \n\"To, ta yaya za mu same ta\?\" ya tambayi yarinyar.
 \n
-\n\"Hakan zai yi sauki,\" in ji mutumin, \"domin idan ta san kana kasar Winkies za ta same ka, ta maishe ku duka bayinta.\"
+\n\"Hakan zai yi sauki,\" in ji mutumin, \"domin idan ta san kuna cikin kasar Winkies za ta same ku, ta maishe ku duka bayinta.\"
 \n
 \n\"Wataƙila ba,\" in ji Scarecrow, \"domin muna nufin mu halaka ta.\"
 \n
-\n\"Oh, wannan ya bambanta,\" in ji Guardian of the Gates. \"Ba wanda ya taɓa halaka ta a da, don haka a zahiri na yi tsammani za ta mai da ku bayi kamar yadda ta yi na sauran. Yamma, inda rana ke faɗuwa, kuma ba za ku iya kasa samun ta ba.\"
+\n\"Oh, wannan ya bambanta,\" in ji Guardian of the Gates. \"Ba wanda ya taɓa halaka ta a baya, don haka a zahiri na yi tsammani za ta mai da ku bayi kamar yadda ta yi na sauran. Yamma, inda rana ke faɗuwa, kuma ba za ku iya kasa samun ta ba.\"
 \n
-\nGodiya suka yi masa tare da yi masa bankwana, suka juya suka nufi Yamma, suna ta yawo a kan filayen ciyayi masu laushi masu ɗimbin ɗimbin ɗimbin ciyayi nan da can ɗauke da ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴan gwangwani. Dorothy har yanzu tana sanye da kyakkyawar rigar alharini da ta saka a cikin fada, amma yanzu, ga mamakinta, ta ga ba kore ba ne, farare ne tsantsa. Ribon da ke wuyan Toto shima ya rasa koren launinsa kuma yayi fari kamar rigar Dorothy.
+\nGodiya suka yi masa tare da yi masa bankwana, suka juya suka nufi Yamma, suna ta yawo a kan filayen ciyayi masu laushi masu ɗimbin ɗimbin ɗimbin ciyayi nan da can ɗauke da ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴaƴan ƴan gwangwani. Dorothy har yanzu tana sanye da kyakkyawar rigar alharini da ta saka a gidan sarauta, amma yanzu, ga mamakinta, ta ga ba kore ba ne, farare ne. Ribon da ke wuyan Toto shima ya rasa koren launinsa kuma yayi fari kamar rigar Dorothy.
 \n
 \nAn bar birnin Emerald a baya mai nisa. Yayin da suke gaba sai kasa ta yi tsauri da tudu, domin babu gonaki ko gidaje a kasar nan ta Yamma, kuma kasa ta yi tsit.
 \n
 \nDa la\'asar rana ta yi zafi a fuskokinsu, gama ba bishiyar da za ta ba su inuwa; don haka kafin dare Dorothy da Toto da Lion suka gaji, suka kwanta a kan ciyayi kuma suka yi barci, tare da Woodman da Scarecrow suna tsaro.
 \n
-\nYanzu Mugun Mayya na Yamma yana da ido guda ɗaya, duk da haka yana da ƙarfi kamar na\'urar hangen nesa, kuma yana iya gani ko\'ina. Don haka, yayin da ta zauna a ƙofar gidanta, ta kasance ta duba ko\'ina, ta ga Dorothy tana barci, tare da abokanta duk game da ita. Sun yi nisa mai nisa, amma Muguwar mayya ta yi fushi da ta same su a ƙasarta; Don haka ta busa wata busar azurfa wacce ta rataya a wuyanta.
+\nYanzu Mugun Mayya na Yamma yana da ido guda ɗaya, duk da haka yana da ƙarfi kamar na\'urar hangen nesa, kuma yana iya gani ko\'ina. Don haka, yayin da ta zauna a ƙofar gidanta, ta kasance ta duba ko\'ina kuma ta ga Dorothy tana barci, tare da abokanta duk game da ita. Sun yi nisa mai nisa, amma Muguwar mayya ta yi fushi da ta same su a ƙasarta; Don haka ta busa wata busar azurfa wadda ta rataya a wuyanta.
 \n
 \nNan take sai ga wasu manyan kyarkeci suka zo mata daga ko\'ina. Suna da dogayen kafafu da idanuwa masu kaifi da kaifi da hakora.
 \n
@@ -84,21 +86,21 @@
 \n
 \n\"Ba zaka maida su bayinka ba\?\" Ya tambayi shugaban ƴan ƴaƴan.
 \n
-\nTa ce, \"A\'a, daya na tin, ɗaya kuma na ciyawa, ɗayan yarinya, ɗayan kuma zaki.
+\nSai ta ce, \"A\'a, daya na kwano ne, ɗaya kuma na ciyawa, ɗayan yarinya, ɗayan kuma zaki.
 \n
-\n\"Madalla\" in ji kurar, ya fice da gudu, sauran suka biyo baya.
+\n\"Madalla\" in ji kurar, ya fice da sauri, sauran suka biyo baya.
 \n
-\nAn yi sa\'a mai Scarecrow da Woodman sun yi nisa a farke sai suka ji kyarkeci suna zuwa.
+\nAn yi sa\'a mai Scarecrow da mai itace a farke suka ji kyarkeci suna zuwa.
 \n
 \n\"Wannan fada na ne,\" in ji Woodman, \"don haka ku bi ni a baya, zan sadu da su yayin da suke zuwa.\"
 \n
-\nYa ƙwace gatarinsa da ya yi kaifi sosai, sai ga shugaban ƙulle-ƙulle ya zo kan Tin Woodman ya murɗe hannunsa ya sare kan kerkeci daga jikinsa, nan take ya mutu. Da ya iya daga gatarinsa sai wani kerkeci ya fito, shi ma ya fada karkashin kaifi gefen makamin Tin Woodman. Kerkeci arba\'in ne, kuma an kashe kerkeci sau arba\'in, ta yadda daga ƙarshe duk suka kwanta matattu a cikin tsibi a gaban ɗan itacen.
+\nYa ƙwace gatarinsa da ya yi kaifi sosai, sai ga shugaban ƙulle-ƙulle ya zo kan Tin Woodman ya murɗe hannunsa ya sare kan kerkeci daga jikinsa, nan take ya mutu. Da ya iya daga gatarinsa sai wani kerkeci ya fito, shi ma ya fada karkashin kaifi gefen makamin Tin Woodman. Kerkeci arba\'in ne, kuma an kashe kerkeci sau arba\'in, har suka kwanta matattu a tsibi a gaban Mai Katafa.
 \n
-\nSa\'an nan ya ajiye gatari, ya zauna kusa da Scarecrow, ya ce, \"Ai da kyau fada abokin.\"
+\nSa\'an nan ya ajiye gatari, ya zauna kusa da Scarecrow, ya ce, \"Ai da kyau yãƙi abokin.\"
 \n
-\nSun jira har sai Dorothy ta farka da safe. Yarinyar ta firgita sosai lokacin da ta ga babban tarin kerkeci, amma Tin Woodman ya gaya mata duka. Godiya tayi masa ya ajiyesu sannan ta zauna breakfast, bayan sun sake fara tafiya.
+\nSun jira har sai Dorothy ta farka da safe. Yarinyar ta firgita sosai lokacin da ta ga babban tarin kerkeci, amma Tin Woodman ya gaya mata duka. Godiya tayi masa ya ajiyesu sannan ta zauna breakfast sannan suka sake fara tafiya.
 \n
-\nYanzu da safe wannan Muguwar Boka ta zo kofar gidanta ta leko da ido daya da ke iya gani nesa. Ta ga kerkecinta duka suna kwance matattu, baƙo kuma suna tafiya cikin ƙasarta. Hakan ya kara bata mata rai fiye da baya, sai ta busa busar azurfa har sau biyu.
+\nYanzu da safe wannan Muguwar Boka ta zo kofar gidanta ta leko da ido daya da ke iya gani nesa. Ta ga kerkecinta duka suna kwance matattu, baƙo kuma suna tafiya cikin ƙasarta. Hakan ya kara bata mata rai fiye da baya, sai ta busa busar azurfa sau biyu.
 \n
 \nNan take sai ga wani babban garke na hankaka na daji suka taho wajenta, sun isa su rufe sararin samaniya.
 \n
@@ -106,27 +108,32 @@
 \n
 \nƘwayoyin daji sun tashi a cikin babban garke ɗaya zuwa Dorothy da abokanta. Da yarinyar ta ga suna zuwa sai ta tsorata.
 \n
-\nAmma sai mai tsoratarwa ya ce, \"Wannan yakina ne, don haka ku kwanta a gefena, kada a cuce ku.\"
+\nAmma sai mai tsoro ya ce, \"Wannan yaƙina ne, don haka ku kwanta a gefena, kada a cuce ku.\"
 \n
-\nHaka suka kwanta gaba dayan su a kasa banda Tsohuwa, ya mike ya miqe. Kuma da hankaka suka gan shi sai suka firgita, domin kuwa tsuntsayen nan a kodayaushe suna cikin tsoro, kuma ba su kuskura su zo kusa ba. Amma Sarki Crow ya ce:
+\nHaka suka kwanta gaba dayan su a k\'asa in banda Tsohuwa, ya mik\'e ya mik\'e hannunsa. Kuma da hankaka suka gan shi sai suka firgita, domin kuwa tsuntsayen nan a kodayaushe suna cikin tsoro, kuma ba su kuskura su zo kusa ba. Amma Sarki Crow ya ce:
 \n
 \n\"Wani kayan ne kawai, zan ture idonsa waje.\"
 \n
-\nSarki Crow ya tashi a kan Scarecrow, wanda ya kama kansa ya murɗe wuyansa har ya mutu. Kuma sai wani hankaka ya tashi a kansa, shi ma Mai Tsoro ya murguda wuyansa. Hankakai arba\'in ne, sau arba\'in kuma mai ban tsoro ya murɗe wuya, har a ƙarshe duk sun mutu a gefensa. Sannan ya kira sahabbansa da su tashi, suka sake tafiya da tafiya.
+\nSarki Crow ya tashi a kan Scarecrow, wanda ya kama kansa ya murɗe wuyansa har ya mutu. Kuma sai wani hankaka ya tashi a kansa, shi ma Mai Tsoro ya murguda wuyansa. Hankakai arba\'in ne, sau arba\'in kuma Mai Tsoro ya murɗe wuya, har daga ƙarshe duk sun mutu a gefensa. Sannan ya kira sahabbansa da su tashi, suka sake tafiya da tafiya.
 \n
-\nLokacin da Muguwar Boka ta sake duba waje, ta ga duk kukanta a kwance cikin tsibi, sai ta fusata sosai, ta busa busar ta na azurfa har sau uku.
+\nSa\'ad da Muguwar Boka ta sake duba waje, ta ga duk kukanta a kwance cikin tsibi, sai ta shiga mugun fusata, ta hura busar ta na azurfa sau uku.
 \n
-\nNan da nan sai aka ji ana hayaniya a cikin iska, ga kuma tarin bakar kudan zuma na tahowa wajenta.
+\nNan da nan aka ji wata hayaniya mai yawa a cikin iska, ga kuma tarin bakar kudan zuma na tahowa wajenta.
 \n
 \n\"Ka je wurin baƙo, ka harbe su har lahira!\" ya umurci mayya, kudan zuma suka juya suka tashi da sauri har suka isa inda Dorothy da abokanta ke tafiya. Amma Mai Katafa ya ga suna zuwa, kuma Scarecrow ya yanke shawarar abin da zai yi.
 \n
 \n\"Ka fitar da bambaro na ka watsar da ita a kan yarinyar da kare da Zaki,\" in ji mai katako, \"kudan zuma ba za su iya harbe su ba.\" Wannan Woodman ya yi, kuma yayin da Dorothy ta kwanta kusa da Zakin kuma ta riƙe Toto a hannunta, bambaro ya rufe su gaba ɗaya.
 \n
-\nKudan zuma sun zo ba su tarar da kowa ba sai dan itacen da ya yi harbin, sai suka yi ta tashi suka buge shi suka tsinke duk wata robar da suke yi a kan gwangwanin, ba tare da sun yi wa Mai itacen rai ko kadan ba. Kuma kamar yadda ƙudan zuma ba za su iya rayuwa ba lokacin da aka karye tuntuɓar ƙudan zuma wadda ita ce ƙarshen ƙudan zuma, kuma suna kwance kewaye da Itace, kamar ƴan tudun garwashi.
+\nKudan zuma sun zo ba su tarar da kowa ba sai dan itacen da ya yi harbin, sai suka yi ta tashi suka buge shi suka tsinke duk wani robobin da suke yi a kan tin, ba tare da sun yi wa mai itacen komai ba. Kuma kamar yadda ƙudan zuma ba za su iya rayuwa ba lokacin da aka karye tuntuɓar ƙudan zuma wadda ita ce ƙarshen ƙudan zuma, kuma suna kwance kewaye da itacen, kamar ƴan tudun garwashi.
 \n
 \nSa\'an nan Dorothy da Lion suka tashi, kuma yarinyar ta taimaka wa Tin Woodman ya sake mayar da bambaro a cikin Scarecrow, har sai ya kasance mai kyau kamar yadda ya kasance. Haka suka sake tafiya.
 \n
 \nMuguwar mayya ta fusata sosai sa’ad da ta ga baƙar ƙudan zuma a cikin ƴan ɗigon kudan zuma kamar garwashi, sai ta buga ƙafarta ta yaga gashinta tana cizon haƙoranta. Sai ta kira wasu bayinta guda goma sha biyu, wato Winkies, ta ba su mashi masu kaifi, ta ce su je wurin baƙon su hallaka su.
 \n
 \nWinkies ba jajirtattu ba ne, amma dole ne su yi kamar yadda aka gaya musu. Haka suka yi tafiya har suka isa kusa da Dorothy. Sai Zaki ya yi tsawa mai girma ya tunkare su, sai ga matalauta Winkies suka firgita har suka gudu da sauri.</string>
+    <string name="menuEnable">Kunna</string>
+    <string name="dialogServiceDisableMessage">Aikace-aikacen mabukaci za su daina karɓar abubuwan da suka faru. Kashe sabis\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Apps</string>
+    <string name="menuDisable">A kashe</string>
+    <string name="aboutScreenAppListText">Jerin fakitin app da aka shigar akan wannan na\'urar da ke amfani da fasalin Allon Tsaya:</string>
 </resources>
