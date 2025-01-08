@@ -1,62 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
+    <string name="appDesc">Tee lukemisesta tien päällä nautinnollisempaa!
 \n
-\n🏝️ Tämä voi parantaa näytön luettavuutta ja mahdollisesti lievittää matkapahoinvointia liikkeellä ollessa, esim. lukiessaan liikkuvassa ajoneuvossa.
+\n⛵ Tämän palvelun avulla yhteensopivat sovellukset voivat helposti torjua laitteen pieniä liikkeitä käyttöliittymässä.
 \n
-\n⚡ Sovellus on suunniteltu erittäin huolellisesti resurssien käytön minimoimiseksi ja suorituskyvyn maksimoimiseksi.
+\n🏝️ Tämä parantaa kädessä pidettävän laitteen näytön luettavuutta kävellessä tai matkoilla.
 \n
-\nToivottavasti pidät siitä 😊</string>
+\n⚡ Palvelu on suunniteltu erittäin huolellisesti resurssien käytön minimoimiseksi ja suorituskyvyn maksimoimiseksi. Lisätietoja löytyy GitHubistamme.
+\n
+\nToivottavasti nautit tämän käytöstä 😊</string>
     <string name="dialogReviewNudgeMessage">Pidätkö tästä sovelluksesta\?</string>
     <string name="dialogReviewNudgeMessage2">Kiitos! Kirjoita hyvä arvostelu tai anna meille 5 tähteä Play Kaupassa.</string>
     <string name="paramLinearScalingInfo">Tämä skaalaa liikkeet lineaarisesti ja tekee niistä suurempia tai pienempiä vaikuttamatta laskelmiin.</string>
     <string name="licenseItemAlreadyOwned">Lisenssikohde on jo omistettu</string>
-    <string name="dialogInfoMessage">Ravista laitetta hieman. Huomaa, kuinka taustasisältö pehmentää näitä liikkeitä tehden näytöllä lukemisesta helpompaa. (Silly-palvelun on oltava käytössä esteettömyysasetuksissa, jotta tämä tapahtuu.)
+    <string name="dialogInfoMessage">Ravista laitetta hieman. Huomaa, kuinka taustasisältö pehmentää näitä liikkeitä, mikä helpottaa näytöllä lukemista.
 \n
 \nTämä toiminto voidaan helposti toteuttaa missä tahansa sovelluksessa. Noudata GitHubin ohjeita.</string>
     <string name="paramForceScaling">Voiman skaalaus</string>
     <string name="paramLinearScaling">Lineaarinen skaalaus</string>
     <string name="dialogConsentButton">Hyväksyä</string>
     <string name="no">Ei</string>
-    <string name="licenseSuccessDialogMessage">Sovelluksen lisensointi onnistui. Kiitos tuestasi!</string>
+    <string name="licenseSuccessDialogMessage">Sovelluksen lisensointi onnistui. Kiitos tuestanne!</string>
     <string name="menuAbout">Noin</string>
     <string name="paramForceScalingInfo">Tämä skaalaa voimat ennen laskelmia, mikä puolestaan vaikuttaa liikkeiden kokonaissuuruuteen.</string>
     <string name="menuLicense">Päivitä lisenssisi</string>
     <string name="openSourceLicensesTitle">Avoimen lähdekoodin lisenssit</string>
     <string name="menuDecreaseTextSize">Pienennä tekstin kokoa</string>
     <string name="aboutScreenTranslationsTitle">Käännökset</string>
-    <string name="menuRateAndComment">Anna meille arvosana</string>
-    <string name="yes">Joo</string>
+    <string name="menuRateAndComment">Arvioi meidät</string>
+    <string name="yes">Kyllä</string>
     <string name="paramRecoil">Rekyyli</string>
     <string name="paramSensorRate">Anturin nopeus</string>
     <string name="paramDampingInfo">Tämän lisääminen hidastaa ja vaimentaa liikkeitä, mikä tekee niistä vähemmän herkkiä suuremmille voimille.</string>
     <string name="ok">OK</string>
-    <string name="menuSendDebugFeedback">Ilmoita ongelma</string>
+    <string name="menuSendDebugFeedback">Ilmoita ongelmasta</string>
     <string name="ratePerSecond">%1$s Hz</string>
-    <string name="ultimateLicenseLabel">Perimmäinen</string>
-    <string name="dialogRestoreDefaultsMessage">Palautetaanko asetukset oletusarvoihin\?</string>
+    <string name="ultimateLicenseLabel">Lopullinen</string>
+    <string name="dialogRestoreDefaultsMessage">Palautetaanko parametrit oletusarvoihin\?</string>
     <string name="paramDamping">Vaimennus</string>
-    <string name="serviceInactiveText">Palvelu on poistettu käytöstä, ota käyttöön napsauttamalla tätä.</string>
+    <string name="serviceInactiveText">Palvelu on poistettu käytöstä, ota käyttöön napsauttamalla.</string>
     <string name="aboutScreenTranslationsText">Auta kääntämään tämä sovellus ja hanki ilmainen lisenssi! Lisätietoja:</string>
     <string name="cancel">Peruuttaa</string>
     <string name="ultimateLicenseTitle">Ultimate Lisenssi</string>
     <string name="measuredSensorRate">Mitattu anturin nopeus</string>
     <string name="menuTheme">Teema</string>
     <string name="measuredSensorRateInfo">Senhetkinen anturin nopeus sovelluksen mittaamana. Tämä voi poiketa halutusta anturin nopeudesta, koska järjestelmä päättää lopulta, minkä nopeuden se antaa.</string>
-    <string name="aboutScreenGithubLink">Stilly GitHubissa</string>
-    <string name="aboutScreenLicenseTitle">Sovelluksen lisenssi</string>
+    <string name="aboutScreenGithubLink">Tasainen näyttö GitHubissa</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lisenssi</string>
     <string name="aboutScreenLicenseText">Tämä sovellus on ilmainen ja toimii ilman rajoituksia. Parametrit palaavat kuitenkin oletusarvoihinsa tunnin kuluttua ilman lisenssiä.</string>
     <string name="dialogInfoButton">Siirry GitHubiin</string>
     <string name="generalError">Tapahtui virhe. Yritä uudelleen.</string>
     <string name="paramRecoilInfo">Tämän lisääminen vähentää herkkyyttä pienille värähtelyille ja tekee liikkeistä vähemmän herkkiä suuremmille voimille.</string>
-    <string name="menuRestoreDefaults">Palauttaa oletukset</string>
+    <string name="menuRestoreDefaults">Palauta oletusasetukset</string>
     <string name="dialogButtonRateOnPlayStore">Arvioi Play Kaupassa</string>
-    <string name="paramSensorRateInfo">Tämä asettaa halutun anturin nopeuden. Suuremmat arvot voivat kuluttaa enemmän akkua. Tämä voi poiketa mitatusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden se antaa.</string>
+    <string name="paramSensorRateInfo">Tämä asettaa halutun anturin nopeuden. Suuremmat arvot voivat kuluttaa enemmän akkua. Tämä voi poiketa mitatusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden antaa.</string>
     <string name="menuIncreaseTextSize">Suurenna tekstin kokoa</string>
     <string name="menuInfo">Tiedot</string>
     <string name="loremIpsum">(Tämä teksti on esittelytarkoituksessa)
 \n
-\nVihreät viikset sotilas johti heidät Smaragdikaupungin kaduilla, kunnes he saavuttivat huoneeseen, jossa Porttien vartija asui. Tämä upseeri avasi heidän silmälasinsa laittaakseen ne takaisin mahtavaan laatikkoonsa, ja sitten hän avasi kohteliaasti portin ystävillemme.
+\nVihreät viikset sotilas johti heidät Smaragdikaupungin kaduilla, kunnes he saavuttivat huoneeseen, jossa porttien vartija asui. Tämä upseeri avasi heidän silmälasinsa laittaakseen ne takaisin mahtavaan laatikkoonsa, ja sitten hän avasi kohteliaasti portin ystävillemme.
 \n
 \n\"Mikä tie johtaa lännen pahaan noidaan\?\" kysyi Dorothy.
 \n
@@ -72,9 +74,9 @@
 \n
 \nHe kiittivät häntä ja sanoivat hänelle hyvästit ja kääntyivät länteen kävellen pehmeän ruohon kenttien yli, jotka olivat siellä täällä koiranputkea ja leinikkia täynnä. Dorothy käytti edelleen kaunista silkkimekkoa, jonka hän oli pukenut päälleen palatsissa, mutta nyt hän yllätykseksi huomasi, että se ei ollut enää vihreä, vaan puhtaan valkoinen. Toton kaulassa oleva nauha oli myös menettänyt vihreän värinsä ja oli yhtä valkoinen kuin Dorothyn mekko.
 \n
-\nEmerald City jäi pian kauas taakse. Heidän edetessään maa muuttui karheammaksi ja mäkiläisemmäksi, sillä tässä lännen maassa ei ollut maatiloja eikä taloja, ja maa oli harhaantunut.
+\nSmaragdikaupunki jäi pian kauas taakse. Heidän edetessään maa muuttui karheammaksi ja mäkiläisemmäksi, sillä tässä lännen maassa ei ollut maatiloja eikä taloja, ja maa oli harhaantunut.
 \n
-\nIltapäivällä aurinko paistoi kuumana heidän kasvoilleen, sillä ei ollut puita, jotka olisivat antaneet heille varjoa; niin, että ennen yötä Dorothy ja Toto ja leijona olivat väsyneitä ja makasivat nurmikolla ja nukahtivat metsämiehen ja Scarecrow vahtimassa.
+\nIltapäivällä aurinko paistoi kuumana heidän kasvoilleen, sillä ei ollut puita, jotka olisivat antaneet heille varjoa; niin että ennen yötä Dorothy ja Toto ja leijona olivat väsyneitä ja makasivat nurmikolla ja nukahtivat metsämiehen ja Scarecrow vahtimassa.
 \n
 \nNyt lännen pahalla noidalla oli vain yksi silmä, mutta se oli kuitenkin yhtä voimakas kuin kaukoputki ja näki kaikkialle. Joten kun hän istui linnansa ovella, hän sattui katsomaan ympärilleen ja näki Dorothyn makaamassa unessa ja hänen ystävänsä ympärillään. He olivat kaukana, mutta paha noita oli vihainen löytääkseen heidät maastaan; joten hän puhalsi hopeiseen pilliin, joka riippui hänen kaulassaan.
 \n
@@ -108,7 +110,7 @@
 \n
 \nMutta Scarecrow sanoi: \"Tämä on minun taisteluni, joten makaa vierelleni, niin sinua ei vahingoiteta.\"
 \n
-\nNiinpä he kaikki makasivat maassa paitsi Scarecrow, ja hän nousi ylös ja ojensi kätensä. Ja kun varikset näkivät hänet, he pelästyivät, niin kuin nämä linnut aina pelästyttivät, eivätkä uskaltaneet tulla lähemmäksi. Mutta kuningasvaris sanoi:
+\nNiinpä he kaikki makasivat maassa paitsi Scarecrow, ja hän nousi seisomaan ja ojensi kätensä. Ja kun varikset näkivät hänet, he pelästyivät, niin kuin nämä linnut aina pelästyttivät, eivätkä uskaltaneet tulla lähemmäksi. Mutta kuningasvaris sanoi:
 \n
 \n\"Se on vain täytetty mies. Nostan hänen silmänsä ulos.\"
 \n
@@ -118,7 +120,7 @@
 \n
 \nHeti ilmasta kuului suurta surinaa, ja mustien mehiläisten parvi lensi häntä kohti.
 \n
-\n\"Mene muukalaisten luo ja pistele heidät kuoliaaksi!\" käski noita, ja mehiläiset kääntyivät ja lensivät nopeasti, kunnes he tulivat sinne, missä Dorothy ja hänen ystävänsä kävelivät. Mutta metsämies oli nähnyt heidän tulevan, ja Scarecrow oli päättänyt mitä tehdä.
+\n\"Mene muukalaisten luo ja pistele heidät kuoliaaksi!\" käski noita, ja mehiläiset kääntyivät ja lensivät nopeasti, kunnes he tulivat sinne, missä Dorothy ja hänen ystävänsä kävelivät. Mutta Metsämies oli nähnyt heidän tulevan, ja Scarecrow oli päättänyt mitä tehdä.
 \n
 \n\"Ota oljeni esiin ja levitä se pienen tytön, koiran ja leijonan päälle\", hän sanoi metsämiehelle, \"ja mehiläiset eivät voi pistää niitä.\" Tämän puumies teki, ja kun Dorothy makasi leijonan vieressä ja piti Totoa sylissään, olki peitti heidät kokonaan.
 \n
@@ -126,7 +128,12 @@
 \n
 \nSitten Dorothy ja leijona nousivat, ja tyttö auttoi Tin Woodmania laittamaan oljen takaisin Scarecrowiin, kunnes tämä oli yhtä hyvä kuin koskaan. Joten he aloittivat matkansa vielä kerran.
 \n
-\nPaha noita oli niin vihainen nähdessään mustia mehiläisiä pienissä kasoissa kuin hienoa hiiltä, että hän löi jalkaansa, repi hiuksiaan ja kiristi hampaitaan. Ja sitten hän kutsui kymmenkunta orjaansa, jotka olivat Winkejä, ja antoi heille teräviä keihäitä käskeen heitä menemään muukalaisten luo ja tuhoamaan heidät.
+\nPaha noita oli niin vihainen nähdessään mustia mehiläisiä pienissä kasoissa kuin hienoa hiiltä, että hän takoi jalkaansa, repi hiuksiaan ja kiristi hampaitaan. Ja sitten hän kutsui kymmenkunta orjaansa, jotka olivat Winkejä, ja antoi heille teräviä keihäitä käskeen heitä menemään muukalaisten luo ja tuhoamaan heidät.
 \n
 \nVinkit eivät olleet rohkeaa kansaa, mutta heidän täytyi tehdä niin kuin käskettiin. Niinpä he marssivat pois, kunnes tulivat Dorothyn lähelle. Sitten leijona karjui kovasti ja hyppäsi heitä kohti, ja köyhät vinkut olivat niin peloissaan, että he juoksivat takaisin niin nopeasti kuin pystyivät.</string>
+    <string name="menuEnable">Ota käyttöön</string>
+    <string name="dialogServiceDisableMessage">Kuluttajasovellukset lakkaavat vastaanottamasta tapahtumia. Poistetaanko palvelu käytöstä\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Sovellukset</string>
+    <string name="menuDisable">Poista käytöstä</string>
+    <string name="aboutScreenAppListText">Luettelo tälle laitteelle asennetuista sovelluspaketeista, jotka käyttävät Steady Screen -ominaisuutta:</string>
 </resources>
