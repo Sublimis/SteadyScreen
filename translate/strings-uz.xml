@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ushbu xizmat mos keluvchi ilovalarga foydalanuvchi interfeysi doirasidagi kichik qurilma harakatlariga osongina qarshi turish imkonini beradi.
+    <string name="appDesc">Yo\'lda o\'qishni yanada qiziqarli qiling!
 \n
-\n🏝️ Bu ekranni oʻqish qobiliyatini yaxshilashi va yoʻl-yoʻlakay harakat kasalligini engillashtirishi mumkin, masalan. harakatlanayotgan transport vositasida o\'qish paytida.
+\n⛵ Ushbu xizmat mos keluvchi ilovalarga foydalanuvchi interfeysi doirasidagi kichik qurilma harakatlariga osongina qarshi turish imkonini beradi.
 \n
-\n⚡ Ilova resurslardan foydalanishni minimallashtirish va unumdorlikni oshirish uchun juda puxta ishlab chiqilgan.
+\n🏝️ Bu yurish yoki sayohat paytida qoʻl qurilmasi ekranini oʻqishni yaxshilaydi.
 \n
-\nSizga yoqadi degan umiddaman😊</string>
+\n⚡ Xizmat resurslardan foydalanishni minimallashtirish va unumdorlikni oshirish uchun juda ehtiyotkorlik bilan ishlab chiqilgan. Qo\'shimcha ma\'lumotni GitHub-da topishingiz mumkin.
+\n
+\nBu sizga yoqadi degan umiddaman 😊</string>
     <string name="dialogReviewNudgeMessage">Bu ilova sizga yoqdimi\?</string>
     <string name="dialogReviewNudgeMessage2">Rahmat! Iltimos, yaxshi sharh yozing yoki Play Store-da bizga 5 yulduz bilan baho bering.</string>
     <string name="paramLinearScalingInfo">Bu harakatlarni chiziqli ravishda o\'lchaydi, hisob-kitoblarga ta\'sir qilmasdan ularni kattaroq yoki kichikroq qiladi.</string>
     <string name="licenseItemAlreadyOwned">Litsenziya elementi allaqachon egalik qilgan</string>
-    <string name="dialogInfoMessage">Qurilmani biroz silkiting. Fon tarkibi bu harakatlarni qanday yumshatganiga e\'tibor bering, bu esa ekranda o\'qishni osonlashtiradi. (Buning uchun maxsus imkoniyatlar sozlamalarida Stillly xizmati yoqilgan boʻlishi kerak.)
+    <string name="dialogInfoMessage">Qurilmani biroz silkiting. Fon tarkibi bu harakatlarni qanday yumshatganiga e\'tibor bering, bu esa ekranda o\'qishni osonlashtiradi.
 \n
 \nUshbu funktsiyani har qanday dasturda osongina amalga oshirish mumkin. Iltimos, GitHub-dagi ko\'rsatmalarga amal qiling.</string>
     <string name="paramForceScaling">Majburiy masshtablash</string>
@@ -34,20 +36,20 @@
     <string name="menuSendDebugFeedback">Muammo haqida xabar bering</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Yakuniy</string>
-    <string name="dialogRestoreDefaultsMessage">Sozlamalar standart qiymatlarga tiklansinmi\?</string>
+    <string name="dialogRestoreDefaultsMessage">Parametrlar standart qiymatlarga tiklansinmi\?</string>
     <string name="paramDamping">Damping</string>
-    <string name="serviceInactiveText">Xizmat o\'chirilgan, yoqish uchun shu yerni bosing.</string>
+    <string name="serviceInactiveText">Xizmat o\'chirilgan, yoqish uchun bosing.</string>
     <string name="aboutScreenTranslationsText">Ushbu ilovani tarjima qilishga va bepul litsenziya olishga yordam bering! Batafsil ma\'lumot:</string>
     <string name="cancel">Bekor qilish</string>
     <string name="ultimateLicenseTitle">Yakuniy litsenziya</string>
     <string name="measuredSensorRate">O\'lchangan sensor tezligi</string>
     <string name="menuTheme">Mavzu</string>
     <string name="measuredSensorRateInfo">Ilova tomonidan o\'lchangan joriy sensor tezligi. Bu kerakli sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni taqdim etishni hal qiladi.</string>
-    <string name="aboutScreenGithubLink">Hali ham GitHub-da</string>
-    <string name="aboutScreenLicenseTitle">Ilova litsenziyasi</string>
+    <string name="aboutScreenGithubLink">GitHub-da barqaror ekran</string>
+    <string name="aboutScreenLicenseTitle">🔑 Litsenziya</string>
     <string name="aboutScreenLicenseText">Ushbu ilova bepul va cheklovlarsiz ishlaydi. Biroq, parametrlar litsenziyasiz 1 soatdan keyin standart qiymatlariga qaytadi.</string>
     <string name="dialogInfoButton">GitHub-ga o\'ting</string>
-    <string name="generalError">Ba\'zi xatolik yuz berdi. Iltimos, yana bir bor urinib ko\'ring.</string>
+    <string name="generalError">Ba\'zi xatolik yuz berdi. Iltimos, qayta urinib koʻring.</string>
     <string name="paramRecoilInfo">Buni oshirish kichik tebranishlarga nisbatan sezgirlikni pasaytiradi va harakatlarni katta kuchlarga nisbatan kamroq sezgir qiladi.</string>
     <string name="menuRestoreDefaults">Standart sozlamalarni tiklash</string>
     <string name="dialogButtonRateOnPlayStore">Play Marketda baho bering</string>
@@ -56,7 +58,7 @@
     <string name="menuInfo">Ma\'lumot</string>
     <string name="loremIpsum">(Ushbu matn ko\'rsatish uchun mo\'ljallangan)
 \n
-\nYashil mo‘ylovli askar ularni Zumrad shahar ko‘chalari bo‘ylab, darvoza qo‘riqchisi yashaydigan xonaga yetguncha yetaklab bordi. Bu ofitser ularning ko\'zoynagini o\'zining katta qutisiga qaytarish uchun qulfini ochdi, keyin esa do\'stlarimizga xushmuomalalik bilan darvozani ochdi.
+\nYashil mo‘ylovli askar ularni Zumrad shahar ko‘chalari bo‘ylab yetaklab, darvoza qo‘riqchisi yashaydigan xonaga yetib bordi. Bu ofitser ularning ko\'zoynagini o\'zining katta qutisiga qaytarish uchun qulfini ochdi, keyin esa do\'stlarimizga xushmuomalalik bilan darvozani ochdi.
 \n
 \n— Qaysi yo‘l G‘arbning yovuz jodugariga olib boradi\? — so\'radi Doroti.
 \n
@@ -64,19 +66,19 @@
 \n
 \n— Xo\'sh, uni qanday topamiz\? - deb so\'radi qiz.
 \n
-\n- Bu oson bo\'ladi, - deb javob berdi erkak, - chunki u sizni Vinkilar mamlakatida ekanligingizni bilsa, sizni topadi va hammangizni o\'zining quliga aylantiradi.
+\n- Bu oson bo\'ladi, - deb javob berdi erkak, - chunki u sizni Vinkilar mamlakatida ekanligingizni bilsa, sizni topadi va hammangizni o\'ziga qul qiladi.
 \n
-\n- Balki yo\'q, - dedi Qo\'rqinchli, - biz uni yo\'q qilmoqchimiz.
+\n- Balki, - dedi Qo\'rqinchli, - biz uni yo\'q qilmoqchimiz.
 \n
-\n\"Oh, bu boshqacha\", dedi Darvozalar qo\'riqchisi. \"Oldin hech kim uni yo\'q qilmagan, shuning uchun men, tabiiyki, u boshqalarga bo\'lgani kabi, sizga ham qul qiladi deb o\'yladim. Lekin ehtiyot bo\'ling, chunki u yovuz va shafqatsiz va uni yo\'q qilishingizga ruxsat bermasligi mumkin. G\'arb, quyosh botadigan joyda va siz uni topa olmaysiz.\"
+\n\"Oh, bu boshqacha\", dedi Darvozalar qo\'riqchisi. \"Oldin hech kim uni yo\'q qilmagan, shuning uchun men tabiiyki, u boshqalarga bo\'lgani kabi sizga ham qul bo\'ladi deb o\'yladim. Lekin ehtiyot bo\'ling, chunki u yovuz va shafqatsiz va uni yo\'q qilishga ruxsat bermasligi mumkin. G\'arb, quyosh botadigan joyda va siz uni topa olmaysiz.\"
 \n
-\nUlar unga minnatdorchilik bildirib, xayrlashdilar va G‘arb tomon burilib, u yer-bu yerda papatyalar va sariyog‘lar o‘ralgan mayin o‘tlar bo‘ylab sayr qilishdi. Doroti hali ham saroyda kiyib olgan chiroyli ipak ko\'ylagini kiyib yurardi, lekin endi u ajablanib, u endi yashil emas, balki toza oq ekanligini ko\'rdi. Totoning bo\'ynidagi lenta ham yashil rangini yo\'qotib, Dorotining libosiday oppoq edi.
+\nUlar unga minnatdorchilik bildirib, xayrlashdilar va G‘arb tomon burilib, u yer-bu yerda papatyalar va sariyog‘lar o‘sgan mayin o‘tlar bo‘ylab sayr qilishdi. Doroti hali ham saroyda kiygan chiroyli ipak ko\'ylagini kiyib yurardi, lekin endi u ajablanib, u endi yashil emas, balki toza oq ekanligini ko\'rdi. Totoning bo\'ynidagi lenta ham yashil rangini yo\'qotib, Doroti libosiday oppoq edi.
 \n
 \nZumrad shahar tez orada ancha ortda qolib ketdi. Ular olg\'a siljib borgani sari yer qo\'pol va tepalik bo\'lib borardi, chunki G\'arbdagi bu mamlakatda na fermalar, na uylar yo\'q edi, yer esa g\'alla edi.
 \n
 \nPeshindan keyin quyosh ularning yuzlarida qiziydi, chunki ularga soya beradigan daraxtlar yo\'q edi; Shunday qilib, tungacha Doroti, Toto va Arslon charchab, o\'tga yotib uxlab qolishdi, O\'rmonchi va Qo\'rqinchli qo\'riqlashdi.
 \n
-\nEndi G\'arbning yovuz jodugarining faqat bitta ko\'zi bor edi, lekin u teleskopdek kuchli va hamma joyni ko\'ra olardi. Shunday qilib, u o\'z qasrining eshigi oldida o\'tirganida, u tasodifan atrofga qaradi va Doroti uxlab yotganini ko\'rdi, u atrofida do\'stlari bilan. Ular uzoq masofada edi, lekin Yovuz Jodugar ularni o\'z mamlakatida topib, g\'azablandi; Shunday qilib, u bo\'yniga osilgan kumush hushtak chaldi.
+\nEndi G\'arbning yovuz jodugarining bir ko\'zi bor edi, lekin u teleskopdek kuchli va hamma joyni ko\'ra olardi. Shunday qilib, u o\'z qasrining eshigi oldida o\'tirganida, u tasodifan atrofga qaradi va Doroti uxlab yotganini ko\'rdi, u atrofida do\'stlari bilan. Ular uzoq masofada edi, lekin Yovuz Jodugar ularni o\'z mamlakatida topib, g\'azablandi; Shunday qilib, u bo\'yniga osilgan kumush hushtak chaldi.
 \n
 \nShu zahotiyoq uning oldiga katta bo\'rilar to\'dasi har tomondan yugurib keldi. Ularning uzun oyoqlari, shiddatli ko\'zlari va o\'tkir tishlari bor edi.
 \n
@@ -84,7 +86,7 @@
 \n
 \n— Ularni o‘zingga qul qilmaysanmi\? – deb so‘radi bo‘rilar sardori.
 \n
-\n\"Yo\'q, - deb javob berdi u, - biri qalaydan, biri somondan; biri qiz, biri esa Arslon. Ularning hech biri ishlashga yaramaydi, shuning uchun ularni mayda bo\'laklarga bo\'ling.\"
+\n- Yo\'q, - deb javob berdi u, - biri qalaydan, biri somondan; biri qiz, biri sher.
 \n
 \n- Yaxshi, - dedi bo\'ri va u bor tezligida yugurib ketdi, boshqalari ham ergashdilar.
 \n
@@ -92,7 +94,7 @@
 \n
 \n- Bu mening jangim, - dedi O\'rmonchi, - shuning uchun orqamdan yur, ular kelganlarida men ularni kutib olaman.
 \n
-\nU o\'zi juda o\'tkir qilib qo\'ygan boltasini ushlab oldi va bo\'rilar boshlig\'i ustiga kelganida, Qalay o\'rmonchi qo\'lini silkitib, bo\'rining boshini tanasidan kesib tashladi, shunda u darhol o\'ldi. U boltasini ko\'tarishi bilanoq boshqa bo\'ri kelib qoldi va u ham Tin Woodman qurolining o\'tkir qirrasi ostiga tushib ketdi. Qirqta bo\'ri bor edi, qirq marta bo\'ri o\'ldirildi, shuning uchun ularning hammasi O\'rmonchining oldida to\'planib yotishdi.
+\nU o\'zi juda o\'tkir qilib qo\'ygan boltasini ushlab oldi va bo\'rilar boshlig\'i ustiga kelganida, Qalay yog\'och qo\'lini silkitib, bo\'rining boshini tanasidan kesib tashladi, shunda u darhol o\'ldi. U boltasini ko\'tarishi bilanoq boshqa bo\'ri kelib qoldi va u ham Tin Woodman qurolining o\'tkir qirrasi ostiga tushib ketdi. Qirqta bo\'ri bor edi, qirq marta bo\'ri o\'ldirildi, shuning uchun ularning hammasi O\'rmonchining oldida to\'planib yotishdi.
 \n
 \nKeyin boltasini qo‘yib, Qo‘rqinchlining yoniga o‘tirdi, u: “Yaxshi jang bo‘ldi, do‘stim”, dedi.
 \n
@@ -114,7 +116,7 @@
 \n
 \nQirol Qarg\'a Qo\'rqinchli tomon uchib bordi, u qo\'rqoqni boshidan ushlab, o\'lguncha bo\'ynini burab qo\'ydi. Va keyin boshqa qarg\'a unga uchib ketdi va Qo\'rqinchli ham bo\'ynini burab qo\'ydi. Qirqta qarg\'a bor edi va Qo\'rqinchli qirq marta bo\'ynini burab, oxiri uning yonida o\'lik holda yotardi. Keyin u hamrohlarini turishga chaqirdi va ular yana safarga otlandilar.
 \n
-\nYovuz jodugar yana tashqariga qaradi va uning barcha qarg\'alarini to\'planib yotganini ko\'rgach, u dahshatli g\'azabga keldi va kumush hushtakini uch marta chaldi.
+\nYovuz jodugar yana tashqariga qaradi va uning barcha qarg\'alarining to\'planib yotganini ko\'rganida, u dahshatli g\'azabga keldi va kumush hushtakini uch marta chaldi.
 \n
 \nShu zahoti havoda katta shovqin eshitildi va qora asalarilar to\'dasi unga qarab uchib keldi.
 \n
@@ -122,15 +124,15 @@
 \n
 \n\"Mening somonimni olib, qizcha, it va Arslonning ustiga soching, - dedi u O\'rmonchiga, - va asalarilar ularni tishlay olmaydi\". O\'rmonchi shunday qildi va Doroti Arslonning yonida yotib, Totoni qo\'llarida ushlab turganda, somon ularni butunlay qopladi.
 \n
-\nAsalarilar kelib, O\'rmonchidan boshqa hech kimni tishlamay qolishdi, shuning uchun ular unga uchib ketishdi va O\'rmonchiga hech qanday zarar etkazmasdan, barcha tishlarini tunukaga sindirishdi. Asalarilar chaqishi singanida yashay olmaganidek, bu qora asalarilarning oxiri edi va ular mayda-chuyda ko\'mir uyalari kabi O\'rmonchining atrofida qalin sochilib yotardilar.
+\nAsalarilar kelib, O\'rmonchidan boshqa hech kimni tishlamay qolishdi, shuning uchun ular unga uchib ketishdi va yog\'och odamga hech qanday zarar etkazmasdan, barcha tishlarini tunukaga sindirishdi. Asalarilar chaqishi singanida yashay olmaganidek, bu qora asalarilarning oxiri bo\'lib, ular mayda-chuyda ko\'mir uyumlari kabi O\'rmonchining atrofida sochilib yotardi.
 \n
 \nKeyin Doroti va Arslon o\'rnidan turishdi va qiz qalay yog\'ochchiga somonni yana Qo\'rqinchli ichiga solib qo\'yishga yordam berdi, u avvalgidek yaxshi bo\'ldi. Shunday qilib, ular yana safarlarini boshladilar.
 \n
-\nYovuz jodugar o‘zining qora arilarini mayda-chuyda cho‘g‘dek mayda-chuyda qilib ko‘rib, shunchalik g‘azablandiki, oyog‘ini urib, sochlarini yirtib, tishlarini g‘ijirlatdi. Keyin u Vinki bo\'lgan o\'nlab qullarini chaqirdi va ularga o\'tkir nayzalar berib, begonalarning oldiga borib, ularni yo\'q qilishni aytdi.
+\nYovuz jodugar o‘zining qora asalarilarini mayda-chuyda cho‘g‘day mayda-chuyda qilib ko‘rib, shunchalik g‘azablandiki, oyog‘ini urib, sochlarini yirtib, tishlarini g‘ijirlatdi. Keyin u o\'nlab qullarini chaqirdi, ular Vinki bo\'lgan va ularga o\'tkir nayzalar berib, begonalarning oldiga borib, ularni yo\'q qilishni buyurdi.
 \n
 \nWinkies jasur xalq emas edi, lekin ular aytganidek qilishlari kerak edi. Shunday qilib, ular Dorotiga yaqinlashguncha yurishdi. Shunda Arslon qattiq bo\'kirib, ular tomon otildi va bechora Vinkilar shunchalik qo\'rqib ketishdiki, ular imkon qadar tezroq orqaga yugurishdi.</string>
     <string name="menuEnable">Yoqish</string>
-    <string name="dialogServiceDisableMessage">Iste\'molchi ilovalari voqealarni qabul qilishni to\'xtatadi. Xizmat o\'chirilsinmi\?</string>
+    <string name="dialogServiceDisableMessage">Iste\'molchi ilovalari hodisalarni qabul qilishni to\'xtatadi. Xizmat o\'chirilsinmi\?</string>
     <string name="aboutScreenAppListTitle">⛵ Ilovalar</string>
     <string name="menuDisable">Oʻchirish</string>
     <string name="aboutScreenAppListText">Doimiy ekran funksiyasidan foydalanadigan ushbu qurilmaga oʻrnatilgan ilovalar paketlari roʻyxati:</string>
