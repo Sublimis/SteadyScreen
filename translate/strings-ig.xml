@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ọrụ a na-enye ohere ka ngwa dakọtara na-egbochi mmegharị ngwaọrụ dị mfe n\'ime interface onye ọrụ ha.
+    <string name="appDesc">Mee ka ịgụ ihe na njem na-atọkwu ụtọ!
 \n
-\n🏝️ Nke a nwere ike melite ọgụgụ ihuenyo yana ikekwe ibelata ọrịa ngagharị mgbe ị na-aga, dịka. mgbe ị na-agụ n\'ụgbọ ala na-akpụ akpụ.
+\n⛵ Ọrụ a na-enye ohere ka ngwa dakọtara na-egbochi mmegharị ngwaọrụ dị mfe n\'ime interface onye ọrụ ha.
 \n
-\n⚡ Emebere ngwa a nke ọma, iji wedata ojiji akụrụngwa wee bulie arụmọrụ ya.
+\n🏝️ Nke a na-eme ka ngwaọrụ ejiri aka na-agụ enyo mgbe ị na-eje ije ma ọ bụ na-eme njem.
 \n
-\nAtụrụ m anya na ọ ga-atọ gị ụtọ 😊</string>
-    <string name="dialogReviewNudgeMessage">Ngwa a na-atọ gị ụtọ\?</string>
+\n⚡ Emeela ọrụ nke ọma, iji wedata ojiji akụrụngwa wee bulie arụmọrụ ya. Enwere ike ịchọta ozi ndị ọzọ na GitHub anyị.
+\n
+\nEnwere m obi ụtọ na ị na-eji nke a 😊</string>
+    <string name="dialogReviewNudgeMessage">Ngwa a ọ na-atọ gị ụtọ\?</string>
     <string name="dialogReviewNudgeMessage2">Daalụ! Biko deere anyị nyocha mara mma ma ọ bụ tụọ anyị kpakpando ise na Play Store.</string>
     <string name="paramLinearScalingInfo">Nke a na-eme ka mmegharị ahụ dị n\'ahịrị, na-eme ka ha buru ibu ma ọ bụ dị ntakịrị na-enweghị emetụta mgbako.</string>
     <string name="licenseItemAlreadyOwned">Enweelarị ihe ikike</string>
-    <string name="dialogInfoMessage">Kwagharịa ngwaọrụ ahụ ntakịrị. Rịba ama ka ọdịnaya ndabere si eme ka mmegharị ndị a dị nro, na-eme ka ịgụ ihe na ihuenyo dị mfe. (A ga-agbanyerịrị ọrụ na ntọala nnweta ka nke a mee.)
+    <string name="dialogInfoMessage">Kwagharịa ngwaọrụ ahụ ntakịrị. Rịba ama ka ọdịnaya ndabere si eme ka mmegharị ndị a dị nro, na-eme ka ịgụ ihe na ihuenyo dị mfe.
 \n
 \nEnwere ike itinye ọrụ a n\'ụzọ dị mfe na ngwa ọ bụla. Biko soro ntuziaka na GitHub.</string>
-    <string name="paramForceScaling">Mmanye nha nha</string>
+    <string name="paramForceScaling">Mmanye nchacha</string>
     <string name="paramLinearScaling">Mpempe akwụkwọ ntanetị</string>
     <string name="dialogConsentButton">Nabata</string>
     <string name="no">Mba</string>
@@ -34,21 +36,21 @@
     <string name="menuSendDebugFeedback">Kwuo okwu</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Nke kacha</string>
-    <string name="dialogRestoreDefaultsMessage">Weghachite ntọala na ụkpụrụ ndabara\?</string>
+    <string name="dialogRestoreDefaultsMessage">Weghachite paramita na ụkpụrụ ndabara\?</string>
     <string name="paramDamping">Damping</string>
-    <string name="serviceInactiveText">Akwụsịla ọrụ, pịa ebe a ka ị nwee ike.</string>
+    <string name="serviceInactiveText">Agbanyụrụ ọrụ, pịa ka ị nwee ike.</string>
     <string name="aboutScreenTranslationsText">Nyere aka ịtụgharị asụsụ ngwa a wee nweta ikike efu! Ozi ndị ọzọ:</string>
     <string name="cancel">Kagbuo</string>
     <string name="ultimateLicenseTitle">Akwụkwọ ikike kacha</string>
     <string name="measuredSensorRate">Ọnụ ọgụgụ ihe mmetụta atụtara</string>
     <string name="menuTheme">Isiokwu</string>
-    <string name="measuredSensorRateInfo">Ọnụego sensọ dị ugbu a dị ka ejiri ngwa tụọ ya. Nke a nwere ike ịdị iche na ọnụọgụ ihe mmetụta achọrọ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
-    <string name="aboutScreenGithubLink">Stilly na GitHub</string>
-    <string name="aboutScreenLicenseTitle">Ikikere ngwa</string>
+    <string name="measuredSensorRateInfo">Ọnụego sensọ dị ugbu a dị ka atụpụtara site na ngwa. Nke a nwere ike ịdị iche na ọnụọgụ ihe mmetụta achọrọ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
+    <string name="aboutScreenGithubLink">Ihuenyo kwụ ọtọ na GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Ikikere</string>
     <string name="aboutScreenLicenseText">Ngwa a bụ n\'efu ma na-arụ ọrụ na-enweghị oke. Agbanyeghị, parampat ga-alaghachi na ụkpụrụ ndabara ha ka elekere 1 gachara na-enweghị ikike.</string>
     <string name="dialogInfoButton">Gaa na GitHub</string>
     <string name="generalError">Ụfọdụ mperi mere. Biko nwaa ọzọ.</string>
-    <string name="paramRecoilInfo">Ịbawanye nke a ga-ebelata mmetụta nke obere oscillations ma mee ka mmegharị ahụ ghara inwe mmetụta nke ike ndị buru ibu.</string>
+    <string name="paramRecoilInfo">Ịbawanye nke a ga-ebelata nghọta na obere oscillations ma mee ka mmegharị ahụ ghara inwe mmetụta nke ike ndị buru ibu.</string>
     <string name="menuRestoreDefaults">Weghachite ndabara</string>
     <string name="dialogButtonRateOnPlayStore">Ọnụ ego na Play Store</string>
     <string name="paramSensorRateInfo">Nke a na-edobe ọnụọgụ ihe mmetụta achọrọ. Ọnụ ahịa dị elu nwere ike iri batrị karịa. Nke a nwere ike ịdị iche na ọnụego ihe mmetụta a tụrụ ka sistemụ na-ekpebi ọnụego ọ ga-enye.</string>
@@ -56,7 +58,7 @@
     <string name="menuInfo">Ozi</string>
     <string name="loremIpsum">(Ede ederede a bụ maka ihe ngosi)
 \n
-\nOnye agha ahụ ji ahịhịa ndụ akwụkwọ ndụ duuru ha n\'okporo ámá nke Emerald City ruo mgbe ha rutere n\'ọnụ ụlọ ebe onye nche nke ọnụ ụzọ ámá bi. Onye uwe ojii a meghere enyo ha ka o tinyeghachi ha n\'ime nnukwu igbe ya, ma jiri nkwanye ùgwù meghere ndị enyi anyị ọnụ ụzọ ámá.
+\nOnye agha ahụ ji ahịhịa ndụ akwụkwọ ndụ duuru ha n’okporo ụzọ Emerald City ruo mgbe ha rutere n’ọnụ ụlọ ebe onye nche ọnụ ụzọ ámá bi. Onye uwe ojii a meghere enyo ha ka o tinyeghachi ha n\'ime nnukwu igbe ya, ma jiri nkwanye ùgwù meghere ndị enyi anyị ọnụ ụzọ ámá.
 \n
 \n\"Olee ụzọ na-eduga na Ajọ Amoosu nke West\?\" jụrụ Dorothy.
 \n
@@ -68,15 +70,15 @@
 \n
 \n\"Ikekwe,\" ka Scarecrow kwuru, \"n\'ihi na anyị pụtara ibibi ya.\"
 \n
-\n\"Oh, nke ahụ dị iche,\" ka onye nche nke Gates kwuru. \"Ọ dịghị onye ọ bụla e bibiri ya na mbụ, n\'ihi ya, m na-eche n\'ezie na ọ ga-eme gị ohu, dị ka o mere nke ndị ọzọ. Ma lezienụ anya; n\'ihi na ọ bụ onye ajọ omume, na-adịkwa ike, na ọ gaghị ekwe ka i bibie ya. West, ebe anyanwụ dara, ị gaghị enwe ike ịchọta ya.\"
+\n\"Oh, nke ahụ dị iche,\" ka onye nche nke Gates kwuru. \"Ọ dịghị onye ọ bụla e bibiri ya na mbụ, n\'ihi ya, m na-eche n\'ezie na ọ ga-eme gị ohu, dị ka o mere nke ndị ọzọ. Ma lezienụ anya; n\'ihi na ọ bụ onye ajọ omume, na-adị ike, na ọ gaghị ekwe ka i bibie ya. West, ebe anyanwụ dara, ị gaghị enwe ike ịchọta ya.\"
 \n
-\nHa kelere ya ma sị ya ka ọ dị mma, ma tụgharịa gawa n\'Ebe Ọdịda Anyanwụ, na-aga n\'ofe ahịhịa ahịhịa dị nro nke jupụtara ebe a na n\'ebe ahụ na daisies na buttercups. Dorothy ka na-eyi uwe silk mara mma nke o yiri n\'obí eze, ma ugbu a, n\'ụzọ tụrụ ya n\'anya, ọ chọpụtara na ọ bụghịzi akwụkwọ ndụ akwụkwọ ndụ, kama ọ na-acha ọcha. Mkpịsị ahụ dị n\'olu Toto furukwa agba ndụ ndụ ya ma na-acha ọcha ka uwe Dorothy.
+\nHa kelere ya ma sị ya ka ọ dị mma, ma tụgharịa gawa n\'Ebe Ọdịda Anyanwụ, na-aga n\'ofe ahịhịa ahịhịa dị nro nke a na-etinye ebe a na ebe a na-esi nri daisi na bọta. Dorothy ka na-eyi uwe silk mara mma nke o yiri n\'obí eze, ma ugbu a, n\'ụzọ tụrụ ya n\'anya, ọ chọpụtara na ọ bụghịzi akwụkwọ ndụ akwụkwọ ndụ, kama ọ na-acha ọcha. Mkpịsị ahụ dị n\'olu Toto furukwa agba ndụ ndụ ya ma na-acha ọcha ka uwe Dorothy.
 \n
 \nObodo Emerald ka hapụrụ n\'oge na-adịghị anya. Ka ha na-aga n’ihu ala ahụ bịara na-arị elu ma na-arị elu, n’ihi na e nweghị ugbo ma ọ bụ ụlọ n’obodo a nke dị n’Ebe Ọdịda Anyanwụ Ụwa, ma ala ahụ na-agbaji.
 \n
-\nN\'ehihie na-enwu dị ọkụ n\'ihu ha, n\'ihi na ọ dịghị osisi ndị na-ekpuchi ha; nke mere na tupu abalị Dorothy na Toto na ọdụm ike gwụrụ, ma dina n\'elu ahịhịa ma daa n\'ụra, na-eche osisi na Scarecrow nche.
+\nN\'ehihie na-enwu dị ọkụ n\'ihu ha, n\'ihi na ọ dịghị osisi ndị na-ekpuchi ha; nke mere na tupu abalị Dorothy na Toto na Ọdụm ike gwụrụ, ma dina n\'elu ahịhịa ma daa n\'ụra, na-eji osisi na Scarecrow na-eche nche.
 \n
-\nUgbu a Ajọ Amoosu nke West nwere naanị otu anya, ma nke ahụ dị ike dị ka teliskop, ọ pụkwara ịhụ ebe niile. Ya mere, ka ọ nọ ọdụ n\'ọnụ ụzọ nke nnukwu ụlọ ya, ọ na-ele anya gburugburu wee hụ Dorothy ka ọ na-ehi ụra, ya na ndị enyi ya niile gbasara ya. Ha nọ n’ebe dị anya, ma Ajọ Amoosu were iwe ịhụ ha n’obodo ya; o we fùa n\'okpukpu ọla-ọcha nke nēwere n\'olu-ya.
+\nUgbu a Ajọ Amoosu nke West nwere naanị otu anya, ma nke ahụ dị ike dị ka teliskop, ọ pụkwara ịhụ ebe niile. Ya mere, ka ọ nọ ọdụ n\'ọnụ ụzọ ụlọ ya, ọ na-ele anya gburugburu wee hụ Dorothy ka ọ na-ehi ụra, ya na ndị enyi ya niile gbasara ya. Ha nọ n’ebe dị anya, ma Ajọ Amoosu were iwe ịhụ ha n’obodo ya; o we fùa n\'okpukpu ọla-ọcha nke nēkwudo n\'olu-ya.
 \n
 \nNgwa ngwa, otu mkpọ anụ ọhịa wolf dị ukwuu si n\'akụkụ nile gbakwuru ya. Ha nwere ogologo ụkwụ na anya dị egwu na ezé dị nkọ.
 \n
@@ -84,31 +86,31 @@
 \n
 \n\"Ị́ gaghị eme ha ohu gị\?\" jụrụ onye ndu anụ ọhịa wolf.
 \n
-\nỌ si, É-è, otù nime ha bu b͕amb͕a, na otù nke okporo-ọka; otù nwa-ab͕ọghọ nādighi, ọzọ bu ọdum.
+\nỌ si, É-è, otù nime ha bu b͕amb͕a, na otù nke okporo-ọka; otù nwa-ab͕ọghọ nādighi, ibe-ya bu ọdum: ọ dighi onye ọ bula n\'etiti ha ruru ije ozi, ka i we dọwa ha n\'iberibe ntà.
 \n
 \n\"Ọ dị mma,\" anụ ọhịa wolf kwuru, ma ọ gbapụrụ ọsọ ọsọ, ndị ọzọ sochiri ya.
 \n
-\nỌ dị mma na Scarecrow na onye Woodman nọ na-amụ anya wee nụ ka anụ ọhịa wolf na-abịa.
+\nỌ dabara nke ọma na Scarecrow na Woodman nọ na-amụ anya wee nụ ka anụ ọhịa wolf na-abịa.
 \n
 \n\"Nke a bụ ọgụ m,\" ka Woodman kwuru, \"ya mere daa n\'azụ m ga-ezute ha ka ha na-abịa.\"
 \n
-\nO wee jide anyụike ya, nke o mere nke ukwuu, ka onye isi anụ ọhịa wolf bịarutere Tin Woodman wee kụpụsịa isi anụ ọhịa wolf n\'ahụ ya, nke mere na ọ nwụrụ ozugbo. Ozugbo o nwere ike weliri anyụike ya anụ ọhịa wolf ọzọ gbagotere, ọ dakwara n\'okpuru ọnụ ọnụ nke ngwa agha Tin Woodman. E nwere iri anụ ọhịa wolf iri anọ, e gbukwara anụ ọhịa wolf ugboro iri anọ, nke mere na n\'ikpeazụ ha nile tọgbọrọ n\'efu n\'obo n\'iru Onye-osisi.
+\nO were were anyụike ya, nke o mere nke ukwuu, ka onye ndu anụ ọhịa wolf bịarutere Tin Woodman wee kụpụsịa isi anụ ọhịa wolf n’ahụ ya, nke mere na ọ nwụrụ ozugbo. Ozugbo o nwere ike weliri anyụike ya anụ ọhịa wolf ọzọ gbagotere, ọ dakwara n\'okpuru ọnụ ọnụ nke ngwa agha Tin Woodman. E nwere iri anụ ọhịa wolf iri anọ, e gbukwara anụ ọhịa wolf ugboro iri anọ, nke mere na n\'ikpeazụ ha nile tọgbọrọ n\'efu n\'obo n\'iru Onye-osisi.
 \n
 \nMgbe ahụ, o tinyere anyụike ya ma nọdụ n\'akụkụ Scarecrow, onye kwuru, \"Enyi m, ọ bụ ọgụ dị mma.\"
 \n
-\nHa chere ruo mgbe Dorothy tetara n\'ụtụtụ echi ya. Nwatakịrị nwanyị ahụ tụrụ egwu nke ukwuu mgbe ọ hụrụ nnukwu ikpo anụ ọhịa wolf na-ama jijiji, mana Tin Woodman gwara ya ihe niile. O kelere ya maka ịzọpụta ha wee nọdụ ala iri nri ụtụtụ, mgbe nke ahụ gasịrị, ha malitekwara ọzọ na njem ha.
+\nHa chere ruo mgbe Dorothy tetara n\'ụtụtụ echi ya. Nwatakịrị nwanyị ahụ tụrụ egwu nke ukwuu mgbe ọ hụrụ nnukwu mkpokọ anụ ọhịa wolf na-ama jijiji, mana Tin Woodman gwara ya ihe niile. O kelere ya maka ịzọpụta ha wee nọdụ ala iri nri ụtụtụ, mgbe nke ahụ gasịrị, ha malitekwara ọzọ na njem ha.
 \n
 \nUgbu a n\'ụtụtụ a, ajọ afa ahụ bịara n\'ọnụ ụzọ nnukwu ụlọ ya wee were otu anya ya nke nwere ike ịhụ ebe dị anya lepụ anya. Ọ hụrụ anụ ọhịa wolf ya niile ka ha tọgbọrọ n’efu, ma ndị bịara abịa ka na-eme njem n’obodo ya. Nke a kpasuru ya iwe karịa ka ọ dị na mbụ, o wee fụọ fụrụ ọlaọcha ya ugboro abụọ.
 \n
-\nNgwa ngwa otu nnukwu ìgwè uko ọhịa gbagoro n\'ebe ọ nọ, nke ga-eme ka eluigwe gbaa ọchịchịrị.
+\nNgwa ngwa, otu nnukwu ìgwè nke oke ọhịa wee na-efega n\'ebe ọ nọ, nke ga-eme ka eluigwe gbaa ọchịchịrị.
 \n
 \nAjọ afa ahu we si eze ukwu, Flaga ọsọsọ jekuru ndi-ọbìa, tupu anya-ha, tipia ha.
 \n
 \nỤka ọhịa ahụ fegara n\'otu nnukwu ìgwè atụrụ gawa Dorothy na ndị enyi ya. Mgbe obere nwa agbọghọ ahụ hụrụ ka ha na-abịa, ọ tụrụ egwu.
 \n
-\nMana Scarecrow siri, Nke a bụ agha m, ya mere dina n\'akụkụ m, agaghị emerụ gị ahụ.
+\nMana Scarecrow siri, Nke a bụ agha m, ya mere dina n\'akụkụ m, ka emejọkwa gị.
 \n
-\nYa mere, ha nile dina n’ala ma e wezụga Ụjọ, ma o guzoro ma setịa aka ya. Ma mb͕e ndi-iro ahu huru ya, ha turu ujọ, n\'ihi na anu-ufe ndia na-adi n\'ujo mb͕e nile, ha anwaghi kwa anwa ibia nso. Mana Eze Crow kwuru:
+\nYa mere, ha nile dina n’ala ma e wezụga Ụjọ, ma o guzoro ọtọ gbatịa aka ya. Ma mb͕e ndi-iro ahu huru ya, ha turu ujọ, n\'ihi na anu-ufe ndia na-ama jijiji mgbe nile, ha anwaghi kwa anwa ibia nso. Mana Eze Crow kwuru:
 \n
 \n\"Ọ bụ naanị onye juru afọ, m ga-atụpụ anya ya.\"
 \n
@@ -122,11 +124,16 @@
 \n
 \nWepụ ahịhịa m, fesa ya n\'elu nwa agbọghọ ahụ na nkịta na ọdụm,\" ka ọ gwara onye osisi, \"aṅụ enweghị ike ịgba ha.\" Nke a ka onye osisi mere, na ka Dorothy dina nso n\'akụkụ ọdụm ahụ wee jide Toto n\'aka ya, ahihia ahụ kpuchiri ha kpamkpam.
 \n
-\nAnụ ahụ bịara hụghị onye ọ bụla ma e wezụga Onye Ogbi ahụ ka ọ gbaa, ya mere ha feere ya wee gbajie agbụ ha nile megide tin ahụ, na-emerụghịkwa onye osisi ahụ ihe ọ bụla. Ma dị ka aṅụ na-apụghị ịdị ndụ mgbe agbajiri agbaji ha nke bụ njedebe nke aṅụ ojii, na ha na-agbasasị n\'ebe gbara gburugburu osisi, dị ka obere obo nke ezi icheku.
+\nAnụ ahụ bịara hụghị onye ọ bụla ma e wezụga Onye Ogbi ahụ ka ọ gbaa, ha wee fegide ya wee gbajie agbụ ha nile megide tin ahụ, na-emerụghịkwa onye osisi ahụ ihe ọ bụla. Ma dị ka aṅụ na-apụghị ịdị ndụ mgbe agbajiri agbaji ha nke bụ njedebe nke aṅụ ojii, na ha na-agbasasị n\'ebe gbara gburugburu osisi, dị ka obere obo nke ezi icheku.
 \n
 \nMgbe ahụ, Dorothy na ọdụm biliri, nwa agbọghọ ahụ nyeere Tin Woodman aka tinye ahihia ahụ n\'ime Scarecrow ọzọ, ruo mgbe ọ dị mma dịka ọ bụla. Ya mere, ha malitekwara njem ha ọzọ.
 \n
 \nAjọ Amoosu were iwe nke ukwuu mgbe ọ hụrụ ka aṅụ ojii ya nọ n’obere ikpo dị ka icheku ọkụ nke mere ka ọ zọọ ụkwụ ya ma dọwaa ntutu isi ya ma tachaa ezé ya. O we kpọ ndi-orù-ya iri-na-abua, ndi bu Winkie, nye ha ube di nkọ, gwa ha ka ha jekuru ndi ala ọzọ bibie ha.
 \n
 \nNdị Winkies abụghị ndị nwere obi ike, mana ha kwesịrị ime dịka a gwara ha. Ya mere, ha gawara ruo mgbe ha rutere nso na Dorothy. Mgbe ahụ, ọdụm ahụ kụdara oké uja wee fesaa n’ebe ha nọ, ndị Winkies dara ogbenye tụrụ egwu nke na ha gbagara ọsọ ọsọ ka ha nwere ike.</string>
+    <string name="menuEnable">Kwado</string>
+    <string name="dialogServiceDisableMessage">Ngwa ndị ahịa ga-akwụsị ịnata mmemme. Gbanyụọ ọrụ\?</string>
+    <string name="aboutScreenAppListTitle">Ngwa ngwa</string>
+    <string name="menuDisable">Gbanyụọ</string>
+    <string name="aboutScreenAppListText">Ndepụta ngwungwu ngwa arụnyere na ngwaọrụ a na-eji njirimara ihuenyo kwụ ọtọ:</string>
 </resources>
