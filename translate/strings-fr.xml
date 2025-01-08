@@ -1,132 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ce service permet aux applications compatibles de contrecarrer facilement les petits mouvements d\'appareils au sein de leur interface utilisateur.
+    <string name="appDesc">Rendez la lecture en déplacement plus agréable !
 \n
-\n🏝️ Cela peut améliorer la lisibilité de l\'écran et éventuellement atténuer le mal des transports lors de vos déplacements, par ex. en lisant dans un véhicule en mouvement.
+\n⛵ Ce service permet aux applications compatibles de contrer facilement les petits mouvements de l\'appareil au sein de leur interface utilisateur.
 \n
-\n⚡ L\'application a été conçue très méticuleusement, afin de minimiser l\'utilisation des ressources et de maximiser les performances.
+\n🏝️ Cela améliore la lisibilité de l\'écran d\'un appareil portable pendant la marche ou le voyage.
 \n
-\nJ\'espère que vous l\'apprécierez 😊</string>
+\n⚡ Le service a été conçu très méticuleusement, afin de minimiser l\'utilisation des ressources et de maximiser les performances. Vous trouverez plus d\'informations sur notre GitHub.
+\n
+\nJ\'espère que vous apprécierez l\'utilisation de ce service 😊</string>
     <string name="dialogReviewNudgeMessage">Est-ce que vous appréciez cette application \?</string>
-    <string name="dialogReviewNudgeMessage2">Merci! Veuillez écrire une belle critique ou nous attribuer 5 étoiles sur le Play Store.</string>
-    <string name="paramLinearScalingInfo">Cela redimensionne les mouvements de manière linéaire, les rendant plus grands ou plus petits sans affecter les calculs.</string>
-    <string name="licenseItemAlreadyOwned">Élément de licence déjà possédé</string>
-    <string name="dialogInfoMessage">Secouez un peu l\'appareil. Remarquez comment le contenu d\'arrière-plan adoucit ces mouvements, facilitant ainsi la lecture à l\'écran. (Le service Stilly doit être activé dans les paramètres d\'accessibilité pour que cela se produise.)
+    <string name="dialogReviewNudgeMessage2">Merci ! Veuillez écrire un commentaire positif ou nous attribuer une note de 5 étoiles sur le Play Store.</string>
+    <string name="paramLinearScalingInfo">Cela met à l\'échelle les mouvements de manière linéaire, les rendant plus grands ou plus petits sans affecter les calculs.</string>
+    <string name="licenseItemAlreadyOwned">Article sous licence déjà possédé</string>
+    <string name="dialogInfoMessage">Secouez légèrement l\'appareil. Remarquez comment le contenu de l\'arrière-plan adoucit ces mouvements, ce qui facilite la lecture à l\'écran.
 \n
-\nCette fonctionnalité peut être facilement implémentée dans n’importe quelle application. Veuillez suivre les instructions sur GitHub.</string>
-    <string name="paramForceScaling">Mise à l\'échelle des forces</string>
+\nCette fonctionnalité peut être facilement implémentée dans n\'importe quelle application. Veuillez suivre les instructions sur GitHub.</string>
+    <string name="paramForceScaling">Mise à l\'échelle de la force</string>
     <string name="paramLinearScaling">Mise à l\'échelle linéaire</string>
     <string name="dialogConsentButton">Accepter</string>
     <string name="no">Non</string>
-    <string name="licenseSuccessDialogMessage">L\'application a obtenu une licence avec succès. Merci pour votre soutien!</string>
+    <string name="licenseSuccessDialogMessage">L\'application a été licenciée avec succès. Merci pour votre soutien !</string>
     <string name="menuAbout">À propos</string>
     <string name="paramForceScalingInfo">Cela met à l\'échelle les forces avant les calculs, ce qui affecte à son tour l\'ampleur globale des mouvements.</string>
     <string name="menuLicense">Mettez à niveau votre licence</string>
     <string name="openSourceLicensesTitle">Licences open source</string>
-    <string name="menuDecreaseTextSize">Diminuer la taille du texte</string>
+    <string name="menuDecreaseTextSize">Réduire la taille du texte</string>
     <string name="aboutScreenTranslationsTitle">Traductions</string>
-    <string name="menuRateAndComment">Évaluez nous</string>
+    <string name="menuRateAndComment">Évaluez-nous</string>
     <string name="yes">Oui</string>
     <string name="paramRecoil">Recul</string>
-    <string name="paramSensorRate">Fréquence du capteur</string>
-    <string name="paramDampingInfo">L\'augmenter ralentira et atténuera les mouvements, les rendant moins sensibles à des forces plus importantes.</string>
+    <string name="paramSensorRate">Taux de capteur</string>
+    <string name="paramDampingInfo">L’augmentation de cette valeur ralentira et atténuera les mouvements, les rendant moins sensibles aux forces plus importantes.</string>
     <string name="ok">D\'ACCORD</string>
     <string name="menuSendDebugFeedback">Signaler un problème</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ultime</string>
-    <string name="dialogRestoreDefaultsMessage">Restaurer les paramètres aux valeurs par défaut \?</string>
+    <string name="dialogRestoreDefaultsMessage">Restaurer les paramètres aux valeurs par défaut \?</string>
     <string name="paramDamping">Amortissement</string>
-    <string name="serviceInactiveText">Le service est désactivé, cliquez ici pour l\'activer.</string>
+    <string name="serviceInactiveText">Le service est désactivé, cliquez pour activer.</string>
     <string name="aboutScreenTranslationsText">Aidez à traduire cette application et obtenez une licence gratuite ! Plus d\'informations:</string>
     <string name="cancel">Annuler</string>
-    <string name="ultimateLicenseTitle">Licence ultime</string>
+    <string name="ultimateLicenseTitle">Licence Ultime</string>
     <string name="measuredSensorRate">Taux de capteur mesuré</string>
     <string name="menuTheme">Thème</string>
-    <string name="measuredSensorRateInfo">Taux actuel du capteur tel que mesuré par l\'application. Cela peut différer du débit souhaité par le capteur, car le système décide en fin de compte quel débit fournir.</string>
-    <string name="aboutScreenGithubLink">Stilly sur GitHub</string>
-    <string name="aboutScreenLicenseTitle">Licence d\'application</string>
-    <string name="aboutScreenLicenseText">Cette application est gratuite et fonctionne sans limitations. Cependant, les paramètres reviendront à leurs valeurs par défaut après 1 heure sans licence.</string>
-    <string name="dialogInfoButton">Allez sur GitHub</string>
+    <string name="measuredSensorRateInfo">Taux de capteur actuel tel que mesuré par l\'application. Il peut différer du taux de capteur souhaité, car le système décide en fin de compte du taux à fournir.</string>
+    <string name="aboutScreenGithubLink">Écran stable sur GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licence</string>
+    <string name="aboutScreenLicenseText">Cette application est gratuite et fonctionne sans limitation. Cependant, les paramètres reviendront à leurs valeurs par défaut après 1 heure sans licence.</string>
+    <string name="dialogInfoButton">Accéder à GitHub</string>
     <string name="generalError">Une erreur s\'est produite. Veuillez réessayer.</string>
-    <string name="paramRecoilInfo">L\'augmenter réduira la sensibilité aux petites oscillations et rendra les mouvements moins sensibles aux forces plus importantes.</string>
-    <string name="menuRestoreDefaults">Réinitialiser</string>
-    <string name="dialogButtonRateOnPlayStore">Tarif sur Play Store</string>
-    <string name="paramSensorRateInfo">Ceci définit le taux de capteur souhaité. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer du débit mesuré par le capteur, car le système décide finalement quel débit fournir.</string>
+    <string name="paramRecoilInfo">L’augmentation de cette valeur réduira la sensibilité aux petites oscillations et rendra les mouvements moins sensibles aux forces plus importantes.</string>
+    <string name="menuRestoreDefaults">Restaurer les valeurs par défaut</string>
+    <string name="dialogButtonRateOnPlayStore">Notez sur Play Store</string>
+    <string name="paramSensorRateInfo">Cela définit la fréquence de capteur souhaitée. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer de la fréquence de capteur mesurée car le système décide en fin de compte de la fréquence à fournir.</string>
     <string name="menuIncreaseTextSize">Augmenter la taille du texte</string>
-    <string name="menuInfo">Info</string>
+    <string name="menuInfo">Informations</string>
     <string name="loremIpsum">(Ce texte est à des fins de démonstration)
 \n
-\nLe soldat aux moustaches vertes les conduisit à travers les rues de la Cité d\'Émeraude jusqu\'à ce qu\'ils atteignent la pièce où vivait le Gardien des Portes. Cet officier déverrouilla leurs lunettes pour les remettre dans sa grande boîte, puis il ouvrit poliment la porte à nos amis.
+\nLe soldat aux favoris verts les conduisit à travers les rues de la Cité d\'Émeraude jusqu\'à ce qu\'ils atteignent la pièce où vivait le Gardien des Portes. Cet officier déverrouilla leurs lunettes pour les ranger dans sa grande boîte, puis il ouvrit poliment la porte à nos amis.
 \n
-\n\"Quelle route mène à la méchante sorcière de l\'Ouest \?\" » demanda Dorothée.
+\n\"Quelle route mène à la Méchante Sorcière de l\'Ouest \?\" demanda Dorothée.
 \n
-\n\"Il n\'y a pas de route\", répondit le Gardien des Portes. \"Personne ne souhaite jamais suivre cette voie.\"
+\n\"Il n\'y a pas de route\", répondit le Gardien des Portes. \"Personne ne souhaite jamais passer par là.\"
 \n
-\n« Alors, comment allons-nous la retrouver \? demanda la jeune fille.
+\n\"Comment allons-nous donc la trouver \?\" demanda la jeune fille.
 \n
 \n\"Ce sera facile\", répondit l\'homme, \"car lorsqu\'elle saura que vous êtes au pays des Winkies, elle vous trouvera et fera de vous tous ses esclaves.\"
 \n
 \n\"Peut-être pas\", dit l\'Épouvantail, \"car nous avons l\'intention de la détruire.\"
 \n
-\n\"Oh, c\'est différent\", dit le Gardien des Portes. \"Personne ne l\'a jamais détruite auparavant, alors j\'ai naturellement pensé qu\'elle ferait de vous des esclaves, comme elle l\'a fait des autres. Mais faites attention, car elle est méchante et féroce, et elle ne peut pas vous permettre de la détruire. Respectez les règles. l\'Ouest, là où le soleil se couche, et vous ne pouvez manquer de la trouver. »
+\n\"Oh, c\'est différent\", dit le Gardien des Portes. « Personne ne l\'a jamais détruite auparavant, j\'ai donc naturellement pensé qu\'elle ferait de vous des esclaves, comme elle l\'a fait des autres. Mais prenez garde, car elle est méchante et féroce, et ne vous permettra peut-être pas de la détruire. Restez à l\'ouest, là où le soleil se couche, et vous ne pouvez pas manquer de la trouver. »
 \n
-\nIls le remercièrent, lui dirent au revoir, et se tournèrent vers l\'Ouest, marchant à travers des champs d\'herbes tendres parsemés çà et là de marguerites et de boutons d\'or. Dorothy portait toujours la jolie robe en soie qu\'elle avait enfilée au palais, mais maintenant, à sa grande surprise, elle découvrit qu\'elle n\'était plus verte, mais d\'un blanc pur. Le ruban autour du cou de Toto avait également perdu sa couleur verte et était aussi blanc que la robe de Dorothy.
+\nIls le remercièrent et lui dirent au revoir, puis se dirigèrent vers l\'ouest, marchant sur des champs d\'herbe douce parsemés ici et là de marguerites et de boutons d\'or. Dorothée portait toujours la jolie robe de soie qu\'elle avait mise au palais, mais maintenant, à sa grande surprise, elle découvrit qu\'elle n\'était plus verte, mais d\'un blanc pur. Le ruban autour du cou de Toto avait également perdu sa couleur verte et était aussi blanc que la robe de Dorothée.
 \n
-\nLa Cité d’Émeraude fut bientôt laissée loin derrière. À mesure qu\'ils avançaient, le terrain devenait plus accidenté et plus vallonné, car il n\'y avait ni fermes ni maisons dans ce pays de l\'Ouest, et le sol était labouré.
+\nLa Cité d\'Émeraude fut bientôt laissée loin derrière. Au fur et à mesure qu\'ils avançaient, le terrain devenait plus accidenté et plus vallonné, car il n\'y avait ni fermes ni maisons dans ce pays de l\'ouest, et le sol était inculte.
 \n
-\nDans l\'après-midi, le soleil brillait sur leurs visages, car il n\'y avait pas d\'arbres pour leur offrir de l\'ombre ; de sorte qu\'avant la nuit, Dorothée, Toto et le Lion furent fatigués, se couchèrent sur l\'herbe et s\'endormirent, sous le garde du Bûcheron et de l\'Épouvantail.
+\nL\'après-midi, le soleil leur brûlait le visage, car il n\'y avait pas d\'arbres pour leur offrir de l\'ombre ; Ainsi, avant la nuit, Dorothée, Toto et le Lion étaient fatigués et s\'étendirent sur l\'herbe et s\'endormirent, sous la surveillance du Bûcheron et de l\'Épouvantail.
 \n
-\nLa méchante sorcière de l’Ouest n’avait désormais qu’un seul œil, pourtant aussi puissant qu’un télescope et capable de voir partout. Alors, alors qu\'elle était assise à la porte de son château, elle regarda autour d\'elle et vit Dorothy endormie, entourée de ses amis. Ils étaient loin, mais la méchante sorcière était en colère de les trouver dans son pays ; alors elle souffla sur un sifflet d\'argent qui pendait autour de son cou.
+\nLa Méchante Sorcière de l\'Ouest n\'avait qu\'un œil, mais il était aussi puissant qu\'un télescope et pouvait voir partout. Alors, alors qu\'elle était assise sur le pas de la porte de son château, elle regarda par hasard autour d\'elle et vit Dorothée endormie, entourée de ses amis. Ils étaient très loin, mais la Méchante Sorcière était furieuse de les trouver dans son pays ; elle souffla donc dans un sifflet d\'argent qui pendait autour de son cou.
 \n
-\nAussitôt, de toutes parts, une meute de grands loups accourut vers elle. Ils avaient de longues jambes, des yeux féroces et des dents pointues.
+\nAussitôt, une meute de grands loups accourut de toutes parts. Ils avaient de longues jambes, des yeux féroces et des dents acérées.
 \n
-\n\"Allez vers ces gens\", dit la sorcière, \"et mettez-les en pièces.\"
+\n\"Va vers ces gens\", dit la Sorcière, \"et mets-les en pièces\".
 \n
-\n\"Tu ne vas pas en faire tes esclaves \?\" demanda le chef des loups.
+\n\"N\'allez-vous pas en faire vos esclaves \?\" demanda le chef des loups.
 \n
-\n\"Non,\" répondit-elle, \"l\'un est en fer blanc et l\'autre en paille; l\'un est une fille et l\'autre un lion. Aucun d\'eux n\'est apte au travail, vous pouvez donc les déchirer en petits morceaux.\"
+\n\"Non, répondit-elle, l\'un est en fer-blanc, l\'autre en paille, l\'un est une fille et l\'autre un lion. Aucun d\'eux n\'est apte au travail, alors tu peux les déchirer en petits morceaux.\"
 \n
-\n\"Très bien\", dit le loup, et il s\'enfuit à toute vitesse, suivi des autres.
+\n\"Très bien,\" dit le loup, et il s\'enfuit à toute vitesse, suivi par les autres.
 \n
-\nC\'était une chance que l\'Épouvantail et le Bûcheron soient bien éveillés et entendent les loups arriver.
+\nIl eut de la chance que l\'épouvantail et le bûcheron soient bien réveillés et entendent les loups arriver.
 \n
-\n\"C\'est mon combat\", dit le Woodman, \"alors reste derrière moi et je les rencontrerai à mesure qu\'ils viendront.\"
+\n\"C\'est mon combat,\" dit le bûcheron, \"alors passe derrière moi et je les rencontrerai quand ils viendront.\"
 \n
-\nIl saisit sa hache, qu\'il avait rendue très tranchante, et tandis que le chef des loups arrivait, le Bûcheron de fer-blanc balança son bras et coupa la tête du loup de son corps, de sorte qu\'il mourut immédiatement. Dès qu\'il put lever sa hache, un autre loup surgit, et il tomba également sous le tranchant de l\'arme du Tin Woodman. Il y avait quarante loups, et quarante fois un loup fut tué, de sorte qu\'à la fin ils gisèrent tous morts en tas devant le Bûcheron.
+\nIl saisit sa hache, qu\'il avait rendue très tranchante, et lorsque le chef des loups arriva, le bûcheron en fer-blanc balança son bras et coupa la tête du loup de son corps, de sorte qu\'il mourut immédiatement. Dès qu\'il put lever sa hache, un autre loup surgit, et il tomba également sous le tranchant de l\'arme du bûcheron en fer-blanc. Il y avait quarante loups, et quarante fois un loup fut tué, de sorte qu\'à la fin ils gisaient tous morts en tas devant le bûcheron. 
 \n
-\nPuis il posa sa hache et s\'assit à côté de l\'épouvantail, qui dit : « C\'était un bon combat, mon ami.
+\nIl posa alors sa hache et s\'assit à côté de l\'épouvantail, qui dit : « C\'était un bon combat, mon ami. »
 \n
-\nIls attendirent que Dorothy se réveille le lendemain matin. La petite fille fut très effrayée en voyant le grand tas de loups hirsutes, mais le Tin Woodman lui dit tout. Elle le remercia de les avoir sauvés et s\'assit pour le petit-déjeuner, après quoi ils reprirent leur voyage.
+\nIls attendirent que Dorothée se réveille le lendemain matin. La petite fille fut tout effrayée en voyant le grand tas de loups hirsutes, mais le bûcheron en fer-blanc lui raconta tout. Elle le remercia de les avoir sauvés et s\'assit pour déjeuner, après quoi ils reprirent leur voyage. 
 \n
-\nCe même matin, la méchante sorcière s\'est présentée à la porte de son château et a regardé dehors avec son œil unique qui pouvait voir au loin. Elle vit tous ses loups morts, et les étrangers qui parcouraient toujours son pays. Cela la rendit encore plus en colère qu’auparavant, et elle sonna deux fois dans son sifflet argenté.
+\nCe même matin, la méchante sorcière arriva à la porte de son château et regarda dehors avec son œil unique qui pouvait voir au loin. Elle vit tous ses loups étendus morts, et les étrangers qui voyageaient toujours dans son pays. Cela la mit plus en colère qu\'avant, et elle souffla deux fois dans son sifflet d\'argent. 
 \n
-\nImmédiatement, une grande volée de corbeaux sauvages vola vers elle, assez pour assombrir le ciel.
+\nImmédiatement, une grande volée de corbeaux sauvages vola vers elle, suffisamment pour obscurcir le ciel. 
 \n
-\nEt la méchante sorcière dit au roi Corbeau : « Vole immédiatement vers les étrangers ; arrache-leur les yeux et déchire-les en morceaux. »
+\nEt la méchante sorcière dit au Roi Corbeau : « Vole vers les étrangers, crève-leur les yeux et déchire-les en morceaux. »
 \n
-\nLes corbeaux sauvages volèrent en grand troupeau vers Dorothy et ses compagnons. Quand la petite fille les vit arriver, elle eut peur.
+\nLes corbeaux sauvages volèrent en un grand groupe vers Dorothée et ses compagnons. Quand la petite fille les vit arriver, elle eut peur.
 \n
-\nMais l\'Épouvantail dit : \"C\'est mon combat, alors allonge-toi à côté de moi et il ne te fera aucun mal.\"
+\nMais l\'Épouvantail dit : « C\'est mon combat, alors couche-toi à côté de moi et tu ne seras pas blessé. »
 \n
-\nAlors ils gisèrent tous par terre, sauf l\'épouvantail, qui se leva et étendit les bras. Et quand les corbeaux l\'aperçurent, ils furent effrayés, comme ces oiseaux le sont toujours par les épouvantails, et n\'osèrent pas s\'approcher davantage. Mais le Roi Corbeau dit :
+\nIls se couchèrent tous par terre, sauf l\'Épouvantail, qui se leva et tendit les bras. Et quand les corbeaux le virent, ils furent effrayés, comme ces oiseaux le sont toujours par les épouvantails, et n\'osèrent pas s\'approcher. Mais le Roi Corbeau dit :
 \n
-\n\"Ce n\'est qu\'un bonhomme en peluche. Je vais lui crever les yeux.\"
+\n« Ce n\'est qu\'un homme empaillé. Je vais lui crever les yeux. »
 \n
-\nLe Corbeau royal s\'envola vers l\'Épouvantail, qui l\'attrapa par la tête et lui tordit le cou jusqu\'à ce qu\'il meure. Et puis un autre corbeau vola vers lui, et l\'épouvantail lui tordit également le cou. Il y avait quarante corbeaux, et quarante fois l’épouvantail se tordit le cou, jusqu’à ce qu’enfin tous gisaient morts à côté de lui. Puis il appela ses compagnons à se lever, et ils reprirent leur voyage.
+\nLe Roi Corbeau se jeta sur l\'Épouvantail, qui l\'attrapa par la tête et lui tordit le cou jusqu\'à ce qu\'il meure. Et alors un autre corbeau vola sur lui, et l\'Épouvantail lui tordit le cou à son tour. Il y avait quarante corbeaux, et l\'épouvantail tordit le cou quarante fois, jusqu\'à ce qu\'enfin tous soient morts à côté de lui. Alors il appela ses compagnons pour qu\'ils se lèvent, et ils reprirent leur voyage.
 \n
-\nLorsque la méchante sorcière regarda de nouveau dehors et vit tous ses corbeaux couchés en tas, elle entra dans une colère terrible et souffla trois fois dans son sifflet d\'argent.
+\nQuand la méchante sorcière regarda de nouveau dehors et vit tous ses corbeaux couchés en tas, elle entra dans une terrible rage, et souffla trois fois dans son sifflet d\'argent.
 \n
-\nAussitôt, on entendit un grand bourdonnement dans l\'air, et un essaim d\'abeilles noires vola vers elle.
+\nImmédiatement, on entendit un grand bourdonnement dans l\'air, et un essaim d\'abeilles noires vola vers elle.
 \n
-\n\"Allez vers les étrangers et piquez-les à mort !\" » ordonna la sorcière, et les abeilles se tournèrent et volèrent rapidement jusqu\'à ce qu\'elles arrivent là où marchaient Dorothy et ses amis. Mais le Bûcheron les avait vu arriver, et l\'Épouvantail avait décidé quoi faire.
+\n\"Allez vers les étrangers et piquez-les à mort !\" ordonna la sorcière, et les abeilles se retournèrent et volèrent rapidement jusqu\'à ce qu\'elles arrivent à l\'endroit où Dorothée et ses amis marchaient. Mais le bûcheron les avait vus venir, et l\'épouvantail avait décidé quoi faire.
 \n
-\n\"Sortez ma paille et répandez-la sur la petite fille, sur le chien et sur le Lion\", dit-il au Bûcheron, \"et les abeilles ne pourront pas les piquer.\" C\'est ce que fit le Bûcheron, et tandis que Dorothy s\'allongeait près du Lion et tenait Toto dans ses bras, la paille les recouvrait entièrement.
+\n\"Sors ma paille et disperse-la sur la petite fille, le chien et le lion\", dit-il au bûcheron, \"et les abeilles ne pourront pas les piquer.\" Le Bûcheron fit cela et, comme Dorothée se couchait près du Lion et tenait Toto dans ses bras, la paille les recouvrit entièrement.
 \n
-\nLes abeilles sont arrivées et n\'ont trouvé personne d\'autre que le Bûcheron à piquer, alors elles ont volé vers lui et ont cassé tous leurs dards contre la boîte, sans blesser le Bûcheron du tout. Et comme les abeilles ne peuvent pas vivre quand leurs aiguillons sont brisés, ce fut la fin des abeilles noires, et elles gisaient éparpillées autour du Woodman, comme de petits tas de charbon fin.
+\nLes abeilles arrivèrent et ne trouvèrent personne d\'autre que le Bûcheron pour piquer, alors elles volèrent vers lui et brisèrent tous leurs aiguillons contre la tôle, sans blesser le Bûcheron du tout. Et comme les abeilles ne peuvent pas vivre quand leurs aiguillons sont brisés, ce fut la fin des abeilles noires, et elles gisaient disséminées autour du Bûcheron, comme de petits tas de charbon fin.
 \n
-\nPuis Dorothée et le Lion se relevèrent, et la jeune fille aida le Bûcheron à remettre la paille dans l\'Épouvantail, jusqu\'à ce qu\'il soit aussi bon que jamais. Ils reprirent donc leur voyage.
+\nAlors Dorothée et le Lion se relevèrent, et la fille aida le Bûcheron à remettre la paille dans l\'épouvantail, jusqu\'à ce qu\'il soit aussi bon que jamais. Ils reprirent donc leur voyage.
 \n
-\nLa méchante sorcière était tellement en colère quand elle vit ses abeilles noires en petits tas comme du charbon fin qu\'elle frappa du pied, s\'arracha les cheveux et grinça des dents. Et puis elle appela une douzaine de ses esclaves, qui étaient les Winkies, et leur donna des lances acérées, leur disant d\'aller vers les étrangers et de les détruire.
+\nLa Méchante Sorcière fut si en colère quand elle vit ses abeilles noires en petits tas comme du charbon fin qu\'elle frappa du pied, s\'arracha les cheveux et grinça des dents. Elle appela alors une douzaine de ses esclaves, les Winkies, et leur donna des lances acérées, leur ordonnant d\'aller voir les étrangers et de les détruire.
 \n
-\nLes Winkies n’étaient pas un peuple courageux, mais ils devaient faire ce qu’on leur disait. Ils s\'éloignèrent donc jusqu\'à ce qu\'ils s\'approchent de Dorothée. Alors le Lion poussa un grand rugissement et bondit vers eux, et les pauvres Winkies furent si effrayés qu\'ils reculèrent aussi vite qu\'ils le purent.</string>
+\nLes Winkies n\'étaient pas un peuple courageux, mais ils devaient faire ce qu\'on leur disait. Ils s\'éloignèrent donc jusqu\'à ce qu\'ils arrivent près de Dorothy. Le lion poussa alors un grand rugissement et bondit vers eux, et les pauvres Winkies furent si effrayés qu\'ils coururent aussi vite qu\'ils le purent.</string>
+    <string name="menuEnable">Activer</string>
+    <string name="dialogServiceDisableMessage">Les applications grand public cesseront de recevoir des événements. Désactiver le service \?</string>
+    <string name="aboutScreenAppListTitle">⛵ Applications</string>
+    <string name="menuDisable">Désactiver</string>
+    <string name="aboutScreenAppListText">Liste des packages d\'applications installés sur cet appareil qui utilisent la fonction Steady Screen :</string>
 </resources>
