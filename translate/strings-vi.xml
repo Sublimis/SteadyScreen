@@ -1,134 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Dịch vụ này cho phép các ứng dụng tương thích dễ dàng chống lại các chuyển động nhỏ của thiết bị trong giao diện người dùng của chúng.
+    <string name="appDesc">Khiến việc đọc khi đang di chuyển trở nên thú vị hơn!
 \n
-\n🏝️ Điều này có thể cải thiện khả năng đọc trên màn hình và có thể làm giảm chứng say tàu xe khi đang di chuyển, ví dụ: trong khi đọc trong một chiếc xe đang di chuyển.
+\n⛵ Dịch vụ này cho phép các ứng dụng tương thích dễ dàng chống lại các chuyển động nhỏ của thiết bị trong giao diện người dùng của chúng.
 \n
-\n⚡ Ứng dụng được thiết kế rất tỉ mỉ, nhằm giảm thiểu việc sử dụng tài nguyên và tối đa hóa hiệu suất.
+\n🏝️ Điều này cải thiện khả năng đọc màn hình của thiết bị cầm tay khi đi bộ hoặc đi du lịch.
 \n
-\nHy vọng bạn thích nó 😊</string>
+\n⚡ Dịch vụ đã được thiết kế rất tỉ mỉ, nhằm giảm thiểu việc sử dụng tài nguyên và tối đa hóa hiệu suất. Bạn có thể tìm thêm thông tin trên GitHub của chúng tôi.
+\n
+\nHy vọng bạn thích sử dụng dịch vụ này 😊</string>
     <string name="dialogReviewNudgeMessage">Bạn có thích ứng dụng này không\?</string>
-    <string name="dialogReviewNudgeMessage2">Cảm ơn! Vui lòng viết đánh giá hay hoặc đánh giá chúng tôi 5 sao trên Cửa hàng Play.</string>
-    <string name="paramLinearScalingInfo">Điều này chia tỷ lệ các chuyển động một cách tuyến tính, làm cho chúng lớn hơn hoặc nhỏ hơn mà không ảnh hưởng đến việc tính toán.</string>
-    <string name="licenseItemAlreadyOwned">Mục giấy phép đã được sở hữu</string>
-    <string name="dialogInfoMessage">Lắc thiết bị một chút. Hãy chú ý cách nội dung nền làm dịu đi những chuyển động này, giúp việc đọc trên màn hình trở nên dễ dàng hơn. (Dịch vụ tĩnh phải được bật trong cài đặt Trợ năng để điều này xảy ra.)
+    <string name="dialogReviewNudgeMessage2">Cảm ơn! Vui lòng viết đánh giá hay hoặc đánh giá chúng tôi 5 sao trên Play Store.</string>
+    <string name="paramLinearScalingInfo">Điều này sẽ điều chỉnh các chuyển động theo tỷ lệ tuyến tính, làm chúng lớn hơn hoặc nhỏ hơn mà không ảnh hưởng đến phép tính.</string>
+    <string name="licenseItemAlreadyOwned">Mục giấy phép đã sở hữu</string>
+    <string name="dialogInfoMessage">Lắc thiết bị một chút. Lưu ý cách nội dung nền làm dịu các chuyển động này, giúp việc đọc trên màn hình dễ dàng hơn.
 \n
-\nChức năng này có thể dễ dàng thực hiện trong bất kỳ ứng dụng nào. Vui lòng làm theo hướng dẫn trên GitHub.</string>
-    <string name="paramForceScaling">Lực lượng chia tỷ lệ</string>
-    <string name="paramLinearScaling">Chia tỷ lệ tuyến tính</string>
+\nChức năng này có thể dễ dàng triển khai trong bất kỳ ứng dụng nào. Vui lòng làm theo hướng dẫn trên GitHub.</string>
+    <string name="paramForceScaling">Lực lượng mở rộng</string>
+    <string name="paramLinearScaling">Tỷ lệ tuyến tính</string>
     <string name="dialogConsentButton">Chấp nhận</string>
     <string name="no">KHÔNG</string>
-    <string name="licenseSuccessDialogMessage">Ứng dụng đã được cấp phép thành công. Cảm ơn sự hỗ trợ của bạn!</string>
+    <string name="licenseSuccessDialogMessage">Ứng dụng đã được cấp phép thành công. Cảm ơn sự ủng hộ của bạn!</string>
     <string name="menuAbout">Về</string>
-    <string name="paramForceScalingInfo">Điều này chia tỷ lệ các lực trước khi tính toán, từ đó ảnh hưởng đến cường độ tổng thể của các chuyển động.</string>
+    <string name="paramForceScalingInfo">Điều này sẽ cân nhắc các lực trước khi tính toán, từ đó ảnh hưởng đến biên độ tổng thể của chuyển động.</string>
     <string name="menuLicense">Nâng cấp giấy phép của bạn</string>
     <string name="openSourceLicensesTitle">Giấy phép nguồn mở</string>
     <string name="menuDecreaseTextSize">Giảm kích thước văn bản</string>
     <string name="aboutScreenTranslationsTitle">Bản dịch</string>
     <string name="menuRateAndComment">Đánh giá chúng tôi</string>
     <string name="yes">Đúng</string>
-    <string name="paramRecoil">giật lại</string>
+    <string name="paramRecoil">Sự giật lùi</string>
     <string name="paramSensorRate">Tốc độ cảm biến</string>
-    <string name="paramDampingInfo">Việc tăng mức này sẽ làm chậm và giảm bớt các chuyển động, khiến chúng ít nhạy cảm hơn với các lực lớn hơn.</string>
+    <string name="paramDampingInfo">Tăng mức này sẽ làm chậm và làm yếu các chuyển động, khiến chúng ít nhạy cảm hơn với các lực lớn hơn.</string>
     <string name="ok">ĐƯỢC RỒI</string>
-    <string name="menuSendDebugFeedback">Báo cáo một vấn đề</string>
-    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="menuSendDebugFeedback">Báo cáo sự cố</string>
+    <string name="ratePerSecond">%1$s Tần số</string>
     <string name="ultimateLicenseLabel">Tối thượng</string>
-    <string name="dialogRestoreDefaultsMessage">Khôi phục cài đặt về giá trị mặc định\?</string>
-    <string name="paramDamping">Giảm xóc</string>
-    <string name="serviceInactiveText">Dịch vụ bị vô hiệu hóa, bấm vào đây để kích hoạt.</string>
+    <string name="dialogRestoreDefaultsMessage">Khôi phục tham số về giá trị mặc định\?</string>
+    <string name="paramDamping">Giảm chấn</string>
+    <string name="serviceInactiveText">Dịch vụ đã bị vô hiệu hóa, hãy nhấp để bật lại.</string>
     <string name="aboutScreenTranslationsText">Giúp dịch ứng dụng này và nhận được giấy phép miễn phí! Thêm thông tin:</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="ultimateLicenseTitle">Giấy phép cuối cùng</string>
-    <string name="measuredSensorRate">Tốc độ cảm biến đo được</string>
-    <string name="menuTheme">chủ đề</string>
-    <string name="measuredSensorRateInfo">Tốc độ cảm biến hiện tại được đo bằng ứng dụng. Điều này có thể khác với tốc độ cảm biến mong muốn vì cuối cùng hệ thống sẽ quyết định nên cung cấp tốc độ nào.</string>
-    <string name="aboutScreenGithubLink">Stilly trên GitHub</string>
-    <string name="aboutScreenLicenseTitle">Giấy phép ứng dụng</string>
+    <string name="measuredSensorRate">Tốc độ cảm biến được đo</string>
+    <string name="menuTheme">Chủ đề</string>
+    <string name="measuredSensorRateInfo">Tốc độ cảm biến hiện tại được đo bằng ứng dụng. Tốc độ này có thể khác với tốc độ cảm biến mong muốn vì hệ thống cuối cùng sẽ quyết định tốc độ nào sẽ cung cấp.</string>
+    <string name="aboutScreenGithubLink">Màn hình ổn định trên GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Giấy phép</string>
     <string name="aboutScreenLicenseText">Ứng dụng này miễn phí và hoạt động không giới hạn. Tuy nhiên, các thông số sẽ trở về giá trị mặc định sau 1 giờ nếu không có giấy phép.</string>
-    <string name="dialogInfoButton">Truy cập GitHub</string>
-    <string name="generalError">Đã xảy ra một số lỗi. Vui lòng thử lại.</string>
-    <string name="paramRecoilInfo">Việc tăng giá trị này sẽ làm giảm độ nhạy đối với các dao động nhỏ và làm cho chuyển động kém nhạy hơn với các lực lớn hơn.</string>
+    <string name="dialogInfoButton">Đi đến GitHub</string>
+    <string name="generalError">Đã xảy ra lỗi. Vui lòng thử lại.</string>
+    <string name="paramRecoilInfo">Tăng giá trị này sẽ làm giảm độ nhạy với các dao động nhỏ và khiến các chuyển động ít nhạy cảm hơn với các lực lớn hơn.</string>
     <string name="menuRestoreDefaults">Khôi phục mặc định</string>
     <string name="dialogButtonRateOnPlayStore">Đánh giá trên Cửa hàng Play</string>
-    <string name="paramSensorRateInfo">Điều này đặt tốc độ cảm biến mong muốn. Giá trị cao hơn có thể tiêu tốn nhiều pin hơn. Tốc độ này có thể khác với tốc độ cảm biến đo được vì cuối cùng hệ thống sẽ quyết định nên cung cấp tốc độ nào.</string>
+    <string name="paramSensorRateInfo">Điều này thiết lập tốc độ cảm biến mong muốn. Các giá trị cao hơn có thể tiêu thụ nhiều pin hơn. Điều này có thể khác với tốc độ cảm biến được đo vì hệ thống cuối cùng quyết định tốc độ nào sẽ cung cấp.</string>
     <string name="menuIncreaseTextSize">Tăng kích thước văn bản</string>
     <string name="menuInfo">Thông tin</string>
-    <string name="loremIpsum">(Văn bản này mang tính chất minh họa)
+    <string name="loremIpsum">(Văn bản này dùng để minh họa)
 \n
-\nNgười lính có bộ râu màu xanh lá cây dẫn họ qua các con phố của Thành phố Ngọc lục bảo cho đến khi họ đến căn phòng nơi Người bảo vệ Cổng sống. Viên sĩ quan này mở khóa kính của họ để cất vào chiếc hộp lớn của mình, rồi lịch sự mở cổng cho bạn bè chúng tôi.
+\nNgười lính có bộ ria mép xanh dẫn họ qua những con phố của Thành phố Ngọc lục bảo cho đến khi họ đến căn phòng nơi Người bảo vệ Cổng sống. Viên sĩ quan này mở khóa kính của họ để cất lại vào hộp lớn của mình, rồi lịch sự mở cổng cho những người bạn của chúng tôi.
 \n
-\n\"Con đường nào dẫn đến Phù thủy độc ác của phương Tây\?\" Dorothy hỏi.
+\n\"Con đường nào dẫn đến Phù thủy độc ác phương Tây\?\" Dorothy hỏi.
 \n
-\n\"Không có đường,\" Người gác cổng trả lời. \"Không ai muốn đi theo con đường đó.\"
+\n\"Không có con đường nào cả\", Người bảo vệ Cổng trả lời. \"Không ai muốn đi theo con đường đó cả\".
 \n
-\n“Vậy làm sao chúng ta có thể tìm được cô ấy\?” cô gái hỏi.
+\n\"Vậy thì làm sao chúng ta tìm được bà ta\?\" cô gái hỏi.
 \n
-\n\"Điều đó sẽ dễ dàng thôi,\" người đàn ông trả lời, \"vì khi cô ấy biết bạn đang ở đất nước của người Winkies, cô ấy sẽ tìm thấy bạn và biến tất cả bạn thành nô lệ của cô ấy.\"
+\n\"Điều đó sẽ dễ dàng thôi\", người đàn ông trả lời, \"vì khi bà ta biết các người đang ở vùng đất của người Winkie, bà ta sẽ tìm thấy các người và biến tất cả các người thành nô lệ của bà ta\".
 \n
-\n\"Có lẽ không,\" Bù nhìn nói, \"vì chúng tôi muốn tiêu diệt cô ấy.\"
+\n\"Có lẽ là không\", Bù nhìn nói, \"vì chúng ta muốn tiêu diệt bà ta\".
 \n
-\n“Ồ, chuyện đó khác,” Người gác cổng nói. \"Trước đây chưa có ai tiêu diệt được cô ấy nên tôi đương nhiên nghĩ rằng cô ấy sẽ biến các bạn thành nô lệ như những người còn lại. Nhưng hãy cẩn thận, vì cô ấy độc ác và hung dữ, và có thể không cho phép bạn tiêu diệt cô ấy. Hãy giữ nguyên điều đó. Phía Tây, nơi mặt trời lặn và bạn không thể không tìm thấy cô ấy.”
+\n\"Ồ, điều đó khác\", Người bảo vệ Cổng nói. \"Chưa từng có ai tiêu diệt cô ta trước đây, nên tôi tự nhiên nghĩ rằng cô ta sẽ biến các người thành nô lệ, như cô ta đã làm với những người còn lại. Nhưng hãy cẩn thận; vì cô ta độc ác và hung dữ, và có thể sẽ không cho phép các người tiêu diệt cô ta. Hãy đi về phía Tây, nơi mặt trời lặn, và các người sẽ không thể không tìm thấy cô ta.\"
 \n
-\nHọ cảm ơn và chào tạm biệt anh, rồi quay về phía Tây, bước qua những cánh đồng cỏ mềm rải rác đây đó với hoa cúc và mao lương. Dorothy vẫn mặc chiếc váy lụa xinh đẹp cô đã mặc trong cung điện, nhưng bây giờ, cô ngạc nhiên nhận ra nó không còn màu xanh nữa mà là màu trắng tinh khiết. Dải ruy băng quanh cổ Toto cũng đã mất màu xanh và có màu trắng như chiếc váy của Dorothy.
+\nHọ cảm ơn anh ta và chào tạm biệt, rồi quay về phía Tây, đi qua những cánh đồng cỏ mềm mại rải rác đây đó với hoa cúc và hoa mao lương. Dorothy vẫn mặc chiếc váy lụa xinh đẹp mà cô đã mặc trong cung điện, nhưng giờ đây, thật ngạc nhiên, cô thấy nó không còn màu xanh lá cây nữa mà là màu trắng tinh. Dải ruy băng quanh cổ Toto cũng đã mất màu xanh lá cây và trắng như váy của Dorothy.
 \n
-\nThành phố Ngọc lục bảo sớm bị bỏ lại phía sau. Khi họ tiến lên, mặt đất trở nên gồ ghề và đồi núi hơn, vì không có trang trại hay nhà ở ở đất nước phương Tây này, và mặt đất không được cày xới.
+\nThành phố Ngọc lục bảo sớm bị bỏ lại phía sau. Khi họ tiến lên, mặt đất trở nên gồ ghề và đồi núi hơn, vì không có trang trại hay nhà cửa nào ở vùng đất phía Tây này, và mặt đất đã được cày xới.
 \n
-\nVào buổi chiều, mặt trời chiếu nóng vào mặt họ vì không có cây nào cho bóng mát; nên trước đêm Dorothy, Toto và Sư tử mệt mỏi nằm xuống bãi cỏ và ngủ thiếp đi, trong khi Người rừng và Bù nhìn canh gác.
+\nVào buổi chiều, mặt trời chiếu nóng vào mặt họ, vì không có cây cối nào che bóng mát cho họ; vì vậy trước khi đêm xuống Dorothy, Toto và Sư tử đã mệt mỏi, nằm xuống bãi cỏ và ngủ thiếp đi, với Người rừng và Bù nhìn canh chừng.
 \n
-\nGiờ đây mụ phù thủy độc ác của phương Tây chỉ có một con mắt nhưng lại có sức mạnh như một chiếc kính viễn vọng và có thể nhìn thấy mọi nơi. Vì vậy, khi ngồi trước cửa lâu đài của mình, cô tình cờ nhìn xung quanh và thấy Dorothy đang nằm ngủ, với tất cả bạn bè xung quanh cô. Họ ở rất xa, nhưng Phù thủy Độc ác rất tức giận khi tìm thấy họ ở đất nước của mình; vì vậy cô ấy thổi vào một chiếc còi bạc đeo trên cổ.
+\nBây giờ Phù thủy độc ác của phương Tây chỉ có một mắt, nhưng nó mạnh như kính viễn vọng, và có thể nhìn thấy mọi nơi. Vì vậy, khi bà ngồi ở cửa lâu đài của mình, bà tình cờ nhìn xung quanh và thấy Dorothy đang nằm ngủ, với những người bạn của cô ấy ở xung quanh. Họ ở rất xa, nhưng Phù thủy độc ác tức giận khi thấy họ ở đất nước của bà; vì vậy bà thổi vào một chiếc còi bạc đeo quanh cổ bà.
 \n
-\nNgay lập tức có một đàn sói lớn chạy đến chỗ cô từ mọi hướng. Chúng có đôi chân dài, đôi mắt hung dữ và hàm răng sắc nhọn.
+\nNgay lập tức, một bầy sói lớn chạy đến từ mọi hướng. Chúng có đôi chân dài, đôi mắt hung dữ và hàm răng sắc nhọn.
 \n
-\n“Hãy đến gặp những người đó,” Phù thủy nói, “và xé xác họ ra thành từng mảnh.”
+\n\"Hãy đến chỗ những người đó,\" Phù thủy nói, \"và xé xác chúng thành từng mảnh.\"
 \n
-\n“Anh không định biến họ thành nô lệ của mình sao\?” thủ lĩnh của bầy sói hỏi.
+\n\"Ngươi không định biến chúng thành nô lệ của mình sao\?\" thủ lĩnh của bầy sói hỏi.
 \n
-\n“Không,” cô ấy trả lời, “một cái bằng thiếc, một cái bằng rơm; một cái là con gái và một cái là Sư tử. Không có con nào phù hợp để làm việc, vì vậy bạn có thể xé chúng thành từng mảnh nhỏ.”
+\n\"Không,\" cô trả lời, \"một con bằng thiếc, một con bằng rơm; một con là con gái và một con là Sư tử. Không con nào trong số chúng phù hợp để làm việc, vì vậy bạn có thể xé chúng thành từng mảnh nhỏ.\"
 \n
-\n“Tốt lắm,” con sói nói và lao đi hết tốc lực, theo sau là những con khác.
+\n\"Được rồi,\" con sói nói, và nó lao đi với tốc độ tối đa, những con khác cũng chạy theo.
 \n
-\nThật may mắn là Bù nhìn và Thợ rừng đã tỉnh táo và nghe thấy tiếng sói đến.
+\nThật may là Bù nhìn và Người thợ rừng đã tỉnh táo và nghe thấy tiếng sói đến.
 \n
-\n“Đây là cuộc chiến của tôi,” Thợ rừng nói, “vì vậy hãy đi phía sau tôi và tôi sẽ gặp họ khi họ đến.”
+\n\"Đây là cuộc chiến của tôi,\" Người thợ rừng nói, \"vì vậy hãy đi sau tôi và tôi sẽ gặp chúng khi chúng đến.\"
 \n
-\nAnh ta chộp lấy chiếc rìu mà anh ta đã làm rất sắc bén, và khi thủ lĩnh của bầy sói tiến tới, Thợ rừng Thiếc vung tay chặt đầu con sói ra khỏi cơ thể nó, khiến nó chết ngay lập tức. Ngay khi anh ta kịp giơ rìu lên, một con sói khác xuất hiện và anh ta cũng ngã dưới lưỡi kiếm sắc bén của vũ khí của Thợ rừng Thiếc. Có bốn mươi con sói, và bốn mươi lần một con sói bị giết, cuối cùng tất cả chúng nằm chết thành một đống trước Người Thợ rừng.
+\nAnh ta cầm lấy chiếc rìu của mình, thứ mà anh ta đã làm rất sắc, và khi thủ lĩnh của bầy sói tiến đến, Người thợ rừng Thiếc vung tay và chặt đầu con sói khỏi cơ thể, khiến nó chết ngay lập tức. Ngay khi anh ta có thể giơ rìu lên, một con sói khác cũng lao đến, và nó cũng ngã xuống dưới lưỡi kiếm sắc nhọn của Người thợ rừng Thiếc. Có bốn mươi con sói, và bốn mươi lần một con sói bị giết, vì vậy cuối cùng tất cả chúng đều nằm chết thành một đống trước mặt Người thợ rừng.
 \n
-\nSau đó anh ta đặt rìu xuống và ngồi cạnh Bù nhìn, anh ta nói: \"Đó là một trận chiến hay, bạn ạ.\"
+\nSau đó, anh ta đặt rìu xuống và ngồi cạnh Bù nhìn, người nói, \"Đó là một cuộc chiến hay, bạn ạ.\"
 \n
-\nHọ đợi cho đến khi Dorothy thức dậy vào sáng hôm sau. Cô bé khá sợ hãi khi nhìn thấy đàn sói lông xù đông đảo nhưng Thợ rừng Thiếc đã kể cho cô nghe tất cả. Cô cảm ơn anh vì đã cứu họ và ngồi xuống ăn sáng, sau đó họ lại bắt đầu cuộc hành trình.
+\nHọ đợi cho đến khi Dorothy thức dậy vào sáng hôm sau. Cô bé khá sợ hãi khi nhìn thấy một đống sói xù xì, nhưng Người thợ rừng Thiếc đã kể lại mọi chuyện cho cô bé. Cô bé cảm ơn anh ta vì đã cứu chúng và ngồi xuống ăn sáng, sau đó họ lại tiếp tục cuộc hành trình.
 \n
-\nNgay sáng hôm nay, Phù thủy Độc ác đã đến trước cửa lâu đài của mình và nhìn ra ngoài bằng một con mắt có thể nhìn xa. Cô nhìn thấy tất cả những con sói của cô đã chết, và những người lạ vẫn đi du lịch khắp đất nước cô. Điều này khiến cô tức giận hơn trước và cô đã thổi chiếc còi bạc của mình hai lần.
+\nCũng vào sáng hôm đó, Phù thủy độc ác đã đến cửa lâu đài của mình và nhìn ra ngoài bằng một con mắt có thể nhìn xa. Cô bé thấy tất cả những con sói của mình nằm chết, và những người lạ vẫn đang đi qua đất nước của mình. Điều này khiến cô bé tức giận hơn trước, và cô bé thổi chiếc còi bạc của mình hai lần.
 \n
-\nNgay lập tức một đàn quạ hoang rất lớn bay về phía cô, đủ để làm bầu trời tối sầm lại.
+\nNgay lập tức, một đàn quạ hoang lớn bay về phía cô bé, đủ để làm tối bầu trời.
 \n
-\nVà Phù thủy Độc ác nói với Vua Quạ: \"Hãy bay ngay đến chỗ những kẻ lạ mặt; mổ mắt chúng và xé chúng ra từng mảnh.\"
+\nVà Phù thủy độc ác nói với Vua Quạ, \"Hãy bay ngay đến chỗ những người lạ; móc mắt chúng ra và xé chúng thành từng mảnh.\"
 \n
-\nNhững con quạ hoang bay thành từng đàn lớn về phía Dorothy và các bạn đồng hành của cô. Khi cô bé nhìn thấy họ đến, cô bé sợ hãi.
+\nNhững con quạ hoang bay thành một đàn lớn về phía Dorothy và những người bạn đồng hành của cô bé. Khi cô bé nhìn thấy chúng đến, cô bé sợ hãi.
 \n
-\nNhưng Bù nhìn nói: “Đây là trận chiến của tôi, nên hãy nằm xuống bên cạnh tôi và bạn sẽ không bị tổn hại gì”.
+\nNhưng Bù nhìn nói, \"Đây là trận chiến của ta, vậy hãy nằm xuống bên ta và các ngươi sẽ không bị thương.\"
 \n
-\nThế là tất cả đều nằm xuống đất ngoại trừ Bù nhìn, và anh ta đứng dậy và dang tay ra. Và khi lũ quạ nhìn thấy anh ta, chúng sợ hãi, vì những con chim này luôn rình rập những con bù nhìn và không dám đến gần hơn. Nhưng Vua Quạ nói:
+\nVì vậy, tất cả đều nằm xuống đất ngoại trừ Bù nhìn, và anh ta đứng dậy và dang rộng cánh tay. Và khi những con quạ nhìn thấy anh ta, chúng sợ hãi, như những con chim này luôn sợ bù nhìn, và không dám đến gần hơn. Nhưng Vua Quạ nói:
 \n
-\n\"Nó chỉ là một con thú nhồi bông thôi. Tôi sẽ mổ mắt nó ra.\"
+\n\"Đó chỉ là một người nhồi bông. Ta sẽ mổ mắt anh ta ra.\"
 \n
-\nVua Quạ bay tới Bù nhìn, bị Bù nhìn tóm lấy đầu và vặn cổ cho đến khi nó chết. Và rồi một con quạ khác bay vào anh ta, và Bù nhìn cũng vặn cổ. Có bốn mươi con quạ, và Bù nhìn đã vặn cổ bốn mươi lần, cho đến khi tất cả đều nằm chết bên cạnh anh ta. Sau đó, anh ta gọi những người bạn đồng hành của mình đứng dậy và họ lại tiếp tục cuộc hành trình.
+\nVua Quạ bay về phía Bù nhìn, người đã tóm lấy đầu nó và vặn cổ nó cho đến khi nó chết. Và sau đó một con quạ khác bay về phía anh ta, và Bù nhìn cũng vặn cổ nó. Có bốn mươi con quạ, và Bù nhìn vặn cổ bốn mươi lần, cho đến khi cuối cùng tất cả đều nằm chết bên cạnh anh ta. Sau đó, anh ta gọi những người bạn đồng hành của mình đứng dậy, và họ lại tiếp tục cuộc hành trình của mình.
 \n
-\nKhi mụ phù thủy độc ác nhìn ra ngoài lần nữa và nhìn thấy bầy quạ của mụ nằm thành một đống, mụ nổi cơn thịnh nộ và thổi chiếc còi bạc ba lần.
+\nKhi Mụ phù thủy độc ác nhìn ra ngoài một lần nữa và thấy tất cả những con quạ của mình nằm thành một đống, bà ta nổi cơn thịnh nộ khủng khiếp và thổi ba lần vào chiếc còi bạc của mình.
 \n
-\nNgay lập tức có tiếng vo vo lớn trong không trung và một đàn ong đen bay về phía cô.
+\nNgay lập tức có tiếng vo ve lớn trong không khí, và một đàn ong đen bay về phía cô.
 \n
-\n\"Hãy đến gặp những người lạ và đốt chết họ!\" Bà Phù thủy ra lệnh, và đàn ong quay đầu bay nhanh cho đến khi đến nơi Dorothy và các bạn cô đang đi. Nhưng Thợ rừng đã nhìn thấy họ đến và Bù nhìn đã quyết định phải làm gì.
+\n\"Đi đến chỗ những người lạ và đốt chết chúng!\" Phù thủy ra lệnh, và những con ong quay lại và bay nhanh cho đến khi chúng đến nơi Dorothy và những người bạn của cô đang đi. Nhưng Người thợ rừng đã nhìn thấy chúng đến, và Bù nhìn đã quyết định phải làm gì.
 \n
-\n“Hãy lấy ống hút của tôi ra và rải nó lên cô bé, con chó và con sư tử,” anh ta nói với Thợ rừng, “và những con ong không thể đốt chúng được.” Người Thợ rừng đã làm điều này, và khi Dorothy nằm sát bên Sư tử và ôm Toto trong tay, lớp rơm đã che phủ hoàn toàn họ.
+\n\"Lấy rơm của tôi ra và rải lên cô bé, con chó và Sư tử,\" anh ta nói với Người thợ rừng, \"và những con ong không thể đốt chúng.\" Người thợ rừng đã làm vậy, và khi Dorothy nằm sát bên Sư tử và ôm Toto trong vòng tay, rơm đã phủ kín chúng hoàn toàn.
 \n
-\nNhững con ong đến và không tìm thấy ai ngoài Người rừng để đốt nên chúng bay vào anh ta và dùng dao bẻ gãy tất cả các vết chích của mình mà không hề làm tổn thương Người rừng. Và vì ong không thể sống khi vết đốt của chúng bị đứt nên lũ ong đen kết thúc, chúng nằm rải rác dày đặc quanh Người Thợ rừng, giống như những đống than nhỏ.
+\nNhững con ong bay đến và không tìm thấy ai ngoài Người thợ rừng để đốt, vì vậy chúng bay về phía anh ta và bẻ gãy tất cả các ngòi của chúng trên thiếc, mà không làm Người thợ rừng bị thương chút nào. Và vì ong không thể sống khi ngòi của chúng bị gãy, đó là kết thúc của những con ong đen, và chúng nằm rải rác dày đặc xung quanh Người thợ rừng, giống như những đống than nhỏ mịn.
 \n
-\nSau đó Dorothy và Sư tử đứng dậy, cô gái giúp Thợ rừng Thiếc đặt lại ống hút vào Bù nhìn cho đến khi anh ta khỏe lại như cũ. Thế là họ lại bắt đầu cuộc hành trình của mình một lần nữa.
+\nSau đó Dorothy và Sư tử đứng dậy, và cô gái giúp Người thợ rừng thiếc nhét rơm trở lại vào Bù nhìn, cho đến khi anh ta khỏe lại như thường lệ. Vì vậy, họ lại tiếp tục cuộc hành trình của mình.
 \n
-\nPhù thủy độc ác vô cùng tức giận khi nhìn thấy những con ong đen của mình chất thành từng đống nhỏ như than mịn đến mức giậm chân, xé tóc và nghiến răng. Sau đó, cô gọi hàng chục nô lệ của mình, những người Winkie, và đưa cho họ những ngọn giáo sắc nhọn, bảo họ đến gặp những người lạ và tiêu diệt họ.
+\nMụ phù thủy độc ác tức giận khi nhìn thấy đàn ong đen của mình chất thành đống nhỏ như than đá đến nỗi mụ dậm chân, giật tóc và nghiến răng. Và rồi mụ gọi một tá nô lệ, tức là người Winkie, và đưa cho họ những ngọn giáo sắc nhọn, bảo họ đến chỗ những người lạ và tiêu diệt họ.
 \n
-\nNgười Winkie không phải là dân tộc dũng cảm nhưng họ phải làm theo những gì được bảo. Thế là họ hành quân đi cho đến khi đến gần Dorothy. Sau đó, Sư tử gầm lên một tiếng lớn và lao về phía họ, còn những người Winkie tội nghiệp sợ hãi đến mức chạy lùi lại nhanh nhất có thể.</string>
+\nNgười Winkie không phải là những người dũng cảm, nhưng họ phải làm theo những gì được bảo. Vì vậy, họ bước đi cho đến khi đến gần Dorothy. Sau đó, Sư tử gầm lên một tiếng lớn và lao về phía họ, và những người Winkie tội nghiệp sợ hãi đến nỗi họ chạy trốn nhanh nhất có thể.</string>
     <string name="menuEnable">Cho phép</string>
     <string name="dialogServiceDisableMessage">Ứng dụng của người dùng sẽ ngừng nhận sự kiện. Tắt dịch vụ\?</string>
     <string name="aboutScreenAppListTitle">⛵ Ứng dụng</string>
