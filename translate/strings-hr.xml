@@ -13,7 +13,7 @@
     <string name="dialogReviewNudgeMessage2">Hvala! Napišite lijepu recenziju ili nas ocijenite s 5 zvjezdica u Trgovini Play.</string>
     <string name="paramLinearScalingInfo">Ovo skalira pokrete linearno, čineći ih većim ili manjim bez utjecaja na izračune.</string>
     <string name="licenseItemAlreadyOwned">Stavka licence već je u vlasništvu</string>
-    <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj ublažava te pokrete, čineći čitanje na zaslonu lakšim.
+    <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj omekšava ove pokrete, čineći čitanje na zaslonu lakšim.
 \n
 \nOva se funkcionalnost može jednostavno implementirati u bilo koju aplikaciju. Slijedite upute na GitHubu.</string>
     <string name="paramForceScaling">Skaliranje sile</string>
@@ -42,18 +42,18 @@
     <string name="aboutScreenTranslationsText">Pomozite prevesti ovu aplikaciju i dobijte besplatnu licencu! Više informacija:</string>
     <string name="cancel">Otkazati</string>
     <string name="ultimateLicenseTitle">Konačna licenca</string>
-    <string name="measuredSensorRate">Izmjerena stopa senzora</string>
+    <string name="measuredSensorRate">Izmjerena brzina senzora</string>
     <string name="menuTheme">Tema</string>
     <string name="measuredSensorRateInfo">Trenutačna brzina senzora prema mjerenju aplikacije. To se može razlikovati od željene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
     <string name="aboutScreenGithubLink">Stalni zaslon na GitHubu</string>
     <string name="aboutScreenLicenseTitle">🔑 Licenca</string>
     <string name="aboutScreenLicenseText">Ova aplikacija je besplatna i radi bez ograničenja. Međutim, parametri će se vratiti na zadane vrijednosti nakon 1 sata bez licence.</string>
     <string name="dialogInfoButton">Idite na GitHub</string>
-    <string name="generalError">Došlo je do neke pogreške. Molimo pokušajte ponovo.</string>
+    <string name="generalError">Došlo je do neke pogreške. Molimo pokušajte ponovno.</string>
     <string name="paramRecoilInfo">Povećanjem toga smanjit će se osjetljivost na male oscilacije i učiniti pokrete manje osjetljivima na veće sile.</string>
     <string name="menuRestoreDefaults">Vrati zadane postavke</string>
     <string name="dialogButtonRateOnPlayStore">Ocijenite u Trgovini Play</string>
-    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
+    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene brzine senzora jer sustav na kraju odlučuje koju će stopu dati.</string>
     <string name="menuIncreaseTextSize">Povećaj veličinu teksta</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Ovaj tekst je u svrhu demonstracije)
