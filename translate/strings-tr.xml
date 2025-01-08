@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Bu hizmet, uyumlu uygulamaların kullanıcı arayüzlerindeki küçük cihaz hareketlerine kolayca karşı koymasına olanak tanır.
+    <string name="appDesc">Seyahat halindeyken okumayı daha keyifli hale getirin!
 \n
-\n🏝️ Bu, ekranın okunabilirliğini artırabilir ve muhtemelen hareket halindeyken hareket rahatsızlığını hafifletebilir; Hareket halindeki bir araçta kitap okurken.
+\n⛵ Bu hizmet, uyumlu uygulamaların kullanıcı arayüzleri içindeki küçük cihaz hareketlerini kolayca dengelemesini sağlar.
 \n
-\n⚡ Uygulama, kaynak kullanımını en aza indirmek ve performansı en üst düzeye çıkarmak amacıyla çok titizlikle hazırlanmıştır.
+\n🏝️ Bu, yürürken veya seyahat ederken taşınabilir bir cihazın ekran okunabilirliğini iyileştirir.
 \n
-\nUmarım beğenirsiniz 😊</string>
+\n⚡ Hizmet, kaynak kullanımını en aza indirmek ve performansı en üst düzeye çıkarmak için çok titizlikle tasarlanmıştır. Daha fazla bilgi GitHub\'ımızda bulunabilir.
+\n
+\nUmarım bunu kullanmaktan keyif alırsınız 😊</string>
     <string name="dialogReviewNudgeMessage">Bu uygulamayı beğeniyor musunuz\?</string>
-    <string name="dialogReviewNudgeMessage2">Teşekkürler! Lütfen güzel bir inceleme yazın veya Play Store\'da bize 5 yıldız verin.</string>
-    <string name="paramLinearScalingInfo">Bu, hareketleri doğrusal olarak ölçeklendirerek hesaplamaları etkilemeden daha büyük veya daha küçük hale getirir.</string>
+    <string name="dialogReviewNudgeMessage2">Teşekkürler! Lütfen güzel bir yorum yazın veya Play Store\'da bize 5 yıldız verin.</string>
+    <string name="paramLinearScalingInfo">Bu, hareketleri doğrusal olarak ölçeklendirir, hesaplamaları etkilemeden onları büyütür veya küçültür.</string>
     <string name="licenseItemAlreadyOwned">Lisans öğesi zaten sahip olunan</string>
-    <string name="dialogInfoMessage">Cihazı biraz sallayın. Arka plan içeriğinin bu hareketleri nasıl yumuşatarak ekrandaki okumayı nasıl kolaylaştırdığına dikkat edin. (Bunun gerçekleşmesi için Erişilebilirlik ayarlarında Stilly hizmetinin etkinleştirilmesi gerekir.)
+    <string name="dialogInfoMessage">Cihazı biraz sallayın. Arka plan içeriğinin bu hareketleri nasıl yumuşattığını ve ekran okumayı nasıl kolaylaştırdığını fark edin.
 \n
-\nBu işlevsellik herhangi bir uygulamaya kolayca uygulanabilir. Lütfen GitHub\'daki talimatları izleyin.</string>
-    <string name="paramForceScaling">Ölçeklendirmeyi zorla</string>
-    <string name="paramLinearScaling">Doğrusal ölçeklendirme</string>
+\nBu işlevsellik herhangi bir uygulamada kolayca uygulanabilir. Lütfen GitHub\'daki talimatları izleyin.</string>
+    <string name="paramForceScaling">Kuvvet ölçekleme</string>
+    <string name="paramLinearScaling">Doğrusal ölçekleme</string>
     <string name="dialogConsentButton">Kabul etmek</string>
     <string name="no">HAYIR</string>
-    <string name="licenseSuccessDialogMessage">Uygulama başarıyla lisanslandı. Desteğin için teşekkürler!</string>
+    <string name="licenseSuccessDialogMessage">Uygulama başarıyla lisanslandı. Desteğiniz için teşekkür ederiz!</string>
     <string name="menuAbout">Hakkında</string>
     <string name="paramForceScalingInfo">Bu, hesaplamalardan önce kuvvetleri ölçeklendirir ve bu da hareketlerin genel büyüklüğünü etkiler.</string>
     <string name="menuLicense">Lisansınızı yükseltin</string>
     <string name="openSourceLicensesTitle">Açık kaynak lisansları</string>
     <string name="menuDecreaseTextSize">Metin boyutunu azalt</string>
     <string name="aboutScreenTranslationsTitle">Çeviriler</string>
-    <string name="menuRateAndComment">Bizi değerlendirin</string>
+    <string name="menuRateAndComment">Bizi derecelendirin</string>
     <string name="yes">Evet</string>
     <string name="paramRecoil">Geri tepme</string>
-    <string name="paramSensorRate">Sensör hızı</string>
-    <string name="paramDampingInfo">Bunu arttırmak hareketleri yavaşlatacak ve zayıflatacak, bu da onları daha büyük kuvvetlere karşı daha az duyarlı hale getirecektir.</string>
+    <string name="paramSensorRate">Sensör oranı</string>
+    <string name="paramDampingInfo">Bunu artırmak hareketleri yavaşlatacak ve zayıflatacak, böylece daha büyük kuvvetlere karşı daha az hassas hale getirecek.</string>
     <string name="ok">TAMAM</string>
-    <string name="menuSendDebugFeedback">Bir sorunu bildirin</string>
-    <string name="ratePerSecond">%1$sHz</string>
+    <string name="menuSendDebugFeedback">Bir sorun bildirin</string>
+    <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Nihai</string>
-    <string name="dialogRestoreDefaultsMessage">Ayarlar varsayılan değerlere geri yüklensin mi\?</string>
+    <string name="dialogRestoreDefaultsMessage">Parametreleri varsayılan değerlere geri yüklemek ister misiniz\?</string>
     <string name="paramDamping">Sönümleme</string>
-    <string name="serviceInactiveText">Hizmet devre dışı bırakıldı, etkinleştirmek için burayı tıklayın.</string>
+    <string name="serviceInactiveText">Hizmet devre dışı bırakıldı, etkinleştirmek için tıklayın.</string>
     <string name="aboutScreenTranslationsText">Bu uygulamanın çevrilmesine yardımcı olun ve ücretsiz bir lisans alın! Daha fazla bilgi:</string>
     <string name="cancel">İptal etmek</string>
     <string name="ultimateLicenseTitle">Nihai Lisans</string>
-    <string name="measuredSensorRate">Ölçülen sensör hızı</string>
+    <string name="measuredSensorRate">Ölçülen sensör oranı</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Uygulama tarafından ölçülen mevcut sensör hızı. Sistem sonuçta hangi hızı sağlayacağına karar verdiği için bu, istenen sensör hızından farklı olabilir.</string>
-    <string name="aboutScreenGithubLink">Hala GitHub\'da</string>
-    <string name="aboutScreenLicenseTitle">Uygulama lisansı</string>
-    <string name="aboutScreenLicenseText">Bu uygulama ücretsizdir ve sınırlama olmaksızın çalışır. Ancak lisanssız kullanımdan 1 saat sonra parametreler varsayılan değerlerine dönecektir.</string>
+    <string name="measuredSensorRateInfo">Uygulama tarafından ölçülen mevcut sensör oranı. Sistem nihayetinde hangi oranın sağlanacağına karar verdiği için bu, istenen sensör oranından farklı olabilir.</string>
+    <string name="aboutScreenGithubLink">GitHub\'da Sabit Ekran</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lisans</string>
+    <string name="aboutScreenLicenseText">Bu uygulama ücretsizdir ve sınırlama olmadan çalışır. Ancak, lisans olmadan 1 saat sonra parametreler varsayılan değerlerine geri dönecektir.</string>
     <string name="dialogInfoButton">GitHub\'a git</string>
-    <string name="generalError">Bazı hatalar oluştu. Lütfen tekrar deneyin.</string>
-    <string name="paramRecoilInfo">Bunu artırmak, küçük salınımlara karşı duyarlılığı azaltacak ve hareketleri daha büyük kuvvetlere karşı daha az duyarlı hale getirecektir.</string>
+    <string name="generalError">Bir hata oluştu. Lütfen tekrar deneyin.</string>
+    <string name="paramRecoilInfo">Bunu artırmak, küçük salınımlara olan duyarlılığı azaltacak ve hareketleri daha büyük kuvvetlere karşı daha az hassas hale getirecektir.</string>
     <string name="menuRestoreDefaults">Varsayılanları geri yükle</string>
-    <string name="dialogButtonRateOnPlayStore">Play Store\'da puan verin</string>
-    <string name="paramSensorRateInfo">Bu, istenen sensör hızını ayarlar. Daha yüksek değerler daha fazla pil tüketebilir. Sistem sonuçta hangi hızı sağlayacağına karar verdiği için bu, ölçülen sensör hızından farklı olabilir.</string>
-    <string name="menuIncreaseTextSize">Metin boyutunu artır</string>
+    <string name="dialogButtonRateOnPlayStore">Play Store\'da Puanla</string>
+    <string name="paramSensorRateInfo">Bu, istenen sensör oranını ayarlar. Daha yüksek değerler daha fazla pil tüketebilir. Bu, ölçülen sensör oranından farklı olabilir çünkü sistem nihayetinde hangi oranın sağlanacağına karar verir.</string>
+    <string name="menuIncreaseTextSize">Metin boyutunu büyüt</string>
     <string name="menuInfo">Bilgi</string>
-    <string name="loremIpsum">(Bu metin tanıtım amaçlıdır)
+    <string name="loremIpsum">(Bu metin gösterim amaçlıdır)
 \n
-\nYeşil bıyıklı asker, Kapı Muhafızı\'nın yaşadığı odaya ulaşana kadar onları Emerald City\'nin sokaklarında gezdirdi. Bu memur, gözlüklerini büyük kutusuna geri koymak için kilidini açtı ve ardından kibarca kapıyı arkadaşlarımıza açtı.
+\nYeşil bıyıklı asker onları Zümrüt Şehir sokaklarında, Kapı Muhafızının yaşadığı odaya ulaşana kadar götürdü. Bu memur gözlüklerini büyük kutusuna geri koymak için kilidini açtı ve sonra arkadaşlarımız için kapıyı nazikçe açtı.
 \n
-\n\"Batı\'nın Kötü Cadısı\'na giden yol hangisi\?\" diye sordu Dorothy.
+\n\"Batı\'nın Kötü Cadısı\'na hangi yol çıkar\?\" diye sordu Dorothy.
 \n
-\n\"Yol yok\" diye yanıtladı Kapıların Muhafızı. \"Hiç kimse o yola gitmek istemez.\"
+\n\"Yol yok,\" diye cevapladı Kapı Muhafızı. \"Kimse o yoldan gitmek istemez.\"
 \n
-\n\"Peki onu nasıl bulacağız\?\" kıza sordu.
+\n\"O zaman onu nasıl bulacağız\?\" diye sordu kız.
 \n
-\n\"Bu kolay olacak\" diye yanıtladı adam, \"çünkü Kırpıkların ülkesinde olduğunuzu öğrendiğinde sizi bulacak ve hepinizi kendi kölesi yapacak.\"
+\n\"Bu kolay olacak,\" diye cevapladı adam, \"çünkü o sizin Winkies ülkesinde olduğunuzu öğrendiğinde sizi bulacak ve hepinizi kölesi yapacak.\"
 \n
-\n\"Belki de hayır\" dedi Korkuluk, \"çünkü onu yok etmek istiyoruz.\"
+\n\"Belki de hayır,\" dedi Korkuluk, \"çünkü onu yok etmeyi amaçlıyoruz.\"
 \n
-\n\"Ah, bu farklı\" dedi Kapıların Muhafızı. \"Daha önce onu kimse yok etmedi, bu yüzden doğal olarak diğerlerini olduğu gibi sizi de köle yapacağını düşündüm. Ama dikkatli olun; çünkü o kötü ve vahşidir ve onu yok etmenize izin vermeyebilir. Batı, güneşin battığı yer ve onu bulmanız mümkün değil.\"
+\n\"Ah, bu farklı,\" dedi Kapı Muhafızı. \"Daha önce hiç kimse onu yok etmemişti, bu yüzden doğal olarak sizi de diğerlerini köleleştirdiği gibi köle yapacağını düşündüm. Ama dikkat edin; çünkü o kötü ve vahşidir ve sizin onu yok etmenize izin vermeyebilir. Güneşin battığı Batı\'ya doğru ilerleyin, onu mutlaka bulursunuz.\"
 \n
-\nOna teşekkür edip vedalaştılar ve Batı\'ya dönerek yer yer papatyalar ve düğünçiçekleriyle kaplı yumuşak çim tarlalarının üzerinden yürüdüler. Dorothy sarayda giydiği güzel ipek elbiseyi hâlâ giyiyordu ama şimdi, onun artık yeşil değil, saf beyaz olduğunu fark ederek şaşırdı. Toto\'nun boynundaki kurdele de yeşil rengini kaybetmişti ve Dorothy\'nin elbisesi kadar beyazdı.
+\nOna teşekkür ettiler ve veda ettiler ve Batı\'ya doğru dönerek, papatyalar ve düğün çiçekleriyle dolu yumuşak çimenli tarlaların üzerinden yürüdüler. Dorothy hala sarayda giydiği güzel ipek elbiseyi giyiyordu, ancak şimdi, şaşkınlıkla, artık yeşil olmadığını, saf beyaz olduğunu gördü. Toto\'nun boynundaki kurdele de yeşil rengini kaybetmişti ve Dorothy\'nin elbisesi kadar beyazdı.
 \n
-\nEmerald City çok geçmeden çok geride kaldı. Onlar ilerledikçe zemin daha engebeli ve engebeli hale geldi, çünkü Batı\'nın bu ülkesinde ne çiftlik ne de ev vardı ve zemin işlendi.
+\nZümrüt Şehir kısa sürede geride kalmıştı. İlerledikçe zemin daha engebeli ve engebeli hale geldi, çünkü Batı\'daki bu ülkede çiftlik veya ev yoktu ve toprak ekilmemişti.
 \n
-\nÖğleden sonra güneş yüzlerine sıcak bir şekilde vuruyordu, çünkü onlara gölge sağlayacak hiçbir ağaç yoktu; böylece gece olmadan Dorothy, Toto ve Aslan yoruldular ve çimenlerin üzerine uzanıp uykuya daldılar; Teneke Adam ve Korkuluk nöbet tutuyordu.
+\nÖğleden sonra güneş yüzlerine sıcak bir şekilde vuruyordu, çünkü onlara gölge sunacak ağaç yoktu; Böylece gece olmadan önce Dorothy, Toto ve Aslan yoruldular ve çimenlere uzanıp uykuya daldılar, Oduncu ve Korkuluk nöbet tutuyordu.
 \n
-\nArtık Batının Kötü Cadısı\'nın tek gözü vardı ama bu bir teleskop kadar güçlüydü ve her yeri görebiliyordu. Böylece kalesinin kapısında otururken etrafına baktı ve Dorothy\'nin arkadaşlarıyla birlikte uyuduğunu gördü. Çok uzaktaydılar ama Kötü Cadı onları kendi ülkesinde bulduğu için sinirlenmişti; bu yüzden boynuna asılı gümüş bir düdük çaldı.
+\nŞimdi Batı\'nın Kötü Cadısı\'nın sadece bir gözü vardı, ama o bir teleskop kadar güçlüydü ve her yeri görebiliyordu. Bu yüzden, kalesinin kapısında otururken etrafına baktı ve Dorothy\'nin, etrafında arkadaşlarıyla birlikte uyuduğunu gördü. Çok uzaktaydılar, ama Kötü Cadı onları ülkesinde bulduğu için öfkelendi; bu yüzden boynunda asılı duran gümüş bir düdüğe üfledi.
 \n
-\nBir anda her yönden büyük bir kurt sürüsü koşarak ona doğru geldi. Uzun bacakları, sert gözleri ve keskin dişleri vardı.
+\nHemen her yönden koşarak ona doğru gelen büyük bir kurt sürüsü vardı. Uzun bacakları, vahşi gözleri ve keskin dişleri vardı.
 \n
-\n\"O insanlara git\" dedi Cadı, \"ve onları parçalara ayır.\"
+\n\"Şu insanlara git,\" dedi Cadı, \"ve onları parçala.\"
 \n
-\n\"Onları kölen yapmayacak mısın\?\" diye sordu kurtların lideri.
+\n\"Onları köle yapmayacak mısın\?\" diye sordu kurtların lideri.
 \n
-\n\"Hayır\" diye yanıtladı, \"biri tenekeden, biri samandan; biri kız, diğeri aslan. Hiçbiri çalışmaya uygun değil, o yüzden onları küçük parçalara ayırabilirsin.\"
+\n\"Hayır,\" diye cevapladı, \"biri teneke, biri saman; biri kız, diğeri Aslan. Hiçbiri çalışmaya uygun değil, bu yüzden onları küçük parçalara ayırabilirsin.\"
 \n
-\n\"Pekâlâ,\" dedi kurt ve son hızla koşarak uzaklaştı, diğerleri de onu takip etti.
+\n\"Pekala,\" dedi kurt ve hızla uzaklaştı, diğerleri de onu takip etti.
 \n
-\nKorkuluk ve Teneke Adam\'ın tamamen uyanık olması ve kurtların geldiğini duyması büyük bir şanstı.
+\nKorkuluk ve Oduncu\'nun tamamen uyanık olması ve kurtların geldiğini duyması şanslıydı.
 \n
-\n\"Bu benim savaşım\" dedi Teneke Adam, \"o yüzden arkama geçin, geldiklerinde onları karşılarım.\"
+\n\"Bu benim dövüşüm,\" dedi Oduncu, \"bu yüzden arkama geç ve geldiklerinde onlarla karşılaşacağım.\"
 \n
-\nÇok keskin hale getirdiği baltasını yakaladı ve kurtların lideri Teneke Adam\'ın üzerine geldiğinde kolunu salladı ve kurdun kafasını vücudundan ayırdı, böylece kurt hemen öldü. Baltasını kaldırabildiği anda başka bir kurt geldi ve o da Teneke Adam\'ın silahının keskin kenarının altına düştü. Kırk kurt vardı ve kırk kez bir kurt öldürüldü, böylece sonunda hepsi Teneke Adam\'ın önünde bir yığın halinde ölü olarak yattı.
+\nÇok keskin yaptığı baltasını kavradı ve kurtların lideri yaklaşırken Teneke Oduncu kolunu savurdu ve kurdun kafasını gövdesinden ayırdı, böylece kurt hemen öldü. Baltasını kaldırabildiği anda başka bir kurt geldi ve o da Teneke Oduncu\'nun silahının keskin kenarının altına düştü. Kırk kurt vardı ve kırk kez bir kurt öldürüldü, böylece sonunda hepsi Oduncu\'nun önünde bir yığın halinde ölü yatıyordu.
 \n
-\nSonra baltasını bıraktı ve Korkuluk\'un yanına oturdu. Korkuluk şöyle dedi: \"İyi bir dövüştü dostum.\"
+\nSonra baltasını bıraktı ve Korkuluk\'un yanına oturdu. Korkuluk, \"İyi bir dövüştü, dostum.\" dedi.
 \n
-\nErtesi sabah Dorothy uyanana kadar beklediler. Küçük kız büyük tüylü kurt yığınını görünce oldukça korktu ama Teneke Adam ona her şeyi anlattı. Onları kurtardığı için ona teşekkür etti ve kahvaltıya oturdu, ardından tekrar yolculuklarına başladılar.
+\nErtesi sabah Dorothy uyanana kadar beklediler. Küçük kız, büyük tüylü kurt yığınını gördüğünde oldukça korkmuştu, ancak Teneke Adam ona her şeyi anlattı. Onları kurtardığı için ona teşekkür etti ve kahvaltıya oturdu, ardından yolculuklarına tekrar başladılar.
 \n
-\nAynı sabah Kötü Cadı şatosunun kapısına geldi ve uzağı görebilen tek gözüyle dışarı baktı. Bütün kurtlarının ölü yattığını ve yabancıların hâlâ ülkesinde dolaştığını gördü. Bu onu daha da sinirlendirdi ve gümüş düdüğünü iki kez çaldı.
+\nAynı sabah Kötü Cadı kalesinin kapısına geldi ve uzağı görebilen tek gözüyle dışarı baktı. Tüm kurtlarının ölü yattığını ve yabancıların hala ülkesinden geçtiğini gördü. Bu onu eskisinden daha da öfkelendirdi ve gümüş düdüğünü iki kez çaldı.
 \n
-\nHemen gökyüzünü karartmaya yetecek kadar büyük bir yabani karga sürüsü uçarak ona doğru geldi.
+\nHemen büyük bir vahşi karga sürüsü ona doğru uçarak geldi, gökyüzünü karartmaya yetecek kadar.
 \n
-\nVe Kötü Cadı, Kral Karga\'ya şöyle dedi: \"Hemen yabancılara uçun; gözlerini çıkarın ve onları parçalara ayırın.\"
+\nVe Kötü Cadı Kral Karga\'ya, \"Hemen yabancılara uç; gözlerini oy ve onları parçala.\" dedi.
 \n
-\nYabani kargalar büyük bir sürü halinde Dorothy ve arkadaşlarına doğru uçtu. Küçük kız onların geldiğini görünce korktu.
+\nVahşi kargalar tek bir büyük sürü halinde Dorothy ve arkadaşlarına doğru uçtular. Küçük kız onları gelirken görünce korktu.
 \n
-\nAma Korkuluk şöyle dedi: \"Bu benim savaşım, o yüzden yanıma yat, zarar görmeyeceksin.\"
+\nAma Korkuluk, \"Bu benim savaşım, yanıma yat ve sana zarar gelmeyecek.\" dedi.
 \n
-\nBöylece Korkuluk dışında hepsi yerde yatıyordu; o da ayağa kalkıp kollarını uzattı. Ve kargalar onu görünce korktular, tıpkı bu kuşların her zaman korkulukların yanında oldukları gibi, daha fazla yaklaşmaya cesaret edemediler. Ama Kral Karga şöyle dedi:
+\nBöylece Korkuluk hariç hepsi yere yattı ve o ayağa kalkıp kollarını uzattı. Ve kargalar onu görünce, bu kuşların her zaman korkuluklardan korktuğu gibi korktular ve daha fazla yaklaşmaya cesaret edemediler. Ama Kral Karga, \"Bu sadece doldurulmuş bir adam. Gözlerini oyacağım.\" dedi.
 \n
-\n\"Bu sadece doldurulmuş bir adam. Onun gözlerini oyacağım.\"
+\nKral Karga, Korkuluğa doğru uçtu, Korkuluk onu başından yakaladı ve boynunu büktü ta ki ölene kadar. Sonra başka bir karga ona doğru uçtu ve Korkuluk da boynunu büktü. Kırk karga vardı ve Korkuluk kırk kez boynunu büktü, ta ki sonunda hepsi yanında ölü yatana kadar. Sonra yoldaşlarına ayağa kalkmaları için seslendi ve tekrar yolculuklarına devam ettiler.
 \n
-\nKral Karga Korkuluk\'a doğru uçtu, Korkuluk onu başından yakaladı ve ölene kadar boynunu büktü. Sonra başka bir karga ona doğru uçtu ve Korkuluk da boynunu büktü. Kırk karga vardı ve Korkuluk kırk kez boynunu büktü, ta ki sonunda hepsi onun yanında ölü yatana kadar. Sonra ashabına ayağa kalkmalarını söyledi ve onlar tekrar yola koyuldular.
+\nKötü Cadı tekrar dışarı baktığında ve tüm kargalarının bir yığın halinde yattığını gördüğünde, korkunç bir öfkeye kapıldı ve gümüş düdüğünü üç kez üfledi.
 \n
-\nKötü Cadı tekrar dışarı baktığında bütün kargaların bir yığın halinde yattığını görünce korkunç bir öfkeye kapıldı ve gümüş düdüğünü üç kez üfledi.
+\nHemen havada büyük bir vızıltı duyuldu ve bir sürü siyah arı ona doğru uçarak geldi.
 \n
-\nO anda havada büyük bir uğultu duyuldu ve bir sürü siyah arı uçarak ona doğru geldi.
+\n\"Yabancılara git ve onları ölümüne sok!\" diye emretti Cadı ve arılar dönüp hızla uçarak Dorothy ve arkadaşlarının yürüdüğü yere geldiler. Ancak Oduncu onları geldiğini görmüştü ve Korkuluk ne yapacağına karar vermişti.
 \n
-\n\"Yabancıların yanına gidin ve onları sokarak öldürün!\" Cadı\'ya emir verdi ve arılar dönüp Dorothy ve arkadaşlarının yürüdüğü yere gelene kadar hızla uçtular. Ama Teneke Adam onların geldiğini görmüştü ve Korkuluk ne yapacağına karar vermişti.
+\n\"Samanımı çıkar ve küçük kıza, köpeğe ve Aslan\'a serp,\" dedi Oduncu\'ya, \"ve arılar onları sokamaz.\" Oduncu bunu yaptı ve Dorothy Aslan\'ın hemen yanında yatarken ve Toto\'yu kollarında tutarken, saman onları tamamen örttü.
 \n
-\n\"Samanımı çıkar ve küçük kızın, köpeğin ve Aslan\'ın üzerine dağıt\" dedi Teneke Adam\'a, \"böylece arılar onları sokamaz.\" Teneke Adam bunu yaptı ve Dorothy Aslan\'ın yanına uzanıp Toto\'yu kollarında tutarken saman onları tamamen kapladı.
+\nArılar geldiler ve sokacak başka kimseyi bulamadılar, bu yüzden ona doğru uçtular ve tüm iğnelerini tenekeye çarptılar, ama Oduncuya hiç zarar vermediler. Ve arılar iğneleri kırıldığında yaşayamadıkları için bu, kara arıların sonu oldu ve Oduncunun etrafına ince kömür yığınları gibi dağıldılar.
 \n
-\nArılar geldiler ve Teneke Adam\'dan başka sokacak kimseyi bulamadılar, bu yüzden ona doğru uçtular ve Teneke Adam\'a hiçbir zarar vermeden tüm iğnelerini tenekeye çarptılar. Ve arılar, iğneleri kırıldığında yaşayamayacakları için, kara arıların sonu buydu ve küçük kömür yığınları gibi, Teneke Adam\'ın çevresine dağılmış halde yatıyorlardı.
+\nSonra Dorothy ve Aslan ayağa kalktılar ve kız, Teneke Oduncunun samanı Korkuluğa geri koymasına yardım etti, ta ki her zamanki kadar iyi olana kadar. Böylece yolculuklarına bir kez daha başladılar.
 \n
-\nSonra Dorothy ile Aslan ayağa kalktılar ve kız, Teneke Adam\'ın her zamanki gibi iyileşene kadar samanı Korkuluk\'a geri koymasına yardım etti. Böylece bir kez daha yolculuklarına başladılar.
+\nKötü Cadı, kara arılarını ince kömür gibi küçük yığınlar halinde görünce o kadar öfkelendi ki ayağını yere vurdu, saçlarını yoldu ve dişlerini gıcırdattı. Sonra kölelerinden bir düzinesini çağırdı, bunlar Winkie\'lerdi ve onlara keskin mızraklar verdi, onlara yabancılara gitmelerini ve onları yok etmelerini söyledi.
 \n
-\nKötü Cadı, kara arılarını ince kömür gibi küçük yığınlar halinde görünce o kadar sinirlendi ki, ayağını yere vurdu, saçlarını yoldu ve dişlerini gıcırdattı. Daha sonra Kırpıklar olan bir düzine kölesini çağırdı ve onlara keskin mızraklar vererek yabancıların yanına gidip onları yok etmelerini söyledi.
-\n
-\nKırpıklar cesur insanlar değildi ama kendilerine söyleneni yapmak zorundaydılar. Böylece Dorothy\'ye yaklaşana kadar yürüdüler. Sonra Aslan büyük bir kükreme çıkarıp onlara doğru atladı ve zavallı Kırpıklar o kadar korktular ki ellerinden geldiğince hızlı bir şekilde geri koştular.</string>
+\nWinkie\'ler cesur insanlar değildi, ancak kendilerine söyleneni yapmak zorundaydılar. Böylece Dorothy\'ye yaklaşana kadar yürüdüler. Sonra Aslan büyük bir kükreme çıkardı ve onlara doğru atıldı ve zavallı Winkie\'ler o kadar korktular ki olabildiğince hızlı geri koştular.</string>
     <string name="menuEnable">Olanak vermek</string>
-    <string name="dialogServiceDisableMessage">Tüketici uygulamaları olayları almayı durduracak. Hizmeti devre dışı bırak\?</string>
+    <string name="dialogServiceDisableMessage">Tüketici uygulamaları olayları almayı durduracak. Hizmet devre dışı bırakılsın mı\?</string>
     <string name="aboutScreenAppListTitle">⛵ Uygulamalar</string>
     <string name="menuDisable">Devre dışı bırakmak</string>
     <string name="aboutScreenAppListText">Bu cihaza yüklenen ve Sabit Ekran özelliğini kullanan uygulama paketlerinin listesi:</string>
