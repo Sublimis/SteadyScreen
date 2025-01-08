@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Perkhidmatan ini membenarkan aplikasi yang serasi dengan mudah mengatasi pergerakan peranti kecil dalam antara muka pengguna mereka.
+    <string name="appDesc">Jadikan bacaan semasa dalam perjalanan lebih menyeronokkan!
 \n
-\n🏝️ Ini boleh meningkatkan kebolehbacaan skrin dan mungkin mengurangkan mabuk semasa dalam perjalanan, mis. semasa membaca dalam kenderaan yang sedang bergerak.
+\n⛵ Perkhidmatan ini membenarkan aplikasi yang serasi dengan mudah mengatasi pergerakan peranti kecil dalam antara muka pengguna mereka.
 \n
-\n⚡ Aplikasi ini telah direka dengan sangat teliti, untuk meminimumkan penggunaan sumber dan memaksimumkan prestasi.
+\n🏝️ Ini meningkatkan kebolehbacaan skrin peranti pegang tangan semasa berjalan atau dalam perjalanan.
 \n
-\nSemoga anda menikmatinya 😊</string>
+\n⚡ Perkhidmatan telah dibuat dengan sangat teliti, untuk meminimumkan penggunaan sumber dan memaksimumkan prestasi. Maklumat lanjut boleh didapati di GitHub kami.
+\n
+\nSemoga anda seronok menggunakan ini 😊</string>
     <string name="dialogReviewNudgeMessage">Adakah anda menikmati aplikasi ini\?</string>
     <string name="dialogReviewNudgeMessage2">Terima kasih! Sila tulis ulasan yang bagus atau nilaikan kami 5 bintang di Gedung Play.</string>
     <string name="paramLinearScalingInfo">Ini menskalakan pergerakan secara linear, menjadikannya lebih besar atau lebih kecil tanpa menjejaskan pengiraan.</string>
     <string name="licenseItemAlreadyOwned">Item lesen sudah dimiliki</string>
-    <string name="dialogInfoMessage">Goncangkan peranti itu sedikit. Perhatikan bagaimana kandungan latar belakang melembutkan pergerakan ini, menjadikan bacaan pada skrin lebih mudah. (Perkhidmatan Stilly mesti didayakan dalam tetapan Kebolehcapaian untuk ini berlaku.)
+    <string name="dialogInfoMessage">Goncangkan peranti itu sedikit. Perhatikan bagaimana kandungan latar belakang melembutkan pergerakan ini, menjadikan bacaan pada skrin lebih mudah.
 \n
 \nFungsi ini boleh dilaksanakan dengan mudah dalam mana-mana aplikasi. Sila ikut arahan pada GitHub.</string>
     <string name="paramForceScaling">Penskalaan paksa</string>
@@ -27,29 +29,29 @@
     <string name="aboutScreenTranslationsTitle">Terjemahan</string>
     <string name="menuRateAndComment">Nilaikan kami</string>
     <string name="yes">ya</string>
-    <string name="paramRecoil">berundur</string>
+    <string name="paramRecoil">Berundur</string>
     <string name="paramSensorRate">Kadar sensor</string>
-    <string name="paramDampingInfo">Meningkatkan ini akan melambatkan dan melemahkan pergerakan, menjadikannya kurang sensitif terhadap daya yang lebih besar.</string>
-    <string name="ok">okey</string>
+    <string name="paramDampingInfo">Meningkatkan ini akan melambatkan dan melemahkan pergerakan, menjadikan mereka kurang sensitif terhadap daya yang lebih besar.</string>
+    <string name="ok">OK</string>
     <string name="menuSendDebugFeedback">Laporkan isu</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">muktamad</string>
-    <string name="dialogRestoreDefaultsMessage">Pulihkan tetapan kepada nilai lalai\?</string>
-    <string name="paramDamping">Redaman</string>
-    <string name="serviceInactiveText">Perkhidmatan dilumpuhkan, klik di sini untuk mendayakan.</string>
+    <string name="dialogRestoreDefaultsMessage">Pulihkan parameter kepada nilai lalai\?</string>
+    <string name="paramDamping">redaman</string>
+    <string name="serviceInactiveText">Perkhidmatan dilumpuhkan, klik untuk membolehkan.</string>
     <string name="aboutScreenTranslationsText">Bantu menterjemah apl ini dan dapatkan lesen percuma! maklumat lanjut:</string>
     <string name="cancel">Batal</string>
     <string name="ultimateLicenseTitle">Lesen muktamad</string>
     <string name="measuredSensorRate">Kadar penderia yang diukur</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Kadar penderia semasa seperti yang diukur oleh apl. Ini mungkin berbeza daripada kadar penderia yang dikehendaki kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
-    <string name="aboutScreenGithubLink">Stilly di GitHub</string>
-    <string name="aboutScreenLicenseTitle">Lesen apl</string>
+    <string name="measuredSensorRateInfo">Kadar penderia semasa seperti yang diukur oleh apl. Ini mungkin berbeza daripada kadar penderia yang diingini kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
+    <string name="aboutScreenGithubLink">Skrin Stabil pada GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lesen</string>
     <string name="aboutScreenLicenseText">Aplikasi ini adalah percuma dan berfungsi tanpa had. Walau bagaimanapun, parameter akan kembali kepada nilai lalai selepas 1 jam tanpa lesen.</string>
     <string name="dialogInfoButton">Pergi ke GitHub</string>
     <string name="generalError">Beberapa ralat berlaku. Sila cuba lagi.</string>
-    <string name="paramRecoilInfo">Meningkatkan ini akan mengurangkan kepekaan terhadap ayunan kecil dan menjadikan pergerakan kurang sensitif kepada daya yang lebih besar.</string>
-    <string name="menuRestoreDefaults">Kembali kepada asal</string>
+    <string name="paramRecoilInfo">Meningkatkan ini akan mengurangkan kepekaan kepada ayunan kecil dan menjadikan pergerakan kurang sensitif kepada daya yang lebih besar.</string>
+    <string name="menuRestoreDefaults">Pulihkan lalai</string>
     <string name="dialogButtonRateOnPlayStore">Nilaikan di Gedung Play</string>
     <string name="paramSensorRateInfo">Ini menetapkan kadar sensor yang diingini. Nilai yang lebih tinggi mungkin menggunakan lebih banyak bateri. Ini mungkin berbeza daripada kadar penderia yang diukur kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
     <string name="menuIncreaseTextSize">Tingkatkan saiz teks</string>
@@ -60,7 +62,7 @@
 \n
 \n\"Jalan mana yang menuju ke Penyihir Jahat Barat\?\" tanya Dorothy.
 \n
-\n\"Tidak ada jalan,\" jawab Penjaga Pintu. \"Tiada sesiapa pun yang mahu pergi ke arah itu.\"
+\n\"Tidak ada jalan,\" jawab Penjaga Pintu. \"Tiada sesiapa pun yang ingin pergi ke arah itu.\"
 \n
 \n\"Kalau begitu, bagaimana kita hendak mencari dia\?\" tanya gadis itu.
 \n
@@ -70,9 +72,9 @@
 \n
 \n\"Oh, itu berbeza,\" kata Guardian of the Gates. \"Tidak seorang pun pernah memusnahkannya sebelum ini, jadi saya secara semula jadi menyangka dia akan memperhamba kamu, seperti yang dilakukannya kepada yang lain. Tetapi berhati-hatilah, kerana dia jahat dan garang, dan mungkin tidak membenarkan kamu membinasakannya. Barat, di mana matahari terbenam, dan anda tidak boleh gagal untuk mencarinya.\"
 \n
-\nMereka mengucapkan terima kasih dan mengucapkan selamat tinggal kepadanya, dan berpaling ke arah Barat, berjalan di atas padang rumput lembut yang dihiasi di sana-sini dengan bunga aster dan buttercup. Dorothy masih memakai pakaian sutera cantik yang dipakainya di istana, tetapi kini, yang mengejutkannya, dia mendapati pakaian itu bukan lagi hijau, tetapi putih bersih. Reben di leher Toto juga telah hilang warna hijau dan putih seperti gaun Dorothy.
+\nMereka mengucapkan terima kasih dan mengucapkan selamat tinggal kepadanya, dan berpaling ke arah Barat, berjalan di atas padang rumput lembut yang dihiasi di sana-sini dengan bunga aster dan buttercup. Dorothy masih memakai gaun sutera cantik yang dipakainya di istana, tetapi kini, terkejutnya, dia mendapati pakaian itu bukan lagi hijau, tetapi putih bersih. Reben di leher Toto juga telah hilang warna hijau dan putih seperti gaun Dorothy.
 \n
-\nKota Zamrud tidak lama kemudian ditinggalkan jauh di belakang. Apabila mereka maju, tanah menjadi lebih kasar dan berbukit, kerana tidak ada ladang mahupun rumah di negara Barat ini, dan tanah itu digarap.
+\nKota Zamrud tidak lama kemudian ketinggalan jauh. Apabila mereka maju, tanah menjadi lebih kasar dan berbukit, kerana tidak ada ladang mahupun rumah di negara Barat ini, dan tanah itu digarap.
 \n
 \nPada waktu petang matahari bersinar terik di muka mereka, kerana tidak ada pokok untuk memberi mereka naungan; supaya sebelum malam Dorothy dan Toto dan Singa letih, dan berbaring di atas rumput dan tertidur, dengan Woodman dan Scarecrow menjaga menonton.
 \n
@@ -92,7 +94,7 @@
 \n
 \n\"Ini adalah perjuangan saya,\" kata Woodman, \"jadi pergi ke belakang saya dan saya akan bertemu mereka apabila mereka datang.\"
 \n
-\nDia merampas kapaknya, yang telah dibuatnya dengan sangat tajam, dan ketika ketua serigala datang ke arah Tukang Kayu Timah itu menghayunkan lengannya dan memenggal kepala serigala itu dari badannya, supaya ia segera mati. Sebaik sahaja dia boleh mengangkat kapaknya, seekor lagi serigala muncul, dan dia juga jatuh di bawah mata tajam senjata Tukang Kayu Timah. Terdapat empat puluh serigala, dan empat puluh kali seekor serigala dibunuh, sehingga akhirnya mereka semua terbaring mati dalam timbunan di hadapan Tukang Kayu.
+\nDia merampas kapaknya, yang telah dibuatnya dengan sangat tajam, dan ketika ketua serigala datang ke arah Tukang Kayu Tin itu menghayunkan lengannya dan memenggal kepala serigala itu dari badannya, supaya ia segera mati. Sebaik sahaja dia boleh mengangkat kapaknya, seekor lagi serigala muncul, dan dia juga jatuh di bawah mata tajam senjata Tukang Kayu Timah. Terdapat empat puluh serigala, dan empat puluh kali seekor serigala dibunuh, sehingga akhirnya mereka semua terbaring mati dalam timbunan di hadapan Tukang Kayu.
 \n
 \nKemudian dia meletakkan kapaknya dan duduk di sebelah Scarecrow, yang berkata, \"Ia adalah pertarungan yang baik, kawan.\"
 \n
@@ -112,9 +114,9 @@
 \n
 \n\"Ia hanya seorang lelaki yang berisi. Saya akan mencucuk matanya.\"
 \n
-\nRaja Gagak terbang ke arah Scarecrow, yang menangkapnya di kepala dan memulas lehernya sehingga ia mati. Dan kemudian burung gagak lain terbang ke arahnya, dan Orang-orangan sawah itu juga memutar lehernya. Terdapat empat puluh burung gagak, dan empat puluh kali Scarecrow memulas lehernya, sehingga akhirnya semuanya terbaring mati di sebelahnya. Kemudian dia memanggil para sahabatnya untuk bangun, dan sekali lagi mereka meneruskan perjalanan mereka.
+\nRaja Gagak terbang ke arah Scarecrow, yang menangkapnya di kepala dan memulas lehernya sehingga ia mati. Dan kemudian burung gagak lain terbang ke arahnya, dan Orang-orangan sawah itu juga memutar lehernya. Terdapat empat puluh burung gagak, dan empat puluh kali Orang-orangan sawah itu memulas lehernya, sehingga akhirnya semuanya terbaring mati di sebelahnya. Kemudian dia memanggil para sahabatnya untuk bangun, dan sekali lagi mereka meneruskan perjalanan mereka.
 \n
-\nApabila Penyihir Jahat itu melihat ke luar lagi dan melihat semua burung gagaknya berbaring dalam timbunan, dia menjadi sangat marah, dan meniup wisel peraknya tiga kali.
+\nApabila Ahli Sihir Jahat itu memandang ke luar lagi dan melihat semua burung gagaknya berbaring dalam timbunan, dia menjadi sangat marah, dan meniup wisel peraknya tiga kali.
 \n
 \nSerta-merta terdengar bunyi dengung yang hebat di udara, dan segerombolan lebah hitam terbang ke arahnya.
 \n
@@ -126,7 +128,12 @@
 \n
 \nKemudian Dorothy dan Singa bangun, dan gadis itu membantu Tukang Kayu Timah meletakkan semula jerami itu ke dalam Scarecrow semula, sehingga dia baik seperti biasa. Jadi mereka memulakan perjalanan mereka sekali lagi.
 \n
-\nPenyihir Jahat itu sangat marah apabila dia melihat lebah hitamnya dalam timbunan kecil seperti arang batu yang halus sehingga dia menghentakkan kakinya dan mengoyakkan rambutnya dan mengetap giginya. Dan kemudian dia memanggil sedozen hambanya, yang merupakan Winkies, dan memberi mereka lembing tajam, memberitahu mereka untuk pergi kepada orang asing dan memusnahkan mereka.
+\nPenyihir Jahat itu sangat marah apabila dia melihat lebah hitamnya dalam timbunan kecil seperti arang batu halus sehingga dia menghentakkan kakinya dan mengoyakkan rambutnya dan mengetap giginya. Dan kemudian dia memanggil sedozen hambanya, yang merupakan Winkies, dan memberikan mereka lembing tajam, memberitahu mereka untuk pergi kepada orang asing dan memusnahkan mereka.
 \n
-\nThe Winkies bukanlah orang yang berani, tetapi mereka terpaksa melakukan seperti yang disuruh. Oleh itu, mereka berjalan pergi sehingga mereka hampir kepada Dorothy. Kemudian Singa itu mengaum hebat dan melompat ke arah mereka, dan Winkies yang malang itu sangat ketakutan sehingga mereka berlari ke belakang secepat yang mereka boleh.</string>
+\nWinkies bukanlah orang yang berani, tetapi mereka terpaksa melakukan apa yang mereka diberitahu. Oleh itu, mereka berjalan pergi sehingga mereka hampir kepada Dorothy. Kemudian Singa itu mengaum hebat dan melompat ke arah mereka, dan Winkies yang malang itu sangat ketakutan sehingga mereka berlari ke belakang secepat yang mereka boleh.</string>
+    <string name="menuEnable">Dayakan</string>
+    <string name="dialogServiceDisableMessage">Aplikasi pengguna akan berhenti menerima acara. Lumpuhkan perkhidmatan\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Apl</string>
+    <string name="menuDisable">Lumpuhkan</string>
+    <string name="aboutScreenAppListText">Senarai pakej apl yang dipasang pada peranti ini yang menggunakan ciri Skrin Steady:</string>
 </resources>
