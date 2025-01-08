@@ -11,7 +11,7 @@
 \nDa fatan kun ji daɗin amfani da wannan 😊</string>
     <string name="dialogReviewNudgeMessage">Kuna jin daɗin wannan app\?</string>
     <string name="dialogReviewNudgeMessage2">Godiya! Da fatan za a rubuta kyakkyawan bita ko ƙididdige mu tauraro 5 akan Play Store.</string>
-    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi ɗaya, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
+    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
     <string name="licenseItemAlreadyOwned">An riga an mallaki abun lasisi</string>
     <string name="dialogInfoMessage">Girgiza na\'urar kadan kadan. Yi la\'akari da yadda abun ciki na bango ya sassauta waɗannan motsin, yana sauƙaƙa karatun kan allo.
 \n
@@ -37,7 +37,7 @@
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ƙarshe</string>
     <string name="dialogRestoreDefaultsMessage">Mayar da sigogi zuwa tsoffin ƙima\?</string>
-    <string name="paramDamping">Damuwa</string>
+    <string name="paramDamping">Damping</string>
     <string name="serviceInactiveText">An kashe sabis, danna don kunna.</string>
     <string name="aboutScreenTranslationsText">Taimaka fassara wannan app kuma sami lasisi kyauta! Karin bayani:</string>
     <string name="cancel">Soke</string>
@@ -84,7 +84,7 @@
 \n
 \n\"Jeka wurin mutanen,\" in ji mayya, \"ka yayyaga su gunduwa.\"
 \n
-\n\"Ba zaka maida su bayinka ba\?\" Ya tambayi shugaban ƴan ƴaƴan.
+\n\"Ba zaka maida su bayinka ba\?\" ya tambayi shugaban ƴan ƴaƴan.
 \n
 \nSai ta ce, \"A\'a, daya na kwano ne, ɗaya kuma na ciyawa, ɗayan yarinya, ɗayan kuma zaki.
 \n
@@ -124,7 +124,7 @@
 \n
 \n\"Ka fitar da bambaro na ka watsar da ita a kan yarinyar da kare da Zaki,\" in ji mai katako, \"kudan zuma ba za su iya harbe su ba.\" Wannan Woodman ya yi, kuma yayin da Dorothy ta kwanta kusa da Zakin kuma ta riƙe Toto a hannunta, bambaro ya rufe su gaba ɗaya.
 \n
-\nKudan zuma sun zo ba su tarar da kowa ba sai dan itacen da ya yi harbin, sai suka yi ta tashi suka buge shi suka tsinke duk wani robobin da suke yi a kan tin, ba tare da sun yi wa mai itacen komai ba. Kuma kamar yadda ƙudan zuma ba za su iya rayuwa ba lokacin da aka karye tuntuɓar ƙudan zuma wadda ita ce ƙarshen ƙudan zuma, kuma suna kwance kewaye da itacen, kamar ƴan tudun garwashi.
+\nKudan zuma sun zo ba su tarar da kowa ba sai dan itacen da ya yi harbin, sai suka yi ta tashi suka buge shi suka tsinke duk wata robar da suke yi a kan gwangwanin, ba tare da sun yi wa Mai itacen rai ko kadan ba. Kuma kamar yadda ƙudan zuma ba za su iya rayuwa ba lokacin da aka karye tuntuɓar ƙudan zuma wadda ita ce ƙarshen ƙudan zuma, kuma suna kwance kewaye da itacen, kamar ƴan tudun garwashi.
 \n
 \nSa\'an nan Dorothy da Lion suka tashi, kuma yarinyar ta taimaka wa Tin Woodman ya sake mayar da bambaro a cikin Scarecrow, har sai ya kasance mai kyau kamar yadda ya kasance. Haka suka sake tafiya.
 \n
