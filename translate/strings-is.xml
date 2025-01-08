@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Þessi þjónusta gerir samhæfum forritum kleift að vinna auðveldlega gegn litlum hreyfingum tækja innan notendaviðmótsins.
+    <string name="appDesc">Gerðu lestur á ferðinni skemmtilegri!
 \n
-\n🏝️ Þetta getur bætt læsileika skjásins og hugsanlega dregið úr ferðaveiki á ferðinni, t.d. við lestur í ökutæki á ferð.
+\n⛵ Þessi þjónusta gerir samhæfum forritum kleift að vinna auðveldlega gegn litlum hreyfingum tækja innan notendaviðmótsins.
 \n
-\n⚡ Forritið hefur verið unnið mjög vandlega til að lágmarka auðlindanotkun og hámarka afköst.
+\n🏝️ Þetta bætir skjálæsileika handfesta tækis á meðan þú gengur eða ferðast.
 \n
-\nVona að þú njótir þess 😊</string>
+\n⚡ Þjónustan hefur verið unnin mjög vandlega til að lágmarka auðlindanotkun og hámarka afköst. Frekari upplýsingar er að finna á GitHub okkar.
+\n
+\nVona að þú hafir gaman af að nota þetta 😊</string>
     <string name="dialogReviewNudgeMessage">Ertu að njóta þessa apps\?</string>
     <string name="dialogReviewNudgeMessage2">Takk! Vinsamlegast skrifaðu góða umsögn eða gefðu okkur 5 stjörnur í Play Store.</string>
     <string name="paramLinearScalingInfo">Þetta skalar hreyfingarnar línulega, gerir þær stærri eða minni án þess að hafa áhrif á útreikningana.</string>
     <string name="licenseItemAlreadyOwned">Leyfishlutur er þegar í eigu</string>
-    <string name="dialogInfoMessage">Hristið tækið aðeins. Taktu eftir því hvernig bakgrunnsinnihaldið mýkir þessar hreyfingar og gerir lestur á skjánum auðveldari. (Stilly þjónusta verður að vera virkjuð í aðgengisstillingunum til að þetta gerist.)
+    <string name="dialogInfoMessage">Hristið tækið aðeins. Taktu eftir því hvernig bakgrunnsinnihaldið mýkir þessar hreyfingar og gerir lestur á skjánum auðveldari.
 \n
 \nÞessa virkni er auðvelt að útfæra í hvaða forriti sem er. Vinsamlegast fylgdu leiðbeiningunum á GitHub.</string>
     <string name="paramForceScaling">Þvingunarskala</string>
@@ -36,7 +38,7 @@
     <string name="ultimateLicenseLabel">Fullkominn</string>
     <string name="loremIpsum">(Þessi texti er til sýnis)
 \n
-\nHermaðurinn með grænu whisper leiddi þá um götur Emerald City þar til þeir komu að herberginu þar sem Guardian of the Gates bjó. Þessi liðsforingi opnaði gleraugun þeirra til að setja þau aftur í stóra kassann sinn, og svo opnaði hann hliðið kurteislega fyrir vini okkar.
+\nHermaðurinn með grænu hársöndina leiddi þá um götur Emerald City þar til þeir komu að herberginu þar sem Guardian of the Gates bjó. Þessi liðsforingi opnaði gleraugun þeirra til að setja þau aftur í stóra kassann sinn, og svo opnaði hann hliðið kurteislega fyrir vini okkar.
 \n
 \n\"Hvaða vegur liggur til vondu nornarinnar í vestrinu\?\" spurði Dorothy.
 \n
@@ -48,13 +50,13 @@
 \n
 \n\"Kannski ekki,\" sagði fuglahræðan, \"því við ætlum að eyða henni.\"
 \n
-\n„Ó, það er öðruvísi,“ sagði Guardian of the Gates. \"Enginn hefur nokkru sinni eytt henni áður, svo ég hélt náttúrulega að hún myndi gera þig að þrælum eins og hún hefur gert af hinum. En farðu varlega, því að hún er vond og grimm og getur ekki leyft þér að tortíma henni. Haltu þig við Vestur, þar sem sólin sest, og þú getur ekki mistekist að finna hana.\"
+\n„Ó, það er öðruvísi,“ sagði Guardian of the Gates. \"Enginn hefur nokkru sinni eytt henni áður, svo ég hélt náttúrulega að hún myndi gera þig að þrælum eins og hún hefur gert af öðrum. En farðu varlega, því að hún er vond og grimm og leyfir þér ekki að tortíma henni. Haltu þig við Vestur, þar sem sólin sest, og þú getur ekki mistekist að finna hana.\"
 \n
-\nÞeir þökkuðu honum og kvöddu hann og sneru í átt til vesturs, gangandi yfir mjúku grasvelli, sem eru doppaðir hér og þar með tígulskrautum og smjörbollum. Dorothy klæddist enn fallega silkikjólnum sem hún hafði klætt sig í í höllinni, en nú, henni til undrunar, fann hún að hann var ekki lengur grænn, heldur hreinhvítur. Slaufan um háls Toto hafði líka misst græna litinn og var eins hvítur og kjóllinn hennar Dorothy.
+\nÞeir þökkuðu honum og kvöddu hann og sneru í átt til vesturs, gangandi yfir mjúku grasvelli, sem eru dreifðir hér og þar með tússdýrum og smjörbollum. Dorothy klæddist enn fallega silkikjólnum sem hún hafði klætt sig í í höllinni, en nú, henni til undrunar, fann hún að hann var ekki lengur grænn, heldur hreinhvítur. Slaufan um háls Toto hafði líka misst græna litinn og var eins hvítur og kjóllinn hennar Dorothy.
 \n
 \nEmerald City var fljótlega skilinn eftir langt á eftir. Eftir því sem þeir komust áleiðis varð jörðin grófari og hærra, því að hvorki voru bæir né hús hér á Vesturlandi, og var jörð gróin.
 \n
-\nSíðdegis skein sólin heit í andlit þeirra, því engin tré voru til að veita þeim skugga; Svo að fyrir nóttina voru Dorothy og Toto og ljónið þreytt, og lögðust í grasið og sofnuðu, með skógarmanninum og fuglahræðanum sem stóðu vaktina.
+\nSíðdegis skein sólin heit í andlit þeirra, því engin tré voru til að veita þeim skugga; Svo að fyrir nóttina voru Dorothy og Toto og ljónið þreytt, og lögðust í grasið og sofnuðu, með skógarmanninum og fuglahræðanum sem fylgdust með.
 \n
 \nNú hafði vonda nornin á Vesturlöndum aðeins eitt auga, en samt var það eins öflugt og sjónauki og sá alls staðar. Svo, þegar hún sat í hurðinni á kastalanum sínum, leit hún í kringum sig og sá Dorothy liggja sofandi, með vinum sínum allt í kringum sig. Þeir voru langt í burtu, en vonda nornin var reið að finna þá í landi sínu; svo hún blés í silfurflautu sem hékk um hálsinn á henni.
 \n
@@ -76,7 +78,7 @@
 \n
 \nSíðan lagði hann frá sér öxina og settist við hlið fuglahræðarinnar, sem sagði: \"Þetta var góður bardagi, vinur.\"
 \n
-\nÞeir biðu þar til Dorothy vaknaði morguninn eftir. Litla stúlkan varð ansi hrædd þegar hún sá stóra hauginn af loðnum úlfum, en Tin Woodman sagði henni allt. Hún þakkaði honum fyrir að hafa bjargað þeim og settist að morgunverði, eftir það hófu þau ferð sína aftur.
+\nÞeir biðu þar til Dorothy vaknaði morguninn eftir. Litla stúlkan varð ansi hrædd þegar hún sá stóra hauginn af loðnum úlfum, en Tin Woodman sagði henni allt. Hún þakkaði honum fyrir að hafa bjargað þeim og settist að morgunverði, eftir það fóru þeir aftur á ferð sína.
 \n
 \nNú þennan sama morgun kom vonda nornin að dyrum kastalans síns og horfði út með annað augað sitt sem sá langt í burtu. Hún sá alla úlfa sína liggja dauða og ókunnuga ferðast um land hennar. Þetta gerði hana reiðari en áður og blés í silfurflautunni tvisvar.
 \n
@@ -94,7 +96,7 @@
 \n
 \nKonungakrákan flaug á fuglahræðuna sem greip hana í höfuðið og sneri hálsinum á henni þar til hún dó. Og svo flaug önnur kráka á hann, og fuglahræðan sneri líka hálsinum. Það voru fjörutíu krákar og fjörutíu sinnum sneri fuglahræðan hálsinn, þar til loksins allir lágu dauðir við hlið hans. Þá kallaði hann til félaga sinna að rísa upp, og þeir héldu aftur ferð sinni.
 \n
-\nÞegar vonda nornin leit út aftur og sá allar krákurnar sínar liggja í hrúgu, varð hún hræðileg reiði og blés þrisvar sinnum í silfurflautuna sína.
+\nÞegar vonda nornin leit út aftur og sá allar krákur sínar liggja í hrúgu, varð hún hræðileg reiði og blés þrisvar í silfurflautuna sína.
 \n
 \nStrax heyrðist mikill suð í loftinu og svartur býflugnasveit kom fljúgandi á móti henni.
 \n
@@ -102,24 +104,24 @@
 \n
 \n\"Taktu stráið mitt og dreifðu því yfir litlu stúlkuna og hundinn og ljónið,\" sagði hann við skógarmanninn, \"og býflugurnar geta ekki stungið þær.\" Þetta gerði skógarmaðurinn, og þar sem Dorothy lá nálægt ljóninu og hélt á Toto í fanginu, huldi stráin þau alveg.
 \n
-\nBýflugurnar komu og fundu engan nema Skógarmanninn til að stinga, svo þær flugu á hann og brutu af sér allar stungurnar á móti tindinni, án þess að meiða skógarmanninn neitt. Og þar sem býflugur geta ekki lifað þegar stungur þeirra eru brotnar, var það endirinn á svörtu býflugunum, og þær lágu á víð og dreif um Woodman, eins og litlar hrúgur af fínum kolum.
+\nBýflugurnar komu og fundu engan nema Skógarmanninn til að stinga, svo þær flugu á hann og brutu allar stungurnar af sér við tindinn, án þess að særa Skógarmanninn neitt. Og þar sem býflugur geta ekki lifað þegar stungur þeirra eru brotnar, var það endirinn á svörtu býflugunum, og þær lágu á víð og dreif um Woodman, eins og litlar hrúgur af fínum kolum.
 \n
 \nÞá stóðu Dorothy og ljónið upp og stúlkan hjálpaði Tin Woodman að setja stráið aftur í fuglahræðuna, þar til hann var jafn góður og alltaf. Þeir hófu því ferð sína enn og aftur.
 \n
 \nIllu nornin varð svo reið þegar hún sá svörtu býflugurnar sínar í litlum hrúgum eins og fínum kolum að hún stappaði í fótinn og reif hárið og gnístraði tönnum. Og svo kallaði hún á tugi þræla sinna, sem voru Winkies, og gaf þeim hvöss spjót og sagði þeim að fara til ókunnugra og eyða þeim.
 \n
 \nWinkies voru ekki hugrakkur fólk, en þeir urðu að gera eins og þeim var sagt. Gengu þeir því burt uns þeir komu nær Dóróteíu. Þá gaf ljónið mikið öskur og stökk í áttina að þeim, og greyið Winkies urðu svo hræddir að þeir hlupu til baka eins hratt og þeir gátu.</string>
-    <string name="dialogRestoreDefaultsMessage">Endurheimta stillingar í sjálfgefin gildi\?</string>
+    <string name="dialogRestoreDefaultsMessage">Endurheimta færibreytur í sjálfgefin gildi\?</string>
     <string name="paramDamping">Dempun</string>
-    <string name="serviceInactiveText">Þjónustan er óvirk, smelltu hér til að virkja.</string>
+    <string name="serviceInactiveText">Þjónustan er óvirk, smelltu til að virkja.</string>
     <string name="aboutScreenTranslationsText">Hjálpaðu til við að þýða þetta forrit og fáðu ókeypis leyfi! Meiri upplýsingar:</string>
     <string name="cancel">Hætta við</string>
     <string name="ultimateLicenseTitle">Fullkomið leyfi</string>
     <string name="measuredSensorRate">Mældur skynjarahraði</string>
     <string name="menuTheme">Þema</string>
     <string name="measuredSensorRateInfo">Núverandi skynjarahraði eins og mældur með appinu. Þetta getur verið frábrugðið æskilegum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
-    <string name="aboutScreenGithubLink">Stilly á GitHub</string>
-    <string name="aboutScreenLicenseTitle">App leyfi</string>
+    <string name="aboutScreenGithubLink">Stöðugur skjár á GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Leyfi</string>
     <string name="aboutScreenLicenseText">Þetta forrit er ókeypis og virkar án takmarkana. Hins vegar munu færibreyturnar fara aftur í sjálfgefnar gildi eftir 1 klukkustund án leyfis.</string>
     <string name="dialogInfoButton">Farðu á GitHub</string>
     <string name="generalError">Einhver villa kom upp. Vinsamlegast reyndu aftur.</string>
@@ -129,4 +131,9 @@
     <string name="paramSensorRateInfo">Þetta stillir æskilegan skynjarahraða. Hærri gildi gætu eytt meiri rafhlöðu. Þetta getur verið frábrugðið mældum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
     <string name="menuIncreaseTextSize">Auka textastærð</string>
     <string name="menuInfo">Upplýsingar</string>
+    <string name="menuEnable">Virkja</string>
+    <string name="dialogServiceDisableMessage">Neytendaumsóknir hætta að fá viðburði. Slökkva á þjónustu\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Forrit</string>
+    <string name="menuDisable">Óvirkja</string>
+    <string name="aboutScreenAppListText">Listi yfir forritapakka sem eru settir upp á þessu tæki sem nota stöðugan skjá eiginleika:</string>
 </resources>
