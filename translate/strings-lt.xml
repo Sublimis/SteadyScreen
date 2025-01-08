@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Ši paslauga leidžia suderinamoms programoms lengvai atremti nedidelius įrenginio judesius savo vartotojo sąsajoje.
+    <string name="appDesc">Padarykite skaitymą kelyje malonesnį!
 \n
-\n🏝️ Tai gali pagerinti ekrano skaitomumą ir galbūt palengvinti judesio ligą keliaujant, pvz. skaitydamas važiuojančioje transporto priemonėje.
+\n⛵ Ši paslauga leidžia suderinamoms programoms lengvai atremti nedidelius įrenginio judesius savo vartotojo sąsajoje.
 \n
-\n⚡ Programa buvo sukurta labai kruopščiai, siekiant sumažinti išteklių naudojimą ir maksimaliai padidinti našumą.
+\n🏝️ Tai pagerina rankinio įrenginio ekrano skaitomumą vaikštant ar keliaujant.
 \n
-\nTikimės, kad jums patiks 😊</string>
+\n⚡ Paslauga buvo sukurta labai kruopščiai, siekiant sumažinti išteklių naudojimą ir maksimaliai padidinti našumą. Daugiau informacijos galite rasti mūsų GitHub.
+\n
+\nTikimės, kad jums patiks tai naudoti 😊</string>
     <string name="dialogReviewNudgeMessage">Ar jums patinka ši programa\?</string>
-    <string name="dialogReviewNudgeMessage2">Dėkoju! Parašykite gražią apžvalgą arba įvertinkite mus 5 žvaigždutėmis „Play“ parduotuvėje.</string>
+    <string name="dialogReviewNudgeMessage2">Ačiū! Parašykite gražią apžvalgą arba įvertinkite mus 5 žvaigždutėmis „Play“ parduotuvėje.</string>
     <string name="paramLinearScalingInfo">Taip judesiai keičiami tiesiškai, todėl jie tampa didesni arba mažesni, nedarant įtakos skaičiavimams.</string>
     <string name="licenseItemAlreadyOwned">Licencijos elementas jau priklauso</string>
-    <string name="dialogInfoMessage">Šiek tiek pakratykite prietaisą. Atkreipkite dėmesį, kaip foninis turinys sušvelnina šiuos judesius ir palengvina skaitymą ekrane. (Kad tai įvyktų, „Stilly“ paslauga turi būti įjungta pritaikymo neįgaliesiems nustatymuose.)
+    <string name="dialogInfoMessage">Šiek tiek pakratykite prietaisą. Atkreipkite dėmesį, kaip foninis turinys sušvelnina šiuos judesius ir palengvina skaitymą ekrane.
 \n
 \nŠią funkciją galima lengvai įdiegti bet kurioje programoje. Vykdykite „GitHub“ instrukcijas.</string>
     <string name="paramForceScaling">Jėgos mastelio keitimas</string>
@@ -25,7 +27,7 @@
     <string name="openSourceLicensesTitle">Atvirojo kodo licencijos</string>
     <string name="menuDecreaseTextSize">Sumažinti teksto dydį</string>
     <string name="aboutScreenTranslationsTitle">Vertimai</string>
-    <string name="menuRateAndComment">Įvertinkite mus</string>
+    <string name="menuRateAndComment">Įvertink mus</string>
     <string name="yes">Taip</string>
     <string name="paramRecoil">Atsitraukimas</string>
     <string name="paramSensorRate">Jutiklio greitis</string>
@@ -34,20 +36,20 @@
     <string name="menuSendDebugFeedback">Pranešti apie problemą</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Galutinis</string>
-    <string name="dialogRestoreDefaultsMessage">Atkurti numatytąsias reikšmes\?</string>
+    <string name="dialogRestoreDefaultsMessage">Atkurti parametrus į numatytąsias reikšmes\?</string>
     <string name="paramDamping">Slopinimas</string>
-    <string name="serviceInactiveText">Paslauga išjungta, spustelėkite čia, kad įgalintumėte.</string>
+    <string name="serviceInactiveText">Paslauga išjungta, spustelėkite, kad įgalintumėte.</string>
     <string name="aboutScreenTranslationsText">Padėkite išversti šią programą ir gaukite nemokamą licenciją! Daugiau informacijos:</string>
     <string name="cancel">Atšaukti</string>
     <string name="ultimateLicenseTitle">Galutinė licencija</string>
     <string name="measuredSensorRate">Išmatuotas jutiklio greitis</string>
     <string name="menuTheme">tema</string>
     <string name="measuredSensorRateInfo">Dabartinis jutiklio greitis, išmatuotas programoje. Tai gali skirtis nuo pageidaujamo jutiklio dažnio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
-    <string name="aboutScreenGithubLink">Visiškai „GitHub“.</string>
-    <string name="aboutScreenLicenseTitle">Programos licencija</string>
+    <string name="aboutScreenGithubLink">Pastovus ekranas „GitHub“.</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licencija</string>
     <string name="aboutScreenLicenseText">Ši programa yra nemokama ir veikia be apribojimų. Tačiau parametrai grįš į numatytąsias vertes po 1 valandos be licencijos.</string>
     <string name="dialogInfoButton">Eikite į „GitHub“.</string>
-    <string name="generalError">Įvyko kažkokia klaida. Prašau, pabandykite dar kartą.</string>
+    <string name="generalError">Įvyko kažkokia klaida. Bandykite dar kartą.</string>
     <string name="paramRecoilInfo">Tai padidinus, sumažės jautrumas mažiems virpesiams ir judesiai bus mažiau jautrūs didesnėms jėgoms.</string>
     <string name="menuRestoreDefaults">Atkurti numatytuosius nustatymus</string>
     <string name="dialogButtonRateOnPlayStore">Įvertinkite „Play“ parduotuvėje</string>
@@ -56,27 +58,27 @@
     <string name="menuInfo">Informacija</string>
     <string name="loremIpsum">(Šis tekstas skirtas demonstravimo tikslais)
 \n
-\nKareivis žaliais ūsais vedė juos Smaragdo miesto gatvėmis, kol jie pasiekė kambarį, kuriame gyveno Vartų sargas. Šis pareigūnas atrakino jų akinius, kad įdėtų juos atgal į savo puikią dėžę, o tada mandagiai atidarė vartus mūsų draugams.
+\nKareivis žaliais ūsais vedė juos Smaragdinio miesto gatvėmis, kol jie pasiekė kambarį, kuriame gyveno Vartų sargas. Šis pareigūnas atrakino jų akinius, kad įdėtų juos atgal į savo puikią dėžę, o tada mandagiai atidarė vartus mūsų draugams.
 \n
 \n– Kuris kelias veda į Piktąją Vakarų raganą\? – paklausė Dorotė.
 \n
 \n„Nėra kelio“, – atsakė Vartų sargas. „Niekas niekada nenori eiti tuo keliu“.
 \n
-\n– Kaip tada ją rasti\? – paklausė mergina.
+\n– Tai kaip mums ją surasti\? – paklausė mergina.
 \n
 \n– Bus lengva, – atsakė vyras, – nes kai ji sužinos, kad esi Vinkių šalyje, ji tave suras ir pavers visus savo vergais.
 \n
 \n– Galbūt ne, – tarė Kaliausė, – nes norime ją sunaikinti.
 \n
-\n„O, tai kitaip“, – pasakė Vartų sargas. \"Niekas niekada jos nesunaikino, todėl aš, žinoma, maniau, kad ji pavers jus vergais, kaip ir kitų. Bet būkite atsargūs, nes ji yra nedora ir nuožmi ir gali neleisti jums jos sunaikinti. Vakarai, kur leidžiasi saulė, ir jūs negalite jos nerasti“.
+\n„O, tai kitaip“, – pasakė Vartų sargas. \"Niekas niekada jos nesunaikino, todėl aš, žinoma, maniau, kad ji pavers jus vergais, kaip ir kitų. Tačiau saugokitės, nes ji yra nedora ir nuožmi ir negali leisti jums jos sunaikinti. Vakarai, kur leidžiasi saulė, ir jūs negalite jos nerasti“.
 \n
-\nJie padėkojo jam ir atsisveikino ir pasuko į Vakarus, vaikščiodami per minkštos žolės laukus, šen bei ten nusėtus margumynais ir vėdrynais. Dorothy vis dar vilkėjo gražią šilkinę suknelę, kurią buvo apsivilkusi rūmuose, bet dabar, jos nuostabai, ji pastebėjo, kad ji nebe žalia, o grynai balta. Kaspinas aplink Toto kaklą taip pat prarado žalią spalvą ir buvo baltas kaip Dorothy suknelė.
+\nJie padėkojo jam, atsisveikino ir pasuko į Vakarus, vaikščiodami per minkštos žolės laukus, šen bei ten nusėtus ramunėlių ir vėdrynų. Dorothy vis dar vilkėjo gražią šilkinę suknelę, kurią buvo apsirengusi rūmuose, bet dabar, jos nuostabai, ji pastebėjo, kad ji nebe žalia, o grynai balta. Kaspinas aplink Toto kaklą taip pat prarado žalią spalvą ir buvo baltas kaip Dorothy suknelė.
 \n
 \nSmaragdinis miestas netrukus buvo paliktas toli. Jiems žengiant į priekį, žemė tapo šiurkštesnė ir kalvotesnė, nes šioje Vakarų šalyje nebuvo nei fermų, nei namų, o žemė buvo įdirbta.
 \n
-\nPo pietų saulė kaitriai švietė jiems į veidus, nes nebuvo medžių, kurie jiems pasiūlytų pavėsį; taip, kad prieš naktį Dorothy, Toto ir Liūtas buvo pavargę, atsigulė ant žolės ir užmigo, o Miškininkas ir Kaliausė budėjo.
+\nPo pietų saulė kaitriai švietė jiems į veidus, nes nebuvo medžių, kurie jiems pasiūlytų pavėsį; taip, kad prieš naktį Dorothy, Toto ir Liūtas buvo pavargę, atsigulė ant žolės ir užmigo, o Medininkas ir Kaliausė budėjo.
 \n
-\nDabar Piktoji Vakarų ragana turėjo tik vieną akį, tačiau ji buvo galinga kaip teleskopas ir galėjo matyti visur. Taigi, sėdėdama prie savo pilies durų, ji atsitiktinai apsidairė ir pamatė miegančią Dorotę su draugais. Jie buvo toli, bet Piktoji Ragana supyko radusi juos savo šalyje; todėl ji papūtė ant kaklo kabėjo sidabro švilpuko.
+\nDabar Piktoji Vakarų ragana turėjo tik vieną akį, tačiau ji buvo galinga kaip teleskopas ir galėjo matyti visur. Taigi, sėdėdama prie savo pilies durų, ji atsitiktinai apsidairė ir pamatė miegančią Dorotę su draugais. Jie buvo toli, bet Piktoji Ragana supyko radusi juos savo šalyje; todėl ji papūtė sidabrinį švilpuką, kuris kabėjo jai ant kaklo.
 \n
 \nStaiga prie jos iš visų pusių atbėgo didžiųjų vilkų gauja. Jie turėjo ilgas kojas, nuožmias akis ir aštrius dantis.
 \n
@@ -84,7 +86,7 @@
 \n
 \n– Ar neketini jų padaryti savo vergais\? – paklausė vilkų vadas.
 \n
-\n\"Ne, - atsakė ji, - vienas yra iš alavo, o kitas iš šiaudų; vienas yra mergaitė, o kitas - liūtas. Nė vienas iš jų nėra tinkamas darbui, todėl galite juos suplėšyti į mažus gabalėlius.\"
+\n\"Ne, - atsakė ji, - vienas yra iš alavo, o vienas iš šiaudų; vienas yra mergaitė, o kitas - liūtas. Nė vienas iš jų nėra tinkamas darbui, todėl galite juos suplėšyti į mažus gabalėlius.\"
 \n
 \n- Labai gerai, - pasakė vilkas ir visu greičiu nubėgo, o paskui kitus.
 \n
@@ -92,15 +94,15 @@
 \n
 \n„Tai yra mano kova“, – tarė miškininkas, – atsitraukite už manęs ir aš sutiksiu juos, kai jie ateis.
 \n
-\nJis pagriebė savo kirvį, kurį buvo padaręs labai aštrų, o vilkų vadui priėjus prie skardinio miškininko ranka nukirto vilko galvą nuo kūno, todėl jis iškart mirė. Kai tik jis galėjo pakelti savo kirvį, išlindo kitas vilkas, kuris taip pat pateko po aštriu skardinio miškininko ginklo briauna. Buvo keturiasdešimt vilkų ir keturiasdešimt kartų buvo nužudytas vilkas, todėl pagaliau jie visi gulėjo negyvi krūvoje priešais miškininką.
+\nJis pagriebė savo kirvį, kurį buvo padaręs labai aštrų, o vilkų vadui priėjus prie skardinio miškininko ranka nukirto vilko galvą nuo kūno, todėl jis iškart mirė. Kai tik jis galėjo pakelti kirvį, išlindo kitas vilkas, kuris taip pat pateko po aštriu skardinio miškininko ginklo briauna. Buvo keturiasdešimt vilkų ir keturiasdešimt kartų buvo nužudytas vilkas, todėl pagaliau jie visi gulėjo negyvi krūvoje priešais miškininką.
 \n
 \nTada jis padėjo kirvį ir atsisėdo šalia Kaliausės, kuri pasakė: „Tai buvo gera kova, drauge“.
 \n
-\nJie laukė, kol Dorothy pabus kitą rytą. Maža mergaitė labai išsigando, pamačiusi didžiulę gauruotų vilkų krūvą, bet skardinis miškininkas jai viską papasakojo. Ji padėkojo jam už jų išgelbėjimą ir atsisėdo pusryčiauti, o po to jie vėl pradėjo kelionę.
+\nJie laukė, kol Dorothy pabus kitą rytą. Maža mergaitė labai išsigando, pamačiusi didžiulę gauruotų vilkų krūvą, bet skardinis miškininkas jai viską papasakojo. Ji padėkojo jam už išgelbėjimą ir atsisėdo pusryčiauti, o po to jie vėl pradėjo kelionę.
 \n
 \nTą patį rytą Piktoji ragana priėjo prie savo pilies durų ir pažvelgė viena akimi, kuri matė toli. Ji matė visus savo vilkus gulinčius negyvi, o svetimšalius vis dar keliaujančius per jos šalį. Tai ją supykdė labiau nei anksčiau, ir ji du kartus sušvilpė sidabrinį švilpuką.
 \n
-\nIš karto prie jos atskrido didžiulis laukinių varnų pulkas, tiek, kad užtemdytų dangų.
+\nIš karto prie jos atskriejo didžiulis būrys laukinių varnų, tiek, kad užtemdytų dangų.
 \n
 \nIr Piktoji Ragana tarė Karaliui Varnui: „Tuoj skrisk pas nepažįstamus žmones, išmesk jiems akis ir suplėšyk juos į gabalus“.
 \n
@@ -112,7 +114,7 @@
 \n
 \n\"Tai tik iškamšytas žmogus. Išskirsiu jam akis.\"
 \n
-\nKarališkoji varna atskrido prie Kaliausės, kuri pagavo jai už galvos ir suko kaklą, kol ji mirė. Ir tada į jį atskrido kita varna, ir Kaliausė taip pat išsuko kaklą. Buvo keturiasdešimt varnų ir keturiasdešimt kartų Kaliausė susuko kaklą, kol galiausiai visos gulėjo šalia jo negyvi. Tada jis pašaukė savo draugus keltis, ir jie vėl leidosi į kelionę.
+\nKarališkoji varna atskrido prie Kaliausės, kuri pagavo jai už galvos ir suko kaklą, kol ji mirė. Ir tada į jį atskrido kita varna, ir Kaliausė taip pat išsuko kaklą. Buvo keturiasdešimt varnų ir keturiasdešimt kartų Kaliausė susuko kaklą, kol galiausiai visos gulėjo šalia jo negyvi. Tada jis pašaukė savo bendražygius keltis, ir jie vėl leidosi į kelionę.
 \n
 \nKai Piktoji Ragana vėl pažiūrėjo ir pamatė visas savo varnas gulinčias krūvoje, ji siaubingai įniršo ir tris kartus papūtė į savo sidabrinį švilpuką.
 \n
@@ -122,11 +124,16 @@
 \n
 \n„Išimk mano šiaudus ir išbarstyk ant mažos mergaitės, šuns ir liūto“, – tarė jis Miškininkui, – ir bitės negalės jų įgelti. Tai padarė Miškininkas, ir Dorotė gulėjo šalia Liūto ir laikė Totą ant rankų, šiaudai juos visiškai uždengė.
 \n
-\nBitės atėjo ir nerado nieko kito, išskyrus Miškininką, kuris galėtų įgelti, todėl atskrido į jį ir nulaužė visus geluonis nuo skardos, nė kiek nesužeisdamos miško. O bitės negali gyventi, kai jų geluonis nulaužtas, tai buvo juodųjų bičių galas, ir jos gulėjo išsibarsčiusios aplink Miškininką, kaip smulkios anglies krūvos.
+\nBitės atėjo ir nerado nieko, išskyrus miškininką, kuris galėtų įgelti, todėl nuskrido į jį ir nulaužė visus įgėlimus nuo skardos, nė kiek nesužeisdamos miško. Ir kaip bitės negali gyventi, kai jų geluonis sulaužytas, tai buvo juodųjų bičių galas, ir jos gulėjo išsibarsčiusios aplink Miškininką, kaip mažos smulkios anglies krūvos.
 \n
-\nTada Dorothy ir Liūtas atsistojo, o mergina padėjo Skardiniam miškininkui vėl įdėti šiaudą į Kaliausę, kol jis tapo toks pat geras kaip visada. Taigi jie vėl pradėjo savo kelionę.
+\nTada Dorotėja ir Liūtas pakilo, o mergina padėjo Skardiniam miškininkui vėl įdėti šiaudą į Kaliausę, kol jis tapo toks pat geras kaip visada. Taigi jie vėl pradėjo savo kelionę.
 \n
-\nPiktoji Ragana taip supyko, pamačiusi savo juodas bites, susikaupusias kaip smulkias anglis, kad trypė koja, plėšėsi plaukus ir griežė dantimis. Tada ji pasišaukė tuziną savo vergų, kurie buvo Winkies, ir davė jiems aštrių ietis, liepdama eiti pas svetimus ir juos sunaikinti.
+\nPiktoji Ragana taip supyko, pamačiusi savo juodas bites, susikaupusias kaip smulkias anglis, kad trypė koja, plėšėsi plaukus ir griežė dantimis. Tada ji pasikvietė tuziną savo vergų, kurie buvo Winkies, ir davė jiems aštrių ietis, liepdama eiti pas svetimus ir juos sunaikinti.
 \n
 \nVinkiai nebuvo drąsūs žmonės, bet jie turėjo daryti, kaip jiems liepta. Taigi jie žygiavo tol, kol priartėjo prie Dorotėjos. Tada Liūtas smarkiai riaumojo ir puolė prie jų, o vargšai Vinkiai taip išsigando, kad bėgo atgal kuo greičiau.</string>
+    <string name="menuEnable">Įgalinti</string>
+    <string name="dialogServiceDisableMessage">Vartotojų programos nebegaus įvykių. Išjungti paslaugą\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Programėlės</string>
+    <string name="menuDisable">Išjungti</string>
+    <string name="aboutScreenAppListText">Šiame įrenginyje įdiegtų programų paketų, kuriuose naudojama pastovaus ekrano funkcija, sąrašas:</string>
 </resources>
