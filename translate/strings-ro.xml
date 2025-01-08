@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Acest serviciu permite aplicațiilor compatibile să contracareze cu ușurință mișcările mici ale dispozitivului în interfața lor cu utilizatorul.
+    <string name="appDesc">Faceți citirea din mers mai plăcută!
 \n
-\n🏝️ Acest lucru poate îmbunătăți lizibilitatea ecranului și poate atenua răul de mișcare în timpul mersului, de ex. în timp ce citește într-un vehicul în mișcare.
+\n⛵ Acest serviciu permite aplicațiilor compatibile să contracareze cu ușurință mișcările mici ale dispozitivului în interfața lor cu utilizatorul.
 \n
-\n⚡ Aplicația a fost creată foarte meticulos, pentru a minimiza utilizarea resurselor și a maximiza performanța.
+\n🏝️ Acest lucru îmbunătățește lizibilitatea pe ecran a unui dispozitiv portabil în timp ce mergeți pe jos sau călătoriți.
 \n
-\nSper să vă placă 😊</string>
+\n⚡ Serviciul a fost creat foarte meticulos, pentru a minimiza utilizarea resurselor și a maximiza performanța. Mai multe informații pot fi găsite pe GitHub-ul nostru.
+\n
+\nSper că vă place să utilizați acest lucru 😊</string>
     <string name="dialogReviewNudgeMessage">Vă place această aplicație\?</string>
-    <string name="dialogReviewNudgeMessage2">Mulțumiri! Vă rugăm să scrieți o recenzie plăcută sau să ne acordați 5 stele pe Play Store.</string>
+    <string name="dialogReviewNudgeMessage2">Mulţumesc! Vă rugăm să scrieți o recenzie frumoasă sau să ne acordați o nota de 5 stele pe Play Store.</string>
     <string name="paramLinearScalingInfo">Acest lucru scalează mișcările liniar, făcându-le mai mari sau mai mici, fără a afecta calculele.</string>
     <string name="licenseItemAlreadyOwned">Articolul cu licență este deja deținut</string>
-    <string name="dialogInfoMessage">Agitați puțin dispozitivul. Observați cum conținutul de fundal atenuează aceste mișcări, facilitând citirea pe ecran. (Serviciul Stilly trebuie să fie activat în setările de accesibilitate pentru ca acest lucru să se întâmple.)
+    <string name="dialogInfoMessage">Agitați puțin dispozitivul. Observați cum conținutul de fundal atenuează aceste mișcări, facilitând citirea pe ecran.
 \n
 \nAceastă funcționalitate poate fi implementată cu ușurință în orice aplicație. Vă rugăm să urmați instrucțiunile de pe GitHub.</string>
     <string name="paramForceScaling">Scalare forțată</string>
     <string name="paramLinearScaling">Scalare liniară</string>
-    <string name="dialogConsentButton">Accept</string>
+    <string name="dialogConsentButton">Accepta</string>
     <string name="no">Nu</string>
-    <string name="licenseSuccessDialogMessage">Aplicația a fost licențiată cu succes. Iti multumesc pentru sprijin!</string>
+    <string name="licenseSuccessDialogMessage">Aplicația a fost licențiată cu succes. Vă mulțumim pentru susținere!</string>
     <string name="menuAbout">Despre</string>
     <string name="paramForceScalingInfo">Acest lucru scalează forțele înainte de calcule, care, la rândul său, afectează amploarea totală a mișcărilor.</string>
     <string name="menuLicense">Actualizați-vă licența</string>
     <string name="openSourceLicensesTitle">Licențe open source</string>
     <string name="menuDecreaseTextSize">Reduceți dimensiunea textului</string>
     <string name="aboutScreenTranslationsTitle">Traduceri</string>
-    <string name="menuRateAndComment">Ne evalua</string>
-    <string name="yes">da</string>
+    <string name="menuRateAndComment">Evaluează-ne</string>
+    <string name="yes">Da</string>
     <string name="paramRecoil">Recul</string>
     <string name="paramSensorRate">Rata senzorului</string>
     <string name="paramDampingInfo">Creșterea acestuia va încetini și atenua mișcările, făcându-le mai puțin sensibile la forțe mai mari.</string>
     <string name="ok">Bine</string>
-    <string name="menuSendDebugFeedback">Raportează o problemă</string>
+    <string name="menuSendDebugFeedback">Raportați o problemă</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Final</string>
-    <string name="dialogRestoreDefaultsMessage">Restabiliți setările la valorile implicite\?</string>
+    <string name="dialogRestoreDefaultsMessage">Restabiliți parametrii la valorile implicite\?</string>
     <string name="paramDamping">Amortizare</string>
-    <string name="serviceInactiveText">Serviciul este dezactivat, faceți clic aici pentru activare.</string>
+    <string name="serviceInactiveText">Serviciul este dezactivat, faceți clic pentru a activa.</string>
     <string name="aboutScreenTranslationsText">Ajutați la traducerea acestei aplicații și obțineți o licență gratuită! Mai multe informatii:</string>
-    <string name="cancel">Anulare</string>
+    <string name="cancel">Anula</string>
     <string name="ultimateLicenseTitle">Licență finală</string>
     <string name="measuredSensorRate">Rata senzorului măsurată</string>
     <string name="menuTheme">Temă</string>
     <string name="measuredSensorRateInfo">Rata curentă a senzorului măsurată de aplicație. Aceasta poate diferi de rata dorită a senzorului, deoarece sistemul decide în cele din urmă ce rată să furnizeze.</string>
-    <string name="aboutScreenGithubLink">Încă pe GitHub</string>
-    <string name="aboutScreenLicenseTitle">Licența aplicației</string>
+    <string name="aboutScreenGithubLink">Ecran constant pe GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licență</string>
     <string name="aboutScreenLicenseText">Această aplicație este gratuită și funcționează fără limitări. Cu toate acestea, parametrii vor reveni la valorile implicite după 1 oră fără licență.</string>
     <string name="dialogInfoButton">Accesați GitHub</string>
     <string name="generalError">A apărut o eroare. Vă rugăm să încercați din nou.</string>
     <string name="paramRecoilInfo">Creșterea acestuia va reduce sensibilitatea la oscilațiile mici și va face mișcările mai puțin sensibile la forțe mai mari.</string>
-    <string name="menuRestoreDefaults">Restabiliti setarile de baza</string>
+    <string name="menuRestoreDefaults">Restabiliți valorile implicite</string>
     <string name="dialogButtonRateOnPlayStore">Evaluați pe Play Store</string>
     <string name="paramSensorRateInfo">Aceasta setează rata dorită a senzorului. Valorile mai mari pot consuma mai multă baterie. Aceasta poate diferi de rata măsurată a senzorului, deoarece sistemul decide în cele din urmă ce rată să furnizeze.</string>
     <string name="menuIncreaseTextSize">Măriți dimensiunea textului</string>
@@ -68,9 +70,9 @@
 \n
 \n— Poate că nu, spuse Sperietoarea, căci vrem să o distrugem.
 \n
-\n„Oh, asta e diferit”, a spus Gardianul Porților. „Nimeni nu a nimicit-o vreodată până acum, așa că am crezut, în mod firesc, că vă va face sclave, așa cum a făcut-o pe ceilalți. Vest, unde soarele apune și nu poți să nu o găsești.”
+\n„Oh, asta e diferit”, a spus Gardianul Porților. „Nimeni nu a nimicit-o vreodată până acum, așa că am crezut în mod firesc că vă va face sclave, așa cum a făcut-o pe ceilalți. Dar aveți grijă, că este rea și înverșunată și nu vă permite să o distrugeți. Vest, unde soarele apune și nu poți să nu o găsești.”
 \n
-\nI-au mulțumit și i-au luat rămas-bun și s-au întors spre vest, mergând pe câmpuri de iarbă moale presărată ici și colo cu margarete și ranunci. Dorothy încă purta frumoasa rochie de mătase pe care o îmbrăcase la palat, dar acum, spre surprinderea ei, a descoperit că nu mai era verde, ci alb pur. Panglica din jurul gâtului lui Toto își pierduse și ea culoarea verde și era la fel de albă ca rochia lui Dorothy.
+\nI-au mulțumit și i-au luat rămas bun și s-au întors spre vest, mergând pe câmpuri de iarbă moale, presărată ici și colo cu margarete și ranunci. Dorothy încă purta frumoasa rochie de mătase pe care o îmbrăcase la palat, dar acum, spre surprinderea ei, a descoperit că nu mai era verde, ci alb pur. Panglica din jurul gâtului lui Toto își pierduse și ea culoarea verde și era la fel de albă ca rochia lui Dorothy.
 \n
 \nOrașul de Smarald a fost curând lăsat mult în urmă. Pe măsură ce au înaintat, pământul a devenit mai aspru și mai deluros, pentru că nu existau ferme sau case în această țară a Vestului, iar pământul era cultivat.
 \n
@@ -80,9 +82,9 @@
 \n
 \nÎndată a venit în fugă la ea din toate părţile o haită de lupi mari. Aveau picioare lungi și ochi fioroși și dinți ascuțiți.
 \n
-\n„Du-te la oamenii aceia,” spuse Vrăjitoarea, „și rupe-i în bucăți”.
+\n„Du-te la oamenii aceia”, a spus Vrăjitoarea, „și rupe-i în bucăți”.
 \n
-\n— Nu-i vei face sclavii tăi\? întrebă conducătorul lupilor.
+\n— N-o să-i faci sclavii tăi\? întrebă conducătorul lupilor.
 \n
 \n„Nu”, a răspuns ea, „unul este de tablă și unul de paie; una este fată și alta un Leu. Niciunul dintre ei nu este apt să lucreze, așa că le poți rupe în bucăți mici”.
 \n
@@ -92,7 +94,7 @@
 \n
 \n„Aceasta este lupta mea”, a spus Woodman, „deci treci în spatele meu și îi voi întâlni pe măsură ce vor veni”.
 \n
-\nÎși apucă securea, pe care o făcuse foarte ascuțită și, în timp ce conducătorul lupilor a venit, Lemnicul de tablă și-a legănat brațul și a tăiat capul lupului de pe corp, astfel încât acesta a murit imediat. De îndată ce putu să ridice securea, a apărut un alt lup și a căzut și el sub muchia ascuțită a armei Lemnului de tablă. Erau patruzeci de lupi și de patruzeci de ori un lup a fost ucis, astfel încât, în cele din urmă, toți zăceau morți în grămada în fața Woodman.
+\nÎși apucă securea, pe care o făcuse foarte ascuțită și, în timp ce conducătorul lupilor a venit, Lemnicul de tablă și-a legănat brațul și a tăiat capul lupului de pe corp, astfel încât acesta a murit imediat. De îndată ce a putut să ridice securea, a apărut un alt lup și a căzut și el sub muchia ascuțită a armei Lemnului de tablă. Erau patruzeci de lupi și de patruzeci de ori un lup a fost ucis, astfel încât, în cele din urmă, toți zăceau morți în grămada în fața Woodman.
 \n
 \nApoi și-a pus toporul jos și s-a așezat lângă Sperietoare, care a spus: „A fost o luptă bună, prietene”.
 \n
@@ -114,7 +116,7 @@
 \n
 \nRegele Crow a zburat spre Sperietoare, care a prins-o de cap și i-a răsucit gâtul până a murit. Și apoi o altă cioară a zburat spre el, iar Sperietoarea și-a răsucit și ea gâtul. Erau patruzeci de corbi și de patruzeci de ori Sperietoarea și-a răsucit un gât, până când în cele din urmă toți zăceau morți lângă el. Apoi le-a chemat pe tovarășii săi să se ridice, iar ei au pornit din nou în călătorie.
 \n
-\nCând Vrăjitoarea rea s-a uitat din nou afară și și-a văzut toți corbii întinși la grămadă, s-a înfuriat groaznic și a suflat de trei ori în fluierul ei de argint.
+\nCând Vrăjitoarea rea s-a uitat din nou afară și și-a văzut toți corbii întinși la grămadă, s-a înfuriat îngrozitor și a suflat de trei ori în fluierul ei de argint.
 \n
 \nÎndată s-a auzit un bâzâit mare în aer și un roi de albine negre a venit zburând spre ea.
 \n
@@ -124,7 +126,7 @@
 \n
 \nAlbinele au venit și nu l-au găsit pe nimeni în afară de Lemnicul pe care să-l înțepe, așa că au zburat spre el și și-au rupt toate înțepăturile de tablă, fără să-l rănească deloc pe Lemnicul. Și cum albinele nu pot trăi când le sunt rupte înțepăturile, acesta a fost sfârșitul albinelor negre și stăteau împrăștiate în jurul Woodman, ca mormane mici de cărbune fin.
 \n
-\nApoi Dorothy și Leul s-au ridicat, iar fata l-a ajutat pe Lemnicul de Cotit să pună din nou paiele în Sperietoare, până când a fost la fel de bun ca întotdeauna. Așa că au început încă o dată călătoria.
+\nApoi Dorothy și Leul s-au ridicat, iar fata l-a ajutat pe Lemnicul de Tinichea să pună din nou paiele în Sperietoare, până când a fost la fel de bun ca întotdeauna. Așa că au început încă o dată călătoria.
 \n
 \nVrăjitoarea rea a fost atât de furioasă când și-a văzut albinele negre în grămezi mici ca cărbunele fin, încât a bătut cu piciorul, și-a rupt părul și a scrâșnit din dinți. Și apoi a chemat o duzină dintre sclavii ei, care erau Winkii, și le-a dat sulițe ascuțite, spunându-le să meargă la străini și să-i distrugă.
 \n
