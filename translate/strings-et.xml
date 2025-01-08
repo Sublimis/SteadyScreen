@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ See teenus võimaldab ühilduvatel rakendustel oma kasutajaliideses hõlpsalt tõrjuda seadme väikeseid liikumisi.
+    <string name="appDesc">Muutke liikvel olles lugemine nauditavamaks!
 \n
-\n🏝️ See võib parandada ekraani loetavust ja võib-olla leevendada liikumishaigust liikvel olles, nt. liikuvas sõidukis lugedes.
+\n⛵ See teenus võimaldab ühilduvatel rakendustel oma kasutajaliideses hõlpsalt tõrjuda seadme väikeseid liikumisi.
 \n
-\n⚡ Rakendus on loodud väga hoolikalt, et minimeerida ressursside kasutamist ja maksimeerida jõudlust.
+\n🏝️ See parandab käeshoitava seadme ekraani loetavust kõndimise või reisimise ajal.
 \n
-\nLoodetavasti naudite 😊</string>
+\n⚡ Teenus on loodud väga hoolikalt, et minimeerida ressursside kasutamist ja maksimeerida jõudlust. Lisateavet leiate meie GitHubist.
+\n
+\nLoodetavasti naudite selle kasutamist 😊</string>
     <string name="dialogReviewNudgeMessage">Kas teile meeldib see rakendus\?</string>
-    <string name="dialogReviewNudgeMessage2">Aitäh! Kirjutage hea arvustus või hinnake meid Play poes 5 tärniga.</string>
+    <string name="dialogReviewNudgeMessage2">Aitäh! Kirjutage Play poes kena arvustus või hinnake meid 5 tärniga.</string>
     <string name="paramLinearScalingInfo">See skaleerib liigutusi lineaarselt, muutes need suuremaks või väiksemaks ilma arvutusi mõjutamata.</string>
     <string name="licenseItemAlreadyOwned">Litsentsiüksus on juba omanduses</string>
-    <string name="dialogInfoMessage">Raputage seadet veidi. Pange tähele, kuidas taustasisu neid liigutusi pehmendab, muutes ekraanil lugemise lihtsamaks. (Selleks peab teenus endiselt olema juurdepääsetavuse seadetes lubatud.)
+    <string name="dialogInfoMessage">Raputage seadet veidi. Pange tähele, kuidas taustasisu pehmendab neid liigutusi, muutes ekraanil lugemise lihtsamaks.
 \n
 \nSeda funktsiooni saab hõlpsasti rakendada igas rakenduses. Järgige GitHubi juhiseid.</string>
     <string name="paramForceScaling">Jõu skaleerimine</string>
@@ -30,33 +32,33 @@
     <string name="paramRecoil">Tagasilöök</string>
     <string name="paramSensorRate">Anduri kiirus</string>
     <string name="paramDampingInfo">Selle suurendamine aeglustab ja nõrgendab liigutusi, muutes need suuremate jõudude suhtes vähem tundlikuks.</string>
-    <string name="ok">Okei</string>
+    <string name="ok">OK</string>
     <string name="menuSendDebugFeedback">Teatage probleemist</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ülim</string>
-    <string name="dialogRestoreDefaultsMessage">Kas taastada seaded vaikeväärtustele\?</string>
+    <string name="dialogRestoreDefaultsMessage">Kas taastada parameetrid vaikeväärtustele\?</string>
     <string name="paramDamping">Summutamine</string>
-    <string name="serviceInactiveText">Teenus on keelatud, lubamiseks klõpsake siin.</string>
+    <string name="serviceInactiveText">Teenus on keelatud, lubamiseks klõpsake.</string>
     <string name="aboutScreenTranslationsText">Aidake seda rakendust tõlkida ja hankige tasuta litsents! Rohkem infot:</string>
     <string name="cancel">Tühista</string>
     <string name="ultimateLicenseTitle">Ülim litsents</string>
     <string name="measuredSensorRate">Mõõdetud anduri kiirus</string>
     <string name="menuTheme">Teema</string>
     <string name="measuredSensorRateInfo">Praegune anduri kiirus, mida mõõdetakse rakenduse poolt. See võib erineda soovitud anduri kiirusest, kuna süsteem otsustab lõpuks, millist kiirust pakkuda.</string>
-    <string name="aboutScreenGithubLink">Stilly GitHubis</string>
-    <string name="aboutScreenLicenseTitle">Rakenduse litsents</string>
+    <string name="aboutScreenGithubLink">Pidev ekraan GitHubis</string>
+    <string name="aboutScreenLicenseTitle">🔑 Litsents</string>
     <string name="aboutScreenLicenseText">See rakendus on tasuta ja töötab piiranguteta. Parameetrid taastuvad aga vaikeväärtustele pärast 1 tunni möödumist litsentsita.</string>
     <string name="dialogInfoButton">Minge GitHubi</string>
     <string name="generalError">Ilmnes mingi viga. Palun proovi uuesti.</string>
     <string name="paramRecoilInfo">Selle suurendamine vähendab tundlikkust väikeste võnkumiste suhtes ja muudab liigutused vähem tundlikuks suuremate jõudude suhtes.</string>
-    <string name="menuRestoreDefaults">Taasta algseaded</string>
+    <string name="menuRestoreDefaults">Taasta vaikeseaded</string>
     <string name="dialogButtonRateOnPlayStore">Hinda Play poes</string>
     <string name="paramSensorRateInfo">See määrab soovitud anduri kiiruse. Kõrgemad väärtused võivad akut rohkem tarbida. See võib erineda mõõdetud anduri kiirusest, kuna süsteem otsustab lõpuks, millist kiirust pakkuda.</string>
     <string name="menuIncreaseTextSize">Suurendage teksti suurust</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(See tekst on demonstreerimise eesmärgil)
 \n
-\nRoheliste vurruga sõdur juhatas nad läbi Smaragdlinna tänavate, kuni nad jõudsid tuppa, kus elas Väravate valvur. See ohvitser avas nende prillid lukust, et panna need tagasi oma suurepärasesse kasti, ja avas siis viisakalt meie sõpradele värava.
+\nRoheliste vurridega sõdur juhatas nad läbi Smaragdlinna tänavate, kuni nad jõudsid tuppa, kus elas Väravate valvur. See ohvitser avas nende prillid lukust, et panna need tagasi oma suurepärasesse kasti, ja avas siis viisakalt meie sõpradele värava.
 \n
 \n\"Milline tee viib Lääne kurja nõia juurde\?\" küsis Dorothy.
 \n
@@ -74,11 +76,11 @@
 \n
 \nSmaragdlinn jäi peagi kaugele maha. Nende edenedes muutus maapind karmimaks ja künklikumaks, sest sellel läänemaal polnud talusid ega maju ning maapind oli haritud.
 \n
-\nPärastlõunal paistis päike neile kuumalt näkku, sest polnud ühtegi puud, mis neile varju pakuks; nii et enne ööd olid Dorothy ja Toto ja Lõvi väsinud ning heitsid murule pikali ja jäid magama, kusjuures metsamees ja Hernehirmutis valvasid.
+\nPärastlõunal paistis päike neile kuumalt näkku, sest puudusid puud, mis neile varju pakuks; nii et enne ööd olid Dorothy ja Toto ja Lõvi väsinud ning heitsid pikali murule ja jäid magama, kusjuures Metsamees ja Hernehirmutis valvasid.
 \n
-\nNüüd oli Lääne kurjal nõial vaid üks silm, kuid see oli võimas nagu teleskoop ja nägi kõikjale. Nii juhtus ta oma lossi uksel istudes ringi vaatama ja nägi Dorothyt magama jäämas ja tema sõbrad ümberringi. Nad olid kaugel, kuid kuri nõid oli vihane, kui leidis nad oma riigist; nii et ta puhus hõbedast vilet, mis rippus tema kaelas.
+\nNüüd oli Lääne kurjal nõial vaid üks silm, kuid see oli võimas nagu teleskoop ja nägi kõikjale. Nii juhtus ta oma lossi uksel istudes ringi vaatama ja nägi Dorothyt magamas ja sõbrad ümberringi. Nad olid kaugel, kuid kuri nõid oli vihane, et leidis nad oma riigist; nii et ta puhus hõbedast vilet, mis rippus tema kaelas.
 \n
-\nKorraga jooksis tema juurde igast suunast suur hundikari. Neil olid pikad jalad ja ägedad silmad ning teravad hambad.
+\nKorraga jooksis tema juurde igast suunast suur hundikari. Neil olid pikad jalad, ägedad silmad ja teravad hambad.
 \n
 \n\"Mine nende inimeste juurde,\" ütles Nõid, \"ja rebi nad tükkideks.\"
 \n
@@ -92,7 +94,7 @@
 \n
 \n\"See on minu võitlus,\" ütles metsamees, \"nii et astu minu taha ja ma kohtun nendega, kui nad tulevad.\"
 \n
-\nTa haaras oma kirve, mille ta oli teinud väga teravaks, ja kui huntide juht tuli Plekk-puumehele, õõtsutas ta kätt ja raius hundi pea keha küljest lahti, nii et see kohe suri. Niipea, kui ta suutis oma kirve tõsta, tuli vastu teine hunt ja temagi langes Tin Woodmani relva terava serva alla. Seal oli nelikümmend hunti ja nelikümmend korda tapeti hunt, nii et lõpuks lebasid nad kõik surnuna metsamehe ees.
+\nTa haaras oma kirve, mille ta oli teinud väga teravaks, ja kui huntide juht tuli Plekk-metsamehele, õõtsutas ta kätt ja raius hundi pea keha küljest lahti, nii et see kohe suri. Niipea, kui ta suutis oma kirve tõsta, tuli vastu teine hunt ja ka tema jäi Tin Woodmani relva terava serva alla. Seal oli nelikümmend hunti ja nelikümmend korda tapeti hunt, nii et lõpuks lebasid nad kõik surnuna metsamehe ees.
 \n
 \nSiis pani ta kirve maha ja istus Hernehirmutise kõrvale, kes ütles: \"See oli hea võitlus, sõber.\"
 \n
@@ -116,17 +118,22 @@
 \n
 \nKui Kuri Nõid vaatas uuesti välja ja nägi kõiki oma vareseid hunnikus lebamas, sattus ta kohutavasse raevu ja puhus kolm korda oma hõbedast vilet.
 \n
-\nÕhus oli kohe kuulda tugevat suminat ja mustade mesilaste sülem lendas tema poole.
+\nÕhus oli kohe kuulda suurt suminat ja mustade mesilaste sülem lendas tema poole.
 \n
-\n\"Minge võõraste juurde ja nõelake nad surnuks!\" käskis nõid ning mesilased pöördusid ja lendasid kiiresti, kuni jõudsid sinna, kus Dorothy ja ta sõbrad kõndisid. Kuid Metsamees oli näinud neid tulemas ja Hernehirmutis oli otsustanud, mida teha.
+\n\"Minge võõraste juurde ja nõelake nad surnuks!\" käskis nõid ning mesilased pöördusid ja lendasid kiiresti, kuni jõudsid kohale, kus Dorothy ja ta sõbrad kõndisid. Kuid Metsamees oli näinud neid tulemas ja Hernehirmutis oli otsustanud, mida teha.
 \n
 \n\"Võtke mu õled välja ja puistake see väikese tüdruku, koera ja Lõvi peale,\" ütles ta metsamehele, \"ja mesilased ei saa neid nõelata.\" Seda tegi metsamees ja kui Dorothy lamas Lõvi kõrval ja hoidis Totot süles, kattis õled nad täielikult.
 \n
-\nMesilased tulid ja ei leidnud, et keegi peale Metsuri nõelaks, nii et nad lendasid talle kallale ja murdsid kõik oma nõelamised vastu plekki, ilma Metsamehele üldse haiget tegemata. Ja nagu mesilased ei saa elada, kui nende nõelamised on katki, see oli mustade mesilaste lõpp ja nad lebasid metsamehe ümber laiali nagu väikesed söehunnikud.
+\nMesilased tulid ja ei leidnud, et keegi peale Metsuri nõelaks, nii et nad lendasid talle kallale ja murdsid kõik oma nõelamised vastu plekki, ilma Metsamehele üldse haiget tegemata. Ja nagu mesilased ei saa elada, kui nende nõelamised on katki, oli see mustade mesilaste lõpp ja nad lebasid metsamehe ümber laiali nagu väikesed söehunnikud.
 \n
 \nSiis tõusid Dorothy ja Lõvi püsti ning tüdruk aitas Plekk-metsamehel õled uuesti Hernehirmutisse tagasi panna, kuni too oli sama hea kui kunagi varem. Nii alustasid nad taas oma teekonda.
 \n
-\nKuri nõid oli nii vihane, kui nägi oma musti mesilasi väikeste kivisüsi hunnikutes, et trampis jalga, rebis juukseid ja kiristas hambaid. Ja siis kutsus ta kümmekond oma orja, kelleks olid Winkied, ja andis neile teravad odad, käskis neil võõraste juurde minna ja nad hävitada.
+\nKuri nõid oli nii vihane, kui ta nägi oma musti mesilasi väikeste kivisüsi hunnikutes, et ta trampis jalga, rebis juukseid ja kiristas hambaid. Ja siis kutsus ta kümmekond oma orja, kelleks olid Winkied, ja andis neile teravad odad, käskis neil minna võõraste juurde ja hävitada.
 \n
-\nWinkied ei olnud julge rahvas, aga nad pidid tegema nii, nagu kästi. Nii nad marssisid minema, kuni jõudsid Dorothy lähedale. Siis lõvi müristas ja kargas nende poole ning vaesed Winkid olid nii ehmunud, et jooksid tagasi nii kiiresti kui suutsid.</string>
+\nWinkied ei olnud julge rahvas, kuid nad pidid tegema nii, nagu kästi. Nii nad marssisid minema, kuni jõudsid Dorothy lähedale. Siis lõvi müristas ja kargas nende poole ning vaesed Winkid olid nii ehmunud, et jooksid tagasi nii kiiresti kui suutsid.</string>
+    <string name="menuEnable">Luba</string>
+    <string name="dialogServiceDisableMessage">Tarbijarakendused lõpetavad sündmuste vastuvõtmise. Kas keelata teenus\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Rakendused</string>
+    <string name="menuDisable">Keela</string>
+    <string name="aboutScreenAppListText">Sellesse seadmesse installitud rakendusepakettide loend, mis kasutavad funktsiooni Steady Screen:</string>
 </resources>
