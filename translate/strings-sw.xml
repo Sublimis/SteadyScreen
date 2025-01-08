@@ -129,4 +129,9 @@
 \nMchawi Mwovu alikasirika sana alipowaona nyuki wake weusi wakiwa kwenye chungu kidogo kama makaa safi hivi kwamba alikanyaga mguu wake na kurarua nywele zake na kusaga meno yake. Na kisha akawaita dazeni ya watumwa wake, ambao walikuwa Winkies, na akawapa mikuki mikali, akiwaambia kwenda kwa wageni na kuwaangamiza.
 \n
 \nAkina Winkie hawakuwa watu jasiri, lakini walipaswa kufanya kama walivyoambiwa. Kwa hiyo wakaondoka mpaka wakafika karibu na Dorothy. Kisha Simba akatoa kishindo kikubwa na kuruka kuelekea kwao, na Winkies maskini waliogopa sana kwamba walikimbia nyuma haraka iwezekanavyo.</string>
+    <string name="menuEnable">Wezesha</string>
+    <string name="dialogServiceDisableMessage">Programu za watumiaji zitaacha kupokea matukio. Ungependa kuzima huduma\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Programu</string>
+    <string name="menuDisable">Zima</string>
+    <string name="aboutScreenAppListText">Orodha ya vifurushi vya programu vilivyosakinishwa kwenye kifaa hiki vinavyotumia kipengele cha Skrini ya Thabiti:</string>
 </resources>
