@@ -129,4 +129,9 @@
 \nPhù thủy độc ác vô cùng tức giận khi nhìn thấy những con ong đen của mình chất thành từng đống nhỏ như than mịn đến mức giậm chân, xé tóc và nghiến răng. Sau đó, cô gọi hàng chục nô lệ của mình, những người Winkie, và đưa cho họ những ngọn giáo sắc nhọn, bảo họ đến gặp những người lạ và tiêu diệt họ.
 \n
 \nNgười Winkie không phải là dân tộc dũng cảm nhưng họ phải làm theo những gì được bảo. Thế là họ hành quân đi cho đến khi đến gần Dorothy. Sau đó, Sư tử gầm lên một tiếng lớn và lao về phía họ, còn những người Winkie tội nghiệp sợ hãi đến mức chạy lùi lại nhanh nhất có thể.</string>
+    <string name="menuEnable">Cho phép</string>
+    <string name="dialogServiceDisableMessage">Ứng dụng của người dùng sẽ ngừng nhận sự kiện. Tắt dịch vụ\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Ứng dụng</string>
+    <string name="menuDisable">Vô hiệu hóa</string>
+    <string name="aboutScreenAppListText">Danh sách các gói ứng dụng được cài đặt trên thiết bị này sử dụng tính năng Màn hình ổn định:</string>
 </resources>
