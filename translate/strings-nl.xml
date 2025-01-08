@@ -1,134 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
+    <string name="appDesc">Maak lezen onderweg leuker!
 \n
-\n🏝️Dit kan de leesbaarheid van het scherm verbeteren en mogelijk bewegingsziekte verlichten terwijl u onderweg bent, bijvoorbeeld als u onderweg bent. tijdens het lezen in een rijdend voertuig.
+\n⛵ Met deze service kunnen compatibele applicaties eenvoudig kleine apparaatbewegingen binnen hun gebruikersinterface tegengaan.
 \n
-\n⚡ De applicatie is zeer zorgvuldig ontworpen om het gebruik van bronnen te minimaliseren en de prestaties te maximaliseren.
+\n🏝️ Dit verbetert de leesbaarheid van het scherm van een draagbaar apparaat tijdens het lopen of reizen.
 \n
-\nIk hoop dat je ervan geniet 😊</string>
-    <string name="dialogReviewNudgeMessage">Geniet je van deze app\?</string>
-    <string name="dialogReviewNudgeMessage2">Bedankt! Schrijf een mooie recensie of beoordeel ons met 5 sterren in de Play Store.</string>
-    <string name="paramLinearScalingInfo">Hierdoor worden de bewegingen lineair geschaald, waardoor ze groter of kleiner worden zonder de berekeningen te beïnvloeden.</string>
+\n⚡ De service is zeer nauwkeurig ontworpen om het gebruik van bronnen te minimaliseren en de prestaties te maximaliseren. Meer informatie is te vinden op onze GitHub.
+\n
+\nIk hoop dat je dit leuk vindt 😊</string>
+    <string name="dialogReviewNudgeMessage">Vindt u deze app leuk\?</string>
+    <string name="dialogReviewNudgeMessage2">Bedankt! Schrijf een leuke recensie of geef ons 5 sterren in de Play Store.</string>
+    <string name="paramLinearScalingInfo">Hierdoor worden de bewegingen lineair geschaald, waardoor ze groter of kleiner worden zonder dat dit invloed heeft op de berekeningen.</string>
     <string name="licenseItemAlreadyOwned">Licentie-item al in bezit</string>
-    <string name="dialogInfoMessage">Schud het apparaat een beetje. Merk op hoe de achtergrondinhoud deze bewegingen verzacht, waardoor lezen op het scherm gemakkelijker wordt. (Hiervoor moet de Stilly-service zijn ingeschakeld in de Toegankelijkheidsinstellingen.)
+    <string name="dialogInfoMessage">Schud het apparaat een beetje. Merk op hoe de achtergrondinhoud deze bewegingen verzacht, waardoor het lezen op het scherm gemakkelijker wordt.
 \n
 \nDeze functionaliteit kan eenvoudig in elke applicatie worden geïmplementeerd. Volg de instructies op GitHub.</string>
-    <string name="paramForceScaling">Forceer schaalvergroting</string>
-    <string name="paramLinearScaling">Lineaire schaling</string>
-    <string name="dialogConsentButton">Aanvaarden</string>
+    <string name="paramForceScaling">Kracht schaalvergroting</string>
+    <string name="paramLinearScaling">Lineaire schaal</string>
+    <string name="dialogConsentButton">Accepteren</string>
     <string name="no">Nee</string>
-    <string name="licenseSuccessDialogMessage">De app is met succes gelicentieerd. Bedankt voor je ondersteuning!</string>
+    <string name="licenseSuccessDialogMessage">De app is succesvol gelicentieerd. Bedankt voor je support!</string>
     <string name="menuAbout">Over</string>
-    <string name="paramForceScalingInfo">Hierdoor worden de krachten vóór de berekeningen geschaald, wat op zijn beurt de totale omvang van de bewegingen beïnvloedt.</string>
+    <string name="paramForceScalingInfo">Hiermee worden de krachten vóór de berekeningen geschaald, wat op zijn beurt de algehele omvang van de bewegingen beïnvloedt.</string>
     <string name="menuLicense">Upgrade uw licentie</string>
     <string name="openSourceLicensesTitle">Open source-licenties</string>
-    <string name="menuDecreaseTextSize">Verklein de tekstgrootte</string>
+    <string name="menuDecreaseTextSize">Tekstgrootte verkleinen</string>
     <string name="aboutScreenTranslationsTitle">Vertalingen</string>
     <string name="menuRateAndComment">Beoordeel ons</string>
     <string name="yes">Ja</string>
     <string name="paramRecoil">Terugslag</string>
     <string name="paramSensorRate">Sensorsnelheid</string>
-    <string name="paramDampingInfo">Als u dit vergroot, worden bewegingen vertraagd en verzwakt, waardoor ze minder gevoelig worden voor grotere krachten.</string>
+    <string name="paramDampingInfo">Als u dit verhoogt, worden de bewegingen vertraagd en verzwakt, waardoor ze minder gevoelig worden voor grotere krachten.</string>
     <string name="ok">OK</string>
-    <string name="menuSendDebugFeedback">Een probleem melden</string>
-    <string name="ratePerSecond">%1$s Hz</string>
+    <string name="menuSendDebugFeedback">Meld een probleem</string>
+    <string name="ratePerSecond">%1$s Hertz</string>
     <string name="ultimateLicenseLabel">Ultiem</string>
-    <string name="dialogRestoreDefaultsMessage">Instellingen terugzetten naar standaardwaarden\?</string>
+    <string name="dialogRestoreDefaultsMessage">Parameters herstellen naar standaardwaarden\?</string>
     <string name="paramDamping">Demping</string>
-    <string name="serviceInactiveText">Service is uitgeschakeld, klik hier om in te schakelen.</string>
+    <string name="serviceInactiveText">Service is uitgeschakeld, klik om in te schakelen.</string>
     <string name="aboutScreenTranslationsText">Help deze app te vertalen en ontvang een gratis licentie! Meer informatie:</string>
     <string name="cancel">Annuleren</string>
     <string name="ultimateLicenseTitle">Ultieme licentie</string>
     <string name="measuredSensorRate">Gemeten sensorsnelheid</string>
     <string name="menuTheme">Thema</string>
-    <string name="measuredSensorRateInfo">Huidige sensorsnelheid zoals gemeten door de app. Dit kan afwijken van de gewenste sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
-    <string name="aboutScreenGithubLink">Stilly op GitHub</string>
-    <string name="aboutScreenLicenseTitle">App-licentie</string>
+    <string name="measuredSensorRateInfo">Huidige sensorsnelheid zoals gemeten door de app. Dit kan afwijken van de gewenste sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden geleverd.</string>
+    <string name="aboutScreenGithubLink">Stabiel scherm op GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Licentie</string>
     <string name="aboutScreenLicenseText">Deze applicatie is gratis en werkt zonder beperkingen. De parameters keren echter na 1 uur zonder licentie terug naar hun standaardwaarden.</string>
     <string name="dialogInfoButton">Ga naar GitHub</string>
     <string name="generalError">Er is een fout opgetreden. Probeer het opnieuw.</string>
-    <string name="paramRecoilInfo">Als u dit vergroot, wordt de gevoeligheid voor kleine trillingen verminderd en worden bewegingen minder gevoelig voor grotere krachten.</string>
-    <string name="menuRestoreDefaults">Standaardwaarden herstellen</string>
-    <string name="dialogButtonRateOnPlayStore">Beoordeel in Play Store</string>
-    <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden aangeboden.</string>
-    <string name="menuIncreaseTextSize">Vergroot de tekstgrootte</string>
-    <string name="menuInfo">Info</string>
+    <string name="paramRecoilInfo">Als u dit verhoogt, wordt de gevoeligheid voor kleine trillingen verminderd en worden bewegingen minder gevoelig voor grotere krachten.</string>
+    <string name="menuRestoreDefaults">Standaardinstellingen herstellen</string>
+    <string name="dialogButtonRateOnPlayStore">Beoordeel op Play Store</string>
+    <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, omdat het systeem uiteindelijk beslist welke snelheid moet worden geleverd.</string>
+    <string name="menuIncreaseTextSize">Tekstgrootte vergroten</string>
+    <string name="menuInfo">Informatie</string>
     <string name="loremIpsum">(Deze tekst is ter demonstratie)
 \n
-\nDe soldaat met de groene bakkebaarden leidde hen door de straten van de Smaragdgroene Stad totdat ze de kamer bereikten waar de Wachter van de Poort woonde. Deze officier ontgrendelde hun bril om ze terug in zijn grote kist te stoppen, en vervolgens opende hij beleefd de poort voor onze vrienden.
+\nDe soldaat met de groene snorharen leidde hen door de straten van de Smaragden Stad totdat ze de kamer bereikten waar de Poortwachter woonde. Deze officier ontgrendelde hun brillen om ze terug in zijn grote doos te stoppen, en daarna opende hij beleefd de poort voor onze vrienden.
 \n
-\n\'Welke weg leidt naar de Boze Heks van het Westen\?\' vroeg Dorothy.
+\n\"Welke weg leidt naar de Boze Heks van het Westen\?\" vroeg Dorothy.
 \n
-\n\"Er is geen weg\", antwoordde de Wachter van de Poorten. \"Niemand wil ooit die kant op gaan.\"
+\n\"Er is geen weg,\" antwoordde de Poortwachter. \"Niemand wil ooit die kant op.\"
 \n
-\n\'Hoe moeten we haar dan vinden\?\' vroeg het meisje.
+\n\"Hoe moeten we haar dan vinden\?\" vroeg het meisje.
 \n
-\n\"Dat zal makkelijk zijn,\" antwoordde de man, \"want als ze weet dat je in het land van de Winkies bent, zal ze je vinden en je allemaal tot haar slaven maken.\"
+\n\"Dat zal gemakkelijk zijn,\" antwoordde de man, \"want als ze weet dat je in het land van de Winkies bent, zal ze je vinden en jullie allemaal tot haar slaven maken.\"
 \n
-\n\'Misschien niet,\' zei de Vogelverschrikker, \'want we zijn van plan haar te vernietigen.\'
+\n\"Misschien niet,\" zei de Vogelverschrikker, \"want we zijn van plan haar te vernietigen.\"
 \n
-\n\"Oh, dat is anders\", zei de Wachter van de Poorten. ‘Niemand heeft haar ooit eerder vernietigd, dus ik dacht natuurlijk dat ze slaven van je zou maken, net als ze van de rest heeft gedaan. Maar wees voorzichtig, want ze is slecht en wreed, en het zou kunnen dat je niet toestaat dat je haar vernietigt. West, waar de zon ondergaat, en je kunt haar zeker vinden.\"
+\n\"Oh, dat is anders,\" zei de Poortwachter. \"Niemand heeft haar ooit eerder vernietigd, dus ik dacht natuurlijk dat ze slaven van je zou maken, zoals ze dat van de rest heeft gedaan. Maar wees voorzichtig; want ze is slecht en woest, en zal het niet toestaan dat je haar vernietigt. Blijf in het westen, waar de zon ondergaat, en je zult haar zeker vinden.\"
 \n
-\nZe bedankten hem en namen afscheid van hem en draaiden zich om naar het westen, terwijl ze over velden met zacht gras liepen, hier en daar bezaaid met madeliefjes en boterbloemen. Dorothy droeg nog steeds de mooie zijden jurk die ze in het paleis had aangetrokken, maar nu ontdekte ze tot haar verbazing dat deze niet langer groen was, maar puur wit. Het lint om Toto\'s nek had ook zijn groene kleur verloren en was net zo wit als Dorothy\'s jurk.
+\nZe bedankten hem en namen afscheid, en keerden zich naar het westen, wandelend over velden met zacht gras, hier en daar bezaaid met madeliefjes en boterbloemen. Dorothy droeg nog steeds de mooie zijden jurk die ze in het paleis had aangetrokken, maar nu zag ze tot haar verbazing dat die niet langer groen was, maar zuiver wit. Het lint om Toto\'s nek had ook zijn groene kleur verloren en was net zo wit als Dorothy\'s jurk.
 \n
-\nDe Emerald City werd al snel ver achter zich gelaten. Naarmate ze verder kwamen, werd de grond ruwer en heuvelachtiger, want er waren geen boerderijen of huizen in dit land van het Westen, en de grond was onbewerkt.
+\nDe Smaragden Stad werd al snel ver achter zich gelaten. Naarmate ze verder kwamen werd de grond ruiger en heuvelachtiger, want er waren geen boerderijen of huizen in dit land van het westen, en de grond was onbewerkt.
 \n
-\n\'s Middags scheen de zon heet in hun gezicht, want er waren geen bomen die hen schaduw boden; zodat Dorothy, Toto en de Leeuw vóór de nacht moe waren, op het gras gingen liggen en in slaap vielen, terwijl de Houtman en de Vogelverschrikker de wacht hielden.
+\nIn de middag scheen de zon heet in hun gezichten, want er waren geen bomen die hun schaduw boden; zodat Dorothy, Toto en de Leeuw voor de nacht moe waren en op het gras gingen liggen en in slaap vielen, terwijl de Houthakker en de Vogelverschrikker de wacht hielden.
 \n
-\nNu had de Boze Heks van het Westen maar één oog, maar dat was zo krachtig als een telescoop en kon overal zien. Dus terwijl ze in de deur van haar kasteel zat, keek ze toevallig om zich heen en zag Dorothy in slaap liggen, met haar vrienden om haar heen. Ze waren ver weg, maar de Boze Heks was boos toen ze ze in haar land aantrof; dus blies ze op een zilveren fluitje dat om haar nek hing.
+\nNu had de Boze Heks van het Westen maar één oog, maar dat was net zo krachtig als een telescoop en kon overal zien. Dus toen ze in de deur van haar kasteel zat, keek ze toevallig om zich heen en zag Dorothy slapen, met haar vrienden om haar heen. Ze waren ver weg, maar de Boze Heks was boos om ze in haar land te vinden; dus blies ze op een zilveren fluitje dat om haar nek hing.
 \n
-\nOnmiddellijk kwam er van alle kanten een troep grote wolven op haar af rennen. Ze hadden lange benen, woeste ogen en scherpe tanden.
+\nMeteen kwam er van alle kanten een roedel grote wolven naar haar toe rennen. Ze hadden lange benen, felle ogen en scherpe tanden.
 \n
-\n\'Ga naar die mensen,\' zei de heks, \'en scheur ze aan stukken.\'
+\n\"Ga naar die mensen,\" zei de Heks, \"en scheur ze aan stukken.\"
 \n
-\n\'Ga je ze niet tot je slaven maken\?\' vroeg de leider van de wolven.
+\n\"Ga je ze niet tot je slaven maken\?\" vroeg de leider van de wolven.
 \n
-\n\"Nee,\" antwoordde ze, \"de ene is van tin en de andere van stro; de ene is een meisje en de andere een leeuw. Geen van hen is geschikt om te werken, dus je kunt ze in kleine stukjes scheuren.\"
+\n\"Nee,\" antwoordde ze, \"de een is van blik en de ander van stro; de een is een meisje en de ander een leeuw. Geen van beiden is geschikt om te werken, dus je mag ze in kleine stukjes scheuren.\"
 \n
-\n\'Heel goed,\' zei de wolf en hij rende op volle snelheid weg, gevolgd door de anderen.
+\n\"Heel goed,\" zei de wolf, en hij rende er met volle snelheid vandoor, gevolgd door de anderen.
 \n
-\nGelukkig waren de Vogelverschrikker en de Bosman klaarwakker en hoorden ze de wolven aankomen.
+\nHet was een geluk dat de vogelverschrikker en de houthakker klaarwakker waren en de wolven hoorden aankomen.
 \n
-\n\'Dit is mijn gevecht,\' zei de Woodman, \'dus ga achter me staan, dan zal ik ze ontmoeten als ze komen.\'
+\n\"Dit is mijn gevecht,\" zei de houthakker, \"dus ga achter me staan en ik zal ze tegemoet treden als ze komen.\"
 \n
-\nHij pakte zijn bijl, die hij heel scherp had gemaakt, en toen de leider van de wolven aankwam, zwaaide de Tinnen Bosman met zijn arm en hakte de kop van de wolf van zijn lichaam, zodat deze onmiddellijk stierf. Zodra hij zijn bijl kon heffen, kwam er een andere wolf naar boven, en ook hij viel onder de scherpe rand van het wapen van de Tin Woodman. Er waren veertig wolven, en veertig keer werd er een wolf gedood, zodat ze uiteindelijk allemaal dood op een hoop voor de Bosman lagen.
+\nHij greep zijn bijl, die hij heel scherp had gemaakt, en toen de leider van de wolven eraan kwam, zwaaide de blikken houthakker met zijn arm en hakte de kop van de wolf van zijn lichaam, zodat hij onmiddellijk stierf. Zodra hij zijn bijl kon optillen, kwam er een andere wolf aan, en ook hij viel onder de scherpe rand van het wapen van de blikken houthakker. Er waren veertig wolven, en veertig keer werd een wolf gedood, zodat ze uiteindelijk allemaal dood op een hoop voor de houthakker lagen.
 \n
-\nToen legde hij zijn bijl neer en ging naast de Vogelverschrikker zitten, die zei: \'Het was een goed gevecht, vriend.\'
+\nToen legde hij zijn bijl neer en ging naast de vogelverschrikker zitten, die zei: \"Het was een goed gevecht, vriend.\"
 \n
-\nZe wachtten tot Dorothy de volgende ochtend wakker werd. Het kleine meisje schrok behoorlijk toen ze de grote stapel ruige wolven zag, maar de Blikken Houtman vertelde haar alles. Ze bedankte hem voor het redden van hen en ging aan het ontbijt zitten, waarna ze weer aan hun reis begonnen.
+\nZe wachtten tot Dorothy de volgende ochtend wakker werd. Het kleine meisje was behoorlijk bang toen ze de grote stapel ruige wolven zag, maar de blikken houthakker vertelde haar alles. Ze bedankte hem dat hij ze had gered en ging zitten om te ontbijten, waarna ze hun reis hervatten.
 \n
-\nNu kwam diezelfde ochtend de Boze Heks naar de deur van haar kasteel en keek naar buiten met haar ene oog dat ver weg kon kijken. Ze zag al haar wolven dood liggen en de vreemdelingen die nog steeds door haar land reisden. Dit maakte haar bozer dan voorheen, en ze blies twee keer op haar zilveren fluitje.
+\nDiezelfde ochtend kwam de boze heks naar de deur van haar kasteel en keek met haar ene oog dat ver weg kon zien naar buiten. Ze zag al haar wolven dood liggen en de vreemdelingen nog steeds door haar land reizen. Dit maakte haar bozer dan ooit tevoren en ze blies twee keer op haar zilveren fluitje.
 \n
-\nOnmiddellijk kwam er een grote zwerm wilde kraaien op haar af vliegen, genoeg om de lucht donkerder te maken.
+\nOnmiddellijk kwam er een grote zwerm wilde kraaien op haar afvliegen, genoeg om de lucht te verduisteren.
 \n
-\nEn de boze heks zei tegen koning Kraai: \'Vlieg onmiddellijk naar de vreemdelingen, pik hun ogen uit en scheur ze aan stukken.\'
+\nEn de boze heks zei tegen de koningkraai: \"Vlieg onmiddellijk naar de vreemdelingen; pik hun ogen uit en scheur ze aan stukken.\"
 \n
-\nDe wilde kraaien vlogen in één grote kudde richting Dorothy en haar metgezellen. Toen het kleine meisje hen zag aankomen, werd ze bang.
+\nDe wilde kraaien vlogen in één grote zwerm naar Dorothy en haar metgezellen. Toen het kleine meisje hen zag aankomen, was ze bang.
 \n
-\nMaar de Vogelverschrikker zei: \'Dit is mijn strijd, dus ga naast me liggen, dan zal er niets aan je gebeuren.\'
+\nMaar de vogelverschrikker zei: \"Dit is mijn strijd, dus ga naast me liggen en je zult geen kwaad overkomen.\"
 \n
-\nDus lagen ze allemaal op de grond, behalve de Vogelverschrikker, en hij stond op en strekte zijn armen uit. En toen de kraaien hem zagen, werden ze bang, zoals deze vogels altijd door vogelverschrikkers zijn, en durfden ze niet dichterbij te komen. Maar de Koning Kraai zei:
+\nDus gingen ze allemaal op de grond liggen, behalve de vogelverschrikker, en hij stond op en strekte zijn armen uit. En toen de kraaien hem zagen, waren ze bang, zoals deze vogels altijd zijn van vogelverschrikkers, en durfden niet dichterbij te komen. Maar de koningskraai zei:
 \n
-\n\'Het is maar een opgezette man. Ik pik zijn ogen uit.\'
+\n\"Het is maar een opgezette man. Ik zal zijn ogen uitpikken.\"
 \n
-\nDe Koning Kraai vloog op de Vogelverschrikker af, die hem bij zijn hoofd greep en zijn nek verdraaide totdat hij stierf. En toen vloog een andere kraai op hem af, en de Vogelverschrikker draaide ook zijn nek. Er waren veertig kraaien, en veertig keer draaide de Vogelverschrikker zijn nek, totdat ze uiteindelijk allemaal dood naast hem lagen. Toen riep hij zijn metgezellen op om op te staan, en zij gingen weer op reis.
+\nDe koningskraai vloog op de vogelverschrikker af, die hem bij zijn kop greep en zijn nek draaide tot hij stierf. En toen vloog er nog een kraai op hem af, en de vogelverschrikker draaide ook zijn nek. Er waren veertig kraaien, en veertig keer draaide de vogelverschrikker een nek, tot ze uiteindelijk allemaal dood naast hem lagen. Toen riep hij zijn metgezellen op om op te staan, en ze gingen weer verder met hun reis.
 \n
-\nToen de Boze Heks weer naar buiten keek en al haar kraaien op een hoop zag liggen, werd ze vreselijk woedend en blies drie keer op haar zilveren fluitje.
+\nToen de Boze Heks weer naar buiten keek en al haar kraaien op een hoop zag liggen, werd ze vreselijk woedend en blies ze drie keer op haar zilveren fluitje.
 \n
-\nOnmiddellijk klonk er een luid gezoem in de lucht, en een zwerm zwarte bijen kwam op haar af vliegen.
+\nMeteen klonk er een groot gezoem in de lucht en een zwerm zwarte bijen vloog op haar af.
 \n
-\n\'Ga naar de vreemdelingen en steek ze dood!\' beval de heks, en de bijen draaiden zich om en vlogen snel totdat ze bij de plek kwamen waar Dorothy en haar vrienden liepen. Maar de Houtman had ze zien aankomen en de Vogelverschrikker had besloten wat hij moest doen.
+\n\"Ga naar de vreemdelingen en steek ze dood!\" beval de Heks, en de bijen draaiden zich om en vlogen snel totdat ze bij Dorothy en haar vrienden kwamen. Maar de Houthakker had ze zien aankomen en de Vogelverschrikker had besloten wat hij moest doen.
 \n
-\n\'Neem mijn strootje tevoorschijn en strooi het over het kleine meisje, de hond en de leeuw,\' zei hij tegen de Houtman, \'en de bijen kunnen ze niet steken.\' Dit deed de Woodman, en terwijl Dorothy vlak naast de Leeuw lag en Toto in haar armen hield, bedekte het stro hen volledig.
+\n\"Pak mijn stro en strooi het over het kleine meisje en de hond en de Leeuw,\" zei hij tegen de Houthakker, \"en de bijen kunnen ze niet steken.\" Dit deed de Houthakker, en toen Dorothy dicht bij de Leeuw lag en Toto in haar armen hield, bedekte het stro hen volledig.
 \n
-\nDe bijen kwamen en vonden niemand anders dan de Bosman om te steken, dus vlogen ze op hem af en braken al hun steken af tegen het blik, zonder de Bosman ook maar enig pijn te doen. En omdat bijen niet kunnen leven als hun angel gebroken is, was dat het einde van de zwarte bijen, en ze lagen verspreid rond de Woodman, als kleine hoopjes fijne steenkool.
+\nDe bijen kwamen en vonden niemand anders dan de Houthakker om te steken, dus vlogen ze op hem af en braken al hun angels af tegen het blik, zonder de Houthakker ook maar iets te doen. En omdat bijen niet kunnen leven als hun angels gebroken zijn, was dat het einde van de zwarte bijen, en ze lagen verspreid over de Houthakker, als kleine hoopjes fijne steenkool.
 \n
-\nToen stonden Dorothy en de Leeuw op, en het meisje hielp de Blikken Houtman het rietje weer in de Vogelverschrikker te stoppen, totdat hij weer zo goed was als altijd. Dus begonnen ze opnieuw aan hun reis.
+\nToen stonden Dorothy en de Leeuw op, en het meisje hielp de Blikken Houthakker het stro weer in de Vogelverschrikker te stoppen, totdat hij weer zo goed als altijd was. Dus gingen ze weer op reis.
 \n
-\nDe boze heks was zo boos toen ze haar zwarte bijen in kleine hoopjes als fijne kolen zag, dat ze met haar voet stampte, haar haar scheurde en met haar tanden knarste. En toen riep ze een tiental van haar slaven, die de Winkies waren, en gaf ze scherpe speren, met de opdracht naar de vreemdelingen te gaan en ze te vernietigen.
+\nDe Boze Heks was zo boos toen ze haar zwarte bijen in kleine hoopjes zag, als fijne steenkool, dat ze met haar voet stampte, haar haar uittrok en met haar tanden knarste. En toen riep ze een dozijn van haar slaven, de Winkies, en gaf ze scherpe speren, en zei ze dat ze naar de vreemdelingen moesten gaan en ze moesten vernietigen.
 \n
-\nDe Winkies waren geen moedig volk, maar ze moesten doen wat hun werd opgedragen. Dus marcheerden ze weg totdat ze in de buurt van Dorothy kwamen. Toen brulde de Leeuw luid en sprong naar hen toe, en de arme Winkies waren zo bang dat ze zo snel mogelijk terug renden.</string>
+\nDe Winkies waren geen dapper volk, maar ze moesten doen wat hun werd opgedragen. Dus marcheerden ze weg totdat ze bij Dorothy kwamen. Toen gaf de Leeuw een groot gebrul en sprong naar hen toe, en de arme Winkies waren zo bang dat ze zo snel als ze konden terugrenden.</string>
     <string name="menuEnable">Inschakelen</string>
     <string name="dialogServiceDisableMessage">Consumer-applicaties ontvangen geen gebeurtenissen meer. Service uitschakelen\?</string>
     <string name="aboutScreenAppListTitle">⛵ Toepassingen</string>
