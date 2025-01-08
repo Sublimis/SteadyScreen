@@ -1,132 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appDesc">⛵ Dieser Dienst ermöglicht es kompatiblen Anwendungen, kleinen Gerätebewegungen innerhalb ihrer Benutzeroberfläche problemlos entgegenzuwirken.
+    <string name="appDesc">Machen Sie das Lesen unterwegs angenehmer!
 \n
-\n🏝️ Dies kann die Lesbarkeit des Bildschirms verbessern und möglicherweise die Reisekrankheit unterwegs lindern, z. B. beim Lesen in einem fahrenden Fahrzeug.
+\n⛵ Mit diesem Dienst können kompatible Anwendungen kleine Gerätebewegungen in ihrer Benutzeroberfläche problemlos ausgleichen.
 \n
-\n⚡ Die Anwendung wurde sehr sorgfältig entwickelt, um den Ressourcenverbrauch zu minimieren und die Leistung zu maximieren.
+\n🏝️ Dies verbessert die Bildschirmlesbarkeit eines Handheld-Geräts beim Gehen oder Reisen.
 \n
-\nIch hoffe es gefällt euch 😊</string>
+\n⚡ Der Dienst wurde mit großer Sorgfalt entwickelt, um den Ressourcenverbrauch zu minimieren und die Leistung zu maximieren. Weitere Informationen finden Sie auf unserem GitHub.
+\n
+\nIch hoffe, Sie haben Spaß damit 😊</string>
     <string name="dialogReviewNudgeMessage">Gefällt Ihnen diese App\?</string>
-    <string name="dialogReviewNudgeMessage2">Danke! Bitte schreiben Sie eine nette Bewertung oder bewerten Sie uns im Play Store mit 5 Sternen.</string>
-    <string name="paramLinearScalingInfo">Dadurch werden die Bewegungen linear skaliert, sodass sie größer oder kleiner werden, ohne die Berechnungen zu beeinflussen.</string>
-    <string name="licenseItemAlreadyOwned">Lizenzartikel bereits im Besitz</string>
-    <string name="dialogInfoMessage">Schütteln Sie das Gerät ein wenig. Beachten Sie, wie der Hintergrundinhalt diese Bewegungen abschwächt und so das Lesen auf dem Bildschirm erleichtert. (Dazu muss der Stillly-Dienst in den Barrierefreiheitseinstellungen aktiviert sein.)
+    <string name="dialogReviewNudgeMessage2">Vielen Dank! Bitte schreiben Sie eine nette Bewertung oder geben Sie uns im Play Store 5 Sterne.</string>
+    <string name="paramLinearScalingInfo">Dadurch werden die Bewegungen linear skaliert und können größer oder kleiner gemacht werden, ohne die Berechnungen zu beeinflussen.</string>
+    <string name="licenseItemAlreadyOwned">Lizenzelement bereits im Besitz</string>
+    <string name="dialogInfoMessage">Schütteln Sie das Gerät ein wenig. Beachten Sie, wie der Hintergrundinhalt diese Bewegungen abmildert und das Lesen auf dem Bildschirm erleichtert.
 \n
-\nDiese Funktionalität kann problemlos in jede Anwendung implementiert werden. Bitte folgen Sie den Anweisungen auf GitHub.</string>
+\nDiese Funktion kann problemlos in jede Anwendung implementiert werden. Bitte folgen Sie den Anweisungen auf GitHub.</string>
     <string name="paramForceScaling">Skalierung erzwingen</string>
     <string name="paramLinearScaling">Lineare Skalierung</string>
     <string name="dialogConsentButton">Akzeptieren</string>
     <string name="no">NEIN</string>
-    <string name="licenseSuccessDialogMessage">Die App wurde erfolgreich lizenziert. Danke für Ihre Unterstützung!</string>
+    <string name="licenseSuccessDialogMessage">Die App wurde erfolgreich lizenziert. Vielen Dank für Ihre Unterstützung!</string>
     <string name="menuAbout">Um</string>
-    <string name="paramForceScalingInfo">Dadurch werden die Kräfte vor den Berechnungen skaliert, was wiederum Auswirkungen auf die Gesamtgröße der Bewegungen hat.</string>
+    <string name="paramForceScalingInfo">Dadurch werden die Kräfte vor der Berechnung skaliert, was wiederum die Gesamtgröße der Bewegungen beeinflusst.</string>
     <string name="menuLicense">Upgraden Sie Ihre Lizenz</string>
-    <string name="openSourceLicensesTitle">Open-Source-Lizenzen</string>
+    <string name="openSourceLicensesTitle">Open Source-Lizenzen</string>
     <string name="menuDecreaseTextSize">Textgröße verringern</string>
     <string name="aboutScreenTranslationsTitle">Übersetzungen</string>
     <string name="menuRateAndComment">Bewerten Sie uns</string>
     <string name="yes">Ja</string>
     <string name="paramRecoil">Rückstoß</string>
     <string name="paramSensorRate">Sensorrate</string>
-    <string name="paramDampingInfo">Wenn Sie diesen Wert erhöhen, werden Bewegungen verlangsamt und abgeschwächt, sodass sie weniger empfindlich auf größere Kräfte reagieren.</string>
+    <string name="paramDampingInfo">Durch eine Erhöhung dieses Wertes werden die Bewegungen verlangsamt und gedämpft, sodass sie weniger empfindlich gegenüber größeren Kräften werden.</string>
     <string name="ok">OK</string>
-    <string name="menuSendDebugFeedback">Ein Problem melden</string>
+    <string name="menuSendDebugFeedback">Problem melden</string>
     <string name="ratePerSecond">%1$s Hz</string>
     <string name="ultimateLicenseLabel">Ultimativ</string>
-    <string name="dialogRestoreDefaultsMessage">Einstellungen auf Standardwerte wiederherstellen\?</string>
+    <string name="dialogRestoreDefaultsMessage">Parameter auf Standardwerte zurücksetzen\?</string>
     <string name="paramDamping">Dämpfung</string>
-    <string name="serviceInactiveText">Der Dienst ist deaktiviert. Klicken Sie hier, um ihn zu aktivieren.</string>
+    <string name="serviceInactiveText">Der Dienst ist deaktiviert. Klicken Sie, um ihn zu aktivieren.</string>
     <string name="aboutScreenTranslationsText">Helfen Sie mit, diese App zu übersetzen und erhalten Sie eine kostenlose Lizenz! Mehr Info:</string>
     <string name="cancel">Stornieren</string>
-    <string name="ultimateLicenseTitle">Ultimative Lizenz</string>
+    <string name="ultimateLicenseTitle">Ultimate-Lizenz</string>
     <string name="measuredSensorRate">Gemessene Sensorrate</string>
     <string name="menuTheme">Thema</string>
-    <string name="measuredSensorRateInfo">Aktuelle Sensorrate, wie von der App gemessen. Diese kann von der gewünschten Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt werden soll.</string>
-    <string name="aboutScreenGithubLink">Immer noch auf GitHub</string>
-    <string name="aboutScreenLicenseTitle">App-Lizenz</string>
-    <string name="aboutScreenLicenseText">Diese Anwendung ist kostenlos und funktioniert ohne Einschränkungen. Allerdings kehren die Parameter nach einer Stunde ohne Lizenz auf ihre Standardwerte zurück.</string>
-    <string name="dialogInfoButton">Gehen Sie zu GitHub</string>
-    <string name="generalError">Es ist ein Fehler aufgetreten. Bitte versuche es erneut.</string>
+    <string name="measuredSensorRateInfo">Aktuelle Sensorrate, wie von der App gemessen. Diese kann von der gewünschten Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt wird.</string>
+    <string name="aboutScreenGithubLink">Steady Screen auf GitHub</string>
+    <string name="aboutScreenLicenseTitle">🔑 Lizenz</string>
+    <string name="aboutScreenLicenseText">Diese Anwendung ist kostenlos und funktioniert ohne Einschränkungen. Allerdings werden die Parameter nach 1 Stunde ohne Lizenz auf ihre Standardwerte zurückgesetzt.</string>
+    <string name="dialogInfoButton">Gehe zu GitHub</string>
+    <string name="generalError">Es ist ein Fehler aufgetreten. Versuchen Sie es erneut.</string>
     <string name="paramRecoilInfo">Durch eine Erhöhung dieses Wertes verringert sich die Empfindlichkeit gegenüber kleinen Schwingungen und die Bewegungen werden weniger empfindlich gegenüber größeren Kräften.</string>
     <string name="menuRestoreDefaults">Standardeinstellungen wiederherstellen</string>
-    <string name="dialogButtonRateOnPlayStore">Bewerten Sie im Play Store</string>
-    <string name="paramSensorRateInfo">Dadurch wird die gewünschte Sensorrate eingestellt. Höhere Werte verbrauchen möglicherweise mehr Batterie. Diese kann von der gemessenen Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt werden soll.</string>
+    <string name="dialogButtonRateOnPlayStore">Im Play Store bewerten</string>
+    <string name="paramSensorRateInfo">Hiermit wird die gewünschte Sensorrate eingestellt. Höhere Werte verbrauchen möglicherweise mehr Akku. Dies kann von der gemessenen Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt wird.</string>
     <string name="menuIncreaseTextSize">Textgröße erhöhen</string>
-    <string name="menuInfo">Die Info</string>
-    <string name="loremIpsum">(Dieser Text dient zu Demonstrationszwecken)
+    <string name="menuInfo">Info</string>
+    <string name="loremIpsum">(Dieser Text dient Demonstrationszwecken)
 \n
-\nDer Soldat mit dem grünen Schnurrbart führte sie durch die Straßen der Smaragdstadt, bis sie den Raum erreichten, in dem der Wächter der Tore lebte. Dieser Beamte schloss ihre Brillen auf, um sie zurück in seine große Kiste zu legen, und öffnete dann höflich das Tor für unsere Freunde.
+\nDer Soldat mit dem grünen Schnurrbart führte sie durch die Straßen der Smaragdstadt, bis sie das Zimmer erreichten, in dem der Wächter der Tore lebte. Dieser Offizier schloss ihre Brillen auf, um sie in seine große Kiste zurückzulegen, und öffnete dann höflich das Tor für unsere Freunde.
 \n
-\n„Welcher Weg führt zur bösen Hexe des Westens\?“ fragte Dorothy.
+\n„Welche Straße führt zur bösen Hexe des Westens\?“, fragte Dorothy.
 \n
-\n„Es gibt keine Straße“, antwortete der Torwächter. „Niemand möchte jemals diesen Weg gehen.“
+\n„Es gibt keine Straße“, antwortete der Wächter der Tore. „Niemand möchte jemals diesen Weg gehen.“
 \n
-\n„Wie sollen wir sie dann finden\?“ fragte das Mädchen.
+\n„Wie sollen wir sie dann finden\?“, fragte das Mädchen.
 \n
-\n„Das wird einfach sein“, antwortete der Mann, „denn wenn sie weiß, dass du im Land der Winkies bist, wird sie dich finden und dich alle zu ihren Sklaven machen.“
+\n„Das wird einfach sein“, antwortete der Mann, „denn wenn sie weiß, dass Sie im Land der Winkies sind, wird sie Sie finden und Sie alle zu ihren Sklaven machen.“
 \n
-\n„Vielleicht nicht“, sagte die Vogelscheuche, „denn wir wollen sie zerstören.“
+\n„Vielleicht nicht“, sagte die Vogelscheuche, „denn wir wollen sie vernichten.“
 \n
-\n„Oh, das ist etwas anderes“, sagte der Torwächter. „Niemand hat sie jemals zuvor zerstört, also dachte ich natürlich, sie würde dich zu Sklaven machen, wie sie es auch aus den anderen gemacht hat. Aber pass auf dich auf, denn sie ist böse und wild und darf nicht zulassen, dass du sie vernichtest. Halte dich an die Im Westen, wo die Sonne untergeht, und man kann nicht umhin, sie zu finden.
+\n„Oh, das ist etwas anderes“, sagte der Wächter der Tore. „Niemand hat sie je zuvor vernichtet, also dachte ich natürlich, sie würde euch zu Sklaven machen, wie sie es mit den anderen getan hat. Aber seid vorsichtig, denn sie ist böse und wild und wird euch vielleicht nicht erlauben, sie zu vernichten. Bleibt im Westen, wo die Sonne untergeht, und ihr werdet sie mit Sicherheit finden.“
 \n
-\nSie dankten ihm und verabschiedeten sich von ihm, wandten sich dann dem Westen zu und gingen über weiche Grasfelder, die hier und da mit Gänseblümchen und Butterblumen übersät waren. Dorothy trug immer noch das hübsche Seidenkleid, das sie im Palast angezogen hatte, doch nun stellte sie zu ihrer Überraschung fest, dass es nicht mehr grün, sondern reinweiß war. Auch das Band um Totos Hals hatte seine grüne Farbe verloren und war so weiß wie Dorothys Kleid.
+\nSie dankten ihm und verabschiedeten sich von ihm und wandten sich nach Westen, über Felder aus weichem Gras, die hier und da mit Gänseblümchen und Butterblumen übersät waren. Dorothy trug immer noch das hübsche Seidenkleid, das sie im Palast angezogen hatte, aber jetzt stellte sie zu ihrer Überraschung fest, dass es nicht mehr grün, sondern reinweiß war. Auch das Band um Totos Hals hatte seine grüne Farbe verloren und war so weiß wie Dorothys Kleid.
 \n
-\nDie Smaragdstadt wurde bald weit zurückgelassen. Je weiter sie vordrangen, desto rauer und hügeliger wurde der Boden, denn in diesem Land im Westen gab es weder Bauernhöfe noch Häuser, und der Boden war unbebaut.
+\nDie Smaragdstadt war bald weit hinter ihnen. Je weiter sie kamen, desto rauer und hügeliger wurde das Gelände, denn in diesem Land des Westens gab es weder Bauernhöfe noch Häuser, und der Boden war unbebaut.
 \n
-\nAm Nachmittag schien ihnen die Sonne heiß ins Gesicht, denn es gab keine Bäume, die ihnen Schatten spendeten; So dass Dorothy, Toto und der Löwe noch vor Einbruch der Dunkelheit müde waren und sich ins Gras legten und einschliefen, während der Holzfäller und die Vogelscheuche Wache hielten.
+\nAm Nachmittag schien ihnen die Sonne heiß ins Gesicht, denn es gab keine Bäume, die ihnen Schatten spenden konnten; so dass Dorothy, Toto und der Löwe vor Einbruch der Dunkelheit müde waren und sich ins Gras legten und einschliefen, während der Holzfäller und die Vogelscheuche Wache hielten.
 \n
-\nNun hatte die böse Hexe des Westens nur ein Auge, doch dieses war so stark wie ein Teleskop und konnte alles sehen. Als sie also in der Tür ihres Schlosses saß, schaute sie sich zufällig um und sah Dorothy schlafen, umgeben von ihren Freunden. Sie waren weit entfernt, aber die böse Hexe war wütend, sie in ihrem Land zu finden; Also blies sie auf einer silbernen Pfeife, die sie um den Hals hing.
+\nDie böse Hexe des Westens hatte nur ein Auge, doch das war so stark wie ein Teleskop und konnte überall hinsehen. Als sie also in der Tür ihres Schlosses saß, sah sie sich zufällig um und sah Dorothy schlafend daliegen, umgeben von ihren Freunden. Sie waren weit weg, aber die böse Hexe war wütend, sie in ihrem Land zu finden; also blies sie in eine silberne Pfeife, die um ihren Hals hing.
 \n
-\nPlötzlich kam aus allen Richtungen ein Rudel großer Wölfe auf sie zugerannt. Sie hatten lange Beine und wilde Augen und scharfe Zähne.
+\nSofort kam aus allen Richtungen ein Rudel großer Wölfe auf sie zugerannt. Sie hatten lange Beine und wilde Augen und scharfe Zähne.
 \n
-\n„Geh zu diesen Leuten“, sagte die Hexe, „und zerreiße sie.“
+\n„Geh zu diesen Leuten“, sagte die Hexe, „und reiß sie in Stücke.“
 \n
-\n„Wirst du sie nicht zu deinen Sklaven machen\?“ fragte der Anführer der Wölfe.
+\n„Wirst du sie nicht zu deinen Sklaven machen\?“, fragte der Anführer der Wölfe.
 \n
-\n„Nein“, antwortete sie, „eines ist aus Blech und eines aus Stroh; eines ist ein Mädchen und ein anderes ein Löwe. Keines von ihnen ist arbeitsfähig, also darfst du sie in kleine Stücke reißen.“
+\n„Nein“, antwortete sie, „einer ist aus Blech und einer aus Stroh; einer ist ein Mädchen und ein anderer ein Löwe. Keiner von ihnen ist arbeitsfähig, also kannst du sie in kleine Stücke reißen.“
 \n
-\n„Sehr gut“, sagte der Wolf und rannte mit voller Geschwindigkeit davon, gefolgt von den anderen.
+\n„Also gut“, sagte der Wolf und rannte mit voller Geschwindigkeit davon, gefolgt von den anderen.
 \n
-\nEs war ein Glück, dass Vogelscheuche und Holzfäller hellwach waren und die Wölfe kommen hörten.
+\nZum Glück waren die Vogelscheuche und der Holzfäller hellwach und hörten die Wölfe kommen.
 \n
-\n„Das ist mein Kampf“, sagte der Holzfäller, „also stellen Sie sich hinter mich und ich werde sie treffen, sobald sie kommen.“
+\n„Das ist mein Kampf“, sagte der Holzfäller, „also geh hinter mich und ich werde sie treffen, wenn sie kommen.“
 \n
-\nEr ergriff seine Axt, die er sehr scharf gemacht hatte, und als der Anführer der Wölfe näher kam, schwang der Blechholzfäller seinen Arm und schlug dem Wolf den Kopf vom Körper, so dass er sofort starb. Sobald er seine Axt heben konnte, kam ein anderer Wolf heran und fiel ebenfalls unter die scharfe Kante der Waffe des Blechholzfällers. Es gab vierzig Wölfe, und vierzig Mal wurde ein Wolf getötet, so dass sie schließlich alle tot auf einem Haufen vor dem Holzfäller lagen.
+\nEr ergriff seine Axt, die er sehr scharf gemacht hatte, und als der Anführer der Wölfe näher kam, schwang der Blechholzfäller seinen Arm und schlug dem Wolf den Kopf vom Körper, so dass er sofort starb. Sobald er seine Axt heben konnte, kam ein anderer Wolf heran und fiel ebenfalls unter die scharfe Kante der Waffe des Blechholzfällers. Es waren vierzig Wölfe, und vierzig Mal wurde ein Wolf getötet, so dass sie schließlich alle tot auf einem Haufen vor dem Holzfäller lagen.
 \n
 \nDann legte er seine Axt nieder und setzte sich neben die Vogelscheuche, die sagte: „Es war ein guter Kampf, Freund.“
 \n
-\nSie warteten, bis Dorothy am nächsten Morgen aufwachte. Das kleine Mädchen hatte große Angst, als sie den großen Haufen struppiger Wölfe sah, aber der Blechholzfäller erzählte ihr alles. Sie dankte ihm für seine Rettung und setzte sich zum Frühstück, woraufhin sie ihre Reise wieder antraten.
+\nSie warteten, bis Dorothy am nächsten Morgen aufwachte. Das kleine Mädchen war ganz erschrocken, als sie den großen Haufen zottiger Wölfe sah, aber der Blechmann erzählte ihr alles. Sie dankte ihm für seine Rettung und setzte sich zum Frühstück, wonach sie ihre Reise wieder antraten.
 \n
-\nAm selben Morgen kam die böse Hexe zur Tür ihres Schlosses und schaute mit ihrem einen Auge, das weit sehen konnte, hinaus. Sie sah alle ihre Wölfe tot daliegen und die Fremden, die immer noch durch ihr Land zogen. Dies machte sie wütender als zuvor und sie blies zweimal in ihre Silberpfeife.
+\nAm selben Morgen kam die böse Hexe an die Tür ihres Schlosses und schaute mit ihrem einen Auge, das weit sehen konnte, hinaus. Sie sah alle ihre Wölfe tot daliegen und die Fremden, die immer noch durch ihr Land zogen. Das machte sie noch wütender als zuvor und sie blies zweimal in ihre silberne Pfeife.
 \n
-\nSofort flog ein großer Schwarm wilder Krähen auf sie zu und verdunkelte den Himmel.
+\nSofort kam ein großer Schwarm wilder Krähen auf sie zugeflogen, genug, um den Himmel zu verdunkeln.
 \n
-\nUnd die böse Hexe sagte zum König Krähe: „Flieg sofort zu den Fremden, hacke ihnen die Augen aus und zerreiße sie.“
+\nUnd die böse Hexe sagte zum Krähenkönig: „Flieg sofort zu den Fremden, hack ihnen die Augen aus und reiß sie in Stücke.“
 \n
 \nDie wilden Krähen flogen in einem großen Schwarm auf Dorothy und ihre Gefährten zu. Als das kleine Mädchen sie kommen sah, hatte sie Angst.
 \n
-\nAber die Vogelscheuche sagte: „Das ist mein Kampf, also leg dich neben mich, dann wird dir kein Schaden zugefügt.“
+\nAber die Vogelscheuche sagte: „Das ist mein Kampf, also leg dich neben mich und dir wird nichts passieren.“
 \n
-\nAlso lagen sie alle auf dem Boden, außer der Vogelscheuche, und er stand auf und streckte seine Arme aus. Und als die Krähen ihn sahen, erschraken sie, wie diese Vögel es immer vor Vogelscheuchen haben, und wagten nicht, näher zu kommen. Aber der Krähenkönig sagte:
+\nAlso legten sie sich alle auf den Boden, außer der Vogelscheuche, und sie stand auf und streckte die Arme aus. Und als die Krähen sie sahen, erschraken sie, wie diese Vögel es immer vor Vogelscheuchen tun, und wagten nicht, näher zu kommen. Aber der Krähenkönig sagte:
 \n
-\n„Es ist nur ein ausgestopfter Mann. Ich werde ihm die Augen auspicken.“
+\n„Es ist nur ein ausgestopfter Mann. Ich werde ihm die Augen aushacken.“
 \n
-\nDie Königskrähe flog auf die Vogelscheuche zu, die sie am Kopf packte und ihr den Hals verdrehte, bis sie starb. Und dann flog eine weitere Krähe auf ihn zu, und auch die Vogelscheuche verdrehte ihren Hals. Es waren vierzig Krähen, und vierzig Mal drehte sich die Vogelscheuche den Hals, bis schließlich alle tot neben ihr lagen. Dann rief er seinen Gefährten zu, aufzustehen, und sie machten sich wieder auf den Weg.
+\nDer Krähenkönig flog auf die Vogelscheuche zu, die sie am Kopf packte und ihr den Hals verdrehte, bis sie starb. Und dann flog eine andere Krähe auf sie zu, und die Vogelscheuche verdrehte ihr ebenfalls den Hals. Es waren vierzig Krähen, und vierzig Mal verdrehte die Vogelscheuche ihnen den Hals, bis schließlich alle tot neben ihm lagen. Dann rief er seinen Gefährten zu, aufzustehen, und sie setzten ihre Reise fort.
 \n
-\nAls die böse Hexe wieder hinausschaute und alle ihre Krähen auf einem Haufen liegen sah, geriet sie in schreckliche Wut und blies dreimal auf ihrer silbernen Pfeife.
+\nAls die böse Hexe wieder hinausschaute und alle ihre Krähen auf einem Haufen liegen sah, geriet sie in schreckliche Wut und blies dreimal in ihre silberne Pfeife.
 \n
-\nSofort war ein lautes Summen in der Luft zu hören, und ein Schwarm schwarzer Bienen flog auf sie zu.
+\nSofort war ein lautes Summen in der Luft zu hören, und ein Schwarm schwarzer Bienen kam auf sie zugeflogen.
 \n
-\n„Geh zu den Fremden und steche sie zu Tode!“ befahl die Hexe, und die Bienen drehten sich um und flogen schnell, bis sie dorthin kamen, wo Dorothy und ihre Freunde gingen. Aber der Holzfäller hatte sie kommen sehen und die Vogelscheuche hatte entschieden, was sie tun sollte.
+\n„Geh zu den Fremden und stich sie zu Tode!“, befahl die Hexe, und die Bienen drehten sich um und flogen schnell, bis sie zu Dorothy und ihren Freunden kamen, die gerade gingen. Aber der Holzfäller hatte sie kommen sehen, und die Vogelscheuche hatte beschlossen, was zu tun war.
 \n
-\n„Nimm meinen Strohhalm heraus und verstreue ihn über das kleine Mädchen und den Hund und den Löwen“, sagte er zum Holzfäller, „und die Bienen können sie nicht stechen.“ Dies tat der Holzfäller, und als Dorothy dicht neben dem Löwen lag und Toto in ihren Armen hielt, bedeckte das Stroh sie vollständig.
+\n„Nimm mein Stroh heraus und streue es über das kleine Mädchen und den Hund und den Löwen“, sagte er zum Holzfäller, „und die Bienen können sie nicht stechen.“ Dies tat der Holzfäller, und als Dorothy dicht neben dem Löwen lag und Toto in den Armen hielt, waren sie vollständig mit Stroh bedeckt.
 \n
-\nDie Bienen kamen und fanden niemanden außer dem Holzfäller zum Stechen, also flogen sie auf ihn zu und brachen alle ihre Stacheln an der Dose ab, ohne den Holzfäller im Geringsten zu verletzen. Und da Bienen nicht überleben können, wenn ihre Stacheln gebrochen sind, war das das Ende der schwarzen Bienen, und sie lagen dicht verstreut um den Holzfäller herum, wie kleine Häufchen feiner Kohle.
+\nDie Bienen kamen und fanden außer dem Holzfäller niemanden, den sie stechen konnten, also flogen sie auf ihn zu und rissen sich alle Stacheln am Blech ab, ohne den Holzfäller auch nur im Geringsten zu verletzen. Und da Bienen nicht überleben können, wenn ihre Stachel abgebrochen sind, war das das Ende der schwarzen Bienen, und sie lagen dicht verstreut um den Holzfäller herum, wie kleine Haufen feiner Kohle.
 \n
-\nDann standen Dorothy und der Löwe auf, und das Mädchen half dem Blechholzfäller, den Strohhalm wieder in die Vogelscheuche zu stecken, bis er so gut war wie immer. Also machten sie sich erneut auf die Reise.
+\nDann standen Dorothy und der Löwe auf, und das Mädchen half dem Blechmann, das Stroh wieder in die Vogelscheuche zu stecken, bis es wieder so gut war wie vorher. So machten sie sich wieder auf den Weg.
 \n
-\nDie böse Hexe war so wütend, als sie ihre schwarzen Bienen in kleinen Häufchen wie feine Kohle sah, dass sie mit dem Fuß stampfte, sich die Haare raufte und mit den Zähnen knirschte. Und dann rief sie ein Dutzend ihrer Sklaven, die Winkies, herbei, gab ihnen scharfe Speere und forderte sie auf, zu den Fremden zu gehen und sie zu vernichten.
+\nDie böse Hexe war so wütend, als sie ihre schwarzen Bienen in kleinen Haufen wie feine Kohle sah, dass sie mit dem Fuß stampfte, sich die Haare raufte und mit den Zähnen knirschte. Und dann rief sie ein Dutzend ihrer Sklaven, die Winkies, und gab ihnen scharfe Speere. Sie befahl ihnen, zu den Fremden zu gehen und sie zu vernichten.
 \n
-\nDie Winkies waren kein mutiges Volk, aber sie mussten tun, was ihnen gesagt wurde. Also marschierten sie davon, bis sie Dorothy nahe kamen. Dann gab der Löwe ein lautes Gebrüll von sich und sprang auf sie zu, und die armen Winkies waren so verängstigt, dass sie so schnell sie konnten zurückliefen.</string>
+\nDie Winkies waren kein mutiges Volk, aber sie mussten tun, was ihnen gesagt wurde. Also marschierten sie los, bis sie in die Nähe von Dorothy kamen. Dann stieß der Löwe ein lautes Brüllen aus und sprang auf sie zu, und die armen Winkies waren so erschrocken, dass sie so schnell sie konnten zurückrannten.</string>
+    <string name="menuEnable">Aktivieren</string>
+    <string name="dialogServiceDisableMessage">Verbraucheranwendungen empfangen keine Ereignisse mehr. Dienst deaktivieren\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Apps</string>
+    <string name="menuDisable">Deaktivieren</string>
+    <string name="aboutScreenAppListText">Liste der auf diesem Gerät installierten App-Pakete, die die Steady Screen-Funktion verwenden:</string>
 </resources>
