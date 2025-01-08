@@ -129,4 +129,9 @@
 \nInú bí Búburú náà nígbà tí ó rí àwọn oyin dúdú rẹ̀ ní òkìtì kéékèèké bí èédú àtàtà tí ó fi kan ẹsẹ̀ rẹ̀ ó sì fa irun rẹ̀ ya, ó sì pa eyín rẹ̀ keke. Ó sì pe àwọn ọmọ ọ̀dọ̀ rẹ̀ méjìlá, tí wọ́n jẹ́ Winkies, ó sì fún wọn ní ọ̀kọ̀ mímú, ó ní kí wọ́n lọ sọ́dọ̀ àwọn àjèjì, kí wọ́n sì pa wọ́n run.
 \n
 \nAwọn Winkies kii ṣe eniyan akikanju, ṣugbọn wọn ni lati ṣe bi a ti sọ fun wọn. Nitorina wọn lọ titi wọn fi sunmọ Dorothy. Lẹ́yìn náà, Kìnnìún náà bẹ̀rẹ̀ sí ké ramúramù ńlá, ó sì gbógun tì wọ́n, ẹ̀rù sì bà àwọn Winkies tálákà tó bẹ́ẹ̀ tí wọ́n fi sáré padà bọ̀ sípò.</string>
+    <string name="menuEnable">Mu ṣiṣẹ</string>
+    <string name="dialogServiceDisableMessage">Awọn ohun elo onibara yoo da gbigba awọn iṣẹlẹ duro. Mu iṣẹ ṣiṣẹ bi\?</string>
+    <string name="aboutScreenAppListTitle">Awọn ohun elo</string>
+    <string name="menuDisable">Pa a</string>
+    <string name="aboutScreenAppListText">Atokọ awọn idii app ti a fi sori ẹrọ yii ti o lo ẹya Iboju Iduroṣinṣin:</string>
 </resources>
