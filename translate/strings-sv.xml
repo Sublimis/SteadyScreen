@@ -129,4 +129,9 @@
 \nDen onda häxan blev så arg när hon såg sina svarta bin i små högar som fina kol att hon trampade med foten och slet i håret och gnisslade tänder. Och sedan kallade hon ett dussin av sina slavar, som var Winkies, och gav dem vassa spjut och sa åt dem att gå till främlingar och förgöra dem.
 \n
 \nWinkies var inte ett modigt folk, men de var tvungna att göra som de blev tillsagda. Så de marscherade bort tills de kom nära Dorothy. Då gav Lejonet ett stort vrål och sprang mot dem, och de stackars Winkies blev så rädda att de sprang tillbaka så fort de kunde.</string>
+    <string name="menuEnable">Aktivera</string>
+    <string name="dialogServiceDisableMessage">Konsumentapplikationer kommer att sluta ta emot händelser. Inaktivera tjänsten\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Appar</string>
+    <string name="menuDisable">Inaktivera</string>
+    <string name="aboutScreenAppListText">Lista över apppaket installerade på den här enheten som använder funktionen Steady Screen:</string>
 </resources>
