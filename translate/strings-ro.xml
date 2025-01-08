@@ -129,4 +129,9 @@
 \nVrăjitoarea rea a fost atât de furioasă când și-a văzut albinele negre în grămezi mici ca cărbunele fin, încât a bătut cu piciorul, și-a rupt părul și a scrâșnit din dinți. Și apoi a chemat o duzină dintre sclavii ei, care erau Winkii, și le-a dat sulițe ascuțite, spunându-le să meargă la străini și să-i distrugă.
 \n
 \nWinkies nu erau un popor curajos, dar trebuiau să facă ceea ce li se spunea. Așa că au plecat până s-au apropiat de Dorothy. Apoi Leul a scos un vuiet mare și a țâșnit spre ei, iar bieții Winkies au fost atât de speriați încât au fugit înapoi cât au putut de repede.</string>
+    <string name="menuEnable">Permite</string>
+    <string name="dialogServiceDisableMessage">Aplicațiile pentru consumatori nu vor mai primi evenimente. Dezactivați serviciul\?</string>
+    <string name="aboutScreenAppListTitle">⛵ Aplicații</string>
+    <string name="menuDisable">Dezactivați</string>
+    <string name="aboutScreenAppListText">Lista pachetelor de aplicații instalate pe acest dispozitiv care utilizează funcția Ecran constant:</string>
 </resources>
