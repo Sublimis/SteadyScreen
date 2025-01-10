@@ -11,7 +11,7 @@
 \nBu sizga yoqadi degan umiddaman 😊</string>
     <string name="dialogReviewNudgeMessage">Bu ilova sizga yoqdimi\?</string>
     <string name="dialogReviewNudgeMessage2">Rahmat! Iltimos, yaxshi sharh yozing yoki Play Store-da bizga 5 yulduz bilan baho bering.</string>
-    <string name="paramLinearScalingInfo">Bu harakatlarni chiziqli ravishda o\'lchaydi, hisob-kitoblarga ta\'sir qilmasdan ularni kattaroq yoki kichikroq qiladi.</string>
+    <string name="paramLinearScalingInfo">Bu hisob-kitoblardan keyin harakatlarni o\'lchaydi va ularni chiziqli ravishda kattaroq yoki kichikroq qiladi.</string>
     <string name="licenseItemAlreadyOwned">Litsenziya elementi allaqachon egalik qilgan</string>
     <string name="dialogInfoMessage">Qurilmani biroz silkiting. Fon tarkibi bu harakatlarni qanday yumshatganiga e\'tibor bering, bu esa ekranda o\'qishni osonlashtiradi.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Yo\'q</string>
     <string name="licenseSuccessDialogMessage">Ilova muvaffaqiyatli litsenziyalandi. Qo\'llab-quvvatlaganingiz uchun tashakkur!</string>
     <string name="menuAbout">Haqida</string>
-    <string name="paramForceScalingInfo">Bu hisob-kitoblardan oldin kuchlarni o\'lchaydi, bu esa o\'z navbatida harakatlarning umumiy kattaligiga ta\'sir qiladi.</string>
+    <string name="paramForceScalingInfo">Bu hisob-kitoblardan oldin kuchlarni o\'lchaydi, bu esa harakatlarni chiziqli bo\'lmagan tarzda kattaroq yoki kichikroq qiladi.</string>
     <string name="menuLicense">Litsenziyangizni yangilang</string>
     <string name="openSourceLicensesTitle">Ochiq kodli litsenziyalar</string>
     <string name="menuDecreaseTextSize">Matn hajmini kamaytiring</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Yakuniy litsenziya</string>
     <string name="measuredSensorRate">O\'lchangan sensor tezligi</string>
     <string name="menuTheme">Mavzu</string>
-    <string name="measuredSensorRateInfo">Ilova tomonidan o\'lchangan joriy sensor tezligi. Bu kerakli sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni taqdim etishni hal qiladi.</string>
-    <string name="aboutScreenGithubLink">GitHub-da barqaror ekran</string>
+    <string name="measuredSensorRateInfo">Ilova tomonidan o\'lchangan joriy harakat sensori namuna olish tezligi. Bu istalgan stavkadan farq qilishi mumkin, chunki tizim oxir-oqibat turli omillarga asoslangan holda qanday stavkani taqdim etishni hal qiladi.</string>
+    <string name="aboutScreenGithubLink">GitHub-da SteadyScreen</string>
     <string name="aboutScreenLicenseTitle">🔑 Litsenziya</string>
     <string name="aboutScreenLicenseText">Ushbu ilova bepul va cheklovlarsiz ishlaydi. Biroq, parametrlar litsenziyasiz 1 soatdan keyin standart qiymatlariga qaytadi.</string>
     <string name="dialogInfoButton">GitHub-ga o\'ting</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Buni oshirish kichik tebranishlarga nisbatan sezgirlikni pasaytiradi va harakatlarni katta kuchlarga nisbatan kamroq sezgir qiladi.</string>
     <string name="menuRestoreDefaults">Standart sozlamalarni tiklash</string>
     <string name="dialogButtonRateOnPlayStore">Play Marketda baho bering</string>
-    <string name="paramSensorRateInfo">Bu kerakli sensor tezligini o\'rnatadi. Yuqori qiymatlar ko\'proq batareya iste\'mol qilishi mumkin. Bu o\'lchangan sensor tezligidan farq qilishi mumkin, chunki tizim oxir-oqibat qaysi tezlikni ta\'minlashni hal qiladi.</string>
+    <string name="paramSensorRateInfo">Kerakli harakat sensori namuna olish tezligini o\'rnating. Yuqori qiymatlar ko\'proq aniqlikni ta\'minlaydi, lekin ko\'proq batareya iste\'mol qilishi mumkin.</string>
     <string name="menuIncreaseTextSize">Matn hajmini oshiring</string>
     <string name="menuInfo">Ma\'lumot</string>
     <string name="loremIpsum">(Ushbu matn ko\'rsatish uchun mo\'ljallangan)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Iste\'molchi ilovalari hodisalarni qabul qilishni to\'xtatadi. Xizmat o\'chirilsinmi\?</string>
     <string name="aboutScreenAppListTitle">⛵ Ilovalar</string>
     <string name="menuDisable">Oʻchirish</string>
-    <string name="aboutScreenAppListText">Doimiy ekran funksiyasidan foydalanadigan ushbu qurilmaga oʻrnatilgan ilovalar paketlari roʻyxati:</string>
+    <string name="aboutScreenAppListText">SteadyScreen funksiyasidan foydalanadigan ushbu qurilmaga oʻrnatilgan ilovalar paketlari roʻyxati:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
