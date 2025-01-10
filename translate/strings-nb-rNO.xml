@@ -11,7 +11,7 @@
 \nHåper du liker å bruke denne 😊</string>
     <string name="dialogReviewNudgeMessage">Liker du denne appen\?</string>
     <string name="dialogReviewNudgeMessage2">Takk! Skriv en hyggelig anmeldelse eller gi oss 5 stjerner i Play Store.</string>
-    <string name="paramLinearScalingInfo">Dette skalerer bevegelsene lineært, og gjør dem større eller mindre uten å påvirke beregningene.</string>
+    <string name="paramLinearScalingInfo">Dette skalerer bevegelsene etter beregninger, og gjør dem lineært større eller mindre.</string>
     <string name="licenseItemAlreadyOwned">Lisenselementet er allerede eid</string>
     <string name="dialogInfoMessage">Rist enheten litt. Legg merke til hvordan bakgrunnsinnholdet myker disse bevegelsene, noe som gjør det lettere å lese på skjermen.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Ingen</string>
     <string name="licenseSuccessDialogMessage">Appen ble lisensiert. Takk for støtten!</string>
     <string name="menuAbout">Om</string>
-    <string name="paramForceScalingInfo">Dette skalerer kreftene før beregninger, som igjen påvirker den totale størrelsen på bevegelsene.</string>
+    <string name="paramForceScalingInfo">Dette skalerer kreftene før beregninger, noe som gjør bevegelsene større eller mindre på en ikke-lineær måte.</string>
     <string name="menuLicense">Oppgrader lisensen din</string>
     <string name="openSourceLicensesTitle">Åpen kildekode-lisenser</string>
     <string name="menuDecreaseTextSize">Reduser tekststørrelsen</string>
@@ -117,8 +117,8 @@
     <string name="ultimateLicenseTitle">Ultimativ lisens</string>
     <string name="measuredSensorRate">Målt sensorhastighet</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Gjeldende sensorhastighet målt av appen. Dette kan avvike fra ønsket sensorhastighet ettersom systemet til slutt bestemmer hvilken rate som skal gis.</string>
-    <string name="aboutScreenGithubLink">Stødig skjerm på GitHub</string>
+    <string name="measuredSensorRateInfo">Gjeldende samplingsfrekvens for bevegelsessensor målt av applikasjonen. Dette kan avvike fra ønsket sats fordi systemet til slutt bestemmer hvilken sats som skal gis basert på ulike faktorer.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen på GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisens</string>
     <string name="aboutScreenLicenseText">Denne applikasjonen er gratis og fungerer uten begrensninger. Parametrene vil imidlertid gå tilbake til standardverdiene etter 1 time uten lisens.</string>
     <string name="dialogInfoButton">Gå til GitHub</string>
@@ -126,12 +126,16 @@
     <string name="paramRecoilInfo">Å øke dette vil redusere følsomheten for små svingninger og gjøre bevegelser mindre følsomme for større krefter.</string>
     <string name="menuRestoreDefaults">Gjenopprett standardinnstillinger</string>
     <string name="dialogButtonRateOnPlayStore">Vurder på Play Store</string>
-    <string name="paramSensorRateInfo">Dette stiller inn ønsket sensorhastighet. Høyere verdier kan bruke mer batteri. Dette kan avvike fra den målte sensorhastigheten ettersom systemet til slutt bestemmer hvilken hastighet som skal gis.</string>
+    <string name="paramSensorRateInfo">Still inn ønsket samplingsfrekvens for bevegelsessensor. Høyere verdier gir større nøyaktighet, men kan bruke mer batteri.</string>
     <string name="menuIncreaseTextSize">Øk tekststørrelsen</string>
     <string name="menuInfo">Info</string>
     <string name="menuEnable">Aktiver</string>
     <string name="dialogServiceDisableMessage">Forbrukerapplikasjoner vil slutte å motta arrangementer. Deaktivere tjenesten\?</string>
     <string name="aboutScreenAppListTitle">⛵ Apper</string>
     <string name="menuDisable">Deaktiver</string>
-    <string name="aboutScreenAppListText">Liste over apppakker installert på denne enheten som bruker stabil skjerm-funksjonen:</string>
+    <string name="aboutScreenAppListText">Liste over apppakker installert på denne enheten som bruker SteadyScreen-funksjonen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDeaktiver</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
