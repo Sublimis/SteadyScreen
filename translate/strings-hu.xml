@@ -11,7 +11,7 @@
 \nRemélem élvezni fogod ezt a használatát 😊</string>
     <string name="dialogReviewNudgeMessage">Élvezed ezt az alkalmazást\?</string>
     <string name="dialogReviewNudgeMessage2">Köszönöm! Kérjük, írjon egy szép véleményt, vagy értékeljen minket 5 csillaggal a Play Áruházban.</string>
-    <string name="paramLinearScalingInfo">Ez lineárisan skálázza a mozgásokat, így nagyobb vagy kisebb lesz anélkül, hogy befolyásolná a számításokat.</string>
+    <string name="paramLinearScalingInfo">Ez a számítások után méretezi a mozgásokat, lineárisan nagyobbra vagy kisebbre téve azokat.</string>
     <string name="licenseItemAlreadyOwned">A licencelem már birtokában van</string>
     <string name="dialogInfoMessage">Rázza meg kissé a készüléket. Figyelje meg, hogy a háttértartalom hogyan lágyítja ezeket a mozgásokat, megkönnyítve a képernyőn történő olvasást.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nem</string>
     <string name="licenseSuccessDialogMessage">Az alkalmazás licence sikeresen megtörtént. Köszönjük a támogatást!</string>
     <string name="menuAbout">Körülbelül</string>
-    <string name="paramForceScalingInfo">Ez a számítások előtt skálázza az erőket, ami viszont befolyásolja a mozgások általános nagyságát.</string>
+    <string name="paramForceScalingInfo">Ez a számítások előtt skálázza az erőket, ami nemlineáris módon növeli vagy csökkenti a mozgásokat.</string>
     <string name="menuLicense">Frissítse licencét</string>
     <string name="openSourceLicensesTitle">Nyílt forráskódú licencek</string>
     <string name="menuDecreaseTextSize">Csökkentse a szöveg méretét</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Végső licenc</string>
     <string name="measuredSensorRate">Mért érzékelő sebesség</string>
     <string name="menuTheme">Téma</string>
-    <string name="measuredSensorRateInfo">Az érzékelő aktuális sebessége az alkalmazás által mérve. Ez eltérhet a kívánt érzékelő frekvenciától, mivel a rendszer végső soron eldönti, hogy melyik frekvenciát adja meg.</string>
-    <string name="aboutScreenGithubLink">Állandó képernyő a GitHubon</string>
+    <string name="measuredSensorRateInfo">A mozgásérzékelő aktuális mintavételi gyakorisága az alkalmazás által mérve. Ez eltérhet a kívánt árfolyamtól, mivel a rendszer végül különböző tényezők alapján dönti el, hogy milyen kamatlábat biztosít.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen a GitHubon</string>
     <string name="aboutScreenLicenseTitle">🔑 Licenc</string>
     <string name="aboutScreenLicenseText">Ez az alkalmazás ingyenes és korlátozások nélkül működik. Licenc nélkül azonban 1 óra elteltével a paraméterek visszaállnak az alapértelmezett értékekre.</string>
     <string name="dialogInfoButton">Lépjen a GitHub oldalra</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Ennek növelése csökkenti a kis oszcillációkra való érzékenységet, és a mozgások kevésbé lesznek érzékenyek a nagyobb erőkre.</string>
     <string name="menuRestoreDefaults">Alapértékek visszaállítása</string>
     <string name="dialogButtonRateOnPlayStore">Értékelés a Play Áruházban</string>
-    <string name="paramSensorRateInfo">Ez beállítja a kívánt érzékelő frekvenciát. A magasabb értékek több akkumulátort fogyaszthatnak. Ez eltérhet a mért érzékelő frekvenciától, mivel a rendszer végső soron eldönti, hogy melyik frekvenciát adja meg.</string>
+    <string name="paramSensorRateInfo">Állítsa be a mozgásérzékelő kívánt mintavételi gyakoriságát. A magasabb értékek nagyobb pontosságot biztosítanak, de több akkumulátort fogyaszthatnak.</string>
     <string name="menuIncreaseTextSize">Növelje a szöveg méretét</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Ez a szöveg demonstrációs célokat szolgál)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">A fogyasztói alkalmazások nem fogadnak eseményeket. Szolgáltatás letiltása\?</string>
     <string name="aboutScreenAppListTitle">⛵ Alkalmazások</string>
     <string name="menuDisable">Letiltás</string>
-    <string name="aboutScreenAppListText">Az eszközre telepített, a Steady Screen funkciót használó alkalmazáscsomagok listája:</string>
+    <string name="aboutScreenAppListText">Az eszközre telepített, a SteadyScreen funkciót használó alkalmazáscsomagok listája:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
