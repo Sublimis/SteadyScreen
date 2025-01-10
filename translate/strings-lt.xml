@@ -11,7 +11,7 @@
 \nTikimės, kad jums patiks tai naudoti 😊</string>
     <string name="dialogReviewNudgeMessage">Ar jums patinka ši programa\?</string>
     <string name="dialogReviewNudgeMessage2">Ačiū! Parašykite gražią apžvalgą arba įvertinkite mus 5 žvaigždutėmis „Play“ parduotuvėje.</string>
-    <string name="paramLinearScalingInfo">Taip judesiai keičiami tiesiškai, todėl jie tampa didesni arba mažesni, nedarant įtakos skaičiavimams.</string>
+    <string name="paramLinearScalingInfo">Tai padidina judesių mastelį po skaičiavimų, todėl jie tampa tiesiškai didesni arba mažesni.</string>
     <string name="licenseItemAlreadyOwned">Licencijos elementas jau priklauso</string>
     <string name="dialogInfoMessage">Šiek tiek pakratykite prietaisą. Atkreipkite dėmesį, kaip foninis turinys sušvelnina šiuos judesius ir palengvina skaitymą ekrane.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nr</string>
     <string name="licenseSuccessDialogMessage">Programa sėkmingai licencijuota. Dėkojame už palaikymą!</string>
     <string name="menuAbout">Apie</string>
-    <string name="paramForceScalingInfo">Tai padidina jėgas prieš skaičiavimus, o tai savo ruožtu turi įtakos bendram judesių dydžiui.</string>
+    <string name="paramForceScalingInfo">Tai padidina jėgas prieš skaičiavimus, todėl judesiai tampa didesni arba mažesni netiesiniu būdu.</string>
     <string name="menuLicense">Atnaujinkite savo licenciją</string>
     <string name="openSourceLicensesTitle">Atvirojo kodo licencijos</string>
     <string name="menuDecreaseTextSize">Sumažinti teksto dydį</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Galutinė licencija</string>
     <string name="measuredSensorRate">Išmatuotas jutiklio greitis</string>
     <string name="menuTheme">tema</string>
-    <string name="measuredSensorRateInfo">Dabartinis jutiklio greitis, išmatuotas programoje. Tai gali skirtis nuo pageidaujamo jutiklio dažnio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
-    <string name="aboutScreenGithubLink">Pastovus ekranas „GitHub“.</string>
+    <string name="measuredSensorRateInfo">Dabartinis judesio jutiklio atrankos dažnis, išmatuotas programos. Tai gali skirtis nuo pageidaujamo tarifo, nes sistema galiausiai nusprendžia, kokį tarifą taikyti pagal įvairius veiksnius.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen „GitHub“.</string>
     <string name="aboutScreenLicenseTitle">🔑 Licencija</string>
     <string name="aboutScreenLicenseText">Ši programa yra nemokama ir veikia be apribojimų. Tačiau parametrai grįš į numatytąsias vertes po 1 valandos be licencijos.</string>
     <string name="dialogInfoButton">Eikite į „GitHub“.</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Tai padidinus, sumažės jautrumas mažiems virpesiams ir judesiai bus mažiau jautrūs didesnėms jėgoms.</string>
     <string name="menuRestoreDefaults">Atkurti numatytuosius nustatymus</string>
     <string name="dialogButtonRateOnPlayStore">Įvertinkite „Play“ parduotuvėje</string>
-    <string name="paramSensorRateInfo">Taip nustatomas norimas jutiklio dažnis. Didesnės vertės gali sunaudoti daugiau akumuliatoriaus. Tai gali skirtis nuo išmatuoto jutiklio greičio, nes sistema galiausiai nusprendžia, kokį dažnį pateikti.</string>
+    <string name="paramSensorRateInfo">Nustatykite norimą judesio jutiklio mėginių ėmimo dažnį. Didesnės reikšmės užtikrina didesnį tikslumą, tačiau gali sunaudoti daugiau akumuliatoriaus.</string>
     <string name="menuIncreaseTextSize">Padidinti teksto dydį</string>
     <string name="menuInfo">Informacija</string>
     <string name="loremIpsum">(Šis tekstas skirtas demonstravimo tikslais)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Vartotojų programos nebegaus įvykių. Išjungti paslaugą\?</string>
     <string name="aboutScreenAppListTitle">⛵ Programėlės</string>
     <string name="menuDisable">Išjungti</string>
-    <string name="aboutScreenAppListText">Šiame įrenginyje įdiegtų programų paketų, kuriuose naudojama pastovaus ekrano funkcija, sąrašas:</string>
+    <string name="aboutScreenAppListText">Šiame įrenginyje įdiegtų programų paketų, kuriuose naudojama „SteadyScreen“ funkcija, sąrašas:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuIšjungti</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/programos_pavadinimas</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
