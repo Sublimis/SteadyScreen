@@ -11,7 +11,7 @@
 \nToivottavasti nautit tämän käytöstä 😊</string>
     <string name="dialogReviewNudgeMessage">Pidätkö tästä sovelluksesta\?</string>
     <string name="dialogReviewNudgeMessage2">Kiitos! Kirjoita hyvä arvostelu tai anna meille 5 tähteä Play Kaupassa.</string>
-    <string name="paramLinearScalingInfo">Tämä skaalaa liikkeet lineaarisesti ja tekee niistä suurempia tai pienempiä vaikuttamatta laskelmiin.</string>
+    <string name="paramLinearScalingInfo">Tämä skaalaa liikkeet laskelmien jälkeen, mikä tekee niistä lineaarisesti suurempia tai pienempiä.</string>
     <string name="licenseItemAlreadyOwned">Lisenssikohde on jo omistettu</string>
     <string name="dialogInfoMessage">Ravista laitetta hieman. Huomaa, kuinka taustasisältö pehmentää näitä liikkeitä tehden näytöllä lukemisesta helpompaa.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Ei</string>
     <string name="licenseSuccessDialogMessage">Sovelluksen lisensointi onnistui. Kiitos tuestanne!</string>
     <string name="menuAbout">Noin</string>
-    <string name="paramForceScalingInfo">Tämä skaalaa voimat ennen laskelmia, mikä puolestaan vaikuttaa liikkeiden kokonaissuuruuteen.</string>
+    <string name="paramForceScalingInfo">Tämä skaalaa voimat ennen laskelmia, mikä tekee liikkeistä suurempia tai pienempiä epälineaarisesti.</string>
     <string name="menuLicense">Päivitä lisenssisi</string>
     <string name="openSourceLicensesTitle">Avoimen lähdekoodin lisenssit</string>
     <string name="menuDecreaseTextSize">Pienennä tekstin kokoa</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimate Lisenssi</string>
     <string name="measuredSensorRate">Mitattu anturin nopeus</string>
     <string name="menuTheme">Teema</string>
-    <string name="measuredSensorRateInfo">Senhetkinen anturin nopeus sovelluksen mittaamana. Tämä voi poiketa halutusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden se antaa.</string>
-    <string name="aboutScreenGithubLink">Tasainen näyttö GitHubissa</string>
+    <string name="measuredSensorRateInfo">Nykyinen liiketunnistimen näytteenottotaajuus sovelluksen mittaamana. Tämä voi poiketa halutusta hinnasta, koska järjestelmä päättää lopulta, minkä koron se tarjoaa eri tekijöiden perusteella.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen GitHubissa</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisenssi</string>
     <string name="aboutScreenLicenseText">Tämä sovellus on ilmainen ja toimii ilman rajoituksia. Parametrit palaavat kuitenkin oletusarvoihinsa tunnin kuluttua ilman lisenssiä.</string>
     <string name="dialogInfoButton">Siirry GitHubiin</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Tämän lisääminen vähentää herkkyyttä pienille värähtelyille ja tekee liikkeistä vähemmän herkkiä suuremmille voimille.</string>
     <string name="menuRestoreDefaults">Palauta oletusasetukset</string>
     <string name="dialogButtonRateOnPlayStore">Arvioi Play Kaupassa</string>
-    <string name="paramSensorRateInfo">Tämä asettaa halutun anturin nopeuden. Suuremmat arvot voivat kuluttaa enemmän akkua. Tämä voi poiketa mitatusta anturin nopeudesta, koska järjestelmä lopulta päättää, minkä nopeuden antaa.</string>
+    <string name="paramSensorRateInfo">Aseta haluamasi liiketunnistimen näytteenottotaajuus. Suuremmat arvot lisäävät tarkkuutta, mutta voivat kuluttaa enemmän akkua.</string>
     <string name="menuIncreaseTextSize">Suurenna tekstin kokoa</string>
     <string name="menuInfo">Tiedot</string>
     <string name="loremIpsum">(Tämä teksti on esittelytarkoituksessa)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Kuluttajasovellukset lopettavat tapahtumien vastaanottamisen. Poistetaanko palvelu käytöstä\?</string>
     <string name="aboutScreenAppListTitle">⛵ Sovellukset</string>
     <string name="menuDisable">Poista käytöstä</string>
-    <string name="aboutScreenAppListText">Luettelo tälle laitteelle asennetuista sovelluspaketeista, jotka käyttävät Steady Screen -ominaisuutta:</string>
+    <string name="aboutScreenAppListText">Luettelo tälle laitteelle asennetuista sovelluspaketeista, jotka käyttävät SteadyScreen-ominaisuutta:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuPoista käytöstä</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
