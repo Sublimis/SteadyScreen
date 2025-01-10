@@ -11,7 +11,7 @@
 \nIk hoop dat je dit leuk vindt 😊</string>
     <string name="dialogReviewNudgeMessage">Vindt u deze app leuk\?</string>
     <string name="dialogReviewNudgeMessage2">Bedankt! Schrijf een leuke recensie of geef ons 5 sterren in de Play Store.</string>
-    <string name="paramLinearScalingInfo">Hierdoor worden de bewegingen lineair geschaald, waardoor ze groter of kleiner worden zonder dat dit invloed heeft op de berekeningen.</string>
+    <string name="paramLinearScalingInfo">Hiermee worden de bewegingen na berekeningen geschaald, waardoor ze lineair groter of kleiner worden.</string>
     <string name="licenseItemAlreadyOwned">Licentie-item al in bezit</string>
     <string name="dialogInfoMessage">Schud het apparaat een beetje. Merk op hoe de achtergrondinhoud deze bewegingen verzacht, waardoor het lezen op het scherm gemakkelijker wordt.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nee</string>
     <string name="licenseSuccessDialogMessage">De app is succesvol gelicentieerd. Bedankt voor je support!</string>
     <string name="menuAbout">Over</string>
-    <string name="paramForceScalingInfo">Hiermee worden de krachten vóór de berekeningen geschaald, wat op zijn beurt de algehele omvang van de bewegingen beïnvloedt.</string>
+    <string name="paramForceScalingInfo">Hiermee worden de krachten vóór de berekeningen geschaald, waardoor de bewegingen op een niet-lineaire manier groter of kleiner worden.</string>
     <string name="menuLicense">Upgrade uw licentie</string>
     <string name="openSourceLicensesTitle">Open source-licenties</string>
     <string name="menuDecreaseTextSize">Tekstgrootte verkleinen</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultieme licentie</string>
     <string name="measuredSensorRate">Gemeten sensorsnelheid</string>
     <string name="menuTheme">Thema</string>
-    <string name="measuredSensorRateInfo">Huidige sensorsnelheid zoals gemeten door de app. Dit kan afwijken van de gewenste sensorsnelheid, aangezien het systeem uiteindelijk beslist welke snelheid moet worden geleverd.</string>
-    <string name="aboutScreenGithubLink">Stabiel scherm op GitHub</string>
+    <string name="measuredSensorRateInfo">De huidige bewegingssensor bemonsteringsfrequentie zoals gemeten door de applicatie. Dit kan afwijken van de gewenste frequentie omdat het systeem uiteindelijk beslist welke frequentie moet worden geleverd op basis van verschillende factoren.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen op GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licentie</string>
     <string name="aboutScreenLicenseText">Deze applicatie is gratis en werkt zonder beperkingen. De parameters keren echter na 1 uur zonder licentie terug naar hun standaardwaarden.</string>
     <string name="dialogInfoButton">Ga naar GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Als u dit verhoogt, wordt de gevoeligheid voor kleine trillingen verminderd en worden bewegingen minder gevoelig voor grotere krachten.</string>
     <string name="menuRestoreDefaults">Standaardinstellingen herstellen</string>
     <string name="dialogButtonRateOnPlayStore">Beoordeel op Play Store</string>
-    <string name="paramSensorRateInfo">Hiermee wordt de gewenste sensorsnelheid ingesteld. Hogere waarden kunnen meer batterij verbruiken. Dit kan afwijken van de gemeten sensorsnelheid, omdat het systeem uiteindelijk beslist welke snelheid moet worden geleverd.</string>
+    <string name="paramSensorRateInfo">Stel de gewenste bewegingssensor-samplingfrequentie in. Hogere waarden bieden een grotere nauwkeurigheid, maar kunnen meer batterij verbruiken.</string>
     <string name="menuIncreaseTextSize">Tekstgrootte vergroten</string>
     <string name="menuInfo">Informatie</string>
     <string name="loremIpsum">(Deze tekst is ter demonstratie)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Consumer-applicaties ontvangen geen gebeurtenissen meer. Service uitschakelen\?</string>
     <string name="aboutScreenAppListTitle">⛵ Toepassingen</string>
     <string name="menuDisable">Uitzetten</string>
-    <string name="aboutScreenAppListText">Lijst met app-pakketten die op dit apparaat zijn geïnstalleerd en die gebruikmaken van de functie Steady Screen:</string>
+    <string name="aboutScreenAppListText">Lijst met app-pakketten die op dit apparaat zijn geïnstalleerd en die gebruikmaken van de SteadyScreen-functie:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuUitschakelen</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_naam</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
