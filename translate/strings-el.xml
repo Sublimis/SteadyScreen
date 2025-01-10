@@ -11,7 +11,7 @@
 \nΕλπίζουμε να απολαύσετε τη χρήση αυτού 😊</string>
     <string name="dialogReviewNudgeMessage">Σας αρέσει αυτή η εφαρμογή;</string>
     <string name="dialogReviewNudgeMessage2">Ευχαριστώ! Γράψτε μια ωραία κριτική ή βαθμολογήστε μας με 5 αστέρια στο Play Store.</string>
-    <string name="paramLinearScalingInfo">Αυτό κλιμακώνει τις κινήσεις γραμμικά, καθιστώντας τις μεγαλύτερες ή μικρότερες χωρίς να επηρεάζονται οι υπολογισμοί.</string>
+    <string name="paramLinearScalingInfo">Αυτό κλιμακώνει τις κινήσεις μετά τους υπολογισμούς, καθιστώντας τις γραμμικά μεγαλύτερες ή μικρότερες.</string>
     <string name="licenseItemAlreadyOwned">Το στοιχείο άδειας ανήκει ήδη</string>
     <string name="dialogInfoMessage">Ανακινήστε λίγο τη συσκευή. Παρατηρήστε πώς το περιεχόμενο του φόντου αμβλύνει αυτές τις κινήσεις, διευκολύνοντας την ανάγνωση στην οθόνη.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Οχι</string>
     <string name="licenseSuccessDialogMessage">Η εφαρμογή αδειοδοτήθηκε με επιτυχία. Σας ευχαριστούμε για την υποστήριξή σας!</string>
     <string name="menuAbout">Για</string>
-    <string name="paramForceScalingInfo">Αυτό κλιμακώνει τις δυνάμεις πριν από τους υπολογισμούς, κάτι που με τη σειρά του επηρεάζει το συνολικό μέγεθος των κινήσεων.</string>
+    <string name="paramForceScalingInfo">Αυτό κλιμακώνει τις δυνάμεις πριν από τους υπολογισμούς, γεγονός που κάνει τις κινήσεις μεγαλύτερες ή μικρότερες με μη γραμμικό τρόπο.</string>
     <string name="menuLicense">Αναβαθμίστε την άδειά σας</string>
     <string name="openSourceLicensesTitle">Άδειες ανοιχτού κώδικα</string>
     <string name="menuDecreaseTextSize">Μειώστε το μέγεθος του κειμένου</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Απόλυτη άδεια</string>
     <string name="measuredSensorRate">Μετρημένη ταχύτητα αισθητήρα</string>
     <string name="menuTheme">Θέμα</string>
-    <string name="measuredSensorRateInfo">Τρέχουσα ταχύτητα αισθητήρα όπως μετράται από την εφαρμογή. Αυτό μπορεί να διαφέρει από τον επιθυμητό ρυθμό αισθητήρα, καθώς το σύστημα αποφασίζει τελικά ποιο ρυθμό θα παρέχει.</string>
-    <string name="aboutScreenGithubLink">Σταθερή οθόνη στο GitHub</string>
+    <string name="measuredSensorRateInfo">Ο τρέχων ρυθμός δειγματοληψίας του αισθητήρα κίνησης όπως μετράται από την εφαρμογή. Αυτό μπορεί να διαφέρει από το επιθυμητό επιτόκιο επειδή το σύστημα αποφασίζει τελικά ποιο ποσοστό θα παράσχει με βάση διάφορους παράγοντες.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen στο GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Άδεια</string>
     <string name="aboutScreenLicenseText">Αυτή η εφαρμογή είναι δωρεάν και λειτουργεί χωρίς περιορισμούς. Ωστόσο, οι παράμετροι θα επιστρέψουν στις προεπιλεγμένες τιμές τους μετά από 1 ώρα χωρίς άδεια.</string>
     <string name="dialogInfoButton">Μεταβείτε στο GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Η αύξηση αυτού θα μειώσει την ευαισθησία σε μικρές ταλαντώσεις και θα κάνει τις κινήσεις λιγότερο ευαίσθητες σε μεγαλύτερες δυνάμεις.</string>
     <string name="menuRestoreDefaults">Επαναφορά προεπιλογών</string>
     <string name="dialogButtonRateOnPlayStore">Βαθμολογήστε στο Play Store</string>
-    <string name="paramSensorRateInfo">Αυτό ρυθμίζει τον επιθυμητό ρυθμό αισθητήρα. Οι υψηλότερες τιμές ενδέχεται να καταναλώνουν περισσότερη μπαταρία. Αυτό μπορεί να διαφέρει από τον μετρούμενο ρυθμό αισθητήρα, καθώς το σύστημα αποφασίζει τελικά ποιο ποσοστό θα παρέχει.</string>
+    <string name="paramSensorRateInfo">Ρυθμίστε τον επιθυμητό ρυθμό δειγματοληψίας αισθητήρα κίνησης. Οι υψηλότερες τιμές παρέχουν μεγαλύτερη ακρίβεια, αλλά μπορεί να καταναλώνουν περισσότερη μπαταρία.</string>
     <string name="menuIncreaseTextSize">Αυξήστε το μέγεθος του κειμένου</string>
     <string name="menuInfo">Πληροφορίες</string>
     <string name="loremIpsum">(Αυτό το κείμενο είναι για λόγους επίδειξης)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Οι εφαρμογές των καταναλωτών θα σταματήσουν να λαμβάνουν συμβάντα. Απενεργοποίηση υπηρεσίας;</string>
     <string name="aboutScreenAppListTitle">⛵ Εφαρμογές</string>
     <string name="menuDisable">Καθιστώ ανίκανο</string>
-    <string name="aboutScreenAppListText">Λίστα πακέτων εφαρμογών που είναι εγκατεστημένα σε αυτήν τη συσκευή που χρησιμοποιούν τη δυνατότητα Σταθερής οθόνης:</string>
+    <string name="aboutScreenAppListText">Λίστα πακέτων εφαρμογών που είναι εγκατεστημένα σε αυτήν τη συσκευή που χρησιμοποιούν τη δυνατότητα SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
