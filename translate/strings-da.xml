@@ -11,7 +11,7 @@
 \nHåber du nyder at bruge denne 😊</string>
     <string name="dialogReviewNudgeMessage">Nyder du denne app\?</string>
     <string name="dialogReviewNudgeMessage2">Tak! Skriv venligst en god anmeldelse eller bedøm os 5 stjerner i Play Butik.</string>
-    <string name="paramLinearScalingInfo">Dette skalerer bevægelserne lineært, hvilket gør dem større eller mindre uden at påvirke beregningerne.</string>
+    <string name="paramLinearScalingInfo">Dette skalerer bevægelserne efter beregninger, hvilket gør dem lineært større eller mindre.</string>
     <string name="licenseItemAlreadyOwned">Licenselementet er allerede ejet</string>
     <string name="dialogInfoMessage">Ryst enheden lidt. Læg mærke til, hvordan baggrundsindholdet blødgør disse bevægelser, hvilket gør det nemmere at læse på skærmen.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Ingen</string>
     <string name="licenseSuccessDialogMessage">Appen blev godkendt. Tak for din støtte!</string>
     <string name="menuAbout">Om</string>
-    <string name="paramForceScalingInfo">Dette skalerer kræfterne før beregninger, hvilket igen påvirker den samlede størrelse af bevægelser.</string>
+    <string name="paramForceScalingInfo">Dette skalerer kræfterne før beregninger, hvilket gør bevægelserne større eller mindre på en ikke-lineær måde.</string>
     <string name="menuLicense">Opgrader din licens</string>
     <string name="openSourceLicensesTitle">Open source-licenser</string>
     <string name="menuDecreaseTextSize">Formindsk tekststørrelse</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimativ licens</string>
     <string name="measuredSensorRate">Målt sensorhastighed</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Aktuel sensorhastighed målt af appen. Dette kan afvige fra den ønskede sensorhastighed, da systemet i sidste ende beslutter, hvilken rate der skal leveres.</string>
-    <string name="aboutScreenGithubLink">Stabil skærm på GitHub</string>
+    <string name="measuredSensorRateInfo">Den aktuelle samplingsfrekvens for bevægelsessensoren målt af applikationen. Dette kan afvige fra den ønskede sats, fordi systemet i sidste ende beslutter, hvilken sats, der skal tilbydes baseret på forskellige faktorer.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen på GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licens</string>
     <string name="aboutScreenLicenseText">Denne applikation er gratis og fungerer uden begrænsninger. Parametrene vil dog vende tilbage til deres standardværdier efter 1 time uden licens.</string>
     <string name="dialogInfoButton">Gå til GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">At øge dette vil reducere følsomheden over for små svingninger og gøre bevægelser mindre følsomme over for større kræfter.</string>
     <string name="menuRestoreDefaults">Gendan standardindstillinger</string>
     <string name="dialogButtonRateOnPlayStore">Bedøm i Play Butik</string>
-    <string name="paramSensorRateInfo">Dette indstiller den ønskede sensorhastighed. Højere værdier kan bruge mere batteri. Dette kan afvige fra den målte sensorhastighed, da systemet i sidste ende beslutter, hvilken hastighed der skal leveres.</string>
+    <string name="paramSensorRateInfo">Indstil den ønskede samplingsfrekvens for bevægelsessensor. Højere værdier giver større nøjagtighed, men kan forbruge mere batteri.</string>
     <string name="menuIncreaseTextSize">Forøg tekststørrelsen</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Denne tekst er til demonstrationsformål)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Forbrugerapplikationer vil stoppe med at modtage begivenheder. Deaktivere tjenesten\?</string>
     <string name="aboutScreenAppListTitle">⛵ Apps</string>
     <string name="menuDisable">Deaktiver</string>
-    <string name="aboutScreenAppListText">Liste over apppakker installeret på denne enhed, der bruger funktionen Steady Screen:</string>
+    <string name="aboutScreenAppListText">Liste over apppakker installeret på denne enhed, der bruger SteadyScreen-funktionen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@streng/menuDeaktiver</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@streng/app_navn</string>
+    <string name="dialogInfoTitle" translatable="false">\@streng/menuInfo</string>
 </resources>
