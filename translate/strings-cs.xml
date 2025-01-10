@@ -10,8 +10,8 @@
 \n
 \nDoufám, že se vám to bude líbit 😊</string>
     <string name="dialogReviewNudgeMessage">Baví vás tato aplikace\?</string>
-    <string name="dialogReviewNudgeMessage2">Díky! Napište hezkou recenzi nebo nám ohodnoťte 5 hvězdičkami v Obchodě Play.</string>
-    <string name="paramLinearScalingInfo">Pohyby se tak lineárně upravují, takže jsou větší nebo menší, aniž by to ovlivnilo výpočty.</string>
+    <string name="dialogReviewNudgeMessage2">Díky! Napište nám pěknou recenzi nebo nám ohodnoťte 5 hvězdičkami v Obchodě Play.</string>
+    <string name="paramLinearScalingInfo">Toto měřítko pohybů po výpočtech a dělá je lineárně většími nebo menšími.</string>
     <string name="licenseItemAlreadyOwned">Položka licence již vlastní</string>
     <string name="dialogInfoMessage">Zařízením trochu zatřeste. Všimněte si, jak obsah na pozadí tyto pohyby změkčuje, což usnadňuje čtení na obrazovce.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Žádný</string>
     <string name="licenseSuccessDialogMessage">Aplikace byla úspěšně licencována. Děkujeme za vaši podporu!</string>
     <string name="menuAbout">O</string>
-    <string name="paramForceScalingInfo">Toto měří síly před výpočty, což zase ovlivňuje celkovou velikost pohybů.</string>
+    <string name="paramForceScalingInfo">Tím se měří síly před výpočty, díky čemuž jsou pohyby větší nebo menší nelineárním způsobem.</string>
     <string name="menuLicense">Upgradujte svou licenci</string>
     <string name="openSourceLicensesTitle">Open source licence</string>
     <string name="menuDecreaseTextSize">Zmenšit velikost textu</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimate Licence</string>
     <string name="measuredSensorRate">Naměřená rychlost senzoru</string>
     <string name="menuTheme">Téma</string>
-    <string name="measuredSensorRateInfo">Aktuální rychlost senzoru měřená aplikací. Ta se může lišit od požadované rychlosti senzoru, protože systém nakonec rozhodne, kterou rychlost poskytne.</string>
-    <string name="aboutScreenGithubLink">Stálá obrazovka na GitHubu</string>
+    <string name="measuredSensorRateInfo">Aktuální vzorkovací frekvence snímače pohybu měřená aplikací. Ta se může lišit od požadované sazby, protože systém nakonec rozhodne, jakou sazbu poskytne, na základě různých faktorů.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen na GitHubu</string>
     <string name="aboutScreenLicenseTitle">🔑 Licence</string>
     <string name="aboutScreenLicenseText">Tato aplikace je zdarma a funguje bez omezení. Po 1 hodině bez licence se však parametry vrátí na výchozí hodnoty.</string>
     <string name="dialogInfoButton">Přejděte na GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Zvýšením se sníží citlivost na malé oscilace a pohyby budou méně citlivé na větší síly.</string>
     <string name="menuRestoreDefaults">Obnovit výchozí</string>
     <string name="dialogButtonRateOnPlayStore">Ohodnoťte v Obchodě Play</string>
-    <string name="paramSensorRateInfo">Tím se nastaví požadovaná frekvence snímače. Vyšší hodnoty mohou spotřebovat více baterie. Ta se může lišit od naměřené rychlosti senzoru, protože systém nakonec rozhodne, kterou rychlost poskytne.</string>
+    <string name="paramSensorRateInfo">Nastavte požadovanou vzorkovací frekvenci snímače pohybu. Vyšší hodnoty poskytují větší přesnost, ale mohou spotřebovat více baterie.</string>
     <string name="menuIncreaseTextSize">Zvětšete velikost textu</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Tento text je pro demonstrační účely)
@@ -64,7 +64,7 @@
 \n
 \n\"Jak ji tedy najdeme\?\" zeptala se dívka.
 \n
-\n\"To bude snadné,\" odpověděl muž, \"protože až ví, že jsi v zemi Winkies, najde tě a udělá z tebe všechny své otroky.\"
+\n\"To bude snadné,\" odpověděl muž, \"protože až bude vědět, že jsi v zemi Winkies, najde tě a udělá z tebe všechny své otroky.\"
 \n
 \n\"Možná ne,\" řekl Strašák, \"protože ji chceme zničit.\"
 \n
@@ -76,7 +76,7 @@
 \n
 \nOdpoledne jim slunce žhnulo do tváří, protože nebyly stromy, které by jim poskytly stín; takže před nocí byli Dorothy, Toto a Lev unavení, lehli si do trávy a usnuli, zatímco Woodman a Strašák drželi hlídku.
 \n
-\nTeď měla Zlá čarodějnice ze Západu jen jedno oko, ale to bylo silné jako dalekohled a vidělo všude. A tak, když seděla ve dveřích svého hradu, náhodou se rozhlédla a spatřila Dorothy, jak leží spící, se svými přáteli všude kolem ní. Byli daleko, ale Zlá čarodějnice se zlobila, když je našla ve své zemi; tak zafoukala na stříbrnou píšťalku, která jí visela na krku.
+\nTeď měla Zlá čarodějnice ze Západu jen jedno oko, ale to bylo silné jako dalekohled a vidělo všude. A tak, když seděla ve dveřích svého hradu, náhodou se rozhlédla a spatřila Dorothy, jak leží spící, se svými přáteli všude kolem. Byli daleko, ale Zlá čarodějnice se zlobila, když je našla ve své zemi; tak zafoukala na stříbrnou píšťalku, která jí visela na krku.
 \n
 \nOkamžitě k ní ze všech stran přiběhla smečka velkých vlků. Měli dlouhé nohy a divoké oči a ostré zuby.
 \n
@@ -92,13 +92,13 @@
 \n
 \n\"Toto je můj boj,\" řekl Woodman, \"takže běž za mnou a já se s nimi setkám, až přijdou.\"
 \n
-\nPopadl svou sekeru, kterou vyrobil velmi ostrou, a když vůdce vlků nastoupil, Plechový dřevorubec máchl paží a usekl vlkovi hlavu z těla, takže okamžitě zemřel. Jakmile mohl zvednout sekeru, vynořil se další vlk a také spadl pod ostrou hranu zbraně Tin Woodman. Bylo tam čtyřicet vlků a čtyřicetkrát byl jeden vlk zabit, takže nakonec všichni leželi mrtví na hromadě před Woodmanem.
+\nPopadl svou sekeru, kterou udělal velmi ostrou, a když vůdce vlků nastoupil, Plechový dřevorubec máchl paží a usekl vlkovi hlavu z těla, takže okamžitě zemřel. Jakmile mohl zvednout sekeru, vynořil se další vlk a také spadl pod ostrou hranu zbraně Tin Woodman. Bylo tam čtyřicet vlků a čtyřicetkrát byl jeden vlk zabit, takže nakonec všichni leželi mrtví na hromadě před Woodmanem.
 \n
-\nPak odložil sekeru a posadil se vedle Strašáka, který řekl: \"Byl to dobrý boj, příteli.\"
+\nPotom odložil sekeru a posadil se vedle Strašáka, který řekl: \"Byl to dobrý boj, příteli.\"
 \n
 \nČekali, až se Dorothy příštího rána probudí. Holčička se docela vyděsila, když uviděla velkou hromadu chundelatých vlků, ale Plechový dřevorubec jí řekl vše. Poděkovala mu, že je zachránil, a posadila se ke snídani, po které se znovu vydali na cestu.
 \n
-\nTeď téhož rána přišla Zlá čarodějnice ke dveřím svého hradu a podívala se ven svým jedním okem, které vidělo daleko. Viděla všechny své vlky ležet mrtvé a cizince stále cestovat její zemí. To ji rozzlobilo ještě víc než předtím a dvakrát zapískala na stříbrnou píšťalku.
+\nTeď téhož rána přišla Zlá čarodějnice ke dveřím svého hradu a podívala se ven svým jedním okem, které vidělo daleko. Viděla všechny své vlky ležet mrtvé a cizince stále cestovat její zemí. To ji rozzlobilo ještě víc než předtím a dvakrát zapískala na stříbrnou píšťalu.
 \n
 \nOkamžitě k ní přiletělo velké hejno divokých vran, které zatemnilo oblohu.
 \n
@@ -108,17 +108,17 @@
 \n
 \nAle Strašák řekl: \"Toto je moje bitva, tak si lehni vedle mě a nic se ti nestane.\"
 \n
-\nVšichni tedy leželi na zemi kromě Strašáka, ten vstal a napřáhl ruce. A když ho vrány uviděly, vyděsily se, jako tito ptáci strašáci vždy bývají, a neodvážili se ani přiblížit. Ale král Vrána řekl:
+\nVšichni tedy leželi na zemi kromě Strašáka, ten vstal a napřáhl ruce. A když ho vrány uviděly, vyděsily se, jako tito ptáci strašáci vždy bývají, a neodvážili se přiblížit. Ale král Vrána řekl:
 \n
 \n\"Je to jen vycpaný muž. Vyloupu mu oči.\"
 \n
-\nVrána královská letěla na Strašáka, který ho chytil za hlavu a kroutil mu krkem, dokud nezemřel. A pak na něj vyletěla další vrána a Strašák také zakroutil krkem. Bylo tam čtyřicet vran a čtyřicetkrát Strašák zkroutil krkem, až nakonec všichni leželi mrtví vedle něj. Potom vyzval své společníky, aby vstali, a znovu se vydali na cestu.
+\nVrána královská letěla na Strašáka, který ho chytil za hlavu a kroutil mu krkem, dokud nezemřel. A pak na něj vyletěla další vrána a Strašák také zakroutil krkem. Bylo tam čtyřicet vran a čtyřicetkrát Strašák zkroutil krkem, až nakonec všichni vedle něj leželi mrtví. Potom vyzval své společníky, aby vstali, a znovu se vydali na cestu.
 \n
-\nKdyž se Zlá čarodějnice znovu rozhlédla a spatřila všechny své vrány ležící na hromadě, dostala se do hrozného vzteku a třikrát zatroubila na svou stříbrnou píšťalu.
+\nKdyž se Zlá čarodějnice znovu rozhlédla a viděla všechny své vrány ležet na hromadě, dostala se do hrozného vzteku a třikrát zatroubila na svou stříbrnou píšťalu.
 \n
-\nOkamžitě se ve vzduchu ozvalo velké bzučení a k ní přiletěl roj černých včel.
+\nOkamžitě se ve vzduchu ozvalo velké bzučení a roj černých včel přiletěl k ní.
 \n
-\n\"Jdi k cizincům a ubodej je k smrti!\" zavelela Čarodějnice a včely se rychle otočily a létaly, dokud nedorazily k místu, kudy kráčely Dorothy a její přátelé. Ale Woodman je viděl přicházet a Strašák se rozhodl, co dělat.
+\n\"Jdi k cizincům a ubodej je k smrti!\" zavelela Čarodějnice a včely se rychle otočily a letěly, dokud nedorazily k místu, kde se procházela Dorothy a její přátelé. Ale Woodman je viděl přicházet a Strašák se rozhodl, co dělat.
 \n
 \n\"Vytáhni moji slámu a rozsyp ji po holčičce, psovi a lvu,\" řekl Dřevníkovi, \"a včely je nemohou bodnout.\" To Woodman udělal, a když Dorothy ležela blízko Lva a držela Tota v náručí, sláma je úplně zakryla.
 \n
@@ -126,12 +126,16 @@
 \n
 \nPak Dorothy se lvem vstali a dívka pomohla Cínovému dřevorubci dát slámu zpět do Strašáka, dokud nebyl tak dobrý jako vždy. Vydali se tedy na cestu znovu.
 \n
-\nZlá čarodějnice byla tak rozzlobená, když uviděla své černé včely na malých hromádkách jako jemné uhlí, že dupla nohou, rvala si vlasy a skřípala zuby. A pak zavolala tucet svých otroků, kteří byli Winkies, a dala jim ostré oštěpy a řekla jim, aby šli k cizincům a zničili je.
+\nZlá čarodějnice byla tak rozzlobená, když uviděla své černé včely na malých hromádkách jako jemné uhlí, že dupla nohou, rvala si vlasy a skřípala zuby. A pak zavolala tucet svých otroků, což byli Winkies, a dala jim ostré oštěpy a řekla jim, aby šli k cizincům a zničili je.
 \n
-\nWinkies nebyli stateční lidé, ale museli dělat, co jim bylo řečeno. A tak pochodovali pryč, dokud se nepřiblížili k Dorothy. Pak lev hlasitě zařval a vrhl se k nim a ubohé Winkies se tak vyděsily, že utekly, jak nejrychleji mohly.</string>
+\nWinkies nebyli stateční lidé, ale museli dělat, co jim bylo řečeno. A tak pochodovali pryč, dokud se nepřiblížili k Dorothy. Pak lev hlasitě zařval a vrhl se k nim a ubohé Winkies se tak vyděsily, že utekly zpět, jak nejrychleji mohly.</string>
     <string name="menuEnable">Umožnit</string>
     <string name="dialogServiceDisableMessage">Spotřebitelské aplikace přestanou přijímat události. Zakázat službu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplikace</string>
     <string name="menuDisable">Zakázat</string>
-    <string name="aboutScreenAppListText">Seznam balíčků aplikací nainstalovaných v tomto zařízení, které používají funkci Trvalá obrazovka:</string>
+    <string name="aboutScreenAppListText">Seznam balíčků aplikací nainstalovaných v tomto zařízení, které používají funkci SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuZakázat</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/název_aplikace</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
