@@ -11,7 +11,7 @@
 \nSemoga anda seronok menggunakan ini 😊</string>
     <string name="dialogReviewNudgeMessage">Adakah anda menikmati aplikasi ini\?</string>
     <string name="dialogReviewNudgeMessage2">Terima kasih! Sila tulis ulasan yang bagus atau nilaikan kami 5 bintang di Gedung Play.</string>
-    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan secara linear, menjadikannya lebih besar atau lebih kecil tanpa menjejaskan pengiraan.</string>
+    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan selepas pengiraan, menjadikannya lebih besar atau lebih kecil secara linear.</string>
     <string name="licenseItemAlreadyOwned">Item lesen sudah dimiliki</string>
     <string name="dialogInfoMessage">Goncangkan peranti itu sedikit. Perhatikan bagaimana kandungan latar belakang melembutkan pergerakan ini, menjadikan bacaan pada skrin lebih mudah.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Tidak</string>
     <string name="licenseSuccessDialogMessage">Apl itu berjaya dilesenkan. Terima kasih atas sokongan anda!</string>
     <string name="menuAbout">Tentang</string>
-    <string name="paramForceScalingInfo">Ini menskalakan daya sebelum pengiraan, yang seterusnya mempengaruhi magnitud keseluruhan pergerakan.</string>
+    <string name="paramForceScalingInfo">Ini menskalakan daya sebelum pengiraan, yang menjadikan pergerakan lebih besar atau lebih kecil dalam cara tak linear.</string>
     <string name="menuLicense">Tingkatkan lesen anda</string>
     <string name="openSourceLicensesTitle">Lesen sumber terbuka</string>
     <string name="menuDecreaseTextSize">Kurangkan saiz teks</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Lesen muktamad</string>
     <string name="measuredSensorRate">Kadar penderia yang diukur</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Kadar penderia semasa seperti yang diukur oleh apl. Ini mungkin berbeza daripada kadar penderia yang diingini kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
-    <string name="aboutScreenGithubLink">Skrin Stabil pada GitHub</string>
+    <string name="measuredSensorRateInfo">Kadar pensampelan sensor gerakan semasa seperti yang diukur oleh aplikasi. Ini mungkin berbeza daripada kadar yang dikehendaki kerana sistem akhirnya memutuskan kadar yang perlu disediakan berdasarkan pelbagai faktor.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen pada GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lesen</string>
     <string name="aboutScreenLicenseText">Aplikasi ini adalah percuma dan berfungsi tanpa had. Walau bagaimanapun, parameter akan kembali kepada nilai lalai selepas 1 jam tanpa lesen.</string>
     <string name="dialogInfoButton">Pergi ke GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Meningkatkan ini akan mengurangkan kepekaan kepada ayunan kecil dan menjadikan pergerakan kurang sensitif kepada daya yang lebih besar.</string>
     <string name="menuRestoreDefaults">Pulihkan lalai</string>
     <string name="dialogButtonRateOnPlayStore">Nilaikan di Gedung Play</string>
-    <string name="paramSensorRateInfo">Ini menetapkan kadar sensor yang diingini. Nilai yang lebih tinggi mungkin menggunakan lebih banyak bateri. Ini mungkin berbeza daripada kadar penderia yang diukur kerana sistem akhirnya memutuskan kadar yang hendak diberikan.</string>
+    <string name="paramSensorRateInfo">Tetapkan kadar pensampelan sensor gerakan yang dikehendaki. Nilai yang lebih tinggi memberikan ketepatan yang lebih tinggi, tetapi mungkin menggunakan lebih banyak bateri.</string>
     <string name="menuIncreaseTextSize">Tingkatkan saiz teks</string>
     <string name="menuInfo">info</string>
     <string name="loremIpsum">(Teks ini adalah untuk tujuan demonstrasi)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Aplikasi pengguna akan berhenti menerima acara. Lumpuhkan perkhidmatan\?</string>
     <string name="aboutScreenAppListTitle">⛵ Apl</string>
     <string name="menuDisable">Lumpuhkan</string>
-    <string name="aboutScreenAppListText">Senarai pakej apl yang dipasang pada peranti ini yang menggunakan ciri Skrin Steady:</string>
+    <string name="aboutScreenAppListText">Senarai pakej apl yang dipasang pada peranti ini yang menggunakan ciri SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuLumpuhkan</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
