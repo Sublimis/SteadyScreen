@@ -11,7 +11,7 @@
 \nぜひご利用ください 😊</string>
     <string name="dialogReviewNudgeMessage">このアプリを楽しんでいますか？</string>
     <string name="dialogReviewNudgeMessage2">ありがとうございます! Play ストアで良いレビューを書いていただくか、5 つ星の評価をお願いします。</string>
-    <string name="paramLinearScalingInfo">これにより、動きが線形にスケーリングされ、計算に影響を与えずに動きが大きくなったり小さくなったりします。</string>
+    <string name="paramLinearScalingInfo">これにより、計算後に動きがスケーリングされ、線形に大きくなったり小さくなったりします。</string>
     <string name="licenseItemAlreadyOwned">ライセンスアイテムはすでに所有されています</string>
     <string name="dialogInfoMessage">デバイスを少し振ってみてください。背景コンテンツによって動きが和らぎ、画面上の読み取りが容易になることがわかります。
 \n
@@ -22,7 +22,7 @@
     <string name="no">いいえ</string>
     <string name="licenseSuccessDialogMessage">アプリのライセンスが正常に取得されました。ご協力ありがとうございます。</string>
     <string name="menuAbout">について</string>
-    <string name="paramForceScalingInfo">これにより、計算前に力がスケーリングされ、動きの全体的な大きさに影響します。</string>
+    <string name="paramForceScalingInfo">これにより、計算前に力がスケーリングされ、動きが非線形に大きくなったり小さくなったりします。</string>
     <string name="menuLicense">ライセンスをアップグレードする</string>
     <string name="openSourceLicensesTitle">オープンソースライセンス</string>
     <string name="menuDecreaseTextSize">テキストサイズを小さくする</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">究極のライセンス</string>
     <string name="measuredSensorRate">測定されたセンサーレート</string>
     <string name="menuTheme">テーマ</string>
-    <string name="measuredSensorRateInfo">アプリによって測定された現在のセンサー レート。最終的にどのレートを提供するかはシステムによって決定されるため、これは必要なセンサー レートとは異なる場合があります。</string>
-    <string name="aboutScreenGithubLink">GitHub の Steady Screen</string>
+    <string name="measuredSensorRateInfo">アプリケーションによって測定された現在のモーション センサーのサンプリング レート。システムはさまざまな要因に基づいて最終的にどのレートを提供するかを決定するため、これは必要なレートとは異なる場合があります。</string>
+    <string name="aboutScreenGithubLink">GitHub 上の SteadyScreen</string>
     <string name="aboutScreenLicenseTitle">🔑 ライセンス</string>
     <string name="aboutScreenLicenseText">このアプリケーションは無料で、制限なく動作します。ただし、ライセンスがない場合、パラメータは 1 時間後にデフォルト値に戻ります。</string>
     <string name="dialogInfoButton">GitHubへ移動</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">これを増やすと、小さな振動に対する感度が低下し、大きな力に対する動きの感度が低下します。</string>
     <string name="menuRestoreDefaults">デフォルトに戻す</string>
     <string name="dialogButtonRateOnPlayStore">Playストアで評価する</string>
-    <string name="paramSensorRateInfo">希望するセンサー レートを設定します。値が高いほど、バッテリーの消費量が多くなる可能性があります。最終的にどのレートを提供するかはシステムによって決定されるため、測定されたセンサー レートとは異なる場合があります。</string>
+    <string name="paramSensorRateInfo">希望するモーション センサーのサンプリング レートを設定します。値が高いほど精度は高くなりますが、バッテリーの消費量が多くなる可能性があります。</string>
     <string name="menuIncreaseTextSize">テキストサイズを大きくする</string>
     <string name="menuInfo">情報</string>
     <string name="loremIpsum">(このテキストはデモンストレーション用です)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">コンシューマー アプリケーションはイベントの受信を停止します。サービスを無効にしますか\?</string>
     <string name="aboutScreenAppListTitle">⛵ アプリ</string>
     <string name="menuDisable">無効にする</string>
-    <string name="aboutScreenAppListText">このデバイスにインストールされ、Steady Screen 機能を使用するアプリ パッケージの一覧:</string>
+    <string name="aboutScreenAppListText">このデバイスにインストールされ、SteadyScreen 機能を使用するアプリ パッケージの一覧:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@文字列/メニューのデフォルトを復元</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@文字列/メニューを無効にする</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@文字列/アプリ名</string>
+    <string name="dialogInfoTitle" translatable="false">\@文字列/メニュー情報</string>
 </resources>
