@@ -11,7 +11,7 @@
 \nUmarım bunu kullanmaktan keyif alırsınız 😊</string>
     <string name="dialogReviewNudgeMessage">Bu uygulamayı beğeniyor musunuz\?</string>
     <string name="dialogReviewNudgeMessage2">Teşekkürler! Lütfen güzel bir yorum yazın veya Play Store\'da bize 5 yıldız verin.</string>
-    <string name="paramLinearScalingInfo">Bu, hareketleri doğrusal olarak ölçeklendirir, hesaplamaları etkilemeden onları büyütür veya küçültür.</string>
+    <string name="paramLinearScalingInfo">Bu, hesaplamalar sonrasında hareketleri ölçeklendirerek doğrusal olarak daha büyük veya daha küçük hale getirir.</string>
     <string name="licenseItemAlreadyOwned">Lisans öğesi zaten sahip olunan</string>
     <string name="dialogInfoMessage">Cihazı biraz sallayın. Arka plan içeriğinin bu hareketleri nasıl yumuşattığını ve ekran okumayı nasıl kolaylaştırdığını fark edin.
 \n
@@ -22,7 +22,7 @@
     <string name="no">HAYIR</string>
     <string name="licenseSuccessDialogMessage">Uygulama başarıyla lisanslandı. Desteğiniz için teşekkür ederiz!</string>
     <string name="menuAbout">Hakkında</string>
-    <string name="paramForceScalingInfo">Bu, hesaplamalardan önce kuvvetleri ölçeklendirir ve bu da hareketlerin genel büyüklüğünü etkiler.</string>
+    <string name="paramForceScalingInfo">Bu, hesaplamalardan önce kuvvetleri ölçeklendirir, bu da hareketleri doğrusal olmayan bir şekilde büyütür veya küçültür.</string>
     <string name="menuLicense">Lisansınızı yükseltin</string>
     <string name="openSourceLicensesTitle">Açık kaynak lisansları</string>
     <string name="menuDecreaseTextSize">Metin boyutunu azalt</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Nihai Lisans</string>
     <string name="measuredSensorRate">Ölçülen sensör oranı</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Uygulama tarafından ölçülen mevcut sensör oranı. Sistem nihayetinde hangi oranın sağlanacağına karar verdiği için bu, istenen sensör oranından farklı olabilir.</string>
-    <string name="aboutScreenGithubLink">GitHub\'da Sabit Ekran</string>
+    <string name="measuredSensorRateInfo">Uygulama tarafından ölçülen mevcut hareket sensörü örnekleme oranı. Bu, istenen orandan farklı olabilir çünkü sistem nihayetinde çeşitli faktörlere dayanarak hangi oranın sağlanacağına karar verir.</string>
+    <string name="aboutScreenGithubLink">GitHub\'da SteadyScreen</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisans</string>
     <string name="aboutScreenLicenseText">Bu uygulama ücretsizdir ve sınırlama olmadan çalışır. Ancak, lisans olmadan 1 saat sonra parametreler varsayılan değerlerine geri dönecektir.</string>
     <string name="dialogInfoButton">GitHub\'a git</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Bunu artırmak, küçük salınımlara olan duyarlılığı azaltacak ve hareketleri daha büyük kuvvetlere karşı daha az hassas hale getirecektir.</string>
     <string name="menuRestoreDefaults">Varsayılanları geri yükle</string>
     <string name="dialogButtonRateOnPlayStore">Play Store\'da Puanla</string>
-    <string name="paramSensorRateInfo">Bu, istenen sensör oranını ayarlar. Daha yüksek değerler daha fazla pil tüketebilir. Bu, ölçülen sensör oranından farklı olabilir çünkü sistem nihayetinde hangi oranın sağlanacağına karar verir.</string>
+    <string name="paramSensorRateInfo">İstenilen hareket sensörü örnekleme oranını ayarlayın. Daha yüksek değerler daha fazla doğruluk sağlar, ancak daha fazla pil tüketebilir.</string>
     <string name="menuIncreaseTextSize">Metin boyutunu büyüt</string>
     <string name="menuInfo">Bilgi</string>
     <string name="loremIpsum">(Bu metin gösterim amaçlıdır)
@@ -131,5 +131,9 @@
     <string name="dialogServiceDisableMessage">Tüketici uygulamaları olayları almayı durduracak. Hizmet devre dışı bırakılsın mı\?</string>
     <string name="aboutScreenAppListTitle">⛵ Uygulamalar</string>
     <string name="menuDisable">Devre dışı bırakmak</string>
-    <string name="aboutScreenAppListText">Bu cihaza yüklenen ve Sabit Ekran özelliğini kullanan uygulama paketlerinin listesi:</string>
+    <string name="aboutScreenAppListText">Bu cihaza yüklenen ve SteadyScreen özelliğini kullanan uygulama paketlerinin listesi:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuVarsayılanlarıGeri Yükle</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDevre Dışı Bırak</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/uygulama_adı</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuBilgisi</string>
 </resources>
