@@ -11,7 +11,7 @@
 \nIch hoffe, Sie haben Spaß damit 😊</string>
     <string name="dialogReviewNudgeMessage">Gefällt Ihnen diese App\?</string>
     <string name="dialogReviewNudgeMessage2">Vielen Dank! Bitte schreiben Sie eine nette Bewertung oder geben Sie uns im Play Store 5 Sterne.</string>
-    <string name="paramLinearScalingInfo">Dadurch werden die Bewegungen linear skaliert und können größer oder kleiner gemacht werden, ohne die Berechnungen zu beeinflussen.</string>
+    <string name="paramLinearScalingInfo">Dadurch werden die Bewegungen nach der Berechnung skaliert und linear größer oder kleiner gemacht.</string>
     <string name="licenseItemAlreadyOwned">Lizenzelement bereits im Besitz</string>
     <string name="dialogInfoMessage">Schütteln Sie das Gerät ein wenig. Beachten Sie, wie der Hintergrundinhalt diese Bewegungen abmildert und das Lesen auf dem Bildschirm erleichtert.
 \n
@@ -22,7 +22,7 @@
     <string name="no">NEIN</string>
     <string name="licenseSuccessDialogMessage">Die App wurde erfolgreich lizenziert. Vielen Dank für Ihre Unterstützung!</string>
     <string name="menuAbout">Um</string>
-    <string name="paramForceScalingInfo">Dadurch werden die Kräfte vor der Berechnung skaliert, was wiederum die Gesamtgröße der Bewegungen beeinflusst.</string>
+    <string name="paramForceScalingInfo">Dadurch werden die Kräfte vor der Berechnung skaliert, wodurch die Bewegungen auf nichtlineare Weise größer oder kleiner werden.</string>
     <string name="menuLicense">Upgraden Sie Ihre Lizenz</string>
     <string name="openSourceLicensesTitle">Open Source-Lizenzen</string>
     <string name="menuDecreaseTextSize">Textgröße verringern</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimate-Lizenz</string>
     <string name="measuredSensorRate">Gemessene Sensorrate</string>
     <string name="menuTheme">Thema</string>
-    <string name="measuredSensorRateInfo">Aktuelle Sensorrate, wie von der App gemessen. Diese kann von der gewünschten Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt wird.</string>
-    <string name="aboutScreenGithubLink">Steady Screen auf GitHub</string>
+    <string name="measuredSensorRateInfo">Die aktuelle Abtastrate des Bewegungssensors, wie von der Anwendung gemessen. Diese kann von der gewünschten Rate abweichen, da das System letztendlich anhand verschiedener Faktoren entscheidet, welche Rate bereitgestellt werden soll.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen auf GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lizenz</string>
     <string name="aboutScreenLicenseText">Diese Anwendung ist kostenlos und funktioniert ohne Einschränkungen. Allerdings werden die Parameter nach 1 Stunde ohne Lizenz auf ihre Standardwerte zurückgesetzt.</string>
     <string name="dialogInfoButton">Gehe zu GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Durch eine Erhöhung dieses Wertes verringert sich die Empfindlichkeit gegenüber kleinen Schwingungen und die Bewegungen werden weniger empfindlich gegenüber größeren Kräften.</string>
     <string name="menuRestoreDefaults">Standardeinstellungen wiederherstellen</string>
     <string name="dialogButtonRateOnPlayStore">Im Play Store bewerten</string>
-    <string name="paramSensorRateInfo">Hiermit wird die gewünschte Sensorrate eingestellt. Höhere Werte verbrauchen möglicherweise mehr Akku. Dies kann von der gemessenen Sensorrate abweichen, da das System letztendlich entscheidet, welche Rate bereitgestellt wird.</string>
+    <string name="paramSensorRateInfo">Stellen Sie die gewünschte Abtastrate des Bewegungssensors ein. Höhere Werte bieten eine höhere Genauigkeit, verbrauchen jedoch möglicherweise mehr Akku.</string>
     <string name="menuIncreaseTextSize">Textgröße erhöhen</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Dieser Text dient Demonstrationszwecken)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Verbraucheranwendungen empfangen keine Ereignisse mehr. Dienst deaktivieren\?</string>
     <string name="aboutScreenAppListTitle">⛵ Apps</string>
     <string name="menuDisable">Deaktivieren</string>
-    <string name="aboutScreenAppListText">Liste der auf diesem Gerät installierten App-Pakete, die die Steady Screen-Funktion verwenden:</string>
+    <string name="aboutScreenAppListText">Liste der auf diesem Gerät installierten App-Pakete, die die SteadyScreen-Funktion verwenden:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@Zeichenfolge/App-Name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
