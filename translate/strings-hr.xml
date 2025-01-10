@@ -11,7 +11,7 @@
 \nNadamo se da ćete uživati u korištenju ovoga 😊</string>
     <string name="dialogReviewNudgeMessage">Uživate li u ovoj aplikaciji\?</string>
     <string name="dialogReviewNudgeMessage2">Hvala! Napišite lijepu recenziju ili nas ocijenite s 5 zvjezdica u Trgovini Play.</string>
-    <string name="paramLinearScalingInfo">Ovo skalira pokrete linearno, čineći ih većim ili manjim bez utjecaja na izračune.</string>
+    <string name="paramLinearScalingInfo">Ovo skalira pokrete nakon izračuna, čineći ih linearno većim ili manjim.</string>
     <string name="licenseItemAlreadyOwned">Stavka licence već je u vlasništvu</string>
     <string name="dialogInfoMessage">Malo protresite uređaj. Primijetite kako pozadinski sadržaj omekšava ove pokrete, čineći čitanje na zaslonu lakšim.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Ne</string>
     <string name="licenseSuccessDialogMessage">Aplikacija je uspješno licencirana. Hvala vam na podršci!</string>
     <string name="menuAbout">Oko</string>
-    <string name="paramForceScalingInfo">Ovo skalira sile prije izračuna, što zauzvrat utječe na ukupnu veličinu kretanja.</string>
+    <string name="paramForceScalingInfo">Ovo skalira sile prije izračuna, što čini pokrete većim ili manjim na nelinearan način.</string>
     <string name="menuLicense">Nadogradite svoju licencu</string>
     <string name="openSourceLicensesTitle">Licence otvorenog koda</string>
     <string name="menuDecreaseTextSize">Smanji veličinu teksta</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Konačna licenca</string>
     <string name="measuredSensorRate">Izmjerena brzina senzora</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Trenutačna brzina senzora prema mjerenju aplikacije. To se može razlikovati od željene stope senzora jer sustav na kraju odlučuje koju će brzinu pružiti.</string>
-    <string name="aboutScreenGithubLink">Stalni zaslon na GitHubu</string>
+    <string name="measuredSensorRateInfo">Trenutačna stopa uzorkovanja senzora kretanja koju je izmjerila aplikacija. To se može razlikovati od željene stope jer sustav na kraju odlučuje koju će stopu pružiti na temelju različitih faktora.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen na GitHubu</string>
     <string name="aboutScreenLicenseTitle">🔑 Licenca</string>
     <string name="aboutScreenLicenseText">Ova aplikacija je besplatna i radi bez ograničenja. Međutim, parametri će se vratiti na zadane vrijednosti nakon 1 sata bez licence.</string>
     <string name="dialogInfoButton">Idite na GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Povećanjem toga smanjit će se osjetljivost na male oscilacije i učiniti pokrete manje osjetljivima na veće sile.</string>
     <string name="menuRestoreDefaults">Vrati zadane postavke</string>
     <string name="dialogButtonRateOnPlayStore">Ocijenite u Trgovini Play</string>
-    <string name="paramSensorRateInfo">Time se postavlja željena brzina senzora. Više vrijednosti mogu trošiti više baterije. To se može razlikovati od izmjerene brzine senzora jer sustav na kraju odlučuje koju će stopu dati.</string>
+    <string name="paramSensorRateInfo">Postavite željenu brzinu uzorkovanja senzora kretanja. Više vrijednosti pružaju veću točnost, ali mogu trošiti više baterije.</string>
     <string name="menuIncreaseTextSize">Povećaj veličinu teksta</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Ovaj tekst je u svrhu demonstracije)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Potrošačke aplikacije prestat će primati događaje. Onemogućiti uslugu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplikacije</string>
     <string name="menuDisable">Onemogući</string>
-    <string name="aboutScreenAppListText">Popis paketa aplikacija instaliranih na ovom uređaju koji koriste značajku Steady Screen:</string>
+    <string name="aboutScreenAppListText">Popis paketa aplikacija instaliranih na ovom uređaju koji koriste značajku SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuIsključi</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/naziv_aplikacije</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
