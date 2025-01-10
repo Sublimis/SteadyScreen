@@ -11,7 +11,7 @@
 \nHy vọng bạn thích sử dụng dịch vụ này 😊</string>
     <string name="dialogReviewNudgeMessage">Bạn có thích ứng dụng này không\?</string>
     <string name="dialogReviewNudgeMessage2">Cảm ơn! Vui lòng viết đánh giá hay hoặc đánh giá chúng tôi 5 sao trên Play Store.</string>
-    <string name="paramLinearScalingInfo">Điều này sẽ điều chỉnh các chuyển động theo tỷ lệ tuyến tính, làm chúng lớn hơn hoặc nhỏ hơn mà không ảnh hưởng đến phép tính.</string>
+    <string name="paramLinearScalingInfo">Tính năng này sẽ điều chỉnh các chuyển động sau khi tính toán, làm cho chúng lớn hơn hoặc nhỏ hơn theo tuyến tính.</string>
     <string name="licenseItemAlreadyOwned">Mục giấy phép đã sở hữu</string>
     <string name="dialogInfoMessage">Lắc thiết bị một chút. Lưu ý cách nội dung nền làm dịu các chuyển động này, giúp việc đọc trên màn hình dễ dàng hơn.
 \n
@@ -22,7 +22,7 @@
     <string name="no">KHÔNG</string>
     <string name="licenseSuccessDialogMessage">Ứng dụng đã được cấp phép thành công. Cảm ơn sự ủng hộ của bạn!</string>
     <string name="menuAbout">Về</string>
-    <string name="paramForceScalingInfo">Điều này sẽ cân nhắc các lực trước khi tính toán, từ đó ảnh hưởng đến biên độ tổng thể của chuyển động.</string>
+    <string name="paramForceScalingInfo">Điều này sẽ điều chỉnh lực trước khi tính toán, khiến các chuyển động lớn hơn hoặc nhỏ hơn theo cách phi tuyến tính.</string>
     <string name="menuLicense">Nâng cấp giấy phép của bạn</string>
     <string name="openSourceLicensesTitle">Giấy phép nguồn mở</string>
     <string name="menuDecreaseTextSize">Giảm kích thước văn bản</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Giấy phép cuối cùng</string>
     <string name="measuredSensorRate">Tốc độ cảm biến được đo</string>
     <string name="menuTheme">Chủ đề</string>
-    <string name="measuredSensorRateInfo">Tốc độ cảm biến hiện tại được đo bằng ứng dụng. Tốc độ này có thể khác với tốc độ cảm biến mong muốn vì hệ thống cuối cùng sẽ quyết định tốc độ nào sẽ cung cấp.</string>
-    <string name="aboutScreenGithubLink">Màn hình ổn định trên GitHub</string>
+    <string name="measuredSensorRateInfo">Tốc độ lấy mẫu cảm biến chuyển động hiện tại được đo bằng ứng dụng. Tốc độ này có thể khác với tốc độ mong muốn vì hệ thống cuối cùng quyết định tốc độ nào sẽ cung cấp dựa trên nhiều yếu tố khác nhau.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen trên GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Giấy phép</string>
     <string name="aboutScreenLicenseText">Ứng dụng này miễn phí và hoạt động không giới hạn. Tuy nhiên, các thông số sẽ trở về giá trị mặc định sau 1 giờ nếu không có giấy phép.</string>
     <string name="dialogInfoButton">Đi đến GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Tăng giá trị này sẽ làm giảm độ nhạy với các dao động nhỏ và khiến các chuyển động ít nhạy cảm hơn với các lực lớn hơn.</string>
     <string name="menuRestoreDefaults">Khôi phục mặc định</string>
     <string name="dialogButtonRateOnPlayStore">Đánh giá trên Cửa hàng Play</string>
-    <string name="paramSensorRateInfo">Điều này thiết lập tốc độ cảm biến mong muốn. Các giá trị cao hơn có thể tiêu thụ nhiều pin hơn. Điều này có thể khác với tốc độ cảm biến được đo vì hệ thống cuối cùng quyết định tốc độ nào sẽ cung cấp.</string>
+    <string name="paramSensorRateInfo">Đặt tốc độ lấy mẫu cảm biến chuyển động mong muốn. Giá trị cao hơn cung cấp độ chính xác cao hơn, nhưng có thể tiêu thụ nhiều pin hơn.</string>
     <string name="menuIncreaseTextSize">Tăng kích thước văn bản</string>
     <string name="menuInfo">Thông tin</string>
     <string name="loremIpsum">(Văn bản này dùng để minh họa)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Ứng dụng của người dùng sẽ ngừng nhận sự kiện. Tắt dịch vụ\?</string>
     <string name="aboutScreenAppListTitle">⛵ Ứng dụng</string>
     <string name="menuDisable">Vô hiệu hóa</string>
-    <string name="aboutScreenAppListText">Danh sách các gói ứng dụng được cài đặt trên thiết bị này sử dụng tính năng Màn hình ổn định:</string>
+    <string name="aboutScreenAppListText">Danh sách các gói ứng dụng được cài đặt trên thiết bị này sử dụng tính năng SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuVô hiệu hóa</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/tên_ứng_dụng</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuThông tin</string>
 </resources>
