@@ -11,7 +11,7 @@
 \nDa fatan kun ji daɗin amfani da wannan 😊</string>
     <string name="dialogReviewNudgeMessage">Kuna jin daɗin wannan app\?</string>
     <string name="dialogReviewNudgeMessage2">Godiya! Da fatan za a rubuta kyakkyawan bita ko ƙididdige mu tauraro 5 akan Play Store.</string>
-    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin a layi, yana sa su girma ko ƙarami ba tare da shafar lissafin ba.</string>
+    <string name="paramLinearScalingInfo">Wannan yana daidaita ƙungiyoyin bayan ƙididdigewa, yana sa su girma ko ƙarami.</string>
     <string name="licenseItemAlreadyOwned">An riga an mallaki abun lasisi</string>
     <string name="dialogInfoMessage">Girgiza na\'urar kadan kadan. Yi la\'akari da yadda abun ciki na bango ya sassauta waɗannan motsin, yana sauƙaƙa karatun kan allo.
 \n
@@ -22,7 +22,7 @@
     <string name="no">A\'a</string>
     <string name="licenseSuccessDialogMessage">An ba da izinin ƙa\'idar cikin nasara. Na gode da goyon bayan ku!</string>
     <string name="menuAbout">Game da</string>
-    <string name="paramForceScalingInfo">Wannan yana daidaita ma\'aunin ƙarfi kafin ƙididdigewa, wanda hakan ke shafar girman ƙungiyoyin gabaɗaya.</string>
+    <string name="paramForceScalingInfo">Wannan yana daidaita ƙarfin kafin lissafin, wanda ke sa ƙungiyoyi su fi girma ko ƙarami ta hanyar da ba ta dace ba.</string>
     <string name="menuLicense">Haɓaka lasisin ku</string>
     <string name="openSourceLicensesTitle">Bude lasisin tushe</string>
     <string name="menuDecreaseTextSize">Rage girman rubutu</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Lasisi na ƙarshe</string>
     <string name="measuredSensorRate">Ƙimar firikwensin da aka auna</string>
     <string name="menuTheme">Jigo</string>
-    <string name="measuredSensorRateInfo">Adadin firikwensin na yanzu kamar yadda aka auna ta app. Wannan na iya bambanta da ƙimar firikwensin da ake so kamar yadda tsarin a ƙarshe ya yanke shawarar wane ƙimar da za a bayar.</string>
-    <string name="aboutScreenGithubLink">Tsayayyen allo akan GitHub</string>
+    <string name="measuredSensorRateInfo">Adadin samfurin firikwensin motsi na yanzu kamar yadda aka auna ta aikace-aikacen. Wannan na iya bambanta da adadin da ake so saboda tsarin a ƙarshe yana yanke shawarar adadin kuɗin da za a bayar bisa dalilai daban-daban.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen akan GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 lasisi</string>
     <string name="aboutScreenLicenseText">Wannan aikace-aikacen kyauta ne kuma yana aiki ba tare da iyakancewa ba. Koyaya, sigogin za su dawo zuwa ƙimar su ta asali bayan awa 1 ba tare da lasisi ba.</string>
     <string name="dialogInfoButton">Je zuwa GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Ƙara wannan zai rage hankali ga ƙananan oscillations kuma ya sa ƙungiyoyi ba su da hankali ga manyan runduna.</string>
     <string name="menuRestoreDefaults">Mayar da abubuwan da ba a so</string>
     <string name="dialogButtonRateOnPlayStore">Rate akan Play Store</string>
-    <string name="paramSensorRateInfo">Wannan yana saita ƙimar firikwensin da ake so. Maɗaukakin ƙima na iya cinye ƙarin baturi. Wannan na iya bambanta da ƙimar firikwensin da aka auna yayin da tsarin ya yanke shawarar wane ƙimar da zai bayar.</string>
+    <string name="paramSensorRateInfo">Saita ƙimar samfurin firikwensin motsi da ake so. Maɗaukakin ƙima yana ba da daidaito mafi girma, amma yana iya cinye ƙarin baturi.</string>
     <string name="menuIncreaseTextSize">Ƙara girman rubutu</string>
     <string name="menuInfo">Bayani</string>
     <string name="loremIpsum">(Wannan rubutun don dalilai ne na nunawa)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Aikace-aikacen mabukaci za su daina karɓar abubuwan da suka faru. Kashe sabis\?</string>
     <string name="aboutScreenAppListTitle">⛵ Apps</string>
     <string name="menuDisable">A kashe</string>
-    <string name="aboutScreenAppListText">Jerin fakitin app da aka shigar akan wannan na\'urar da ke amfani da fasalin Allon Tsaya:</string>
+    <string name="aboutScreenAppListText">Jerin fakitin app da aka shigar akan wannan na\'urar da ke amfani da fasalin SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
