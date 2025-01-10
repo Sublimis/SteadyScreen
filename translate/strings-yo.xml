@@ -11,7 +11,7 @@
 \nṢe ireti pe o gbadun lilo eyi 😊</string>
     <string name="dialogReviewNudgeMessage">Ṣe o n gbadun app yii\?</string>
     <string name="dialogReviewNudgeMessage2">O ṣeun! Jọwọ kọ atunyẹwo to dara tabi ṣe oṣuwọn awọn irawọ 5 wa lori Play itaja.</string>
-    <string name="paramLinearScalingInfo">Eyi ṣe iwọn awọn iṣipopada laini, ṣiṣe wọn tobi tabi kere si laisi ni ipa awọn iṣiro naa.</string>
+    <string name="paramLinearScalingInfo">Eyi ṣe iwọn awọn agbeka lẹhin awọn iṣiro, ṣiṣe wọn ni laini tobi tabi kere si.</string>
     <string name="licenseItemAlreadyOwned">Ohun-ini iwe-aṣẹ tẹlẹ</string>
     <string name="dialogInfoMessage">Gbọn ẹrọ naa diẹ. Ṣe akiyesi bi akoonu abẹlẹ ṣe jẹ ki awọn agbeka wọnyi rọ, ṣiṣe kika loju iboju rọrun.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Rara</string>
     <string name="licenseSuccessDialogMessage">Ohun elo naa ti ni iwe-aṣẹ ni aṣeyọri. O ṣeun fun atilẹyin rẹ!</string>
     <string name="menuAbout">Nipa</string>
-    <string name="paramForceScalingInfo">Eyi ṣe iwọn awọn ipa ṣaaju ṣiṣe iṣiro, eyiti o ni ipa lori titobi gbogbo awọn agbeka.</string>
+    <string name="paramForceScalingInfo">Eyi ṣe iwọn awọn ipa ṣaaju ṣiṣe iṣiro, eyiti o jẹ ki awọn iṣipopada tobi tabi kere si ni ọna ti kii ṣe lainidi.</string>
     <string name="menuLicense">Ṣe imudojuiwọn iwe-aṣẹ rẹ</string>
     <string name="openSourceLicensesTitle">Ṣii awọn iwe-aṣẹ orisun</string>
     <string name="menuDecreaseTextSize">Din iwọn ọrọ dinku</string>
@@ -42,7 +42,7 @@
     <string name="ultimateLicenseTitle">Gbẹhin iwe-aṣẹ</string>
     <string name="measuredSensorRate">Iwọn sensọ ti a ṣewọn</string>
     <string name="menuTheme">Akori</string>
-    <string name="measuredSensorRateInfo">Oṣuwọn sensọ lọwọlọwọ bi iwọn nipasẹ ohun elo naa. Eyi le yato si oṣuwọn sensọ ti o fẹ bi eto ṣe pinnu nikẹhin iru oṣuwọn lati pese.</string>
+    <string name="measuredSensorRateInfo">Oṣuwọn iṣapẹẹrẹ sensọ išipopada lọwọlọwọ bi iwọn nipasẹ ohun elo. Eyi le yato si oṣuwọn ti o fẹ nitori eto naa pinnu nikẹhin iru oṣuwọn lati pese ti o da lori awọn ifosiwewe pupọ.</string>
     <string name="aboutScreenGithubLink">Iboju imurasilẹ lori GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Iwe-aṣẹ</string>
     <string name="aboutScreenLicenseText">Ohun elo yii jẹ ọfẹ ati ṣiṣẹ laisi awọn idiwọn. Sibẹsibẹ, awọn paramita yoo pada si awọn iye aiyipada wọn lẹhin wakati 1 laisi iwe-aṣẹ.</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Alekun eyi yoo dinku ifamọ si awọn oscillation kekere ati ki o jẹ ki awọn agbeka kere si ifarabalẹ si awọn ipa nla.</string>
     <string name="menuRestoreDefaults">Mu awọn aiyipada pada</string>
     <string name="dialogButtonRateOnPlayStore">Oṣuwọn lori Play itaja</string>
-    <string name="paramSensorRateInfo">Eyi ṣeto iwọn sensọ ti o fẹ. Awọn iye ti o ga julọ le jẹ batiri diẹ sii. Eyi le yato si iwọn sensọ ti a ṣewọn bi eto ṣe pinnu nikẹhin iru oṣuwọn lati pese.</string>
+    <string name="paramSensorRateInfo">Ṣeto iwọn iṣapẹẹrẹ sensọ išipopada ti o fẹ. Awọn iye ti o ga julọ pese iṣedede ti o tobi ju, ṣugbọn o le jẹ batiri diẹ sii.</string>
     <string name="menuIncreaseTextSize">Mu iwọn ọrọ pọ si</string>
     <string name="menuInfo">Alaye</string>
     <string name="loremIpsum">(Ọrọ yii jẹ fun awọn idi ifihan)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Awọn ohun elo onibara yoo da gbigba awọn iṣẹlẹ duro. Mu iṣẹ ṣiṣẹ bi\?</string>
     <string name="aboutScreenAppListTitle">Awọn ohun elo</string>
     <string name="menuDisable">Pa a</string>
-    <string name="aboutScreenAppListText">Atokọ awọn idii app ti a fi sori ẹrọ yii ti o lo ẹya Iboju Iduroṣinṣin:</string>
+    <string name="aboutScreenAppListText">Atokọ awọn idii app ti a fi sori ẹrọ yii ti o lo ẹya SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@okun/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@okun/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@okun/menuInfo</string>
 </resources>
