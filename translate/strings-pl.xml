@@ -11,7 +11,7 @@
 \nMamy nadzieję, że korzystanie z niej będzie przyjemne 😊</string>
     <string name="dialogReviewNudgeMessage">Czy podoba Ci się ta aplikacja\?</string>
     <string name="dialogReviewNudgeMessage2">Dzięki! Napisz miłą recenzję lub oceń nas 5 gwiazdkami w Play Store.</string>
-    <string name="paramLinearScalingInfo">Dzięki temu ruchy są skalowane liniowo, co pozwala na ich zwiększanie lub zmniejszanie bez wpływu na obliczenia.</string>
+    <string name="paramLinearScalingInfo">Skaluje to ruchy po obliczeniach, czyniąc je liniowo większymi lub mniejszymi.</string>
     <string name="licenseItemAlreadyOwned">Przedmiot licencji już posiadany</string>
     <string name="dialogInfoMessage">Lekko potrząśnij urządzeniem. Zauważ, jak zawartość tła łagodzi te ruchy, ułatwiając czytanie na ekranie.
 \n
@@ -22,7 +22,7 @@
     <string name="no">NIE</string>
     <string name="licenseSuccessDialogMessage">Aplikacja została pomyślnie licencjonowana. Dziękujemy za wsparcie!</string>
     <string name="menuAbout">O</string>
-    <string name="paramForceScalingInfo">Umożliwia to skalowanie sił przed obliczeniami, co z kolei wpływa na ogólną wielkość ruchów.</string>
+    <string name="paramForceScalingInfo">Skaluje to siły przed obliczeniami, co sprawia, że ruchy są większe lub mniejsze w sposób nieliniowy.</string>
     <string name="menuLicense">Zaktualizuj swoją licencję</string>
     <string name="openSourceLicensesTitle">Licencje Open Source</string>
     <string name="menuDecreaseTextSize">Zmniejsz rozmiar tekstu</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Licencja Ultimate</string>
     <string name="measuredSensorRate">Zmierzona szybkość czujnika</string>
     <string name="menuTheme">Temat</string>
-    <string name="measuredSensorRateInfo">Aktualna szybkość czujnika mierzona przez aplikację. Może się różnić od pożądanej szybkości czujnika, ponieważ system ostatecznie decyduje, jaką szybkość dostarczyć.</string>
-    <string name="aboutScreenGithubLink">Steady Screen na GitHub</string>
+    <string name="measuredSensorRateInfo">Aktualna częstotliwość próbkowania czujnika ruchu mierzona przez aplikację. Może się różnić od pożądanej częstotliwości, ponieważ system ostatecznie decyduje, jaką częstotliwość podać na podstawie różnych czynników.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen na GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licencja</string>
     <string name="aboutScreenLicenseText">Ta aplikacja jest darmowa i działa bez ograniczeń. Jednak parametry powrócą do wartości domyślnych po 1 godzinie bez licencji.</string>
     <string name="dialogInfoButton">Przejdź do GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Zwiększenie tego parametru zmniejszy wrażliwość na małe drgania i sprawi, że ruchy będą mniej wrażliwe na duże siły.</string>
     <string name="menuRestoreDefaults">Przywróć ustawienia domyślne</string>
     <string name="dialogButtonRateOnPlayStore">Oceń w sklepie Play</string>
-    <string name="paramSensorRateInfo">Ustawia żądaną częstotliwość czujnika. Wyższe wartości mogą zużywać więcej baterii. Może się różnić od zmierzonej częstotliwości czujnika, ponieważ system ostatecznie decyduje, jaką częstotliwość dostarczyć.</string>
+    <string name="paramSensorRateInfo">Ustaw żądaną częstotliwość próbkowania czujnika ruchu. Wyższe wartości zapewniają większą dokładność, ale mogą zużywać więcej baterii.</string>
     <string name="menuIncreaseTextSize">Zwiększ rozmiar tekstu</string>
     <string name="menuInfo">Informacje</string>
     <string name="loremIpsum">(Ten tekst jest tylko do celów demonstracyjnych)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Aplikacje konsumenckie przestaną odbierać zdarzenia. Wyłączyć usługę\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplikacje</string>
     <string name="menuDisable">Wyłączyć</string>
-    <string name="aboutScreenAppListText">Lista pakietów aplikacji zainstalowanych na tym urządzeniu, które korzystają z funkcji Steady Screen:</string>
+    <string name="aboutScreenAppListText">Lista pakietów aplikacji zainstalowanych na tym urządzeniu, które korzystają z funkcji SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuWyłącz</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/nazwa_aplikacji</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
