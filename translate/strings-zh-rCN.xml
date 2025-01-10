@@ -11,7 +11,7 @@
 \n希望你喜欢使用它 😊</string>
     <string name="dialogReviewNudgeMessage">你喜欢这个应用程序吗？</string>
     <string name="dialogReviewNudgeMessage2">谢谢！请在 Play Store 上给我们写一个好评或评 5 星。</string>
-    <string name="paramLinearScalingInfo">这可以线性缩放运动，使其变大或变小而不影响计算。</string>
+    <string name="paramLinearScalingInfo">这会在计算后缩放运动，使其线性变大或变小。</string>
     <string name="licenseItemAlreadyOwned">已拥有许可项目</string>
     <string name="dialogInfoMessage">稍微摇晃设备。注意背景内容如何柔化这些动作，使屏幕阅读更容易。
 \n
@@ -22,7 +22,7 @@
     <string name="no">不</string>
     <string name="licenseSuccessDialogMessage">应用授权成功，感谢您的支持！</string>
     <string name="menuAbout">关于</string>
-    <string name="paramForceScalingInfo">这会在计算之前缩放力量，进而影响运动的整体幅度。</string>
+    <string name="paramForceScalingInfo">这会在计算之前缩放力，从而使运动以非线性方式变大或变小。</string>
     <string name="menuLicense">升级您的许可证</string>
     <string name="openSourceLicensesTitle">开源许可证</string>
     <string name="menuDecreaseTextSize">减小文本大小</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">终极许可证</string>
     <string name="measuredSensorRate">测量传感器速率</string>
     <string name="menuTheme">主题</string>
-    <string name="measuredSensorRateInfo">应用程序测量的当前传感器速率。这可能与所需的传感器速率不同，因为系统最终决定提供哪种速率。</string>
-    <string name="aboutScreenGithubLink">GitHub 上的 Steady Screen</string>
+    <string name="measuredSensorRateInfo">应用程序测量的当前运动传感器采样率。这可能与所需速率不同，因为系统最终会根据各种因素决定提供什么速率。</string>
+    <string name="aboutScreenGithubLink">GitHub 上的 SteadyScreen</string>
     <string name="aboutScreenLicenseTitle">🔑 许可证</string>
     <string name="aboutScreenLicenseText">此应用程序免费且无任何限制。但是，如果没有许可证，参数将在 1 小时后恢复为默认值。</string>
     <string name="dialogInfoButton">前往 GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">增加该值将降低对小振动的敏感度并使运动对较大的力不太敏感。</string>
     <string name="menuRestoreDefaults">恢复默认设置</string>
     <string name="dialogButtonRateOnPlayStore">在 Play 商店中评分</string>
-    <string name="paramSensorRateInfo">这将设置所需的传感器速率。较高的值可能会消耗更多电量。这可能与测量的传感器速率不同，因为系统最终决定提供哪种速率。</string>
+    <string name="paramSensorRateInfo">设置所需的运动传感器采样率。值越高，精度越高，但可能会消耗更多电量。</string>
     <string name="menuIncreaseTextSize">增加文本大小</string>
     <string name="menuInfo">信息</string>
     <string name="loremIpsum">（本文仅供演示）
@@ -131,5 +131,9 @@
     <string name="dialogServiceDisableMessage">消费者应用程序将停止接收事件。禁用服务？</string>
     <string name="aboutScreenAppListTitle">⛵ 应用程序</string>
     <string name="menuDisable">禁用</string>
-    <string name="aboutScreenAppListText">此设备上安装的使用稳定屏幕功能的应用程序包列表：</string>
+    <string name="aboutScreenAppListText">此设备上安装的使用 SteadyScreen 功能的应用程序包列表：</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/应用程序名称</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/菜单信息</string>
 </resources>
