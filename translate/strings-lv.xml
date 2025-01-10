@@ -11,7 +11,7 @@
 \nCeru, ka jums patiks to izmantot 😊</string>
     <string name="dialogReviewNudgeMessage">Vai jums patīk šī lietotne\?</string>
     <string name="dialogReviewNudgeMessage2">Paldies! Lūdzu, uzrakstiet jauku atsauksmi vai novērtējiet mūs ar 5 zvaigznēm Play veikalā.</string>
-    <string name="paramLinearScalingInfo">Tādējādi kustības tiek mērogotas lineāri, padarot tās lielākas vai mazākas, neietekmējot aprēķinus.</string>
+    <string name="paramLinearScalingInfo">Tādējādi kustības tiek mērogotas pēc aprēķiniem, padarot tās lineāri lielākas vai mazākas.</string>
     <string name="licenseItemAlreadyOwned">Licences vienums jau pieder</string>
     <string name="dialogInfoMessage">Nedaudz sakratiet ierīci. Ievērojiet, kā fona saturs mīkstina šīs kustības, atvieglojot lasīšanu ekrānā.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nē</string>
     <string name="licenseSuccessDialogMessage">Lietotne tika veiksmīgi licencēta. Paldies par atbalstu!</string>
     <string name="menuAbout">Par</string>
-    <string name="paramForceScalingInfo">Tas mērogo spēkus pirms aprēķiniem, kas savukārt ietekmē kopējo kustību apjomu.</string>
+    <string name="paramForceScalingInfo">Tas mērogo spēkus pirms aprēķiniem, kas padara kustības lielākas vai mazākas nelineārā veidā.</string>
     <string name="menuLicense">Jauniniet savu licenci</string>
     <string name="openSourceLicensesTitle">Atvērtā pirmkoda licences</string>
     <string name="menuDecreaseTextSize">Samaziniet teksta lielumu</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimate License</string>
     <string name="measuredSensorRate">Izmērītais sensora ātrums</string>
     <string name="menuTheme">Tēma</string>
-    <string name="measuredSensorRateInfo">Pašreizējais sensora ātrums, ko mēra lietotne. Tas var atšķirties no vēlamā sensora ātruma, jo sistēma galu galā izlemj, kuru ātrumu nodrošināt.</string>
-    <string name="aboutScreenGithubLink">Stabils ekrāns vietnē GitHub</string>
+    <string name="measuredSensorRateInfo">Pašreizējais kustības sensora paraugu ņemšanas ātrums, ko mēra lietojumprogramma. Tas var atšķirties no vēlamās likmes, jo sistēma galu galā izlemj, kādu likmi nodrošināt, pamatojoties uz dažādiem faktoriem.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen vietnē GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licence</string>
     <string name="aboutScreenLicenseText">Šī lietojumprogramma ir bezmaksas un darbojas bez ierobežojumiem. Tomēr pēc 1 stundas bez licences parametri atgriezīsies pie noklusējuma vērtībām.</string>
     <string name="dialogInfoButton">Dodieties uz GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Palielinot to, samazināsies jutība pret mazām svārstībām un kustības būs mazāk jutīgas pret lielākiem spēkiem.</string>
     <string name="menuRestoreDefaults">Atjaunot noklusējuma iestatījumus</string>
     <string name="dialogButtonRateOnPlayStore">Novērtējiet Play veikalā</string>
-    <string name="paramSensorRateInfo">Tas iestata vēlamo sensora ātrumu. Augstākas vērtības var patērēt vairāk akumulatora. Tas var atšķirties no izmērītā sensora ātruma, jo sistēma galu galā izlemj, kādu ātrumu nodrošināt.</string>
+    <string name="paramSensorRateInfo">Iestatiet vēlamo kustības sensora paraugu ņemšanas ātrumu. Augstākas vērtības nodrošina lielāku precizitāti, taču var patērēt vairāk akumulatora.</string>
     <string name="menuIncreaseTextSize">Palieliniet teksta izmēru</string>
     <string name="menuInfo">Informācija</string>
     <string name="loremIpsum">(Šis teksts ir demonstrācijas nolūkos)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Patērētāju lietojumprogrammas pārtrauks notikumu saņemšanu. Vai atspējot pakalpojumu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Lietotnes</string>
     <string name="menuDisable">Atspējot</string>
-    <string name="aboutScreenAppListText">Šajā ierīcē instalēto lietotņu pakotņu saraksts, kurās tiek izmantota funkcija Steady Screen:</string>
+    <string name="aboutScreenAppListText">Šajā ierīcē instalēto lietotņu pakotņu saraksts, kurās tiek izmantota funkcija SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuAtspējot</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
