@@ -11,7 +11,7 @@
 \nSemoga Anda menikmati penggunaan ini 😊</string>
     <string name="dialogReviewNudgeMessage">Apakah Anda menikmati aplikasi ini\?</string>
     <string name="dialogReviewNudgeMessage2">Terima kasih! Silakan tulis ulasan yang bagus atau beri kami peringkat 5 bintang di Play Store.</string>
-    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan secara linear, menjadikannya lebih besar atau lebih kecil tanpa memengaruhi perhitungan.</string>
+    <string name="paramLinearScalingInfo">Ini menskalakan pergerakan setelah perhitungan, menjadikannya lebih besar atau lebih kecil secara linear.</string>
     <string name="licenseItemAlreadyOwned">Item lisensi sudah dimiliki</string>
     <string name="dialogInfoMessage">Goyangkan perangkat sedikit. Perhatikan bagaimana konten latar belakang melembutkan gerakan ini, sehingga memudahkan pembacaan di layar.
 \n
@@ -22,7 +22,7 @@
     <string name="no">TIDAK</string>
     <string name="licenseSuccessDialogMessage">Aplikasi ini berhasil dilisensikan. Terima kasih atas dukungan Anda!</string>
     <string name="menuAbout">Tentang</string>
-    <string name="paramForceScalingInfo">Ini menskalakan gaya sebelum perhitungan, yang pada gilirannya memengaruhi besarnya pergerakan secara keseluruhan.</string>
+    <string name="paramForceScalingInfo">Ini menskalakan gaya sebelum perhitungan, yang membuat pergerakan lebih besar atau lebih kecil secara nonlinier.</string>
     <string name="menuLicense">Tingkatkan lisensi Anda</string>
     <string name="openSourceLicensesTitle">Lisensi sumber terbuka</string>
     <string name="menuDecreaseTextSize">Kurangi ukuran teks</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Lisensi Ultimate</string>
     <string name="measuredSensorRate">Kecepatan sensor yang diukur</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Kecepatan sensor saat ini sebagaimana diukur oleh aplikasi. Kecepatan ini mungkin berbeda dari kecepatan sensor yang diinginkan karena sistem pada akhirnya memutuskan kecepatan mana yang akan diberikan.</string>
-    <string name="aboutScreenGithubLink">Layar Tetap di GitHub</string>
+    <string name="measuredSensorRateInfo">Laju pengambilan sampel sensor gerak saat ini sebagaimana diukur oleh aplikasi. Laju ini mungkin berbeda dari laju yang diinginkan karena sistem pada akhirnya memutuskan laju yang akan diberikan berdasarkan berbagai faktor.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen di GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisensi</string>
     <string name="aboutScreenLicenseText">Aplikasi ini gratis dan berfungsi tanpa batasan. Namun, parameter akan kembali ke nilai default setelah 1 jam tanpa lisensi.</string>
     <string name="dialogInfoButton">Kunjungi GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Meningkatkannya akan mengurangi kepekaan terhadap osilasi kecil dan membuat gerakan kurang peka terhadap gaya yang lebih besar.</string>
     <string name="menuRestoreDefaults">Mengembalikan ke default</string>
     <string name="dialogButtonRateOnPlayStore">Nilai di Play Store</string>
-    <string name="paramSensorRateInfo">Ini menetapkan laju sensor yang diinginkan. Nilai yang lebih tinggi dapat menghabiskan lebih banyak daya baterai. Ini mungkin berbeda dari laju sensor yang diukur karena sistem pada akhirnya memutuskan laju mana yang akan diberikan.</string>
+    <string name="paramSensorRateInfo">Tetapkan laju pengambilan sampel sensor gerak yang diinginkan. Nilai yang lebih tinggi memberikan akurasi yang lebih tinggi, tetapi dapat menghabiskan lebih banyak daya baterai.</string>
     <string name="menuIncreaseTextSize">Meningkatkan ukuran teks</string>
     <string name="menuInfo">Informasi</string>
     <string name="loremIpsum">(Teks ini untuk tujuan demonstrasi)
@@ -127,5 +127,9 @@
     <string name="dialogServiceDisableMessage">Aplikasi konsumen akan berhenti menerima peristiwa. Nonaktifkan layanan\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplikasi</string>
     <string name="menuDisable">Cacat</string>
-    <string name="aboutScreenAppListText">Daftar paket aplikasi yang diinstal pada perangkat ini yang menggunakan fitur Layar Tetap:</string>
+    <string name="aboutScreenAppListText">Daftar paket aplikasi yang diinstal pada perangkat ini yang menggunakan fitur SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuKembalikanDefault</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuNonaktifkan</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/nama_aplikasi</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
