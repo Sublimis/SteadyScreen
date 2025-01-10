@@ -11,7 +11,7 @@
 \nDúfam, že sa vám to bude páčiť 😊</string>
     <string name="dialogReviewNudgeMessage">Páči sa vám táto aplikácia\?</string>
     <string name="dialogReviewNudgeMessage2">Ďakujem! Napíšte peknú recenziu alebo nám ohodnoťte 5 hviezdičkami v Obchode Play.</string>
-    <string name="paramLinearScalingInfo">Toto lineárne škáluje pohyby, čím sa zväčšujú alebo zmenšujú bez ovplyvnenia výpočtov.</string>
+    <string name="paramLinearScalingInfo">Toto zväčšuje pohyby po výpočtoch, čím sa stávajú lineárne väčšie alebo menšie.</string>
     <string name="licenseItemAlreadyOwned">Položka licencie už vlastníte</string>
     <string name="dialogInfoMessage">Zariadenie trochu potraste. Všimnite si, ako obsah na pozadí zjemňuje tieto pohyby, čím uľahčuje čítanie na obrazovke.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nie</string>
     <string name="licenseSuccessDialogMessage">Aplikácia bola úspešne licencovaná. Ďakujeme za vašu podporu!</string>
     <string name="menuAbout">O</string>
-    <string name="paramForceScalingInfo">Toto škáluje sily pred výpočtami, čo následne ovplyvňuje celkovú veľkosť pohybov.</string>
+    <string name="paramForceScalingInfo">Toto škáluje sily pred výpočtami, čím sa pohyby zväčšujú alebo zmenšujú nelineárnym spôsobom.</string>
     <string name="menuLicense">Aktualizujte si licenciu</string>
     <string name="openSourceLicensesTitle">Licencie s otvoreným zdrojom</string>
     <string name="menuDecreaseTextSize">Zmenšiť veľkosť textu</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Konečná licencia</string>
     <string name="measuredSensorRate">Nameraná rýchlosť snímača</string>
     <string name="menuTheme">Téma</string>
-    <string name="measuredSensorRateInfo">Aktuálna frekvencia senzora meraná aplikáciou. Tá sa môže líšiť od požadovanej rýchlosti snímača, pretože systém nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
-    <string name="aboutScreenGithubLink">Neprerušovaná obrazovka na GitHub</string>
+    <string name="measuredSensorRateInfo">Aktuálna vzorkovacia frekvencia snímača pohybu meraná aplikáciou. Tá sa môže líšiť od požadovanej sadzby, pretože systém nakoniec rozhodne, akú sadzbu poskytne, na základe rôznych faktorov.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen na GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licencia</string>
     <string name="aboutScreenLicenseText">Táto aplikácia je bezplatná a funguje bez obmedzení. Po 1 hodine bez licencie sa však parametre vrátia na predvolené hodnoty.</string>
     <string name="dialogInfoButton">Prejdite na GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Zvýšením sa zníži citlivosť na malé oscilácie a pohyby budú menej citlivé na väčšie sily.</string>
     <string name="menuRestoreDefaults">Obnoviť predvolené nastavenia</string>
     <string name="dialogButtonRateOnPlayStore">Ohodnoťte v Obchode Play</string>
-    <string name="paramSensorRateInfo">Tým sa nastaví požadovaná frekvencia snímača. Vyššie hodnoty môžu spotrebovať viac batérie. Tá sa môže líšiť od nameranej rýchlosti snímača, pretože systém sa nakoniec rozhodne, ktorú rýchlosť poskytne.</string>
+    <string name="paramSensorRateInfo">Nastavte požadovanú vzorkovaciu frekvenciu snímača pohybu. Vyššie hodnoty poskytujú väčšiu presnosť, ale môžu spotrebovať viac batérie.</string>
     <string name="menuIncreaseTextSize">Zväčšiť veľkosť textu</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Tento text slúži na demonštračné účely)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Spotrebiteľské aplikácie prestanú prijímať udalosti. Zakázať službu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplikácie</string>
     <string name="menuDisable">Zakázať</string>
-    <string name="aboutScreenAppListText">Zoznam balíkov aplikácií nainštalovaných v tomto zariadení, ktoré používajú funkciu stabilnej obrazovky:</string>
+    <string name="aboutScreenAppListText">Zoznam balíkov aplikácií nainštalovaných v tomto zariadení, ktoré používajú funkciu SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuZakázať</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/názov_aplikácie</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
