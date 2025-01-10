@@ -11,7 +11,7 @@
 \nNatumai utafurahiya kutumia hii 😊</string>
     <string name="dialogReviewNudgeMessage">Je, unafurahia programu hii\?</string>
     <string name="dialogReviewNudgeMessage2">Asante! Tafadhali andika ukaguzi mzuri au ukadirie nyota 5 kwenye Play Store.</string>
-    <string name="paramLinearScalingInfo">Hii hupima mizani kwa mstari, na kuifanya kuwa kubwa au ndogo bila kuathiri mahesabu.</string>
+    <string name="paramLinearScalingInfo">Hii hupima mizani ya harakati baada ya mahesabu, na kuifanya kuwa kubwa au ndogo kwa mstari.</string>
     <string name="licenseItemAlreadyOwned">Bidhaa ya leseni tayari inamilikiwa</string>
     <string name="dialogInfoMessage">Tikisa kifaa kidogo. Angalia jinsi maudhui ya chinichini yanavyopunguza miondoko hii, na kurahisisha usomaji kwenye skrini.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Hapana</string>
     <string name="licenseSuccessDialogMessage">Programu ilipewa leseni. Asante kwa msaada wako!</string>
     <string name="menuAbout">Kuhusu</string>
-    <string name="paramForceScalingInfo">Hii inapima nguvu kabla ya mahesabu, ambayo kwa upande huathiri ukubwa wa jumla wa harakati.</string>
+    <string name="paramForceScalingInfo">Hii hupima nguvu kabla ya mahesabu, ambayo hufanya harakati kuwa kubwa au ndogo kwa njia isiyo ya mstari.</string>
     <string name="menuLicense">Boresha leseni yako</string>
     <string name="openSourceLicensesTitle">Leseni za chanzo huria</string>
     <string name="menuDecreaseTextSize">Punguza ukubwa wa maandishi</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Leseni ya Mwisho</string>
     <string name="measuredSensorRate">Kiwango cha kihisi kilichopimwa</string>
     <string name="menuTheme">Mandhari</string>
-    <string name="measuredSensorRateInfo">Kasi ya sasa ya vitambuzi kama inavyopimwa na programu. Hii inaweza kutofautiana na kiwango cha kihisi kinachohitajika kwani mfumo hatimaye huamua ni kiwango kipi cha kutoa.</string>
-    <string name="aboutScreenGithubLink">Skrini thabiti kwenye GitHub</string>
+    <string name="measuredSensorRateInfo">Kiwango cha sasa cha sampuli cha vitambuzi vya mwendo kama inavyopimwa na programu. Hii inaweza kutofautiana na kiwango kinachohitajika kwa sababu mfumo hatimaye huamua ni kiwango gani cha kutoa kulingana na mambo mbalimbali.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen kwenye GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Leseni</string>
     <string name="aboutScreenLicenseText">Programu hii ni bure na inafanya kazi bila vikwazo. Hata hivyo, vigezo vitarejea kwa thamani zao chaguomsingi baada ya saa 1 bila leseni.</string>
     <string name="dialogInfoButton">Nenda kwa GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Kuongeza hii kutapunguza usikivu kwa oscillations ndogo na kufanya harakati chini nyeti kwa nguvu kubwa.</string>
     <string name="menuRestoreDefaults">Rejesha chaguomsingi</string>
     <string name="dialogButtonRateOnPlayStore">Bei kwenye Play Store</string>
-    <string name="paramSensorRateInfo">Hii huweka kiwango cha kihisi kinachohitajika. Thamani za juu zaidi zinaweza kutumia betri zaidi. Hii inaweza kutofautiana na kiwango cha vitambuzi kilichopimwa kwani mfumo hatimaye huamua ni kiwango gani cha kutoa.</string>
+    <string name="paramSensorRateInfo">Weka kiwango cha sampuli cha vitambuzi vya mwendo unavyotaka. Thamani za juu hutoa usahihi zaidi, lakini zinaweza kutumia betri zaidi.</string>
     <string name="menuIncreaseTextSize">Ongeza ukubwa wa maandishi</string>
     <string name="menuInfo">Habari</string>
     <string name="loremIpsum">(Nakala hii ni kwa madhumuni ya maonyesho)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Programu za watumiaji zitaacha kupokea matukio. Ungependa kuzima huduma\?</string>
     <string name="aboutScreenAppListTitle">⛵ Programu</string>
     <string name="menuDisable">Zima</string>
-    <string name="aboutScreenAppListText">Orodha ya vifurushi vya programu vilivyosakinishwa kwenye kifaa hiki vinavyotumia kipengele cha Skrini ya Thabiti:</string>
+    <string name="aboutScreenAppListText">Orodha ya vifurushi vya programu vilivyosakinishwa kwenye kifaa hiki vinavyotumia kipengele cha SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
