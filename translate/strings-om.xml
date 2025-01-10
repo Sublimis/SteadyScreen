@@ -11,7 +11,7 @@
 \nKana fayyadamuun akka isinitti tole abdii qabna 😊</string>
     <string name="dialogReviewNudgeMessage">Appii kanaan itti gammadaa jirtuu\?</string>
     <string name="dialogReviewNudgeMessage2">Galatoomi! Mee gamaaggama gaarii barreessaa ykn Play Store irratti urjii 5 nuuf madaala.</string>
-    <string name="paramLinearScalingInfo">Kunis sochiiwwan sararaan safara, shallaggii irratti dhiibbaa osoo hin geessisin akka guddatan ykn xiqqaa taasisa.</string>
+    <string name="paramLinearScalingInfo">Kunis sochiiwwan shallaggii booda safara, sararaan guddaa ykn xiqqaa taasisa.</string>
     <string name="licenseItemAlreadyOwned">Meeshaa hayyamaa duraan qabame</string>
     <string name="dialogInfoMessage">Meeshaa sana xiqqoo raasaa. Qabiyyeen duubaa sochiiwwan kana akkamitti akka lallaafatu, dubbisa iskiriinii irratti akka salphatu hubadhu.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Lakki</string>
     <string name="licenseSuccessDialogMessage">Appichi hayyama milkaa\'inaan argateera. Deeggarsa nuuf gootaniif galatoomaa!</string>
     <string name="menuAbout">Waa\'ee</string>
-    <string name="paramForceScalingInfo">Kunis humnoota shallaggii dura safara, kunis dabaree isaatiin guddina waliigalaa sochiiwwanii irratti dhiibbaa qaba.</string>
+    <string name="paramForceScalingInfo">Kunis humnoota shallaggii dura safara, kunis sochiiwwan haala sarara hin qabneen akka guddatan ykn xiqqaatan taasisa.</string>
     <string name="menuLicense">Hayyama kee fooyyessaa</string>
     <string name="openSourceLicensesTitle">Hayyama madda banaa</string>
     <string name="menuDecreaseTextSize">Hammangaa barruu hir\'isi</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Hayyama Dhumaa</string>
     <string name="measuredSensorRate">Saffisa sensaraa safarame</string>
     <string name="menuTheme">Dhimma haasaa</string>
-    <string name="measuredSensorRateInfo">Saffisa sensaraa ammaa akka appii kanaan safaramutti. Kun saffisa sensaraa barbaadamu irraa adda ta’uu danda’a sababiin isaas sirnichi dhuma irratti saffisa kam akka kennu murteessa.</string>
-    <string name="aboutScreenGithubLink">Iskiriinii Dhaabbataa GitHub irratti</string>
+    <string name="measuredSensorRateInfo">Saffisa saamuda sensara sochii ammaa akka application safarame. Kunis saffisa barbaadamu irraa adda ta’uu danda’a sababiin isaas sirnichi dhuma irratti sababoota adda addaa irratti hundaa’uun reetii akkamii akka kennu murteessa.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen GitHub irratti</string>
     <string name="aboutScreenLicenseTitle">🔑 Hayyama</string>
     <string name="aboutScreenLicenseText">Appilikeeshiniin kun bilisa waan ta\'eef daangaa malee hojjeta. Haa ta\'u malee, qajoojiiwwan hayyama malee sa\'aatii 1 booda gara gatiiwwan durtii isaaniitti ni deebi\'u.</string>
     <string name="dialogInfoButton">Gara GitHub deemaa</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Kana dabaluunis miira sochii xixiqqoo hir’isuun sochiiwwan humnoota gurguddoof miira akka hin qabne taasisa.</string>
     <string name="menuRestoreDefaults">Durtii deebisi</string>
     <string name="dialogButtonRateOnPlayStore">Play Store irratti sadarkaa</string>
-    <string name="paramSensorRateInfo">Kunis saffisa sensaraa barbaadamu saaga. Gatiin ol\'aanaan baatirii baay\'ee fayyadamuu danda\'a. Kun saffisa sensaraa safarame irraa adda ta’uu danda’a sababiin isaas sirnichi dhuma irratti saffisa kam akka kennu murteessa.</string>
+    <string name="paramSensorRateInfo">Saffisa saamuda sensara sochii barbaadame saagi. Gatiin ol\'aanaan sirrii ta\'uu guddaa kenna, garuu baatirii baay\'ee fayyadamuu danda\'a.</string>
     <string name="menuIncreaseTextSize">Hammangaa barruu guddisuu</string>
     <string name="menuInfo">Info</string>
     <string name="loremIpsum">(Barreeffamni kun agarsiisaaf)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Appilikeeshiniiwwan fayyadamtootaa taateewwan fudhachuu ni dhaabu. Tajaajila hojii irraa oolchuu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Appilikeeshiniiwwan</string>
     <string name="menuDisable">Akka hin hojjenne gochuu</string>
-    <string name="aboutScreenAppListText">Tarree paakeejii appii meeshaa kana irratti fe\'aman kanneen amala Iskiriinii Dhaabbataa fayyadaman:</string>
+    <string name="aboutScreenAppListText">Tarree paakeejii appii meeshaa kana irratti fe\'aman kanneen amala SteadyScreen fayyadaman:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuDurtiiDurtii Deebi\'i</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDhiisii</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/maqaa_appii</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuOdeeffannoo</string>
 </resources>
