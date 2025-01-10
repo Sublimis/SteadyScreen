@@ -11,7 +11,7 @@
 \nמקווה שאתה נהנה להשתמש בזה 😊</string>
     <string name="dialogReviewNudgeMessage">האם אתה נהנה מהאפליקציה הזו\?</string>
     <string name="dialogReviewNudgeMessage2">תוֹדָה! אנא כתוב ביקורת נחמדה או דרג אותנו ב-5 כוכבים בחנות Play.</string>
-    <string name="paramLinearScalingInfo">זה משנה את התנועות באופן ליניארי, מה שהופך אותן לגדולות או קטנות מבלי להשפיע על החישובים.</string>
+    <string name="paramLinearScalingInfo">זה משנה את התנועות לאחר חישובים, מה שהופך אותן לגדולות או קטנות יותר באופן ליניארי.</string>
     <string name="licenseItemAlreadyOwned">פריט רישיון כבר בבעלות</string>
     <string name="dialogInfoMessage">נער מעט את המכשיר. שימו לב כיצד תוכן הרקע מרכך את התנועות הללו, ומקל על הקריאה על המסך.
 \n
@@ -22,7 +22,7 @@
     <string name="no">לֹא</string>
     <string name="licenseSuccessDialogMessage">האפליקציה קיבלה רישיון בהצלחה. תודה על תמיכתך!</string>
     <string name="menuAbout">אוֹדוֹת</string>
-    <string name="paramForceScalingInfo">זה משנה את הכוחות לפני חישובים, אשר בתורו משפיע על גודל התנועות הכולל.</string>
+    <string name="paramForceScalingInfo">זה משנה את הכוחות לפני חישובים, מה שהופך את התנועות לגדולות או קטנות יותר בצורה לא ליניארית.</string>
     <string name="menuLicense">שדרג את הרישיון שלך</string>
     <string name="openSourceLicensesTitle">רישיונות קוד פתוח</string>
     <string name="menuDecreaseTextSize">הקטן את גודל הטקסט</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">רישיון אולטימטיבי</string>
     <string name="measuredSensorRate">קצב חיישן נמדד</string>
     <string name="menuTheme">נוֹשֵׂא</string>
-    <string name="measuredSensorRateInfo">קצב החיישן הנוכחי כפי שנמדד על ידי האפליקציה. זה עשוי להיות שונה מקצב החיישן הרצוי שכן המערכת מחליטה בסופו של דבר איזה קצב לספק.</string>
-    <string name="aboutScreenGithubLink">מסך יציב ב-GitHub</string>
+    <string name="measuredSensorRateInfo">קצב הדגימה הנוכחי של חיישן התנועה כפי שנמדד על ידי האפליקציה. זה עשוי להיות שונה מהתעריף הרצוי מכיוון שהמערכת מחליטה בסופו של דבר איזה תעריף לספק בהתבסס על גורמים שונים.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen ב-GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 רישיון</string>
     <string name="aboutScreenLicenseText">אפליקציה זו היא חינמית ועובדת ללא הגבלה. עם זאת, הפרמטרים יחזרו לערכי ברירת המחדל שלהם לאחר שעה ללא רישיון.</string>
     <string name="dialogInfoButton">עבור אל GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">הגדלת זה תפחית את הרגישות לתנודות קטנות ותהפוך את התנועות לפחות רגישות לכוחות גדולים יותר.</string>
     <string name="menuRestoreDefaults">שחזר ברירת מחדל</string>
     <string name="dialogButtonRateOnPlayStore">דרג בחנות Play</string>
-    <string name="paramSensorRateInfo">זה קובע את קצב החיישן הרצוי. ערכים גבוהים יותר עשויים לצרוך יותר סוללה. זה עשוי להיות שונה מקצב החיישן הנמדד שכן המערכת מחליטה בסופו של דבר איזה קצב לספק.</string>
+    <string name="paramSensorRateInfo">הגדר את קצב הדגימה הרצוי של חיישן התנועה. ערכים גבוהים יותר מספקים דיוק רב יותר, אך עשויים לצרוך יותר סוללה.</string>
     <string name="menuIncreaseTextSize">הגדל את גודל הטקסט</string>
     <string name="menuInfo">מידע</string>
     <string name="loremIpsum">(טקסט זה מיועד למטרות הדגמה)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">אפליקציות צרכנים יפסיקו לקבל אירועים. להשבית את השירות\?</string>
     <string name="aboutScreenAppListTitle">⛵ אפליקציות</string>
     <string name="menuDisable">השבת</string>
-    <string name="aboutScreenAppListText">רשימת חבילות אפליקציות המותקנות במכשיר זה המשתמשות בתכונת מסך יציב:</string>
+    <string name="aboutScreenAppListText">רשימת חבילות אפליקציות המותקנות במכשיר זה המשתמשות בתכונת SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
