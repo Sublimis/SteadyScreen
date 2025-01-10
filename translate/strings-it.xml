@@ -10,27 +10,27 @@
 \n
 \nSpero che ti piaccia usarlo 😊</string>
     <string name="dialogReviewNudgeMessage">Ti piace questa app\?</string>
-    <string name="dialogReviewNudgeMessage2">Grazie! Scrivi una bella recensione o valutaci con 5 stelle sul Play Store.</string>
-    <string name="paramLinearScalingInfo">Ciò ridimensiona i movimenti in modo lineare, rendendoli più grandi o più piccoli senza influenzare i calcoli.</string>
-    <string name="licenseItemAlreadyOwned">Articolo in licenza già posseduto</string>
+    <string name="dialogReviewNudgeMessage2">Grazie! Scrivi una bella recensione o assegnaci 5 stelle sul Play Store.</string>
+    <string name="paramLinearScalingInfo">In questo modo i movimenti vengono ridimensionati dopo i calcoli, rendendoli linearmente più grandi o più piccoli.</string>
+    <string name="licenseItemAlreadyOwned">Articolo di licenza già posseduto</string>
     <string name="dialogInfoMessage">Agita un po\' il dispositivo. Nota come il contenuto di sfondo ammorbidisca questi movimenti, rendendo più facile la lettura sullo schermo.
 \n
 \nQuesta funzionalità può essere facilmente implementata in qualsiasi applicazione. Segui le istruzioni su GitHub.</string>
-    <string name="paramForceScaling">Ridimensionamento della forza</string>
-    <string name="paramLinearScaling">Ridimensionamento lineare</string>
-    <string name="dialogConsentButton">Accetta</string>
-    <string name="no">No</string>
-    <string name="licenseSuccessDialogMessage">La licenza dell\'app è stata concessa correttamente. Grazie per il tuo sostegno!</string>
-    <string name="menuAbout">Informazioni su</string>
-    <string name="paramForceScalingInfo">Ciò ridimensiona le forze prima dei calcoli, il che a sua volta influisce sull\'entità complessiva dei movimenti.</string>
-    <string name="menuLicense">Aggiorna la licenza</string>
+    <string name="paramForceScaling">Scalabilità della forza</string>
+    <string name="paramLinearScaling">Scala lineare</string>
+    <string name="dialogConsentButton">Accettare</string>
+    <string name="no">NO</string>
+    <string name="licenseSuccessDialogMessage">L\'app è stata concessa in licenza con successo. Grazie per il tuo supporto!</string>
+    <string name="menuAbout">Di</string>
+    <string name="paramForceScalingInfo">In questo modo le forze vengono ridimensionate prima dei calcoli, rendendo i movimenti più grandi o più piccoli in modo non lineare.</string>
+    <string name="menuLicense">Aggiorna la tua licenza</string>
     <string name="openSourceLicensesTitle">Licenze open source</string>
     <string name="menuDecreaseTextSize">Riduci la dimensione del testo</string>
     <string name="menuRateAndComment">Valutaci</string>
-    <string name="yes">Sì</string>
+    <string name="yes">SÌ</string>
     <string name="paramRecoil">Rinculo</string>
     <string name="paramSensorRate">Frequenza del sensore</string>
-    <string name="paramDampingInfo">Aumentando questo fattore si rallenteranno e attenueranno i movimenti, rendendoli meno sensibili a forze maggiori.</string>
+    <string name="paramDampingInfo">Aumentando questo valore i movimenti saranno più lenti e attenuati, rendendoli meno sensibili alle forze più grandi.</string>
     <string name="ok">OK</string>
     <string name="menuSendDebugFeedback">Segnala un problema</string>
     <string name="ratePerSecond">%1$s Hz</string>
@@ -38,21 +38,21 @@
     <string name="dialogRestoreDefaultsMessage">Ripristinare i parametri ai valori predefiniti\?</string>
     <string name="paramDamping">Smorzamento</string>
     <string name="serviceInactiveText">Il servizio è disabilitato, clicca per abilitarlo.</string>
-    <string name="cancel">Annulla</string>
+    <string name="cancel">Cancellare</string>
     <string name="ultimateLicenseTitle">Licenza definitiva</string>
     <string name="measuredSensorRate">Frequenza del sensore misurata</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Frequenza attuale del sensore misurata dall\'app. Questa potrebbe differire dalla frequenza desiderata del sensore, in quanto il sistema decide in ultima analisi quale frequenza fornire.</string>
-    <string name="aboutScreenGithubLink">Schermo fisso su GitHub</string>
+    <string name="measuredSensorRateInfo">La frequenza di campionamento corrente del sensore di movimento misurata dall\'applicazione. Questa potrebbe differire dalla frequenza desiderata perché il sistema alla fine decide quale frequenza fornire in base a vari fattori.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen su GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licenza</string>
-    <string name="aboutScreenLicenseText">Questa applicazione è gratuita e funziona senza limitazioni. Tuttavia, i parametri torneranno ai valori predefiniti dopo 1 ora senza licenza.</string>
+    <string name="aboutScreenLicenseText">Questa applicazione è gratuita e funziona senza limitazioni. Tuttavia, i parametri torneranno ai loro valori predefiniti dopo 1 ora senza licenza.</string>
     <string name="dialogInfoButton">Vai su GitHub</string>
     <string name="generalError">Si è verificato un errore. Riprova.</string>
-    <string name="paramRecoilInfo">Aumentando questo fattore si ridurrà la sensibilità alle piccole oscillazioni e si renderanno i movimenti meno sensibili alle forze maggiori.</string>
-    <string name="menuRestoreDefaults">Ripristina i valori predefiniti</string>
-    <string name="dialogButtonRateOnPlayStore">Valuta sul Play Store</string>
-    <string name="paramSensorRateInfo">Imposta la frequenza del sensore desiderata. Valori più alti potrebbero consumare più batteria. Questa potrebbe differire dalla frequenza del sensore misurata, poiché il sistema alla fine decide quale frequenza fornire.</string>
-    <string name="menuIncreaseTextSize">Aumenta la dimensione del testo</string>
+    <string name="paramRecoilInfo">Aumentando questo valore si ridurrà la sensibilità alle piccole oscillazioni e si renderanno i movimenti meno sensibili alle forze più grandi.</string>
+    <string name="menuRestoreDefaults">Ripristinare i valori predefiniti</string>
+    <string name="dialogButtonRateOnPlayStore">Vota su Play Store</string>
+    <string name="paramSensorRateInfo">Imposta la frequenza di campionamento desiderata del sensore di movimento. Valori più alti forniscono una maggiore accuratezza, ma potrebbero consumare più batteria.</string>
+    <string name="menuIncreaseTextSize">Aumentare la dimensione del testo</string>
     <string name="menuInfo">Informazioni</string>
     <string name="loremIpsum">(Questo testo è a scopo dimostrativo)
 \n
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Le applicazioni consumer smetteranno di ricevere eventi. Disattivare il servizio\?</string>
     <string name="aboutScreenAppListTitle">⛵ Applicazioni</string>
     <string name="menuDisable">Disabilitare</string>
-    <string name="aboutScreenAppListText">Elenco dei pacchetti di app installati su questo dispositivo che utilizzano la funzione Steady Screen:</string>
+    <string name="aboutScreenAppListText">Elenco dei pacchetti di app installati su questo dispositivo che utilizzano la funzione SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisabilita</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/nome_app</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
