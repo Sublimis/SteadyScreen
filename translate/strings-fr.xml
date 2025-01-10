@@ -11,7 +11,7 @@
 \nJ\'espère que vous apprécierez l\'utilisation de ce service 😊</string>
     <string name="dialogReviewNudgeMessage">Est-ce que vous appréciez cette application \?</string>
     <string name="dialogReviewNudgeMessage2">Merci ! Veuillez écrire un commentaire positif ou nous attribuer une note de 5 étoiles sur le Play Store.</string>
-    <string name="paramLinearScalingInfo">Cela met à l\'échelle les mouvements de manière linéaire, les rendant plus grands ou plus petits sans affecter les calculs.</string>
+    <string name="paramLinearScalingInfo">Cela met à l\'échelle les mouvements après les calculs, les rendant linéairement plus grands ou plus petits.</string>
     <string name="licenseItemAlreadyOwned">Article sous licence déjà possédé</string>
     <string name="dialogInfoMessage">Secouez légèrement l\'appareil. Remarquez comment le contenu de l\'arrière-plan adoucit ces mouvements, ce qui facilite la lecture à l\'écran.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Non</string>
     <string name="licenseSuccessDialogMessage">L\'application a été licenciée avec succès. Merci pour votre soutien !</string>
     <string name="menuAbout">À propos</string>
-    <string name="paramForceScalingInfo">Cela met à l\'échelle les forces avant les calculs, ce qui affecte à son tour l\'ampleur globale des mouvements.</string>
+    <string name="paramForceScalingInfo">Cela met à l\'échelle les forces avant les calculs, ce qui rend les mouvements plus grands ou plus petits de manière non linéaire.</string>
     <string name="menuLicense">Mettez à niveau votre licence</string>
     <string name="openSourceLicensesTitle">Licences open source</string>
     <string name="menuDecreaseTextSize">Réduire la taille du texte</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Licence Ultime</string>
     <string name="measuredSensorRate">Taux de capteur mesuré</string>
     <string name="menuTheme">Thème</string>
-    <string name="measuredSensorRateInfo">Taux de capteur actuel tel que mesuré par l\'application. Il peut différer du taux de capteur souhaité, car le système décide en fin de compte du taux à fournir.</string>
-    <string name="aboutScreenGithubLink">Écran stable sur GitHub</string>
+    <string name="measuredSensorRateInfo">Taux d\'échantillonnage actuel du capteur de mouvement tel que mesuré par l\'application. Il peut différer du taux souhaité, car le système décide en fin de compte du taux à fournir en fonction de divers facteurs.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen sur GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licence</string>
     <string name="aboutScreenLicenseText">Cette application est gratuite et fonctionne sans limitation. Cependant, les paramètres reviendront à leurs valeurs par défaut après 1 heure sans licence.</string>
     <string name="dialogInfoButton">Accéder à GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">L’augmentation de cette valeur réduira la sensibilité aux petites oscillations et rendra les mouvements moins sensibles aux forces plus importantes.</string>
     <string name="menuRestoreDefaults">Restaurer les valeurs par défaut</string>
     <string name="dialogButtonRateOnPlayStore">Notez sur Play Store</string>
-    <string name="paramSensorRateInfo">Cela définit la fréquence de capteur souhaitée. Des valeurs plus élevées peuvent consommer plus de batterie. Cela peut différer de la fréquence de capteur mesurée car le système décide en fin de compte de la fréquence à fournir.</string>
+    <string name="paramSensorRateInfo">Définissez la fréquence d\'échantillonnage du capteur de mouvement souhaitée. Des valeurs plus élevées offrent une plus grande précision, mais peuvent consommer plus de batterie.</string>
     <string name="menuIncreaseTextSize">Augmenter la taille du texte</string>
     <string name="menuInfo">Informations</string>
     <string name="loremIpsum">(Ce texte est à des fins de démonstration)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Les applications grand public cesseront de recevoir des événements. Désactiver le service \?</string>
     <string name="aboutScreenAppListTitle">⛵ Applications</string>
     <string name="menuDisable">Désactiver</string>
-    <string name="aboutScreenAppListText">Liste des packages d\'applications installés sur cet appareil qui utilisent la fonction Steady Screen :</string>
+    <string name="aboutScreenAppListText">Liste des packages d\'application installés sur cet appareil qui utilisent la fonction SteadyScreen :</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/nom_de_l\'application</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
