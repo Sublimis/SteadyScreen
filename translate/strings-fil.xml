@@ -11,7 +11,7 @@
 \nSana ay masiyahan ka sa paggamit nito 😊</string>
     <string name="dialogReviewNudgeMessage">Nasisiyahan ka ba sa app na ito\?</string>
     <string name="dialogReviewNudgeMessage2">Salamat! Mangyaring magsulat ng magandang review o i-rate kami ng 5 star sa Play Store.</string>
-    <string name="paramLinearScalingInfo">Sinusukat nito ang mga paggalaw nang linear, na ginagawang mas malaki o mas maliit ang mga ito nang hindi naaapektuhan ang mga kalkulasyon.</string>
+    <string name="paramLinearScalingInfo">Sinusukat nito ang mga paggalaw pagkatapos ng mga kalkulasyon, na ginagawang mas malaki o mas maliit ang mga ito.</string>
     <string name="licenseItemAlreadyOwned">Ang item ng lisensya ay pag-aari na</string>
     <string name="dialogInfoMessage">Iling ng kaunti ang device. Pansinin kung paano pinapalambot ng nilalaman ng background ang mga paggalaw na ito, na ginagawang mas madali ang pagbabasa sa screen.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Hindi</string>
     <string name="licenseSuccessDialogMessage">Matagumpay na nabigyan ng lisensya ang app. Salamat sa iyong suporta!</string>
     <string name="menuAbout">Tungkol sa</string>
-    <string name="paramForceScalingInfo">Sinusukat nito ang mga puwersa bago ang mga kalkulasyon, na nakakaapekto naman sa pangkalahatang magnitude ng mga paggalaw.</string>
+    <string name="paramForceScalingInfo">Sinusukat nito ang mga puwersa bago ang mga kalkulasyon, na ginagawang mas malaki o mas maliit ang mga paggalaw sa isang hindi linear na paraan.</string>
     <string name="menuLicense">I-upgrade ang iyong lisensya</string>
     <string name="openSourceLicensesTitle">Mga lisensyang open source</string>
     <string name="menuDecreaseTextSize">Bawasan ang laki ng teksto</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Ultimate License</string>
     <string name="measuredSensorRate">Sinusukat ang rate ng sensor</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Kasalukuyang rate ng sensor gaya ng sinusukat ng app. Ito ay maaaring mag-iba sa gustong sensor rate dahil ang system sa huli ay nagpapasya kung aling rate ang ibibigay.</string>
-    <string name="aboutScreenGithubLink">Panay na Screen sa GitHub</string>
+    <string name="measuredSensorRateInfo">Ang kasalukuyang motion sensor sampling rate gaya ng sinusukat ng application. Maaaring mag-iba ito sa gustong rate dahil sa huli ay nagpapasya ang system kung anong rate ang ibibigay batay sa iba\'t ibang salik.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen sa GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Lisensya</string>
     <string name="aboutScreenLicenseText">Ang application na ito ay libre at gumagana nang walang limitasyon. Gayunpaman, babalik ang mga parameter sa kanilang mga default na halaga pagkatapos ng 1 oras na walang lisensya.</string>
     <string name="dialogInfoButton">Pumunta sa GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Ang pagpapataas nito ay magbabawas ng sensitivity sa maliliit na oscillations at gagawing hindi gaanong sensitibo ang mga paggalaw sa mas malalaking pwersa.</string>
     <string name="menuRestoreDefaults">Ibalik ang mga default</string>
     <string name="dialogButtonRateOnPlayStore">I-rate sa Play Store</string>
-    <string name="paramSensorRateInfo">Itinatakda nito ang nais na rate ng sensor. Maaaring kumonsumo ng mas maraming baterya ang mas mataas na halaga. Maaaring mag-iba ito sa sinusukat na rate ng sensor dahil sa huli ay nagpapasya ang system kung aling rate ang ibibigay.</string>
+    <string name="paramSensorRateInfo">Itakda ang gustong motion sensor sampling rate. Ang mas mataas na mga halaga ay nagbibigay ng higit na katumpakan, ngunit maaaring kumonsumo ng mas maraming baterya.</string>
     <string name="menuIncreaseTextSize">Palakihin ang laki ng teksto</string>
     <string name="menuInfo">Impormasyon</string>
     <string name="loremIpsum">(Ang tekstong ito ay para sa mga layunin ng pagpapakita)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Hihinto sa pagtanggap ng mga event ang mga application ng consumer. Huwag paganahin ang serbisyo\?</string>
     <string name="aboutScreenAppListTitle">⛵ Mga app</string>
     <string name="menuDisable">Huwag paganahin</string>
-    <string name="aboutScreenAppListText">Listahan ng mga app package na naka-install sa device na ito na gumagamit ng feature na Steady Screen:</string>
+    <string name="aboutScreenAppListText">Listahan ng mga package ng app na naka-install sa device na ito na gumagamit ng feature na SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
