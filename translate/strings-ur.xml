@@ -11,7 +11,7 @@
 \nامید ہے کہ آپ اس کے استعمال سے لطف اندوز ہوں گے۔</string>
     <string name="dialogReviewNudgeMessage">کیا آپ اس ایپ سے لطف اندوز ہو رہے ہیں؟</string>
     <string name="dialogReviewNudgeMessage2">شکریہ! براہ کرم ایک اچھا جائزہ لکھیں یا ہمیں پلے اسٹور پر 5 ستاروں کی درجہ بندی کریں۔</string>
-    <string name="paramLinearScalingInfo">یہ نقل و حرکت کو لکیری طور پر پیمانہ کرتا ہے، حساب کو متاثر کیے بغیر انہیں بڑا یا چھوٹا بناتا ہے۔</string>
+    <string name="paramLinearScalingInfo">یہ حساب کے بعد حرکات کو پیمانہ بناتا ہے، انہیں لکیری طور پر بڑا یا چھوٹا بناتا ہے۔</string>
     <string name="licenseItemAlreadyOwned">لائسنس آئٹم پہلے سے ہی ملکیت ہے۔</string>
     <string name="dialogInfoMessage">ڈیوائس کو تھوڑا سا ہلائیں۔ دیکھیں کہ کس طرح پس منظر کا مواد ان حرکات کو نرم کرتا ہے، جس سے آن اسکرین ریڈنگ آسان ہوتی ہے۔
 \n
@@ -22,7 +22,7 @@
     <string name="no">نہیں</string>
     <string name="licenseSuccessDialogMessage">ایپ کو کامیابی کے ساتھ لائسنس دیا گیا تھا۔ آپ کی حمایت کے لئے آپ کا شکریہ!</string>
     <string name="menuAbout">کے بارے میں</string>
-    <string name="paramForceScalingInfo">یہ حساب سے پہلے قوتوں کی پیمائش کرتا ہے، جس کے نتیجے میں حرکات کی مجموعی شدت متاثر ہوتی ہے۔</string>
+    <string name="paramForceScalingInfo">یہ حساب سے پہلے قوتوں کو پیمانہ کرتا ہے، جو حرکت کو غیر خطی طریقے سے بڑا یا چھوٹا بناتا ہے۔</string>
     <string name="menuLicense">اپنا لائسنس اپ گریڈ کریں۔</string>
     <string name="openSourceLicensesTitle">اوپن سورس لائسنس</string>
     <string name="menuDecreaseTextSize">متن کا سائز کم کریں۔</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">الٹیمیٹ لائسنس</string>
     <string name="measuredSensorRate">پیمائش شدہ سینسر کی شرح</string>
     <string name="menuTheme">تھیم</string>
-    <string name="measuredSensorRateInfo">موجودہ سینسر کی شرح جیسا کہ ایپ کے ذریعے ماپا جاتا ہے۔ یہ مطلوبہ سینسر کی شرح سے مختلف ہو سکتا ہے کیونکہ نظام بالآخر فیصلہ کرتا ہے کہ کون سا ریٹ فراہم کرنا ہے۔</string>
-    <string name="aboutScreenGithubLink">GitHub پر مستحکم اسکرین</string>
+    <string name="measuredSensorRateInfo">موجودہ موشن سینسر کے نمونے لینے کی شرح جیسا کہ ایپلی کیشن کے ذریعہ ماپا جاتا ہے۔ یہ مطلوبہ شرح سے مختلف ہو سکتا ہے کیونکہ نظام بالآخر فیصلہ کرتا ہے کہ مختلف عوامل کی بنیاد پر کون سی شرح فراہم کی جائے۔</string>
+    <string name="aboutScreenGithubLink">گٹ ہب پر اسٹیڈی اسکرین</string>
     <string name="aboutScreenLicenseTitle">🔑 لائسنس</string>
     <string name="aboutScreenLicenseText">یہ ایپلیکیشن مفت ہے اور بغیر کسی پابندی کے کام کرتی ہے۔ تاہم، پیرامیٹرز بغیر لائسنس کے 1 گھنٹے کے بعد اپنی ڈیفالٹ اقدار پر واپس آجائیں گے۔</string>
     <string name="dialogInfoButton">GitHub پر جائیں۔</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">اس کو بڑھانے سے چھوٹے دوغلوں کی حساسیت کم ہو جائے گی اور حرکتیں بڑی قوتوں کے لیے کم حساس ہو جائیں گی۔</string>
     <string name="menuRestoreDefaults">ڈیفالٹس کو بحال کریں۔</string>
     <string name="dialogButtonRateOnPlayStore">پلے اسٹور پر ریٹ کریں۔</string>
-    <string name="paramSensorRateInfo">یہ مطلوبہ سینسر کی شرح کا تعین کرتا ہے۔ اعلی اقدار زیادہ بیٹری استعمال کر سکتی ہیں۔ یہ پیمائش شدہ سینسر کی شرح سے مختلف ہو سکتا ہے کیونکہ نظام بالآخر فیصلہ کرتا ہے کہ کون سا ریٹ فراہم کرنا ہے۔</string>
+    <string name="paramSensorRateInfo">مطلوبہ موشن سینسر کے نمونے لینے کی شرح سیٹ کریں۔ اعلی قدریں زیادہ درستگی فراہم کرتی ہیں، لیکن زیادہ بیٹری استعمال کر سکتی ہیں۔</string>
     <string name="menuIncreaseTextSize">متن کا سائز بڑھائیں۔</string>
     <string name="menuInfo">معلومات</string>
     <string name="loremIpsum">(یہ متن نمائشی مقاصد کے لیے ہے)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">صارفین کی درخواستیں ایونٹس موصول ہونا بند کر دیں گی۔ سروس کو غیر فعال کریں؟</string>
     <string name="aboutScreenAppListTitle">⛵ ایپس</string>
     <string name="menuDisable">غیر فعال کریں۔</string>
-    <string name="aboutScreenAppListText">اس ڈیوائس پر انسٹال کردہ ایپ پیکجز کی فہرست جو سٹیڈی اسکرین فیچر استعمال کرتے ہیں:</string>
+    <string name="aboutScreenAppListText">اس ڈیوائس پر انسٹال کردہ ایپ پیکجز کی فہرست جو SteadyScreen فیچر استعمال کرتے ہیں:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menu غیر فعال</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
