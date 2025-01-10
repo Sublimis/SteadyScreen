@@ -11,7 +11,7 @@
 \n이 서비스를 즐겁게 사용하시기 바랍니다 😊</string>
     <string name="dialogReviewNudgeMessage">이 앱을 즐기고 계신가요\?</string>
     <string name="dialogReviewNudgeMessage2">감사합니다! Play 스토어에서 좋은 리뷰를 쓰거나 5점을 주세요.</string>
-    <string name="paramLinearScalingInfo">이는 계산에 영향을 주지 않고 움직임을 선형적으로 확장하거나 축소합니다.</string>
+    <string name="paramLinearScalingInfo">이는 계산 후 움직임을 조정하여 선형적으로 더 크게 또는 더 작게 만듭니다.</string>
     <string name="licenseItemAlreadyOwned">라이센스 항목은 이미 소유하고 있습니다</string>
     <string name="dialogInfoMessage">기기를 살짝 흔들어 보세요. 배경 콘텐츠가 어떻게 이런 움직임을 부드럽게 만들어서 화면 읽기가 더 쉬워지는지 주목하세요.
 \n
@@ -22,7 +22,7 @@
     <string name="no">아니요</string>
     <string name="licenseSuccessDialogMessage">앱이 성공적으로 라이센스되었습니다. 지원해주셔서 감사합니다!</string>
     <string name="menuAbout">에 대한</string>
-    <string name="paramForceScalingInfo">이는 계산에 앞서 힘의 크기를 조정하여 전체적인 움직임의 크기에 영향을 미칩니다.</string>
+    <string name="paramForceScalingInfo">이는 계산에 앞서 힘의 크기를 조정하여 비선형적인 방식으로 움직임을 더 크게 또는 더 작게 만듭니다.</string>
     <string name="menuLicense">라이센스를 업그레이드하세요</string>
     <string name="openSourceLicensesTitle">오픈소스 라이센스</string>
     <string name="menuDecreaseTextSize">글자 크기 줄이기</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">얼티밋 라이센스</string>
     <string name="measuredSensorRate">측정된 센서 속도</string>
     <string name="menuTheme">주제</string>
-    <string name="measuredSensorRateInfo">앱에서 측정한 현재 센서 속도입니다. 이는 시스템이 궁극적으로 제공할 속도를 결정하기 때문에 원하는 센서 속도와 다를 수 있습니다.</string>
-    <string name="aboutScreenGithubLink">GitHub에서 Steady Screen</string>
+    <string name="measuredSensorRateInfo">애플리케이션에서 측정한 현재 모션 센서 샘플링 속도입니다. 이는 시스템이 궁극적으로 다양한 요인에 따라 제공할 속도를 결정하기 때문에 원하는 속도와 다를 수 있습니다.</string>
+    <string name="aboutScreenGithubLink">GitHub의 SteadyScreen</string>
     <string name="aboutScreenLicenseTitle">🔑 라이센스</string>
     <string name="aboutScreenLicenseText">이 애플리케이션은 무료이며 제한 없이 작동합니다. 그러나 라이선스 없이 1시간 후에 매개변수는 기본값으로 돌아갑니다.</string>
     <string name="dialogInfoButton">GitHub로 이동</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">이것을 늘리면 작은 진동에 대한 민감도가 떨어지고, 큰 힘에 대한 움직임의 민감도가 떨어집니다.</string>
     <string name="menuRestoreDefaults">기본값 복원</string>
     <string name="dialogButtonRateOnPlayStore">Play 스토어에서 평가하기</string>
-    <string name="paramSensorRateInfo">이것은 원하는 센서 속도를 설정합니다. 값이 높을수록 배터리가 더 많이 소모될 수 있습니다. 이는 시스템이 궁극적으로 제공할 속도를 결정하기 때문에 측정된 센서 속도와 다를 수 있습니다.</string>
+    <string name="paramSensorRateInfo">원하는 모션 센서 샘플링 속도를 설정합니다. 값이 높을수록 정확도가 높아지지만 배터리 소모량이 더 많아질 수 있습니다.</string>
     <string name="menuIncreaseTextSize">텍스트 크기 늘리기</string>
     <string name="menuInfo">정보</string>
     <string name="loremIpsum">(이 텍스트는 데모용입니다)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">소비자 애플리케이션은 이벤트 수신을 중단합니다. 서비스를 비활성화하시겠습니까\?</string>
     <string name="aboutScreenAppListTitle">⛵ 앱</string>
     <string name="menuDisable">장애를 입히다</string>
-    <string name="aboutScreenAppListText">이 장치에 설치된 앱 패키지 중 Steady Screen 기능을 사용하는 앱 패키지 목록:</string>
+    <string name="aboutScreenAppListText">SteadyScreen 기능을 사용하는 이 장치에 설치된 앱 패키지 목록:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menu기본값 복원</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/메뉴비활성화</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@문자열/앱_이름</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/메뉴정보</string>
 </resources>
