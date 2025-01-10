@@ -11,7 +11,7 @@
 \nEspero que você goste de usar isso 😊</string>
     <string name="dialogReviewNudgeMessage">Você está gostando deste aplicativo\?</string>
     <string name="dialogReviewNudgeMessage2">Obrigado! Por favor, escreva uma boa avaliação ou nos avalie com 5 estrelas na Play Store.</string>
-    <string name="paramLinearScalingInfo">Isso dimensiona os movimentos linearmente, tornando-os maiores ou menores sem afetar os cálculos.</string>
+    <string name="paramLinearScalingInfo">Isso dimensiona os movimentos após os cálculos, tornando-os linearmente maiores ou menores.</string>
     <string name="licenseItemAlreadyOwned">Item de licença já possuído</string>
     <string name="dialogInfoMessage">Agite um pouco o dispositivo. Observe como o conteúdo de fundo suaviza esses movimentos, facilitando a leitura na tela.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Não</string>
     <string name="licenseSuccessDialogMessage">O aplicativo foi licenciado com sucesso. Obrigado pelo seu apoio!</string>
     <string name="menuAbout">Sobre</string>
-    <string name="paramForceScalingInfo">Isso dimensiona as forças antes dos cálculos, o que por sua vez afeta a magnitude geral dos movimentos.</string>
+    <string name="paramForceScalingInfo">Isso dimensiona as forças antes dos cálculos, o que torna os movimentos maiores ou menores de forma não linear.</string>
     <string name="menuLicense">Atualize sua licença</string>
     <string name="openSourceLicensesTitle">Licenças de código aberto</string>
     <string name="menuDecreaseTextSize">Diminuir tamanho do texto</string>
@@ -42,8 +42,8 @@
     <string name="ultimateLicenseTitle">Licença Ultimate</string>
     <string name="measuredSensorRate">Taxa de sensor medida</string>
     <string name="menuTheme">Tema</string>
-    <string name="measuredSensorRateInfo">Taxa atual do sensor medida pelo aplicativo. Isso pode diferir da taxa desejada do sensor, pois o sistema decide qual taxa fornecer.</string>
-    <string name="aboutScreenGithubLink">Tela estável no GitHub</string>
+    <string name="measuredSensorRateInfo">A taxa de amostragem atual do sensor de movimento, medida pelo aplicativo. Isso pode diferir da taxa desejada porque o sistema, em última análise, decide qual taxa fornecer com base em vários fatores.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen no GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Licença</string>
     <string name="aboutScreenLicenseText">Este aplicativo é gratuito e funciona sem limitações. No entanto, os parâmetros retornarão aos seus valores padrão após 1 hora sem uma licença.</string>
     <string name="dialogInfoButton">Ir para GitHub</string>
@@ -51,7 +51,7 @@
     <string name="paramRecoilInfo">Aumentar isso reduzirá a sensibilidade a pequenas oscilações e tornará os movimentos menos sensíveis a forças maiores.</string>
     <string name="menuRestoreDefaults">Restaurar padrões</string>
     <string name="dialogButtonRateOnPlayStore">Avalie na Play Store</string>
-    <string name="paramSensorRateInfo">Isso define a taxa de sensor desejada. Valores mais altos podem consumir mais bateria. Isso pode diferir da taxa de sensor medida, pois o sistema decide qual taxa fornecer.</string>
+    <string name="paramSensorRateInfo">Defina a taxa de amostragem do sensor de movimento desejada. Valores mais altos fornecem maior precisão, mas podem consumir mais bateria.</string>
     <string name="menuIncreaseTextSize">Aumentar o tamanho do texto</string>
     <string name="menuInfo">Informações</string>
     <string name="loremIpsum">(Este texto é para fins de demonstração)
@@ -133,5 +133,9 @@
     <string name="dialogServiceDisableMessage">Os aplicativos do consumidor deixarão de receber eventos. Desabilitar serviço\?</string>
     <string name="aboutScreenAppListTitle">⛵ Aplicativos</string>
     <string name="menuDisable">Desabilitar</string>
-    <string name="aboutScreenAppListText">Lista de pacotes de aplicativos instalados neste dispositivo que usam o recurso Tela Estável:</string>
+    <string name="aboutScreenAppListText">Lista de pacotes de aplicativos instalados neste dispositivo que usam o recurso SteadyScreen:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestaurarPadrões</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDesabilitar</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@string/nome_do_aplicativo</string>
+    <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
 </resources>
