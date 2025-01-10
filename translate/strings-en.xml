@@ -2,10 +2,10 @@
 
     <string name="appDesc">Make reading on the go more enjoyable!\n\n⛵ This service allows compatible applications to easily counteract small device movements within their user interface.\n\n🏝️ This improves screen readability of a handheld device while walking or traveling.\n\n⚡ Service has been crafted very meticulously, in order to minimize resource usage and maximize performance. More info can be found on our GitHub.\n\nHope you enjoy using this 😊</string>
     <string name="aboutScreenAppListTitle">⛵ Apps</string>
-    <string name="aboutScreenAppListText">List of app packages installed on this device that use the Steady Screen feature:</string>
+    <string name="aboutScreenAppListText">List of app packages installed on this device that use the SteadyScreen feature:</string>
     <string name="aboutScreenLicenseTitle">🔑 License</string>
     <string name="aboutScreenLicenseText">This application is free and works without limitations. However, the parameters will return to their default values after 1 hour without a license.</string>
-    <string name="aboutScreenGithubLink">Steady Screen on GitHub</string>
+    <string name="aboutScreenGithubLink">SteadyScreen on GitHub</string>
     <string name="openSourceLicensesTitle">Open source licenses</string>
 
     <string name="dialogConsentButton">Accept</string>
@@ -39,12 +39,12 @@
     <string name="paramLinearScaling">Linear scaling</string>
     <string name="paramForceScaling">Force scaling</string>
 
-    <string name="paramSensorRateInfo">This sets the desired sensor rate. Higher values may consume more battery. This may differ from the measured sensor rate as the system ultimately decides which rate to provide.</string>
+    <string name="paramSensorRateInfo">Set the desired motion sensor sampling rate. Higher values provide greater accuracy, but may consume more battery.</string>
     <string name="paramDampingInfo">Increasing this will slow down and attenuate movements, making them less sensitive to larger forces.</string>
     <string name="paramRecoilInfo">Increasing this will reduce sensitivity to small oscillations and make movements less sensitive to larger forces.</string>
-    <string name="paramLinearScalingInfo">This scales the movements linearly, making them larger or smaller without affecting the calculations.</string>
-    <string name="paramForceScalingInfo">This scales the forces before calculations, which in turn affects the overall magnitude of movements.</string>
-    <string name="measuredSensorRateInfo">Current sensor rate as measured by the app. This may differ from the desired sensor rate as the system ultimately decides which rate to provide.</string>
+    <string name="paramLinearScalingInfo">This scales the movements after calculations, making them linearly larger or smaller.</string>
+    <string name="paramForceScalingInfo">This scales the forces before calculations, which makes the movements larger or smaller in a nonlinear way.</string>
+    <string name="measuredSensorRateInfo">The current motion sensor sampling rate as measured by the application. This may differ from the desired rate because the system ultimately decides what rate to provide based on various factors.</string>
 
     <string name="yes">Yes</string>
     <string name="no">No</string>
