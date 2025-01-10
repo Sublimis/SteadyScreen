@@ -11,7 +11,7 @@
 \nVona að þú hafir gaman af að nota þetta 😊</string>
     <string name="dialogReviewNudgeMessage">Ertu að njóta þessa apps\?</string>
     <string name="dialogReviewNudgeMessage2">Takk! Vinsamlegast skrifaðu góða umsögn eða gefðu okkur 5 stjörnur í Play Store.</string>
-    <string name="paramLinearScalingInfo">Þetta skalar hreyfingarnar línulega, gerir þær stærri eða minni án þess að hafa áhrif á útreikningana.</string>
+    <string name="paramLinearScalingInfo">Þetta skalar hreyfingarnar eftir útreikninga og gerir þær línulega stærri eða minni.</string>
     <string name="licenseItemAlreadyOwned">Leyfishlutur er þegar í eigu</string>
     <string name="dialogInfoMessage">Hristið tækið aðeins. Taktu eftir því hvernig bakgrunnsinnihaldið mýkir þessar hreyfingar og gerir lestur á skjánum auðveldari.
 \n
@@ -22,7 +22,7 @@
     <string name="no">Nei</string>
     <string name="licenseSuccessDialogMessage">Forritið fékk leyfi. Þakka þér fyrir stuðninginn!</string>
     <string name="menuAbout">Um</string>
-    <string name="paramForceScalingInfo">Þetta skalar kraftana fyrir útreikninga, sem aftur hefur áhrif á heildarstærð hreyfinga.</string>
+    <string name="paramForceScalingInfo">Þetta skalar kraftana fyrir útreikninga, sem gerir hreyfingarnar stærri eða minni á ólínulegan hátt.</string>
     <string name="menuLicense">Uppfærðu leyfið þitt</string>
     <string name="openSourceLicensesTitle">Opinn uppspretta leyfi</string>
     <string name="menuDecreaseTextSize">Minnka textastærð</string>
@@ -117,8 +117,8 @@
     <string name="ultimateLicenseTitle">Fullkomið leyfi</string>
     <string name="measuredSensorRate">Mældur skynjarahraði</string>
     <string name="menuTheme">Þema</string>
-    <string name="measuredSensorRateInfo">Núverandi skynjarahraði eins og mældur með appinu. Þetta getur verið frábrugðið æskilegum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
-    <string name="aboutScreenGithubLink">Stöðugur skjár á GitHub</string>
+    <string name="measuredSensorRateInfo">Núverandi sýnatökuhraði hreyfiskynjara eins og hún er mæld af forritinu. Þetta getur verið frábrugðið æskilegu gjaldi vegna þess að kerfið ákveður að lokum hvaða taxta á að veita út frá ýmsum þáttum.</string>
+    <string name="aboutScreenGithubLink">SteadyScreen á GitHub</string>
     <string name="aboutScreenLicenseTitle">🔑 Leyfi</string>
     <string name="aboutScreenLicenseText">Þetta forrit er ókeypis og virkar án takmarkana. Hins vegar munu færibreyturnar fara aftur í sjálfgefnar gildi eftir 1 klukkustund án leyfis.</string>
     <string name="dialogInfoButton">Farðu á GitHub</string>
@@ -126,12 +126,16 @@
     <string name="paramRecoilInfo">Með því að auka þetta mun draga úr næmni fyrir litlum sveiflum og gera hreyfingar minna næmar fyrir stærri kröftum.</string>
     <string name="menuRestoreDefaults">Endurheimta sjálfgefna stillingar</string>
     <string name="dialogButtonRateOnPlayStore">Gefðu einkunn í Play Store</string>
-    <string name="paramSensorRateInfo">Þetta stillir æskilegan skynjarahraða. Hærri gildi gætu eytt meiri rafhlöðu. Þetta getur verið frábrugðið mældum skynjarahraða þar sem kerfið ákveður að lokum hvaða hraða á að veita.</string>
+    <string name="paramSensorRateInfo">Stilltu æskilegan sýnatökuhraða hreyfiskynjara. Hærri gildi veita meiri nákvæmni en geta eytt meiri rafhlöðu.</string>
     <string name="menuIncreaseTextSize">Auka textastærð</string>
     <string name="menuInfo">Upplýsingar</string>
     <string name="menuEnable">Virkja</string>
     <string name="dialogServiceDisableMessage">Neytendaumsóknir hætta að fá viðburði. Slökkva á þjónustu\?</string>
     <string name="aboutScreenAppListTitle">⛵ Forrit</string>
     <string name="menuDisable">Óvirkja</string>
-    <string name="aboutScreenAppListText">Listi yfir forritapakka sem eru settir upp á þessu tæki sem nota stöðugan skjá eiginleika:</string>
+    <string name="aboutScreenAppListText">Listi yfir forritapakka sem eru settir upp á þessu tæki sem nota SteadyScreen eiginleikann:</string>
+    <string name="dialogRestoreDefaultsTitle" translatable="false">\@string/menuRestoreDefaults</string>
+    <string name="dialogServiceDisableTitle" translatable="false">\@streng/menuSlökkva</string>
+    <string name="licenseSuccessDialogTitle" translatable="false">\@streng/app_nafn</string>
+    <string name="dialogInfoTitle" translatable="false">\@streng/menuInfo</string>
 </resources>
