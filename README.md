@@ -1,19 +1,17 @@
 # ⛵ [SteadyScreen](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) service for Android and Wear 🏝️
 
-### Make on-screen reading easier by softening small movements of mobile screens.
+### Improve screen readability of a handheld device while walking or traveling
+
+Make reading on the go more enjoyable!
 
 
-Ever been in a moving vehicle trying to read?
-
-
-- This is a service that allows compatible Android and Wear apps to easily soften small device movements within their user interface.
-- It can improve screen readability and possibly alleviate motion sickness while on the go, e.g. while reading in a moving vehicle or walking.
+- This service allows compatible Android and Wear applications to easily counteract small device movements within their user interface.
+- This improves screen readability of a handheld device while walking or traveling.
 
 
 ## How to make your application compatible
 
-- The easiest way is to use the [SteadyViews](https://github.com/Sublimis/SteadyViews) library, which contains ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
-- Use the [SteadyView](https://github.com/Sublimis/SteadyView) library if you have a custom View or ViewGroup that you want to make compatible.
+- Use the [SteadyScreenLib](https://github.com/Sublimis/SteadyScreenLib) library.
 
 
 ## What happens if the service is not installed
@@ -21,40 +19,23 @@ Ever been in a moving vehicle trying to read?
 Absolutely nothing. Your Views and ViewGroups continue to function as if the SteadyScreen service never existed. They will never get a callback from the service, so nothing happens.
 
 
-## Enable or disable programatically
-
-Call the `ISteadyView.setSteadyViewEnabled(final boolean enabled)` method on your ISteadyView to disable or (re)enable the functionality.
-
-Disable:
-```java
-myView.setSteadyViewEnabled(false);
-```
-
-Enable:
-```java
-myView.setSteadyViewEnabled(true);
-```
-
-Note, this does not disable/enable the service, it just tells the View to ignore all service inputs.
-Call the `boolean ISteadyView.isSteadyViewEnabled()` on your ISteadyView to check the enabled state.
-
-
 ## List of apps supporting SteadyScreen service
 
-(as of 2024-05)
+(as of 2025-01)
 
-- [Wikipedia (developer build)](https://github.com/Sublimis/SteadyScreen/tree/main/wikipedia-android): We compiled this from [the original source](https://github.com/Sublimis/apps-android-wikipedia) on 2024-03-22. You are welcome to compile your own APK.
-
-- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization implementation.
+- [Wikipedia](https://github.com/Sublimis/wikipedia-steady): Forked
+  from [the original source code](https://github.com/Sublimis/apps-android-wikipedia). You are welcome to compile your own APK from this.
+- [Next Player](https://github.com/Sublimis/nextplayer-steady): Forked
+  from [the original source code](https://github.com/anilbeesetti/nextplayer). You are welcome to compile your own APK from this.
+- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization
+  implementation.
 
 *Let us know if you've made an app that should be included in the list!*
 
 
 ## About the service
 
-[SteadyScreen service](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) application uses the [AccessibilityService API](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) to retrieve interactive windows on the screen, in order to find compatible ones. It then sends multiple "move window" accessibility actions to such windows, as needed, to perform the intended function. The service never collects, stores nor shares any data that can be of personal and confidential nature in any way.
-
-⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. It uses only the accelerometer sensor to achieve the goal.
+⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance.
 
 
 ##  :mortar_board: Translations
@@ -76,15 +57,7 @@ Also, translators are rewarded with free app licenses. Please [contact us via em
 [https://urban-bike-computer.com/translate/](https://urban-bike-computer.com/translate/)
 
 
-
 ## History
 
-The technology behind the SteadyScreen first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to realize it was cool enough to release it as a separate semi-open source project.
-
-
-## Project components
-
-- [SteadyScreen service app](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen): The engine behind the scenes.
-- [SteadyViews library](https://github.com/Sublimis/SteadyViews): Ready-to-use "Steady…" implementations of most common Android layouts (like e.g. LinearLayout or ConstraintLayout).
-- [SteadyView library](https://github.com/Sublimis/SteadyView): Core classes and methods. To be used for custom View or ViewGroup implementations.
-- [SteadyService library](https://github.com/Sublimis/SteadyService): Details of the service implementation.
+The technology behind the SteadyScreen first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to
+realize it was cool enough to release it as a separate semi-open source project.
