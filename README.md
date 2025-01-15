@@ -7,7 +7,7 @@ Make reading on the go more enjoyable!
 - This service allows compatible Android and Wear applications to easily counteract small device movements within their user interface.
 - This improves screen readability of a handheld device while walking or traveling.
 
-## 🏁 How to make your application compatible
+## 🎯 How to use in your app
 
 - [SteadyScreenLib](https://github.com/Sublimis/SteadyScreenLib) library makes it very easy (component available from the Maven Central).
 
