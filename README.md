@@ -9,17 +9,17 @@ Make reading on the go more enjoyable!
 - This improves screen readability of a handheld device while walking or traveling.
 
 
-## How to make your application compatible
+## 🏁 How to make your application compatible
 
-- Use the [SteadyScreenLib](https://github.com/Sublimis/SteadyScreenLib) library.
+- It's very easy by using the [SteadyScreenLib](https://github.com/Sublimis/SteadyScreenLib) library (available from the Maven Central).
 
 
-## What happens if the service is not installed
+## 😶 What happens if the service is not installed
 
 Absolutely nothing. Your Views and ViewGroups continue to function as if the SteadyScreen service never existed. They will never get a callback from the service, so nothing happens.
 
 
-## List of apps supporting SteadyScreen service
+## 📜 List of apps supporting SteadyScreen service
 
 (as of 2025-01)
 
@@ -33,12 +33,12 @@ Absolutely nothing. Your Views and ViewGroups continue to function as if the Ste
 *Let us know if you've made an app that should be included in the list!*
 
 
-## About the service
+## ℹ️ About the service
 
-⚡ The service has been crafted very meticulously, in order to minimize resource usage and maximize performance.
+The service has been crafted very meticulously, in order to minimize resource usage and maximize performance. ⚡
 
 
-##  :mortar_board: Translations
+## 🎓 Translations
 
 #### Contribute
 
@@ -57,7 +57,7 @@ Also, translators are rewarded with free app licenses. Please [contact us via em
 [https://urban-bike-computer.com/translate/](https://urban-bike-computer.com/translate/)
 
 
-## History
+## ⌛ History
 
 The technology behind the SteadyScreen first appeared in our [Urban Biker](https://urban-bike-computer.com/) app in late 2022. It took us a while to
 realize it was cool enough to release it as a separate semi-open source project.
