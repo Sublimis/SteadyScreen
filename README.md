@@ -42,14 +42,14 @@ Absolutely nothing. Your Views and ViewGroups continue to function as if the Ste
 
 #### Contribute
 
-[https://translate.urban-bike-computer.com/engage/stilly/](https://translate.urban-bike-computer.com/engage/stilly/)
+[https://translate.urban-bike-computer.com/projects/steadyscreen/](https://translate.urban-bike-computer.com/projects/steadyscreen/)
 
 
 #### Why translate?
 
 To see the app in your native language, and to support the project!
 
-Also, translators are rewarded with free app licenses. Please [contact us via email](mailto:contact@urban-bike-computer.com?subject=Stilly_translation_license_request) to obtain your license!
+Also, translators are rewarded with free app licenses. Please [contact us via email](mailto:contact@urban-bike-computer.com?subject=SteadyScreen_translation_license_request) to obtain your license!
 
 
 #### More info
