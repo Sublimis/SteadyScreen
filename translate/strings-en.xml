@@ -38,6 +38,8 @@
     <string name="paramRecoil">Recoil</string>
     <string name="paramLinearScaling">Linear scaling</string>
     <string name="paramForceScaling">Force scaling</string>
+    <string name="paramMaxAmpX">X amplitude</string>
+    <string name="paramMaxAmpY">Y amplitude</string>
 
     <string name="paramSensorRateInfo">Set the desired motion sensor sampling rate. Higher values provide greater accuracy, but may consume more battery.</string>
     <string name="paramDampingInfo">Increasing this will slow down and attenuate movements, making them less sensitive to larger forces.</string>
@@ -45,6 +47,8 @@
     <string name="paramLinearScalingInfo">This scales the movements after calculations, making them linearly larger or smaller.</string>
     <string name="paramForceScalingInfo">This scales the forces before calculations, which makes the movements larger or smaller in a nonlinear way.</string>
     <string name="measuredSensorRateInfo">The current motion sensor sampling rate as measured by the application. This may differ from the desired rate because the system ultimately decides what rate to provide based on various factors.</string>
+    <string name="paramMaxAmpXInfo">Increase this to allow for larger movements in horizontal direction.\n\nDecrease all the way down to effectively disable horizontal movements.</string>
+    <string name="paramMaxAmpYInfo">Increase this to allow for larger movements in vertical direction.\n\nDecrease all the way down to effectively disable vertical movements.</string>
 
     <string name="yes">Yes</string>
     <string name="no">No</string>
