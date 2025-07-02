@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Πλάτος Υ</string>
+    <string name="paramMaxAmpYInfo">Αυξήστε αυτό για να επιτρέψετε μεγαλύτερες κινήσεις σε κάθετη κατεύθυνση.
+\n
+\nΜειώστε το μέχρι κάτω για να απενεργοποιήσετε αποτελεσματικά τις κάθετες κινήσεις.</string>
+    <string name="paramMaxAmpX">Πλάτος X</string>
+    <string name="paramMaxAmpXInfo">Αυξήστε αυτό για να επιτρέψετε μεγαλύτερες κινήσεις σε οριζόντια κατεύθυνση.
+\n
+\nΜειώστε το μέχρι κάτω για να απενεργοποιήσετε αποτελεσματικά τις οριζόντιες κινήσεις.</string>
 </resources>
