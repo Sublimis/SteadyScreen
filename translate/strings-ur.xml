@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menu غیر فعال</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y طول و عرض</string>
+    <string name="paramMaxAmpYInfo">عمودی سمت میں بڑی نقل و حرکت کی اجازت دینے کے لیے اس میں اضافہ کریں۔
+\n
+\nعمودی نقل و حرکت کو مؤثر طریقے سے غیر فعال کرنے کے لیے نیچے کی طرف کم کریں۔</string>
+    <string name="paramMaxAmpX">ایکس طول و عرض</string>
+    <string name="paramMaxAmpXInfo">افقی سمت میں بڑی نقل و حرکت کی اجازت دینے کے لیے اس میں اضافہ کریں۔
+\n
+\nافقی حرکات کو مؤثر طریقے سے غیر فعال کرنے کے لیے نیچے کے تمام راستے کو کم کریں۔</string>
 </resources>
