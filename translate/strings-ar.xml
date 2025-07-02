@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuتعطيل</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@سلسلة/اسم التطبيق</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">سعة Y</string>
+    <string name="paramMaxAmpYInfo">زد هذا للسماح بحركات أكبر في الاتجاه الرأسي.
+\n
+\nاخفضه بالكامل لتعطيل الحركات الرأسية بفعالية.</string>
+    <string name="paramMaxAmpX">سعة X</string>
+    <string name="paramMaxAmpXInfo">زد هذا للسماح بحركات أفقية أكبر.
+\n
+\nاخفضه بالكامل لتعطيل الحركات الأفقية بفعالية.</string>
 </resources>
