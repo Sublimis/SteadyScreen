@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuWyłącz</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/nazwa_aplikacji</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Amplituda Y</string>
+    <string name="paramMaxAmpYInfo">Zwiększ to, aby umożliwić większe ruchy w kierunku pionowym.
+\n
+\nZmniejsz całkowicie, aby skutecznie wyłączyć ruchy pionowe.</string>
+    <string name="paramMaxAmpX">Amplituda X</string>
+    <string name="paramMaxAmpXInfo">Zwiększ to, aby umożliwić większe ruchy w kierunku poziomym.
+\n
+\nZmniejsz całkowicie, aby skutecznie wyłączyć ruchy poziome.</string>
 </resources>
