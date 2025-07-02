@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y amplitude</string>
+    <string name="paramMaxAmpYInfo">Palakihin ito upang payagan ang mas malalaking paggalaw sa patayong direksyon.
+\n
+\nBawasan ang lahat ng paraan pababa upang epektibong hindi paganahin ang mga vertical na paggalaw.</string>
+    <string name="paramMaxAmpX">X amplitude</string>
+    <string name="paramMaxAmpXInfo">Dagdagan ito upang bigyang-daan ang malalaking paggalaw sa pahalang na direksyon.
+\n
+\nBawasan ang lahat ng paraan pababa upang epektibong hindi paganahin ang mga pahalang na paggalaw.</string>
 </resources>
