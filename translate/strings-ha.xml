@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y amplitude</string>
+    <string name="paramMaxAmpYInfo">Ƙara wannan don ba da damar yin manyan motsi a tsaye.
+\n
+\nRage har zuwa ƙasa don kashe motsi na tsaye yadda ya kamata.</string>
+    <string name="paramMaxAmpX">Girman X</string>
+    <string name="paramMaxAmpXInfo">Ƙara wannan don ba da damar yin manyan motsi a cikin madaidaiciyar hanya.
+\n
+\nRage har zuwa ƙasa don murkushe ƙungiyoyin kwance yadda ya kamata.</string>
 </resources>
