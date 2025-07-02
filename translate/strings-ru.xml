@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/имя_приложения</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Амплитуда Y</string>
+    <string name="paramMaxAmpYInfo">Увеличьте это значение, чтобы разрешить более значительные перемещения в вертикальном направлении.
+\n
+\nУменьшите до конца, чтобы эффективно отключить вертикальные перемещения.</string>
+    <string name="paramMaxAmpX">Амплитуда X</string>
+    <string name="paramMaxAmpXInfo">Увеличьте это значение, чтобы разрешить более крупные перемещения в горизонтальном направлении.
+\n
+\nУменьшите до конца, чтобы эффективно отключить горизонтальные перемещения.</string>
 </resources>
