@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDhiisii</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/maqaa_appii</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuOdeeffannoo</string>
+    <string name="paramMaxAmpY">Y ampiliituudii</string>
+    <string name="paramMaxAmpYInfo">Sochii gurguddaa kallattii dhaabbataatiin akka hayyamamuuf kana dabali.
+\n
+\nSochii dhaabbataa bu\'a qabeessa ta\'een hojii irraa oolchuuf karaa hunda gadi hir\'isi.</string>
+    <string name="paramMaxAmpX">X ampiliituudii</string>
+    <string name="paramMaxAmpXInfo">Sochii gurguddaa kallattii qajeelaatiin akka hayyamamuuf kana dabali.
+\n
+\nSochiiwwan qajeeloo bu\'a qabeessa ta\'een hojii irraa oolchuuf karaa hunda gadi hir\'isi.</string>
 </resources>
