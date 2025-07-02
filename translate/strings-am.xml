@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y ስፋት</string>
+    <string name="paramMaxAmpYInfo">በአቀባዊ አቅጣጫ ትላልቅ እንቅስቃሴዎችን ለማድረግ ይህንን ይጨምሩ።
+\n
+\nቀጥ ያሉ እንቅስቃሴዎችን በተሳካ ሁኔታ ለማሰናከል እስከ ታች ድረስ ይቀንሱ።</string>
+    <string name="paramMaxAmpX">X ስፋት</string>
+    <string name="paramMaxAmpXInfo">በአግድም አቅጣጫ ትላልቅ እንቅስቃሴዎችን ለማድረግ ይህንን ይጨምሩ።
+\n
+\nአግድም እንቅስቃሴዎችን በተሳካ ሁኔታ ለማሰናከል እስከ ታች ድረስ ይቀንሱ።</string>
 </resources>
