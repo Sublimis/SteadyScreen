@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menu अक्षम करा</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y मोठेपणा</string>
+    <string name="paramMaxAmpYInfo">उभ्या दिशेने मोठ्या हालचाली करण्यासाठी हे वाढवा.
+\n
+\nउभ्या हालचाली प्रभावीपणे अक्षम करण्यासाठी पूर्णपणे खाली कमी करा.</string>
+    <string name="paramMaxAmpX">एक्स मोठेपणा</string>
+    <string name="paramMaxAmpXInfo">क्षैतिज दिशेने मोठ्या हालचालींना अनुमती देण्यासाठी हे वाढवा.
+\n
+\nक्षैतिज हालचाली प्रभावीपणे अक्षम करण्यासाठी पूर्णपणे खाली कमी करा.</string>
 </resources>
