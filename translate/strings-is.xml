@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@streng/menuSlökkva</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@streng/app_nafn</string>
     <string name="dialogInfoTitle" translatable="false">\@streng/menuInfo</string>
+    <string name="paramMaxAmpY">Y-vídd</string>
+    <string name="paramMaxAmpYInfo">Aukið þetta til að leyfa stærri hreyfingar í lóðrétta átt.
+\n
+\nLækkið þetta alveg niður til að gera lóðréttar hreyfingar óvirkar.</string>
+    <string name="paramMaxAmpX">X sveifluvídd</string>
+    <string name="paramMaxAmpXInfo">Aukið þetta til að leyfa stærri hreyfingar í lárétta átt.
+\n
+\nLækkið þetta alveg niður til að gera láréttar hreyfingar óvirkar.</string>
 </resources>
