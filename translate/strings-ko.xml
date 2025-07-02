@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/메뉴비활성화</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@문자열/앱_이름</string>
     <string name="dialogInfoTitle" translatable="false">\@string/메뉴정보</string>
+    <string name="paramMaxAmpY">Y 진폭</string>
+    <string name="paramMaxAmpYInfo">수직 방향으로 더 큰 움직임을 허용하려면 이 값을 높이세요.
+\n
+\n수직 방향으로의 움직임을 효과적으로 비활성화하려면 값을 최대한 낮추세요.</string>
+    <string name="paramMaxAmpX">X 진폭</string>
+    <string name="paramMaxAmpXInfo">수평 방향으로 더 큰 움직임을 허용하려면 이 값을 높이세요.
+\n
+\n수평 방향으로의 움직임을 효과적으로 비활성화하려면 값을 최대한 낮추세요.</string>
 </resources>
