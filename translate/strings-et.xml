@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuKeela</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/rakenduse_nimi</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y-amplituud</string>
+    <string name="paramMaxAmpYInfo">Suurenda seda, et võimaldada suuremaid liikumisi vertikaalses suunas.
+\n
+\nVähenda täielikult, et vertikaalsed liikumised tõhusalt keelata.</string>
+    <string name="paramMaxAmpX">X-amplituud</string>
+    <string name="paramMaxAmpXInfo">Suurenda seda, et võimaldada suuremaid horisontaalseid liikumisi.
+\n
+\nVähenda täielikult, et horisontaalsed liikumised tõhusalt keelata.</string>
 </resources>
