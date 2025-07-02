@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@streng/menuDeaktiver</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@streng/app_navn</string>
     <string name="dialogInfoTitle" translatable="false">\@streng/menuInfo</string>
+    <string name="paramMaxAmpY">Y-amplitude</string>
+    <string name="paramMaxAmpYInfo">Øg dette for at muliggøre større bevægelser i lodret retning.
+\n
+\nSænk helt ned for effektivt at deaktivere lodrette bevægelser.</string>
+    <string name="paramMaxAmpX">X-amplitude</string>
+    <string name="paramMaxAmpXInfo">Øg dette for at muliggøre større bevægelser i vandret retning.
+\n
+\nSænk helt ned for effektivt at deaktivere vandrette bevægelser.</string>
 </resources>
