@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuVô hiệu hóa</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/tên_ứng_dụng</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuThông tin</string>
+    <string name="paramMaxAmpY">biên độ Y</string>
+    <string name="paramMaxAmpYInfo">Tăng mức này để cho phép chuyển động lớn hơn theo hướng thẳng đứng.
+\n
+\nGiảm xuống hết cỡ để vô hiệu hóa hiệu quả các chuyển động thẳng đứng.</string>
+    <string name="paramMaxAmpX">Biên độ X</string>
+    <string name="paramMaxAmpXInfo">Tăng mức này để cho phép chuyển động lớn hơn theo hướng ngang.
+\n
+\nGiảm xuống hết cỡ để vô hiệu hóa hiệu quả các chuyển động ngang.</string>
 </resources>
