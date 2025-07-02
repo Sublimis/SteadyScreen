@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuPateni</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">amplitudo Y</string>
+    <string name="paramMaxAmpYInfo">Tambah iki kanggo ngidini gerakan luwih gedhe ing arah vertikal.
+\n
+\nNyuda kabeh mudhun kanggo mateni gerakan vertikal kanthi efektif.</string>
+    <string name="paramMaxAmpX">X amplitudo</string>
+    <string name="paramMaxAmpXInfo">Tambah iki kanggo ngidini gerakan luwih gedhe ing arah horisontal.
+\n
+\nNyuda kabeh mudhun kanggo mateni gerakan horisontal kanthi efektif.</string>
 </resources>
