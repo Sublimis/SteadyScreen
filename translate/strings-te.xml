@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y వ్యాప్తి</string>
+    <string name="paramMaxAmpYInfo">నిలువు దిశలో పెద్ద కదలికలను అనుమతించడానికి దీన్ని పెంచండి.
+\n
+\nనిలువు కదలికలను సమర్థవంతంగా నిలిపివేయడానికి పూర్తిగా క్రిందికి తగ్గించండి.</string>
+    <string name="paramMaxAmpX">X వ్యాప్తి</string>
+    <string name="paramMaxAmpXInfo">క్షితిజ సమాంతర దిశలో పెద్ద కదలికలను అనుమతించడానికి దీన్ని పెంచండి.
+\n
+\nక్షితిజ సమాంతర కదలికలను సమర్థవంతంగా నిలిపివేయడానికి పూర్తిగా క్రిందికి తగ్గించండి.</string>
 </resources>
