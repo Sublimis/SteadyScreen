@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuIšjungti</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/programos_pavadinimas</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y amplitudė</string>
+    <string name="paramMaxAmpYInfo">Padidinkite šį rodiklį, kad vertikaliai judėtų didesnius judesius.
+\n
+\nSumažinkite iki galo, kad vertikalius judesius efektyviai išjungtumėte.</string>
+    <string name="paramMaxAmpX">X amplitudė</string>
+    <string name="paramMaxAmpXInfo">Padidinkite šį rodiklį, kad horizontaliai judėtų didesnius judesius.
+\n
+\nSumažinkite iki galo, kad horizontaliai judėtų efektyviai.</string>
 </resources>
