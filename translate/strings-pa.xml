@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menu ਅਯੋਗ</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y ਐਪਲੀਟਿਊਡ</string>
+    <string name="paramMaxAmpYInfo">ਇਸਨੂੰ ਵਧਾਓ ਤਾਂ ਜੋ ਲੰਬਕਾਰੀ ਦਿਸ਼ਾ ਵਿੱਚ ਵੱਡੀਆਂ ਹਰਕਤਾਂ ਹੋ ਸਕਣ।
+\n
+\nਲੰਬਕਾਰੀ ਹਰਕਤਾਂ ਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਅਯੋਗ ਕਰਨ ਲਈ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹੇਠਾਂ ਵੱਲ ਘਟਾਓ।</string>
+    <string name="paramMaxAmpX">X ਐਪਲੀਟਿਊਡ</string>
+    <string name="paramMaxAmpXInfo">ਇਸਨੂੰ ਵਧਾਓ ਤਾਂ ਜੋ ਖਿਤਿਜੀ ਦਿਸ਼ਾ ਵਿੱਚ ਵੱਡੀਆਂ ਹਰਕਤਾਂ ਹੋ ਸਕਣ।
+\n
+\nਖਿਤਿਜੀ ਹਰਕਤਾਂ ਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਢੰਗ ਨਾਲ ਅਯੋਗ ਕਰਨ ਲਈ ਪੂਰੀ ਤਰ੍ਹਾਂ ਹੇਠਾਂ ਵੱਲ ਘਟਾਓ।</string>
 </resources>
