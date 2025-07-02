@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuZakázat</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/název_aplikace</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Amplituda Y</string>
+    <string name="paramMaxAmpYInfo">Zvyšte toto pro umožnění větších pohybů ve svislém směru.
+\n
+\nSnižte toto úplně dolů pro efektivní deaktivaci svislých pohybů.</string>
+    <string name="paramMaxAmpX">Amplituda X</string>
+    <string name="paramMaxAmpXInfo">Zvyšte toto pro umožnění větších pohybů v horizontálním směru.
+\n
+\nSnižte toto úplně dolů pro efektivní deaktivaci horizontálních pohybů.</string>
 </resources>
