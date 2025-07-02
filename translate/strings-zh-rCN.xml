@@ -136,4 +136,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/应用程序名称</string>
     <string name="dialogInfoTitle" translatable="false">\@string/菜单信息</string>
+    <string name="paramMaxAmpY">Y 振幅</string>
+    <string name="paramMaxAmpYInfo">增加此值可允许在垂直方向上进行更大的移动。
+\n
+\n完全减少此值可有效禁用垂直移动。</string>
+    <string name="paramMaxAmpX">X 振幅</string>
+    <string name="paramMaxAmpXInfo">增加此值可允许水平方向的更大移动。
+\n
+\n完全减少此值可有效禁用水平移动。</string>
 </resources>
