@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@низ/име_на_приложение</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y амплитуда</string>
+    <string name="paramMaxAmpYInfo">Увеличете това, за да позволите по-големи движения във вертикална посока.
+\n
+\nНамалете напълно, за да деактивирате ефективно вертикалните движения.</string>
+    <string name="paramMaxAmpX">X амплитуда</string>
+    <string name="paramMaxAmpXInfo">Увеличете това, за да позволите по-големи движения в хоризонтална посока.
+\n
+\nНамалете напълно, за да деактивирате ефективно хоризонталните движения.</string>
 </resources>
