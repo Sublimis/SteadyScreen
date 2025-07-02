@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y amplitúdó</string>
+    <string name="paramMaxAmpYInfo">Növelje ezt, hogy nagyobb függőleges irányú mozgásokat tegyen lehetővé.
+\n
+\nCsökkentse teljesen a függőleges mozgások hatékony letiltásához.</string>
+    <string name="paramMaxAmpX">X amplitúdó</string>
+    <string name="paramMaxAmpXInfo">Növelje ezt, hogy nagyobb vízszintes irányú mozgásokat tegyen lehetővé.
+\n
+\nCsökkentse teljesen a vízszintes mozgások hatékony letiltásához.</string>
 </resources>
