@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuLumpuhkan</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">amplitud Y</string>
+    <string name="paramMaxAmpYInfo">Tingkatkan ini untuk membolehkan pergerakan yang lebih besar dalam arah menegak.
+\n
+\nKurangkan sepenuhnya untuk melumpuhkan pergerakan menegak dengan berkesan.</string>
+    <string name="paramMaxAmpX">amplitud X</string>
+    <string name="paramMaxAmpXInfo">Tingkatkan ini untuk membolehkan pergerakan yang lebih besar dalam arah mendatar.
+\n
+\nKurangkan sepenuhnya untuk melumpuhkan pergerakan mendatar dengan berkesan.</string>
 </resources>
