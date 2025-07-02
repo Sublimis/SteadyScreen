@@ -136,4 +136,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDevre Dışı Bırak</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/uygulama_adı</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuBilgisi</string>
+    <string name="paramMaxAmpY">Y genliği</string>
+    <string name="paramMaxAmpYInfo">Dikey yönde daha büyük hareketlere izin vermek için bunu artırın.
+\n
+\nDikey hareketleri etkili bir şekilde devre dışı bırakmak için tamamen aşağı doğru azaltın.</string>
+    <string name="paramMaxAmpX">X genliği</string>
+    <string name="paramMaxAmpXInfo">Yatay yönde daha büyük hareketlere izin vermek için bunu artırın.
+\n
+\nYatay hareketleri etkili bir şekilde devre dışı bırakmak için tamamen aşağı doğru azaltın.</string>
 </resources>
