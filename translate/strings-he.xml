@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">משרעת Y</string>
+    <string name="paramMaxAmpYInfo">הגדל את הערך הזה כדי לאפשר תנועות גדולות יותר בכיוון אנכי.
+\n
+\nהקטן עד הסוף כדי להשבית ביעילות תנועות אנכיות.</string>
+    <string name="paramMaxAmpX">אמפליטודה X</string>
+    <string name="paramMaxAmpXInfo">הגדל את הערך הזה כדי לאפשר תנועות גדולות יותר בכיוון אופקי.
+\n
+\nהקטן עד הסוף כדי להשבית ביעילות תנועות אופקיות.</string>
 </resources>
