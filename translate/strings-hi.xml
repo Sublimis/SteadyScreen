@@ -128,4 +128,10 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@स्ट्रिंग/मेनूअक्षम</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@स्ट्रिंग/ऐप_नाम</string>
     <string name="dialogInfoTitle" translatable="false">\@स्ट्रिंग/मेनूइंफो</string>
+    <string name="paramMaxAmpY">Y आयाम</string>
+    <string name="paramMaxAmpYInfo">ऊर्ध्वाधर दिशा में बड़ी हरकतों के लिए इसे बढ़ाएँ। ऊर्ध्वाधर हरकतों को प्रभावी ढंग से अक्षम करने के लिए इसे पूरी तरह से कम करें।</string>
+    <string name="paramMaxAmpX">एक्स आयाम</string>
+    <string name="paramMaxAmpXInfo">क्षैतिज दिशा में बड़ी हरकतों के लिए इसे बढ़ाएँ।
+\n
+\nक्षैतिज हरकतों को प्रभावी ढंग से अक्षम करने के लिए इसे पूरी तरह से कम करें।</string>
 </resources>
