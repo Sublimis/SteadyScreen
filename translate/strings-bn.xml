@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@স্ট্রিং/মেনু নিষ্ক্রিয়</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/app_name</string>
     <string name="dialogInfoTitle" translatable="false">\@স্ট্রিং/মেনু তথ্য</string>
+    <string name="paramMaxAmpY">Y প্রশস্ততা</string>
+    <string name="paramMaxAmpYInfo">উল্লম্ব দিকে আরও বেশি নড়াচড়া করার জন্য এটি বাড়ান।
+\n
+\nউল্লম্ব নড়াচড়া কার্যকরভাবে বন্ধ করতে সম্পূর্ণ নীচের দিকে কমান।</string>
+    <string name="paramMaxAmpX">এক্স প্রশস্ততা</string>
+    <string name="paramMaxAmpXInfo">অনুভূমিক দিকে আরও বেশি নড়াচড়া করার জন্য এটি বাড়ান।
+\n
+\nঅনুভূমিক নড়াচড়া কার্যকরভাবে বন্ধ করতে সম্পূর্ণ নীচের দিকে কমান।</string>
 </resources>
