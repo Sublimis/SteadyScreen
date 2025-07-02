@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@文字列/メニューを無効にする</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@文字列/アプリ名</string>
     <string name="dialogInfoTitle" translatable="false">\@文字列/メニュー情報</string>
+    <string name="paramMaxAmpY">Y振幅</string>
+    <string name="paramMaxAmpYInfo">この値を大きくすると、垂直方向の動きが大きくなります。
+\n
+\nこの値を完全に小さくすると、垂直方向の動きが実質的に無効になります。</string>
+    <string name="paramMaxAmpX">X振幅</string>
+    <string name="paramMaxAmpXInfo">この値を大きくすると、水平方向の動きが大きくなります。
+\n
+\n完全に小さくすると、水平方向の動きが実質的に無効になります。</string>
 </resources>
