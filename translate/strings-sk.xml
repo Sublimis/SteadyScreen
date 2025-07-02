@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuZakázať</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@string/názov_aplikácie</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Amplitúda Y</string>
+    <string name="paramMaxAmpYInfo">Zvýšte toto nastavenie, aby ste umožnili väčšie pohyby vo vertikálnom smere.
+\n
+\nZnížte toto nastavenie úplne nadol, aby ste efektívne zakázali vertikálne pohyby.</string>
+    <string name="paramMaxAmpX">Amplitúda X</string>
+    <string name="paramMaxAmpXInfo">Zvýšte toto nastavenie, aby ste umožnili väčšie pohyby v horizontálnom smere.
+\n
+\nZnížte toto nastavenie úplne nadol, aby ste efektívne zakázali horizontálne pohyby.</string>
 </resources>
