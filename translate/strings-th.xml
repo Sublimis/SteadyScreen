@@ -137,4 +137,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuปิดการใช้งาน</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@สตริง/ชื่อแอป</string>
     <string name="dialogInfoTitle" translatable="false">\@สตริง/เมนูข้อมูล</string>
+    <string name="paramMaxAmpY">แอมพลิจูด Y</string>
+    <string name="paramMaxAmpYInfo">เพิ่มค่านี้เพื่อให้เคลื่อนไหวในแนวตั้งได้มากขึ้น
+\n
+\nลดค่าลงจนสุดเพื่อปิดการใช้งานการเคลื่อนไหวในแนวตั้งอย่างมีประสิทธิภาพ</string>
+    <string name="paramMaxAmpX">แอมพลิจูด X</string>
+    <string name="paramMaxAmpXInfo">เพิ่มค่านี้เพื่อให้เคลื่อนไหวในแนวนอนได้มากขึ้น
+\n
+\nลดค่าลงจนสุดเพื่อปิดการใช้งานการเคลื่อนไหวในแนวนอนอย่างมีประสิทธิภาพ</string>
 </resources>
