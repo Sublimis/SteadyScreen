@@ -138,4 +138,12 @@
     <string name="dialogServiceDisableTitle" translatable="false">\@string/menuDisable</string>
     <string name="licenseSuccessDialogTitle" translatable="false">\@Zeichenfolge/App-Name</string>
     <string name="dialogInfoTitle" translatable="false">\@string/menuInfo</string>
+    <string name="paramMaxAmpY">Y-Amplitude</string>
+    <string name="paramMaxAmpYInfo">Erhöhen Sie diesen Wert, um größere Bewegungen in vertikaler Richtung zu ermöglichen.
+\n
+\nVerringern Sie ihn ganz, um vertikale Bewegungen effektiv zu verhindern.</string>
+    <string name="paramMaxAmpX">X-Amplitude</string>
+    <string name="paramMaxAmpXInfo">Erhöhen Sie diesen Wert, um größere Bewegungen in horizontaler Richtung zu ermöglichen.
+\n
+\nVerringern Sie ihn ganz, um horizontale Bewegungen effektiv zu verhindern.</string>
 </resources>
