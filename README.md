@@ -13,7 +13,7 @@ Make reading on the go more enjoyable!
 
 ## 📜 List of apps implementing the feature
 
-(as of 2025-01)
+(as of 2026-01)
 
 - [Wikipedia](https://github.com/Sublimis/wikipedia-steady): Forked
   from [the original source code](https://github.com/Sublimis/apps-android-wikipedia). You are welcome to compile your own APK from this.
