@@ -1,4 +1,4 @@
-# ⛵ [SteadyScreen](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) service for Android and Wear 🏝️
+# ⛵ [SteadyScreen](https://play.google.com/store/apps/details?id=com.sublimis.steadyscreen) for Android
 
 ### Improve screen readability of a handheld device while walking or traveling
 
@@ -13,14 +13,12 @@ Make reading on the go more enjoyable!
 
 ## 📜 List of apps implementing the feature
 
-(as of 2026-01)
+(as of 2026-03)
 
-- [Wikipedia](https://github.com/Sublimis/wikipedia-steady): Forked
+- [Next Player](https://play.google.com/store/apps/details?id=com.sublimis.nextplayer) - Open source video player. [(source code)](https://github.com/Sublimis/nextplayer-steady)
+- [Urban Biker](https://play.google.com/store/apps/details?id=com.sublimis.urbanbiker) - Activity tracker & bike computer.
+- [Wikipedia](https://github.com/Sublimis/wikipedia-steady) - Forked
   from [the original source code](https://github.com/Sublimis/apps-android-wikipedia). You are welcome to compile your own APK from this.
-- [Next Player](https://github.com/Sublimis/nextplayer-steady): Forked
-  from [the original source code](https://github.com/anilbeesetti/nextplayer). You are welcome to compile your own APK from this.
-- [Urban Biker](https://urban-bike-computer.com/): Supports the service on the main and overview screens, and also has its own screen stabilization
-  implementation.
 
 *Let us know if you've made an app that should be included in the list!*
 
