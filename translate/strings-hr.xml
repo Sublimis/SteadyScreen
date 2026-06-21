@@ -146,4 +146,7 @@
     <string name="paramMaxAmpXInfo">Povećajte ovo kako biste omogućili veće pokrete u horizontalnom smjeru.
 \n
 \nSmanjite skroz kako biste onemogućili horizontalne pokrete.</string>
+    <string name="measuredScreenRateInfo">Trenutni FPS zaslona koje mjeri aplikacija.</string>
+    <string name="measuredScreenRate">FPS zaslona</string>
+    <string name="exampleTextInfo">(Tekst je u demonstracijske svrhe)</string>
 </resources>
